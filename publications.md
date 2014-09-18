@@ -1,10 +1,7 @@
 ---
 layout: default
-title: Hadas Kotek - Publications
+title: Publications
 ---
-
-[Hadas Kotek](/) >> Publications
-=====================
 
 Journal articles
 ----------------

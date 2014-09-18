@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>Hadas Kotek{% if page.path != 'index.md' %}: {{ page.title }}{% endif %}</title>
         <meta name="description" content="">
         <meta name="viewport" content="initial-scale=1.0">
 
@@ -16,7 +16,28 @@
     <body>
 
 <div id="container">
+
+	<div id="menu">
+		<ul>
+	{% for item in site.pages %}
+			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
+				{% if item.path == 'index.md' %}
+					Home
+				{% else %}
+					{{ item.title }}
+				{% endif %}
+			</a></li>
+	{% endfor %}
+		</ul>
+	</div>
+
+<div id="content">
+{% if page.path != 'index.md' %}
+<h1><a href='/'>Hadas Kotek</a> » {{ page.title }}</h1>
+{% endif %}
+
 {{ content }}
+</div>
 </div>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

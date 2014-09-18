@@ -1,6 +1,7 @@
 ---
 title: Hadas Kotek
 layout: default
+url: /
 ---
 
 <img src='headshot.jpg' class='headshot'/>
