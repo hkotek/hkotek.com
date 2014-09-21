@@ -3,6 +3,9 @@ layout: default
 title: Research
 ---
 
+My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different research questions.
+
+
 English multiple *wh*-questions
 -------------------------------
 This project studies the syntax and semantics of English questions, using *focus intervention effects* as a diagnostic for the structural position of surface-in-situ *wh*-phrases. I argue for *covert movement* of in-situ *wh*-phrases in multiple English questions. Further evidence is provided from experimental data, to show that covert *wh*-movement, unlike overt *wh*-movement, often targets positions other than interrogative C. My dissertation expands on parts of this project, developing a new semantics for questions that can account for the data patterns I have discovered.
