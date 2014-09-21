@@ -97,11 +97,13 @@ Other ongoing projects
 
 * The syntax and semantics of DP-internal "only." (with Michael Yoshitaka Erlewine)
 
+* Automaticity of second language acquisition of Japanese. (with Miwako Hisagi, Shigeru Miyagawa, and Ayaka Sugawara)
+
 
 
 Upcoming and recent conferences
 -------------------------------
-* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako, Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
+* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
