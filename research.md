@@ -90,7 +90,7 @@ ongoing
 
 
 Other ongoing projects
-----------------
+----------------------
 * The syntax and semantics of "also." 
 
 * The syntax and semantics of "the same." (with Martin Hackl)
@@ -101,9 +101,11 @@ Other ongoing projects
 
 
 
-Upcoming and recent conferences
--------------------------------
+Upcoming and recent presentations
+---------------------------------
 * Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
+
+* Colloquium talk, McGill department of Linguistics, October 24, 2014. Topic TBD.
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
