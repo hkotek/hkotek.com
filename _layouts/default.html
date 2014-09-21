@@ -20,6 +20,7 @@
 	<div id="menu">
 		<ul>
 	{% for item in site.pages %}
+		{% if item.path != 'personal.md' %}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
 				{% if item.path == 'index.md' %}
 					Home
@@ -27,7 +28,10 @@
 					{{ item.title }}
 				{% endif %}
 			</a></li>
+		{% endif %}
 	{% endfor %}
+		{% comment %} ugly special-casing for personal.md {% endcomment %}
+		<li {% if page.path == 'personal.md' %} class='active'{% endif %}><a href='personal.html'>Personal</a></li>
 		<li><a href='KotekCV.pdf'>CV</a></li>
 		</ul>
 	</div>
