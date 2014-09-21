@@ -306,11 +306,11 @@ img.headshot {
 	}
 }
 
-/*@media only screen and (max-width: 320px) {
-	body {
+@media only screen and (max-width: 320px) {
+	#menu ul li a {
 		font-size: 0.8em;
 	}
-}*/
+}
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 144dpi) {
