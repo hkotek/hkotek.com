@@ -11,25 +11,25 @@ English multiple *wh*-questions
 This project studies the syntax and semantics of English questions, using *focus intervention effects* as a diagnostic for the structural position of surface-in-situ *wh*-phrases. I argue for *covert movement* of in-situ *wh*-phrases in multiple English questions. Further evidence is provided from experimental data, to show that covert *wh*-movement, unlike overt *wh*-movement, often targets positions other than interrogative C. My dissertation expands on parts of this project, developing a new semantics for questions that can account for the data patterns I have discovered.
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [Covert pied-piping in English multiple *wh*-questions](http://ling.auf.net/lingbuzz/001736). Linguistic Inquiry.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [Covert pied-piping in English multiple *wh*-questions](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
 
 to appear
-: Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS).
+: Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
 
 2014
-: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). Doctoral dissertation, Massachusetts Institute of Technology.
+: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). *Doctoral dissertation*, Massachusetts Institute of Technology.
 
 2014
 : Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](http://ling.auf.net/lingbuzz/001945). Manuscript under review.
 
 2014
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS), eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130.
 
 2013
-: Kotek, Hadas and Martin Hackl. [An experimental investigation of interrogative syntax/semantics](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). Proceedings of the 2013 Amsterdam Colloquium, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
+: Kotek, Hadas and Martin Hackl. [An experimental investigation of interrogative syntax/semantics](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
 
 2013
-: Kotek, Hadas. [Intervention, covert movement, and focus computation in multiple *wh*-questions](Kotek%20LSA%202013.pdf). LSA Annual Meeting extended abstracts.
+: Kotek, Hadas. [Intervention, covert movement, and focus computation in multiple *wh*-questions](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
 
 
 The syntax and semantics of *most*
@@ -37,16 +37,16 @@ The syntax and semantics of *most*
 This project focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
 
 to appear
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). Natural Language Semantics.
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). *Natural Language Semantics*.
 
 2012
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [*Many* readings of *Most*](Kotek%20-%20Many%20readings%20of%20most.pdf). 2012. Handout, presented at CLS 48 (with [Yasutada Sudo](http://web.mit.edu/ysudo/www/) and [Martin Hackl](http://web.mit.edu/hackl/www/)).
 
 2011
-: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [*Most* Meanings are Superlative](Most%20meanings%20are%20superlative.pdf). Syntax and Semantics 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. ISBN: 978-1-78052-374-3.
+: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [*Most* Meanings are Superlative](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. ISBN: 978-1-78052-374-3.
 
 2011
-: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [Three Readings of *Most*](Three%20readings%20of%20most-final.pdf). Proceedings of Semantics and Linguistic Theory (SALT) 21, eds. Ashton, Neil, Anca Chereches and David Lutz, 353-372.
+: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [Three Readings of *Most*](Three%20readings%20of%20most-final.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 21*, eds. Ashton, Neil, Anca Chereches and David Lutz, 353-372.
 
 
 Understanding Hebrew questions 
@@ -54,11 +54,10 @@ Understanding Hebrew questions
 This project concentrates on the syntax and semantics of Hebrew multiple questions. I argue that Hebrew syntax distinguishes two kinds of *wh*-phrases: those headed by a *wh*-element and those headed by another element. I furthermore investigate the possible meanings of such multiple questions. 
 
 2014
-: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). Natural Language & Linguistic
-Theory, DOI 10.1007/s11049-014-9238-8.
+: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory*, DOI 10.1007/s11049-014-9238-8.
 
 2012
-: Kotek, Hadas. [Readings of Hebrew multiple questions](KotekWCCFL30revised2.pdf). Proceedings of the 30th West Coast Conference on Formal Linguistics (WCCFL), eds. Nathan Arnett and Ryan Bennett, 216-225. Somerville, MA: Cascadilla Proceedings Project.
+: Kotek, Hadas. [Readings of Hebrew multiple questions](KotekWCCFL30revised2.pdf). *Proceedings of the 30th West Coast Conference on Formal Linguistics (WCCFL)*, eds. Nathan Arnett and Ryan Bennett, 216-225. Somerville, MA: Cascadilla Proceedings Project.
 
 
 The acquisition of covert movement
@@ -66,7 +65,7 @@ The acquisition of covert movement
 This project concerns children's acquisition of covert movement. We concentrate on the phenomenon of Antecedent Contained Deletion (ACD) in English. We argue that children are able to perform both short and long-distance covert movement to correctly interpret ACD. We furthermore argue that around the age of 5;6, children acquire a 'Scope Matching Preference,' such that the size of movement in the sentence should correspond to the size of ellipsis in that sentence, with mismatches being perceived as sub-optimal.
 
 2013
-: Sugawara, Ayaka, Hadas Kotek, Martin Hackl and Ken Wexler. [Long vs. Short QR: Evidence from the Acquisition of ACD](Kotek%20ACD%20BUCLD%20proceedings.pdf). Proceedings of Boston University Conference on Language Development (BUCLD) 37. Somerville, MA: Cascadilla Press.
+: Sugawara, Ayaka, Hadas Kotek, Martin Hackl and Ken Wexler. [Long vs. Short QR: Evidence from the Acquisition of ACD](Kotek%20ACD%20BUCLD%20proceedings.pdf). *Proceedings of Boston University Conference on Language Development (BUCLD) 37*. Somerville, MA: Cascadilla Press.
 
 
 Tools for online linguistic surveys
@@ -76,7 +75,7 @@ Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we deve
 Tools available at: [turktools.net](turktools.net).
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [A streamlined approach to online linguistic surveys](http://ling.auf.net/lingbuzz/001802/current.pdf?_s=LiLdL09ykzKwmSOX). Natural Language & Linguistic Theory. 
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [A streamlined approach to online linguistic surveys](http://ling.auf.net/lingbuzz/001802/current.pdf?_s=LiLdL09ykzKwmSOX). *Natural Language & Linguistic Theory*. 
 
 
 Morphological blocking effects in causative constructions
@@ -102,14 +101,8 @@ Other ongoing projects
 
 Upcoming and recent conferences
 -------------------------------
-* Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
+* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako, Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
-* Exploring the cross-linguistic nature of simple and complex words and expressions in human language through Event-Related Potentials. Cognitive Neuroscience Society, Boston, April 2014. (with Miwako Hisagi, Michael Yoshitaka Erlewine, Sachiko Kato, Ayaka Sugawara, Daichi Yasunaga, Dimitrios Pantazis, Masatoshi Koizumi, and Shigeru Miyagawa)  
-
-* Changes in automaticity of speech processing of Japanese phonetic contrasts in second-language learning: An MEG study. The Japanese Society for Language Sciences (JSLT) 16, Bunkyo University, Japan, June 2014. (with Miwako, Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
-
-* Perception of Japanese vowel duration contrasts by L1 and L2 learners of Japanese: An EEG study. Formal Approaches to Japanese Linguistics (FAJL) 7, International Christian University, Japan, June 2014. (with Miwako, Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
-
-* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako, Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
+* Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
