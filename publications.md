@@ -3,13 +3,6 @@ layout: default
 title: Publications
 ---
 
-Dissertation
-------------
-
-2014
-: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). Massachusetts Institute of Technology.
-
-
 Journal articles
 ----------------
 
@@ -61,3 +54,10 @@ to appear
 
 2008
 : Kotek, Hadas. [Resolving complement anaphora](Kotek%20-%20Resolving%20complement%20anaphora.pdf). *NEALT proceedings series: Proceedings of the second Workshop on Anaphora Resolution*, ed. Johansson, Christer, 41-53.
+
+
+Dissertation
+------------
+
+2014
+: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). Massachusetts Institute of Technology.
