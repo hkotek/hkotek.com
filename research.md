@@ -17,7 +17,7 @@ to appear
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS).
 
 2014
-: Kotek, Hadas. [**Composing Questions**](Kotek-dissertation.pdf). Doctoral dissertation, Massachusetts Institute of Technology.
+: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). Doctoral dissertation, Massachusetts Institute of Technology.
 
 2014
 : Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](http://ling.auf.net/lingbuzz/001945). Manuscript under review.

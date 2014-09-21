@@ -9,6 +9,6 @@ Research seminar at McGill, about questions and answers to questions. The semina
 
 
 [Turkshop](http://web.mit.edu/hackl/www/lab/turkshop/): 
-Workshop on the use of Amazon's Mechanical Turk, introducing [turktools](turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
+Workshop at the Experimental Syntax/Semantics lab at MIT department of Linguistics on the use of Amazon's Mechanical Turk, introducing [turktools](turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
 
-In the winter of 2015 I'll teach a special topics undergraduate seminar, topic TBD. 
+In the winter of 2015 I'll teach a special topics undergraduate seminar at McGill University, topic TBD. 
