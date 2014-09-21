@@ -93,13 +93,12 @@ Other ongoing projects
 
 * The syntax and semantics of "the same." (with Martin Hackl)
 
-* The syntax and semantics of DP-internal "only."
+* The syntax and semantics of DP-internal "only." (with Michael Yoshitaka Erlewine)
 
 
 
 Upcoming and recent conferences
 -------------------------------
-
 * Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.

@@ -5,7 +5,7 @@ title: Teaching
 
 [Questions, focus, and
 friends](http://people.linguistics.mcgill.ca/~michael.erlewine/focus-wh/):
-Research seminar at McGill, about questions and answers to questions.
+Research seminar at McGill, about questions and answers to questions. The seminar focuses on the syntactic mechanism of (overt and covert) movement and the semantic mechanism of focus alternatives computation as means of scope taking in natural language, focusing in particular on constituent questions and association with focus from a cross-linguistic perspective.
 
 
 [Turkshop](http://web.mit.edu/hackl/www/lab/turkshop/): 
