@@ -6,7 +6,7 @@ title: Publications
 Journal articles
 ----------------
 
-to appear
+accepted
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). *Natural Language Semantics*.
 
 to appear

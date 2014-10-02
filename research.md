@@ -17,7 +17,7 @@ to appear
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
 
 2014
-: Kotek, Hadas. [Composing Questions](Kotek-dissertation.pdf). *Doctoral dissertation*, Massachusetts Institute of Technology.
+: Kotek, Hadas. [Composing Questions](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
 
 2014
 : Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](http://ling.auf.net/lingbuzz/001945). Manuscript under review.
@@ -36,7 +36,7 @@ The syntax and semantics of *most*
 ----------------------------------
 This project focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
 
-to appear
+accepted
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). *Natural Language Semantics*.
 
 2012
@@ -105,7 +105,7 @@ Upcoming and recent presentations
 ---------------------------------
 * Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
 
-* Colloquium talk, McGill department of Linguistics, October 24, 2014. Topic TBD.
+* Covert *wh*-movement as covert scrambling. Colloquium talk, McGill department of Linguistics, October 24, 2014. 
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
