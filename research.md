@@ -93,7 +93,7 @@ Other ongoing projects
 ----------------------
 * *Wh*-indefinites in Chuj (Mayan). (with Michael Yoshitaka Erlewine)
 
-* *Wh*-questions, and relative clauses in Tibetan. (with Michael Yoshitaka Erlewine)
+* *Wh*-questions and relative clauses in Tibetan. (with Michael Yoshitaka Erlewine)
 
 * The syntax and semantics of "also." 
 
