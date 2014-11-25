@@ -17,7 +17,7 @@ to appear
 
 
 2014
-: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory*, DOI 10.1007/s11049-014-9238-8.
+: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
 
 2013
 : Kotek, Hadas. The syntax-semantics interface in Hebrew. *Encyclopedia of Hebrew language and linguistics*, ed. Khan, Geoffrey. Boston: Brill publishing. Volume 3, 683-688. ISBN: 978-90-04-17642-3.
@@ -28,7 +28,7 @@ to appear
 Proceedings papers
 ------------------
 
-to appear
+2014
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
 
 2014

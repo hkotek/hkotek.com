@@ -13,7 +13,7 @@ This project studies the syntax and semantics of English questions, using *focus
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [Covert pied-piping in English multiple *wh*-questions](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
 
-to appear
+2014
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
 
 2014
@@ -54,7 +54,7 @@ Understanding Hebrew questions
 This project concentrates on the syntax and semantics of Hebrew multiple questions. I argue that Hebrew syntax distinguishes two kinds of *wh*-phrases: those headed by a *wh*-element and those headed by another element. I furthermore investigate the possible meanings of such multiple questions. 
 
 2014
-: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory*, DOI 10.1007/s11049-014-9238-8.
+: Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
 
 2012
 : Kotek, Hadas. [Readings of Hebrew multiple questions](KotekWCCFL30revised2.pdf). *Proceedings of the 30th West Coast Conference on Formal Linguistics (WCCFL)*, eds. Nathan Arnett and Ryan Bennett, 216-225. Somerville, MA: Cascadilla Proceedings Project.
@@ -91,6 +91,10 @@ ongoing
 
 Other ongoing projects
 ----------------------
+* *Wh*-indefinites in Chuj (Mayan). (with Michael Yoshitaka Erlewine)
+
+* *Wh*-questions, and relative clauses in Tibetan. (with Michael Yoshitaka Erlewine)
+
 * The syntax and semantics of "also." 
 
 * The syntax and semantics of "the same." (with Martin Hackl)
@@ -106,6 +110,8 @@ Upcoming and recent presentations
 * Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
 
 * Covert *wh*-movement as covert scrambling. Colloquium talk, McGill department of Linguistics, October 24, 2014. 
+
+* Two arguments for partial covert *wh*-movement in English questions. Colloquium talk, Tel-Aviv University, department of Linguistics, December 11, 2014. 
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
