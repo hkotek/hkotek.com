@@ -28,11 +28,17 @@ to appear
 Proceedings papers
 ------------------
 
+2014 
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
+
 2014
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
 
 2014
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130.
+
+2014
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [Changes in Automaticity of Speech Processing of Japanese Phonetic Contrasts in Second-Language Learning: An MEG study](Kotek-JSLS-proceedings.pdf). *Proceedings of the  Japanese Society for Language Sciences 2014*.
 
 2013
 : Kotek, Hadas and Martin Hackl. [An experimental investigation of interrogative syntax/semantics](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.

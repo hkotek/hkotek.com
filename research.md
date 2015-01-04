@@ -89,30 +89,44 @@ ongoing
 : Morphological blocking effects in English and Japanese using MEG and ERPs (with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), [Ayaka Sugawara](http://web.mit.edu/ayakasug/www/), [Shigeru Miyagawa](http://web.mit.edu/miyagawa/www/), and [Tohoku University Koizumi Lab](http://www.sal.tohoku.ac.jp/ling/index-en.html))
 
 
+Automaticity in L2 language acquisition
+---------------------------------------
+A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEWG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: Miwako Hisagi.)
+
+2014 
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
+
+2014
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [Changes in Automaticity of Speech Processing of Japanese Phonetic Contrasts in Second-Language Learning: An MEG study](Kotek-JSLS-proceedings.pdf). *Proceedings of the  Japanese Society for Language Sciences 2014*. 
+
+
 Other ongoing projects
 ----------------------
 * *Wh*-indefinites in Chuj (Mayan). (with Michael Yoshitaka Erlewine)
 
 * *Wh*-questions and relative clauses in Tibetan. (with Michael Yoshitaka Erlewine)
 
+* *Wh*-indefinites and negation in Hebrew.
+
 * The syntax and semantics of "also." 
 
 * The syntax and semantics of "the same." (with Martin Hackl)
-
-* The syntax and semantics of DP-internal "only." (with Michael Yoshitaka Erlewine)
-
-* Automaticity of second language acquisition of Japanese. (with Miwako Hisagi, Shigeru Miyagawa, and Ayaka Sugawara)
 
 
 
 Upcoming and recent presentations
 ---------------------------------
-* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
-
-* Covert *wh*-movement as covert scrambling. Colloquium talk, McGill department of Linguistics, October 24, 2014. 
-
-* Two arguments for partial covert *wh*-movement in English questions. Colloquium talk, Tel-Aviv University, department of Linguistics, December 11, 2014. 
+* Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
 
 * A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
-* Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
+* Two arguments for partial covert *wh*-movement in English questions. Colloquium talk, Tel-Aviv University, department of Linguistics, December 2014. 
+
+* Covert *wh*-movement as covert scrambling. Colloquium talk, McGill department of Linguistics, October 2014. 
+
+* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
+
+
+
+
+
