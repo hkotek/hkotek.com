@@ -91,7 +91,7 @@ ongoing
 
 Automaticity in L2 language acquisition
 ---------------------------------------
-A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEWG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: Miwako Hisagi.)
+A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: [Miwako Hisagi](http://www.linguistics.uconn.edu/profile/hisagi.html).)
 
 2014 
 : Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
@@ -116,9 +116,9 @@ Other ongoing projects
 
 Upcoming and recent presentations
 ---------------------------------
-* Against a feature driven view of wh-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
+* Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
 
-* A new compositional semantics for wh-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
+* A new compositional semantics for *wh*-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
 * Two arguments for partial covert *wh*-movement in English questions. Colloquium talk, Tel-Aviv University, department of Linguistics, December 2014. 
 

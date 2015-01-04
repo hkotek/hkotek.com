@@ -30,4 +30,4 @@ Requirements for registered students will include infrequent homework assignment
 
 Workshop at the Experimental Syntax/Semantics lab at MIT department of Linguistics on the use of Amazon's Mechanical Turk, introducing [turktools](turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
 
-[Materials](http://web.mit.edu/hackl/www/lab/turkshop/)
+[**Materials**](http://web.mit.edu/hackl/www/lab/turkshop/)
