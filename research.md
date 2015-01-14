@@ -36,8 +36,8 @@ The syntax and semantics of *most*
 ----------------------------------
 This project focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
 
-accepted
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). *Natural Language Semantics*.
+to appear
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics*.
 
 2012
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [*Many* readings of *Most*](Kotek%20-%20Many%20readings%20of%20most.pdf). 2012. Handout, presented at CLS 48 (with [Yasutada Sudo](http://web.mit.edu/ysudo/www/) and [Martin Hackl](http://web.mit.edu/hackl/www/)).

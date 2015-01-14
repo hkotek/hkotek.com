@@ -6,8 +6,8 @@ title: Publications
 Journal articles
 ----------------
 
-accepted
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most2014). *Natural Language Semantics*.
+to appear
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [A streamlined approach to online linguistic surveys](http://ling.auf.net/lingbuzz/001802/current.pdf?_s=LiLdL09ykzKwmSOX). *Natural Language & Linguistic Theory*. Tools available at: [turktools.net](turktools.net).
