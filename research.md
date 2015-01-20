@@ -116,7 +116,9 @@ Other ongoing projects
 
 Upcoming and recent presentations
 ---------------------------------
-* Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
+* *Wh*-quantification in Dharamsala Tibetan. Formal Approaches to South Asian Linguistics, Yale, April 2015. (with Michael Yoshitaka Erlewine)
+
+* Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
 
 * A new compositional semantics for *wh*-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
