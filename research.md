@@ -20,7 +20,7 @@ to appear
 : Kotek, Hadas. [Composing Questions](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
 
 2014
-: Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](http://ling.auf.net/lingbuzz/001945). Manuscript under review.
+: Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](Kotek-wh-exp.pdf). Manuscript under review.
 
 2014
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130.
