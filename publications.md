@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+(For manuscripts and ongoing work, see the [research](http://hkotek.com/research.html) page.)
+
 Journal articles
 ----------------
 
@@ -68,4 +70,3 @@ Dissertation
 2014
 : Kotek, Hadas. [Composing Questions](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). Massachusetts Institute of Technology.
 
-(For manuscripts and ongoing work, see the [research](http://hkotek.com/research.html) page.)
