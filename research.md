@@ -116,18 +116,13 @@ Other ongoing projects
 
 Upcoming and recent presentations
 ---------------------------------
+* Pervasive intervention and the architecture of Language. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015.
+
 * *Wh*-quantification in Dharamsala Tibetan. Formal Approaches to South Asian Linguistics, Yale, April 2015. (with Michael Yoshitaka Erlewine)
 
 * Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
 
 * A new compositional semantics for *wh*-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
-
-* Two arguments for partial covert *wh*-movement in English questions. Colloquium talk, Tel-Aviv University, department of Linguistics, December 2014. 
-
-* Covert *wh*-movement as covert scrambling. Colloquium talk, McGill department of Linguistics, October 2014. 
-
-* Changes in automaticity of Japanese phonetic contrast using the mismatch field component. Biomag 2014, Halifax, Canada, August 2014. (with Miwako Hisagi, Valerie Shafer, Shigeru Miyagawa, Ayaka Sugawara, and Dimitrios Pantazis)
-
 
 
 
