@@ -118,6 +118,8 @@ Upcoming and recent presentations
 ---------------------------------
 * Pervasive intervention and the architecture of Language. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015.
 
+* Intervention everywhere!. GLOW colloquium 38, Paris, April 2015.
+
 * *Wh*-quantification in Dharamsala Tibetan. Formal Approaches to South Asian Linguistics, Yale, April 2015. (with Michael Yoshitaka Erlewine)
 
 * Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
