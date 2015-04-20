@@ -6,15 +6,32 @@ title: Research
 My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different research questions.
 
 
-English multiple *wh*-questions
--------------------------------
-This project studies the syntax and semantics of English questions, using *focus intervention effects* as a diagnostic for the structural position of surface-in-situ *wh*-phrases. I argue for *covert movement* of in-situ *wh*-phrases in multiple English questions. Further evidence is provided from experimental data, to show that covert *wh*-movement, unlike overt *wh*-movement, often targets positions other than interrogative C. My dissertation expands on parts of this project, developing a new semantics for questions that can account for the data patterns I have discovered.
+Intervention effects
+--------------------
+This work develops the use of *intervention effects* a diagnostic of underlying syntactic structure. Most recently, this work argues that intervention effects are the logical result of the inability of movement and focus to operate over the same structure. 
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [Covert pied-piping in English multiple *wh*-questions](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [Covert pied-piping in English multiple *wh*-questions](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*. 
+
+2015
+: Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
 
 2014
 : Kotek, Hadas. [Intervention out of islands](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
+
+2014
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130. ([Handout](Kotek-Erlewine-nels2013.pdf))
+
+2013
+: Kotek, Hadas. [Intervention, covert movement, and focus computation in multiple *wh*-questions](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
+
+
+English multiple *wh*-questions
+-------------------------------
+This work studies the syntax and semantics of English questions. I argue for *covert movement* of in-situ *wh*-phrases in multiple English questions. Evidence is provided from intervention effects and from experimental data, to show that covert *wh*-movement, unlike overt *wh*-movement, often targets positions other than interrogative C. My dissertation expands on parts of this project, developing a new semantics for questions that can account for the data patterns I have discovered.
+
+2015
+: Kotek, Hadas. **Against a feature driven view of wh-movement** ([handout](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
 
 2014
 : Kotek, Hadas. [Composing Questions](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
@@ -22,19 +39,13 @@ to appear
 2014
 : Kotek, Hadas and Martin Hackl. [A new syntax for multiple *wh*-questions: Evidence from real time sentence processing](Kotek-wh-exp.pdf). Manuscript under review.
 
-2014
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [Intervention in focus pied-piping](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130.
-
 2013
 : Kotek, Hadas and Martin Hackl. [An experimental investigation of interrogative syntax/semantics](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
-
-2013
-: Kotek, Hadas. [Intervention, covert movement, and focus computation in multiple *wh*-questions](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
 
 
 The syntax and semantics of *most*
 ----------------------------------
-This project focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
+This work focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
 
 to appear
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [Experimental investigations of ambiguity: The case of *most*](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics*.
@@ -51,7 +62,7 @@ to appear
 
 Understanding Hebrew questions 
 ------------------------------
-This project concentrates on the syntax and semantics of Hebrew multiple questions. I argue that Hebrew syntax distinguishes two kinds of *wh*-phrases: those headed by a *wh*-element and those headed by another element. I furthermore investigate the possible meanings of such multiple questions. 
+This work concentrates on the syntax and semantics of Hebrew multiple questions. I argue that Hebrew syntax distinguishes two kinds of *wh*-phrases: those headed by a *wh*-element and those headed by another element. I furthermore investigate the possible meanings of such multiple questions. 
 
 2014
 : Kotek, Hadas. [*Wh*-Fronting in a Two-Probe System](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
@@ -62,7 +73,7 @@ This project concentrates on the syntax and semantics of Hebrew multiple questio
 
 The acquisition of covert movement
 ----------------------------------
-This project concerns children's acquisition of covert movement. We concentrate on the phenomenon of Antecedent Contained Deletion (ACD) in English. We argue that children are able to perform both short and long-distance covert movement to correctly interpret ACD. We furthermore argue that around the age of 5;6, children acquire a 'Scope Matching Preference,' such that the size of movement in the sentence should correspond to the size of ellipsis in that sentence, with mismatches being perceived as sub-optimal.
+This work concerns children's acquisition of covert movement. We concentrate on the phenomenon of Antecedent Contained Deletion (ACD) in English. We argue that children are able to perform both short and long-distance covert movement to correctly interpret ACD. We furthermore argue that around the age of 5;6, children acquire a 'Scope Matching Preference,' such that the size of movement in the sentence should correspond to the size of ellipsis in that sentence, with mismatches being perceived as sub-optimal.
 
 2013
 : Sugawara, Ayaka, Hadas Kotek, Martin Hackl and Ken Wexler. [Long vs. Short QR: Evidence from the Acquisition of ACD](Kotek%20ACD%20BUCLD%20proceedings.pdf). *Proceedings of Boston University Conference on Language Development (BUCLD) 37*. Somerville, MA: Cascadilla Press.
@@ -113,18 +124,6 @@ Other ongoing projects
 * The syntax and semantics of "the same." (with Martin Hackl)
 
 
-
-Upcoming and recent presentations
----------------------------------
-* Pervasive intervention and the architecture of Language. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015.
-
-* Intervention everywhere!. GLOW colloquium 38, Paris, April 2015.
-
-* *Wh*-quantification in Dharamsala Tibetan. Formal Approaches to South Asian Linguistics, Yale, April 2015. (with Michael Yoshitaka Erlewine)
-
-* Against a feature driven view of *wh*-movement. Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37, workshop: “What drives syntactic computation? Alternatives to formal features,” Leipzig, March, 2015.
-
-* A new compositional semantics for *wh*-questions. Linguistic Society of America (LSA) 89, Portland, Oregon, January 2015.
 
 
 

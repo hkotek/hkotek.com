@@ -63,10 +63,23 @@ Proceedings papers
 2008
 : Kotek, Hadas. [Resolving complement anaphora](Kotek%20-%20Resolving%20complement%20anaphora.pdf). *NEALT proceedings series: Proceedings of the second Workshop on Anaphora Resolution*, ed. Johansson, Christer, 41-53.
 
-
 Dissertation
 ------------
 
 2014
 : Kotek, Hadas. [Composing Questions](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). Massachusetts Institute of Technology.
 
+
+Handouts and slides
+-------------------
+2015
+: Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
+
+2015
+: Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([handout](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
+
+2014
+: Erlewine, Michael Yoshitaka and Hadas Kotek. **Morphological blocking in English causatives** ([slides](Erlewine-Kotek-slides-blocking-lsa2014.pdf)). *Presentation at the LSA 88*, Minneapolis, January 2014.
+
+2013
+: Erlewine, Michael Yoshitaka and Hadas Kotek. **Intervention in focus pied-piping**([handout](Kotek-Erlewine-nels2013.pdf)). *Presentation at the 43th annual meeting of the North East Linguistic Society (NELS)*, CUNY, October 2013.
