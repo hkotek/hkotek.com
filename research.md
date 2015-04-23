@@ -13,8 +13,8 @@ This work develops the use of *intervention effects* a diagnostic of underlying 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*. 
 
-2015: 
-Michael Yoshitaka Erlewine and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)]. *Presentation at CLS 51*, University of Chicago, April 2015.
+2015
+: Michael Yoshitaka Erlewine and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)]). *Presentation at CLS 51*, University of Chicago, April 2015.
 
 2015
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
