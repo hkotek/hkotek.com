@@ -47,7 +47,7 @@ Recent
 ------
 * **Pervasive intervention and the architecture of Grammar**. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015. (poster)
 
-* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)]). Chicago Linguistic Society (CLS) 51, University of Chicago, April 2015 (with [Michael Yoshitaka Erlewine](www.mitcho.com).
+* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)). Chicago Linguistic Society (CLS) 51, University of Chicago, April 2015 (with [Michael Yoshitaka Erlewine](www.mitcho.com).
 
 * **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
 
