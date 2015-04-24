@@ -36,6 +36,9 @@ This work studies the syntax and semantics of English questions. I argue for *co
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([handout](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
 
+2015
+: Kotek, Hadas. **A new compositional semantics for *wh*-questions** ([handout](Kotek-synsem-handout.pdf)). *Presentation at the Linguistic Society of America (LSA) 89*, Portland, Oregon, January 2015. 
+
 2014
 : Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
 

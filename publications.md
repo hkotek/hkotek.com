@@ -81,6 +81,9 @@ Handouts and slides
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
 
+2015
+: Kotek, Hadas. **A new compositional semantics for *wh*-questions** ([handout](Kotek-synsem-handout.pdf)). *Presentation at the Linguistic Society of America (LSA) 89*, Portland, Oregon, January 2015. 
+
 2014
 : Erlewine, Michael Yoshitaka and Hadas Kotek. **Morphological blocking in English causatives** ([slides](Erlewine-Kotek-slides-blocking-lsa2014.pdf)). *Presentation at the LSA 88*, Minneapolis, January 2014.
 
