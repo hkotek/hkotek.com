@@ -34,7 +34,7 @@ English multiple *wh*-questions
 This work studies the syntax and semantics of English questions. I argue for *covert movement* of in-situ *wh*-phrases in multiple English questions. Evidence is provided from intervention effects and from experimental data, to show that covert *wh*-movement, unlike overt *wh*-movement, often targets positions other than interrogative C. My dissertation expands on parts of this project, developing a new semantics for questions that can account for the data patterns I have discovered.
 
 2015
-: Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([handout](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
+: Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
 
 2015
 : Kotek, Hadas. **A new compositional semantics for *wh*-questions** ([handout](Kotek-synsem-handout.pdf)). *Presentation at the Linguistic Society of America (LSA) 89*, Portland, Oregon, January 2015. 
