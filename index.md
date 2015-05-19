@@ -47,6 +47,8 @@ Recent
 ------
 * **New paper published:** Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
 
+* **On the semantics of wh-questions**. *Presentation at IATL 31*, Bar-Ilan University, Israel, October 2015.
+
 * **Pervasive intervention and the architecture of Grammar**. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015. (poster)
 
 * **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)). *Presentation at Chicago Linguistic Society (CLS) 51*, University of Chicago, April 2015 (with [Michael Yoshitaka Erlewine](www.mitcho.com)).
