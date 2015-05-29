@@ -47,7 +47,7 @@ Recent
 ------
 * **New paper published:** Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
 
-* **On the semantics of *wh*-questions**. *Presentation at IATL 31*, Bar-Ilan University, Israel, October 2015.
+* **On the semantics of *wh*-questions**. *Presentation at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
 
 * **On the semantics of *wh*-questions**. *Presentation at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015.
 
