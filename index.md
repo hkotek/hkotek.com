@@ -24,7 +24,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 About me
 --------
 
-I am a Mellon Postdoctoral Fellow in Linguistics at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics), working on the the syntax and semantics of questions. I recently graduated from the [Department of Linguistics and Philosophy at MIT](http://web.mit.edu/linguistics/). [My dissertation](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc) proposes a new syntax-semantics for *wh*-questions, focusing mostly on English and German questions, and presenting evidence from offline judgments as well as online sentence processing.
+I am a Mellon Postdoctoral Fellow in Linguistics at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics). I received my PhD from the [Department of Linguistics and Philosophy](http://web.mit.edu/linguistics/) at MIT. [My dissertation](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc) proposes a new syntax-semantics for *wh*-questions, focusing mostly on English and German questions, and presenting evidence from offline judgments as well as online sentence processing. More recently, I have been expanding my work to the understudies languages Chuj (Mayan) and Tibetan. I have also been working on a new theory of intervention effects in *wh*-questions, and using them as a diagnostic of the underlying structure of questions, Association with Focus constructions, and relative clauses. To read more about these projects and others, visit my [research page](www.hkotek.com/research).
 
 Research interests
 ------------------
@@ -46,9 +46,13 @@ For an updated list of my presentations and publications, please consult [my CV]
 Recent
 ------
 
-* **New paper:** Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review.
+* **New paper:** Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (submitted June 2015).
 
-* **New paper published:** Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
+* **New paper:** Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. To appear in *Proceedings of CLS 51*.
+
+* **New paper:** Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**.  Manuscript under review (submitted June 2015).
+
+* **New paper in press:** Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
 
 * **On the semantics of *wh*-questions**. *Presentation at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
 
@@ -63,7 +67,5 @@ Recent
 * **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
 
 * **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
-
-* **A new compositional semantics for *wh*-questions** ([handout](Kotek-synsem-handout.pdf)). *Presentation at the Linguistic Society of America (LSA) 89*, Portland, Oregon, January 2015. (poster)
 
 * Conference co-organizer: [NELS 45](http://nels45.mit.edu/)
