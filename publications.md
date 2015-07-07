@@ -31,7 +31,7 @@ Proceedings papers
 ------------------
 
 To appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Proceedings of CLS 51*.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*.
 
 2014 
 : Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study**](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
@@ -89,9 +89,6 @@ submitted
 submitted
 : Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. 
 
-submitted
-: Kotek, Hadas. **Preposition stranding in Hebrew sluicing**. 
-
 
 Handouts and slides
 -------------------
@@ -114,4 +111,4 @@ Handouts and slides
 : Erlewine, Michael Yoshitaka and Hadas Kotek. **Intervention in focus pied-piping** ([handout](Kotek-Erlewine-nels2013.pdf)). *Presentation at the 43th annual meeting of the North East Linguistic Society (NELS)*, CUNY, October 2013.
 
 2012
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. ***Many* readings of *Most*** ([handout](Kotek%20-%20Many%20readings%20of%20most.pdf)). *Presentation at CLS 48* (with [Yasutada Sudo](http://web.mit.edu/ysudo/www/) and [Martin Hackl](http://web.mit.edu/hackl/www/)).
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. ***Many* readings of *Most*** ([handout](Kotek%20-%20Many%20readings%20of%20most.pdf)). *Presentation at CLS 48*.

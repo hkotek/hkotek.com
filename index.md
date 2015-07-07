@@ -48,7 +48,7 @@ Recent
 
 * **New paper:** Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (submitted June 2015).
 
-* **New paper:** Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. To appear in *Proceedings of CLS 51*.
+* **New paper:** Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). To appear in *Proceedings of CLS 51* ([slides](Erlewine-kotek-relp-cls2015.pdf)).
 
 * **New paper:** Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**.  Manuscript under review (submitted June 2015).
 
@@ -61,8 +61,6 @@ Recent
 * **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Presentation at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with [Michael Yoshitaka Erlewine](www.mitcho.com)).
 
 * **Pervasive intervention and the architecture of Grammar**. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015. (poster)
-
-* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)). *Presentation at Chicago Linguistic Society (CLS) 51*, University of Chicago, April 2015 (with [Michael Yoshitaka Erlewine](www.mitcho.com)). 
 
 * **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
 

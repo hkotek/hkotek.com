@@ -25,7 +25,7 @@ Diagnosing covert structure
 This work develops the use of *intervention effects* as a diagnostic of underlying syntactic structure, distinguishing between regions where focus-alternatives are computed and areas where covert movement has occurred. This diagnostic informs our understanding of a variety of A-bar and pied-piping phenomena in *wh*-questions, Association with Focus constructions, and relative clauses.
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf))
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf))
 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*. 
@@ -65,7 +65,7 @@ This work focuses on the syntax, semantics, and processing behavior of *most* in
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156.  DOI: 10.1007/s11050-015-9113-0.
 
 2012
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. ***Many* readings of *Most*** ([handout](Kotek%20-%20Many%20readings%20of%20most.pdf)). *Presentation at CLS 48* (with [Yasutada Sudo](http://web.mit.edu/ysudo/www/) and [Martin Hackl](http://web.mit.edu/hackl/www/)).
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. ***Many* readings of *Most*** ([handout](Kotek%20-%20Many%20readings%20of%20most.pdf)). *Presentation at CLS 48*.
 
 2011
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. ISBN: 978-1-78052-374-3.
