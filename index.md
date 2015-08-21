@@ -21,11 +21,11 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	
 [hadas.kotek@mcgill.ca](mailto:hadas.kotek@mcgill.ca)
 	
-Visit the [About page](www.hkotek.com/about) for details concerning my research interests and academic history.
+Visit the [about page](www.hkotek.com/about) for details concerning my research interests and academic history.
 
 
-New papers
-----------
+Newest research output
+----------------------
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net). (Appeared online: June 2015.)
 
@@ -33,10 +33,9 @@ New papers
 
 * Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. Manuscript under review (June 2015).
 
-* Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0. (Appeared in Press: May 2015.)
+* Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0. (Appeared in press: May 2015.)
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). To appear in *Proceedings of CLS 51* (May 2015).
-
 
 
 Recent and upcoming presentations
