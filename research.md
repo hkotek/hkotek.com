@@ -99,8 +99,8 @@ Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we deve
 
 Tools available at: [turktools.net](turktools.net).
 
-to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://ling.auf.net/lingbuzz/001802/current.pdf?_s=LiLdL09ykzKwmSOX). *Natural Language & Linguistic Theory*. 
+2015
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
 
 
 Morphological blocking effects in causative constructions
@@ -132,7 +132,3 @@ Other ongoing projects
 * Intervention effects in Tibetan. 
 
 * Expletive negation and free relatives in Hebrew.
-
-* The syntax and semantics of "also." 
-
-* The syntax and semantics of "the same." (with Martin Hackl)

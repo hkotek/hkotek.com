@@ -9,13 +9,13 @@ Journal articles
 ----------------
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://ling.auf.net/lingbuzz/001802/current.pdf?_s=LiLdL09ykzKwmSOX). *Natural Language & Linguistic Theory*. Tools available at: [turktools.net](turktools.net).
-
-to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
 
 2015
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
+
+2015
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://link.springer.com/article/10.1007/s11050-015-9113-0). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
 
 2014
 : Kotek, Hadas. [***Wh*-Fronting in a Two-Probe System**](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
