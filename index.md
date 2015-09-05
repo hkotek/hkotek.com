@@ -41,19 +41,21 @@ Newest research output
 Recent and upcoming presentations
 ---------------------------------
 
-* **On the semantics of *wh*-questions**. *Presentation at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
 
-* ***Wh*-quantification in Dharamsala Tibetan**. *Presentation at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine).
+* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
 
-* **On the semantics of *wh*-questions**. *Presentation at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015.
+* ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine).
 
-* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Presentation at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine).
+* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015.
 
-* **Pervasive intervention and the architecture of Grammar**. Generative Syntax in the Twenty-first Century: The Road Ahead, Athens, Greece, May, 2015. (poster)
+* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine).
 
-* **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
+* **Pervasive intervention and the architecture of Grammar**. *Poster at Generative Syntax in the Twenty-first Century: The Road Ahead*, Athens, Greece, May, 2015.
 
-* **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
+* **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Talk at GLOW 38*, Paris, April 2015.
+
+* **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Talk at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
 
 
 You can more details about these papers and presentations on the [publications page](www.hkotek.com/publications). To read more about my various projects, visit the [research page](www.hkotek.com/research).
