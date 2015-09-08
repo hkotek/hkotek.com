@@ -47,9 +47,9 @@ Recent and upcoming presentations
 
 * ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine).
 
-* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015. ([slides](SuB-wh-handout.pdf))
+* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015. ([handout](SuB-wh-handout.pdf))
 
-* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine; [slides](SuB-RC-handout.pdf)).
+* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine; [handout](SuB-RC-handout.pdf)).
 
 * **Pervasive intervention and the architecture of Grammar**. *Poster at Generative Syntax in the Twenty-first Century: The Road Ahead*, Athens, Greece, May, 2015.
 
