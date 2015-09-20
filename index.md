@@ -31,7 +31,7 @@ Newest papers
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript under review (September 2015).
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives.**](Erlewine_Kotek-cls51.pdf). Manuscript under review (September 2015).
+* Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping in English non-restrictive relatives**. Manuscript under review (September 2015).
 
 * Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (June 2015).
 
