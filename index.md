@@ -24,10 +24,14 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 Visit the [about page](www.hkotek.com/about) for details concerning my research interests and academic history.
 
 
-Newest research output
-----------------------
+Newest papers
+-------------
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net). (Appeared online: June 2015.)
+
+* Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript under review (September 2015).
+
+* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives.**](Erlewine_Kotek-cls51.pdf). Manuscript under review (September 2015).
 
 * Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (June 2015).
 
@@ -35,17 +39,17 @@ Newest research output
 
 * Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0. (Appeared in press: May 2015.)
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). To appear in *Proceedings of CLS 51* (May 2015).
-
 
 Recent and upcoming presentations
 ---------------------------------
 
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine).
+
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
 
-* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
-
 * ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine).
+
+* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
 
 * **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015. ([handout](SuB-wh-handout.pdf))
 
