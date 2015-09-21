@@ -29,9 +29,9 @@ Newest papers
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net). (Appeared online: June 2015.)
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript under review (September 2015).
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review (September 2015).
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. **Relative pronoun pied-piping in English non-restrictive relatives**. Manuscript under review (September 2015).
+* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
 
 * Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (June 2015).
 
