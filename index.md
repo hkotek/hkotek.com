@@ -49,7 +49,7 @@ Recent and upcoming presentations
 
 * ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine).
 
-* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
+* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015. ([handout](IATL-handout.pdf))
 
 * **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015. ([handout](SuB-wh-handout.pdf))
 
