@@ -45,7 +45,7 @@ Recent and upcoming presentations
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine).
 
-* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine; [handout](NELS2015-handout-2up.pdf), [slides](NELS2015-slides-trans.pdf)).
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
 
 * ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine; [slides](ICOLSI-slides-trans.pdf)).
 
