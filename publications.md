@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-(For manuscripts and ongoing work, see the [research](http://hkotek.com/research.html) page.)
+(For project descriptions and ongoing work, see the [research](http://hkotek.com/research.html) page.)
 
 Journal articles
 ----------------
