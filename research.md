@@ -14,7 +14,7 @@ This work investigates the nature of *intervention effects* in *wh*-questions. M
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
 
 2014
-: Kotek, Hadas. [**Intervention out of islands**](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*.
+: Kotek, Hadas. [**Intervention out of islands**](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*, eds. Jyoti Iyer and Leland Kusmer. GSLA: Amherst, MA. Volume 1, 234–246.
 
 2013
 : Kotek, Hadas. [**Intervention, covert movement, and focus computation in multiple *wh*-questions**](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
@@ -37,14 +37,13 @@ Non-interrogative uses of *wh*-words
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies  a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 submitted 
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf).
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf).Manuscript under review.
 
 submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). 
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
 submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). 
-
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). Manuscript under review.
 
 
 The syntax/semantics of *wh*-questions
@@ -52,10 +51,10 @@ The syntax/semantics of *wh*-questions
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate.
 
 submitted 
-: Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). 
+: Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review.
 
 submitted
-: Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. 
+: Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. Manuscript under review.
 
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
