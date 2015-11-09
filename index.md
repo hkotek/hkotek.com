@@ -31,7 +31,7 @@ Newest papers
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review (September 2015).
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net). (Appeared online: June 2015.)
 
@@ -64,6 +64,6 @@ Recent and upcoming presentations
 * **Against a feature driven view of *wh*-movement**. *Talk at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015 ([slides](Kotek-covert-scrambling-slides.pdf)).
 
 
-You can more details about these papers and presentations on the [publications page](www.hkotek.com/publications). To read more about my various projects, visit the [research page](www.hkotek.com/research).
+You can more details about these papers and presentations on the [publications page](/publications). To read more about my various projects, visit the [research page](/research).
  
 For an updated list of my presentations and publications, please consult [my CV](KotekCV.pdf).

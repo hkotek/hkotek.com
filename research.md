@@ -40,7 +40,7 @@ submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf).Manuscript under review.
 
 submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
 submitted
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). Manuscript under review.
