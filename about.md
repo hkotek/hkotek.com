@@ -20,7 +20,7 @@ My research uses a variety of experimental techniques, including sentence proces
 * Additivity
 * Comparative and superlative quantifiers
 
-You can find papers on these and other topics on the [publications page](www.hkotek.com/publications). To read more about each project, visit the [research page](www.hkotek.com/research).
+You can find papers on these and other topics on the [publications page](/publications). To read more about each project, visit the [research page](/research).
  
 For an updated list of my presentations and publications, please consult [my CV](KotekCV.pdf).
 
