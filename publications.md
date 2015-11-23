@@ -5,6 +5,12 @@ title: Publications
 
 (For project descriptions and ongoing work, see the [research](http://hkotek.com/research.html) page.)
 
+Books
+-----
+in prep.
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
+
+
 Journal articles
 ----------------
 

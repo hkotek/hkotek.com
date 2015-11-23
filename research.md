@@ -37,7 +37,7 @@ Non-interrogative uses of *wh*-words
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies  a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 submitted 
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf).Manuscript under review.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
@@ -48,7 +48,10 @@ submitted
 
 The syntax/semantics of *wh*-questions
 --------------------------------------
-This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate.
+This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
+
+in prep.
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
 
 submitted 
 : Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review.
