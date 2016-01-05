@@ -45,21 +45,21 @@ Newest papers
 Recent and upcoming presentations
 ---------------------------------
 
-* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine).
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
 
-* ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine; [slides](ICOLSI-slides-trans.pdf)).
+* ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine; [slides](ICOLSI-slides.pdf)).
 
 * **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015 ([handout](IATL-handout.pdf)).
 
-* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 ([handout](SuB-wh-handout.pdf)).
+* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 ([handout](SuB20-wh-handout.pdf)).
 
-* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine; [handout](SuB-RC-handout.pdf)).
+* **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine; [handout](SuB20-RC-handout.pdf)).
 
 * **Pervasive intervention and the architecture of Grammar**. *Poster at Generative Syntax in the Twenty-first Century: The Road Ahead*, Athens, Greece, May, 2015.
 
-* **Intervention everywhere!**. *Talk at GLOW 38*, Paris, April 2015  ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). 
+* **Intervention everywhere!**. *Talk at GLOW 38*, Paris, April 2015  ([handout](Kotek-intervention-everywhere-handout.pdf), [slides](Kotek-intervention-everywhere-slides.pdf)). 
 
 * **Against a feature driven view of *wh*-movement**. *Talk at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015 ([slides](Kotek-covert-scrambling-slides.pdf)).
 

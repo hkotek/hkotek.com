@@ -107,11 +107,20 @@ submitted
 
 Handouts and slides
 -------------------
+2016
+: Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
+
 2015 
-: Michael Yoshitaka Erlewine and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([slides](Erlewine-kotek-relp-cls2015.pdf)). *Presentation at CLS 51*, University of Chicago, April 2015.
+: Michael Yoshitaka Erlewine and Hadas Kotek. ***Wh*-quantification in Dharamsala Tibetan** ([slides](ICOLSI-slides.pdf)). *Presentation at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015. 
 
 2015
-: Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
+: Kotek, Hadas. **On the semantics of *wh*-questions** ([handout](SuB20-wh-handout.pdf)). *Presentation at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 *and at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015.
+
+2015 
+: Michael Yoshitaka Erlewine and Hadas Kotek. **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses** ([handout](SuB20-RC-handout.pdf), [slides](Erlewine-kotek-relp-cls2015.pdf)). *Presentation at CLS 51*, University of Chicago, April 2015 *and at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015.
+
+2015
+: Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
 
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.

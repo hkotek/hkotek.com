@@ -34,7 +34,7 @@ to appear
 
 Non-interrogative uses of *wh*-words
 ------------------------------------
-Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies  a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
+Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, wh-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 submitted 
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review.
@@ -44,6 +44,12 @@ submitted
 
 submitted
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). Manuscript under review.
+
+2016
+: Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
+
+2015 
+: Michael Yoshitaka Erlewine and Hadas Kotek. ***Wh*-quantification in Dharamsala Tibetan** ([slides](ICOLSI-slides.pdf)). *Presentation at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*, Jawaharlal Nehru University, New Delhi, India, October 2015. 
 
 
 The syntax/semantics of *wh*-questions
