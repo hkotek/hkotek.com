@@ -45,6 +45,8 @@ Newest papers
 Recent and upcoming presentations
 ---------------------------------
 
+* **Non-interrogative *wh*-constructions in Chuj**. *Talk at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016 (with Michael Yoshitaka Erlewine).
+
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
