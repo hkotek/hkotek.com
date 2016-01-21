@@ -21,7 +21,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	
 [hadas.kotek@mcgill.ca](mailto:hadas.kotek@mcgill.ca)
 	
-Visit the [about page](www.hkotek.com/about) for details concerning my research interests and academic history.
+Visit the [about page](/about) for details concerning my research interests and academic history.
 
 
 Newest papers
