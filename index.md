@@ -31,7 +31,7 @@ Newest papers
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review (September 2015).
+* Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript under review (September 2015).
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
 
