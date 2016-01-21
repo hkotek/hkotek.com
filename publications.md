@@ -37,6 +37,9 @@ Proceedings papers
 ------------------
 
 To appear
+: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
+
+To appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*.
 
 2014 

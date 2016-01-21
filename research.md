@@ -59,6 +59,9 @@ This work studies the syntax and semantics of *wh*-questions, concentrating on E
 in prep.
 : Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
 
+To appear
+: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
+
 submitted 
 : Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review.
 

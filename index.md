@@ -27,6 +27,8 @@ Visit the [about page](www.hkotek.com/about) for details concerning my research 
 Newest papers
 -------------
 
+* Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
+
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review (September 2015).
