@@ -121,7 +121,7 @@ Tools for online linguistic surveys
 -----------------------------------
 Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we develop a set of free, open-source tools that aid in the construction of linguistic surveys for [Amazon’s Mechanical Turk](https://www.mturk.com/mturk/welcome), along with a supplied server-side component which allows researchers to host these randomized experiments on their own servers. The tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. These tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data.
 
-Tools available at: [turktools.net](turktools.net).
+Tools available at: [turktools.net](http://turktools.net).
 
 2015
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
