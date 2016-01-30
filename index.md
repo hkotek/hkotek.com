@@ -31,15 +31,11 @@ Newest papers
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript under review (September 2015).
-
 * Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](http://turktools.net). (Appeared online: June 2015.)
 
 * Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). Manuscript under review (June 2015).
-
-* Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. Manuscript under review (June 2015).
 
 * Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0. (Appeared in press: May 2015.)
 
@@ -49,15 +45,11 @@ Recent and upcoming presentations
 
 * **Non-interrogative *wh*-constructions in Chuj**. *Talk at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016 (with Michael Yoshitaka Erlewine).
 
-* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
-
-* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine).
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 and at *the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
 * ***Wh*-quantification in Dharamsala Tibetan**. *Talk at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015 (with Michael Yoshitaka Erlewine; [slides](ICOLSI-slides.pdf)).
 
-* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015 ([handout](IATL-handout.pdf)).
-
-* **On the semantics of *wh*-questions**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 ([handout](SuB20-wh-handout.pdf)).
+* **On the semantics of *wh*-questions**. *Talk at the Israeli Association for Theoretical Linguistics (IATL) 31*, Bar-Ilan University, Israel, October 2015 and at *at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 ([handout](IATL-handout.pdf)).
 
 * **Relative pronoun pied-piping, the structure of which informs the analysis of relative clauses**. *Talk at Sinn und Bedeutung (SuB) 20*, Tübingen, Germany, September 2015 (with Michael Yoshitaka Erlewine; [handout](SuB20-RC-handout.pdf)).
 

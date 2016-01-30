@@ -6,12 +6,12 @@ title: About me
 Research interests
 ------------------
 
-I am a syntactician and a semanticist. I am also an experimentalist and a fieldworker. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online processing?
+I am a syntactician and a semanticist. I am also an experimentalist, and have worked on several understudied languages. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online processing?
 
 My research uses a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. Alongside experimentation, my work draws on traditional judgment data and fieldwork, concentrating most recently on Chuj (Mayan) and Tibetan, as well as English, Hebrew, and German. Some of my recent research topics include:
 
-* Questions
-* Focus 
+* *Wh*-questions
+* Association with Focus 
 * Pied-piping 
 * Intervention effects
 * Relative clauses, free relatives, and -ever free relatives
