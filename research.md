@@ -10,6 +10,9 @@ Intervention effects
 --------------------
 This work investigates the nature of *intervention effects* in *wh*-questions. Most recently, this work argues that intervention effects are the logical result of the inability of movement and focus to operate over the same structure. It therefore suggests that intervention effects are a much more wide-spread phenomenon than previously thought. 
 
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
+
 2015
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
 
@@ -36,20 +39,17 @@ Non-interrogative uses of *wh*-words
 ------------------------------------
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, wh-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
-submitted 
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review.
+to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
-submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). Manuscript under review.
+manuscript 
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review.
 
 2016
 : Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
-
-2015 
-: Michael Yoshitaka Erlewine and Hadas Kotek. ***Wh*-quantification in Dharamsala Tibetan** ([slides](ICOLSI-slides.pdf)). *Presentation at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*, Jawaharlal Nehru University, New Delhi, India, October 2015. 
 
 
 The syntax/semantics of *wh*-questions
@@ -59,7 +59,7 @@ This work studies the syntax and semantics of *wh*-questions, concentrating on E
 in prep.
 : Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
 
-To appear
+to appear
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
 submitted 
