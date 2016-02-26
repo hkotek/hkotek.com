@@ -27,6 +27,11 @@ Visit the [about page](/about) for details concerning my research interests and 
 Newest papers
 -------------
 
+### Book: ###
+
+* Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press (in preparation).
+
+
 ### Journal papers: ###
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
