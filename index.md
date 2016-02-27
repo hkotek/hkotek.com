@@ -47,14 +47,15 @@ Newest papers
 
 ### Proceedings papers: ###
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
-
 * Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
 
 Recent and upcoming presentations
 ---------------------------------
+
+* **Untangling Tanglewood using covert focus movement**. *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine).
 
 * **Non-interrogative *wh*-constructions in Chuj**. *Talk at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016 (with Michael Yoshitaka Erlewine).
 
