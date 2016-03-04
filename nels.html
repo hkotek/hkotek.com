@@ -1,0 +1,195 @@
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+var data = {
+	submitted: {
+		'North America' : { 'male': 95, 'female': 73, 'all-male': 20, 'all-female': 12, 'mixed': 23 },
+		'Europe' : { 'male': 35, 'female': 36, 'all-male': 11, 'all-female': 11, 'mixed': 24 },
+		'Asia + Australia' : { 'male': 29, 'female': 16, 'all-male': 6, 'all-female': 4, 'mixed': 3 },
+		'South America' : { 'male': 0, 'female': 2, 'all-male': 1, 'all-female': 1, 'mixed': 1 },
+		'Not specified' : { 'male': 10, 'female': 4, 'all-male': 2, 'all-female': 0, 'mixed': 0 },
+		'Mixed' : { 'male': '', 'female': '', 'all-male': 3, 'all-female': 0, 'mixed': 6 }
+	},
+	talk: {
+		'North America' : { 'male': 12, 'female': 11, 'all-male': 4, 'all-female': 4, 'mixed': 3 },
+		'Europe' : { 'male': 2, 'female': 4, 'all-male': 1, 'all-female': 0, 'mixed': 5 },
+		'Asia + Australia' : { 'male': 1, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 1 },
+		'South America' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Not specified' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Mixed' : { 'male': '', 'female': '', 'all-male': 0, 'all-female': 0, 'mixed': 0 }
+	},
+	poster: {
+		'North America' : { 'male': 18, 'female': 7, 'all-male': 1, 'all-female': 1, 'mixed': 3 },
+		'Europe' : { 'male': 3, 'female': 2, 'all-male': 2, 'all-female': 0, 'mixed': 3 },
+		'Asia + Australia' : { 'male': 3, 'female': 1, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'South America' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Not specified' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Mixed' : { 'male': '', 'female': '', 'all-male': 3, 'all-female': 0, 'mixed': 1 }
+	},
+	total: {
+		'North America' : { 'male': 30, 'female': 18, 'all-male': 5, 'all-female': 5, 'mixed': 6 },
+		'Europe' : { 'male': 5, 'female': 6, 'all-male': 3, 'all-female': 0, 'mixed': 8 },
+		'Asia + Australia' : { 'male': 4, 'female': 1, 'all-male': 0, 'all-female': 0, 'mixed': 1 },
+		'South America' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Not specified' : { 'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0 },
+		'Mixed' : { 'male': '', 'female': '', 'all-male': 3, 'all-female': 0, 'mixed': 1 }
+	}
+};
+
+var celltemplate = $('<td><span class="num"></span><span class="den"></span><span class="per"></span></td>');
+function template(num, den) {
+	return celltemplate.clone()
+			.find('.num').text(num).end()
+			.find('.den').text('/' + den).end()
+			.find('.per').text(' = ' + Math.round(100 * num / den) + '%').end();
+}
+function display() {
+	var choice = $('#abstracts select').val();
+	if (!(choice in data))
+		return;
+	var src = data[choice];
+	var submitted = data.submitted;
+	var table = $('#abstracts table tbody').empty();
+	
+	var coltotals = {'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0};
+	var coldentotals = {'male': 0, 'female': 0, 'all-male': 0, 'all-female': 0, 'mixed': 0};
+	
+	$.each(src, function(region, el) {
+		var row = $('<tr>');
+		row.append('<th>' + region + '</th>');
+		var total = 0;
+		var dentotal = 0;
+		$.each(el, function(label, value) {
+			var den = submitted[region][label];
+			dentotal += den || 0;
+			var cell = template(value, den);
+			if (den == 0)
+				cell.addClass('zero');
+			row.append(cell);
+			total += value || 0;
+			coltotals[label] += value || 0;
+			coldentotals[label] += den || 0;
+		});
+		row.append(template(total, dentotal));
+		table.append(row);
+	});
+
+	var bottomrow = $('<tr class="total"><th>Total</th></tr>');
+	var totaltotal = 0, dentotaltotal = 0;
+	$.each(coltotals, function(label, value) {
+		var totalcell = template(value, coldentotals[label]);
+		bottomrow.append(totalcell);
+		totaltotal += value;
+		dentotaltotal += coldentotals[label];
+	});
+	var totalcell = template(totaltotal, dentotaltotal);
+	bottomrow.append(template(totaltotal, dentotaltotal));
+	table.append(bottomrow);
+
+	if (choice == 'submitted') {
+		$('input').prop('checked',false).attr('disabled',true);
+	} else {
+		$('input').attr('disabled',false);
+	}
+
+	displayoptions();
+}
+function displayoptions() {
+	$('.den').toggle(!!$('#den').prop('checked'));
+	$('.per').toggle(!!$('#per').prop('checked'));
+}
+
+$(function() {
+	$('select').change(display);
+	$('input').change(displayoptions);
+	display();
+})
+</script>
+<style>
+div.stats table td {
+	text-align: right;
+	min-width: 4em;
+}
+div.stats table th {
+	text-align: left;
+}
+div.stats table thead th {
+	border-bottom: 1px solid gray;
+	border-right: 8px solid transparent;
+}
+div.stats table .total > * {
+	border-top: 1px solid gray;	
+}
+div.stats table .zero {
+	color: #ddd;
+}
+div.stats table .den, div.stats table .per {
+	color: #999;
+	display: inline-block;
+}
+div.stats table .den {
+	min-width: 1.5em;
+}
+div.stats table .per {
+	min-width: 3em;
+}
+div.stats table .zero .den, div.stats table .zero .per {
+	display: none !important;
+}
+</style>
+
+<h1>NELS submission statistics</h1>
+
+<p>As an established international conference, NELS aims to attract and present the highest quality contemporary linguistic research of theoretical interest. As such, we are interested in the diversity of submissions and accepted presentations. Here we present statistics on this year's submissions, focusing on diversity in gender and geography. Some observations on trends in this data follow at the end. We hope that this presentation sheds some light into the submission and selection process, and that the data contributes to a broader conversation on diversity and representation in our field. We encourage other large conferences to also share such statistics.</p>
+
+<p>All data was collected manually after all acceptance decisions were finalized. Information regarding authors' gender was not requested at the time of the submission; neither this information nor information about the authors' affiliation informed acceptance decisions. For ease of presentation, gender is presented using a 'male'/'female' binary; we know that this is imperfect but believe that this information is still valuable. We recognize that besides gender and geography, there are other forms of diversity which we hope that large linguistics conferences, including NELS, represent. For questions or further information regarding the data collection process, contact <a href='mailto:hkotek@alum.mit.edu'>Hadas Kotek</a>.</p>
+
+<h3>Submissions and accepted presentations</h3>
+
+<p>The tables below show information for singly-authored and by co-authored abstracts, by affiliation (grouped by geographical regions) and gender. The 'denominators' option, available for data regarding accepted submissions, shows how many submissions were considered in total. The 'percents' option then shows what the percent of accepted submissions is in each cell.</p>
+
+<div id='abstracts' class='stats'>
+<p>
+<select>
+	<option value='submitted'>Submissions</option>
+	<option value='total' selected>Talks + Posters</option>
+	<option value='talk'>Talks</option>
+	<option value='poster'>Posters</option>
+</select> <label for='den'><input type='checkbox' id='den' name='den'/> denominators</label> <label for='per'><input type='checkbox' id='per' name='per'/> percents</label>
+</p>
+
+<table>
+	<thead>
+		<tr><td>&nbsp;</th><th colspan='2'>Single author</th><th colspan='3'>Joint</th><th rowspan='2'>Total</th></tr>
+		<tr><td>&nbsp;</th><th>Male</th><th>Female</th><th>All male</th><th>All female</th><th>Both</th></tr>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+</div>
+
+<p>Overall, 42.2% of authors on submitted abstracts (double counting authors on multiple abstracts) were female, and 42.4% of authors of accepted presentations are female.</p>
+
+<h3>Reviewers</h3>
+
+Submissions and resulting acceptances are only one piece of the picture. We were similarly interested in the diversity of the reviewers who helped with selection this year. Again, these statistics were compiled after the selection process concluded. 
+
+<div class='stats'>
+<table>
+	<thead>
+		<tr><td>&nbsp;</th><th>Male</th><th>Female</th><th>Total</th></tr>
+	</thead>
+	<tbody>
+        <tr><th>North America</th><td>72</td><td>50</td><td>122</td></tr>
+        <tr><th>Europe</th><td>43</td><td>23</td><td>66</td></tr>
+        <tr><th>Asia</th><td>8</td><td>10</td><td>18</td></tr>
+        <tr><th>South America</th><td>1</td><td class='zero'>0</td><td>1</td></tr>
+        <tr class="total"><th>Total</th><td>124</td><td>83</td><td>207</td></tr>
+	</tbody>
+</table>
+</div>
+
+<h3>Observations</h3>
+
+<p>In terms of selection by gender, we are happy to see that acceptance rates for abstracts by female authors and by male authors are close (though not at par). Unfortunately, there were significantly fewer submissions by female authors than by male authors. These comments also apply for joint work. Gender representation among reviewers certainly could be improved.</p>
+
+<p>Although NELS has outgrown its origins as a regional conference, given its geographical location (this year, Boston) it may be unsurprising that the most submissions came from North America, followed by Europe and then Asia. We note, however, that this geographic skew is even stronger among accepted presentations, as reflected by the differing acceptance rates between regions. A similar distribution can be observed among the reviewers for this year's conference.</p>
