@@ -147,12 +147,3 @@ A project studying the automaticity of speech perception in second language acqu
 
 2014
 : Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Changes in Automaticity of Speech Processing of Japanese Phonetic Contrasts in Second-Language Learning: An MEG study**](Kotek-JSLS-proceedings.pdf). *Proceedings of the  Japanese Society for Language Sciences 2014*. 
-
-
-Other ongoing projects
-----------------------
-* *Que*-alternative questions in Spanish (with Luis Allonso-Ovalle)
-
-* Intervention effects in Tibetan. 
-
-* Expletive negation and free relatives in Hebrew.
