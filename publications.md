@@ -110,8 +110,11 @@ submitted
 
 Handouts and slides
 -------------------
+2016 
+: Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj** ([handout](wscla-handout.pdf), [slides](wscla-slides.pdf)). *Presentation at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016.
+
 2016
-: Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
+: Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan** ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
 
 2015 
 : Michael Yoshitaka Erlewine and Hadas Kotek. ***Wh*-quantification in Dharamsala Tibetan** ([slides](ICOLSI-slides.pdf)). *Presentation at the  37th International Conference of the Linguistic Society of India (ICOLSI-37)*,  Jawaharlal Nehru University, New Delhi, India, October 2015. 

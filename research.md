@@ -46,7 +46,7 @@ submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
 manuscript 
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj**](Kotek-ChujPaper.pdf). Manuscript under review.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript. (WSCLA  [handout](wscla-handout.pdf), [slides](wscla-slides.pdf)).
 
 2016
 : Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.

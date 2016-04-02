@@ -38,7 +38,7 @@ Newest papers
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax* (January 2016).
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review (September 2015).
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript (September 2015).
 
 
 ### Proceedings papers: ###
@@ -53,7 +53,7 @@ Recent and upcoming presentations
 
 * **Untangling Tanglewood using covert focus movement**. *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine).
 
-* **Non-interrogative *wh*-constructions in Chuj**. *Talk at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016 (with Michael Yoshitaka Erlewine).
+* **Non-interrogative *wh*-constructions in Chuj**. *Talk at the 21st Workshop on Structure and Constituency in Languages of the Americas*. Université du Québec à Montréal (UQAM), Montréal, Canada, April 1-3, 2016 (with Michael Yoshitaka Erlewine; [handout](wscla-handout.pdf), [slides](wscla-slides.pdf)).
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. *Talk at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016 and at *the North East Linguistic Society (NELS) 46*, Concordia University, Montreal, Canada, October 2015 (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
