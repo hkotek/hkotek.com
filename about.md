@@ -8,7 +8,7 @@ Research interests
 
 I am a syntactician and a semanticist. I am also an experimentalist, and have worked on several understudied languages. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online processing?
 
-My research uses a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. Alongside experimentation, my work draws on traditional judgment data and fieldwork, concentrating most recently on Chuj (Mayan) and Tibetan, as well as English, Hebrew, and German. Some of my recent research topics include:
+My research uses a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. Alongside experimentation, my work draws on traditional judgment data and elicitations, concentrating most recently on Chuj (Mayan) and Tibetan, as well as English, Hebrew, and German. Some of my recent research topics include:
 
 * *Wh*-questions
 * Association with Focus 
@@ -20,7 +20,7 @@ My research uses a variety of experimental techniques, including sentence proces
 * Additivity
 * Comparative and superlative quantifiers
 
-You can find papers on these and other topics on the [publications page](/publications). To read more about each project, visit the [research page](/research).
+Additional details about these and other papers and presentations can be found on my [publications page](/publications). To read more about my various projects, visit the [research page](/research).
  
 For an updated list of my presentations and publications, please consult [my CV](KotekCV.pdf).
 
@@ -28,7 +28,7 @@ For an updated list of my presentations and publications, please consult [my CV]
 Academic history
 ----------------
 
-I am currently a Mellon Postdoctoral Fellow in Linguistics at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics), where my supervisor is [Junko Shimoyama](https://sites.google.com/site/junkoshimoyama/). 
+I am currently a lecturer in semantics at [Yale University Department of Linguistics](http://ling.yale.edu/). Prior to moving to Yale I held a Mellon Postdoctoral Fellowship at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics), where my supervisor was [Junko Shimoyama](https://sites.google.com/site/junkoshimoyama/). 
 
 I received my PhD from the [Department of Linguistics and Philosophy at MIT](http://web.mit.edu/linguistics/) in 2014, where I wrote [a dissertation](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc) on the syntax and semantics of *wh*-questions. My dissertation was co-chaired by [Danny Fox](http://web.mit.edu/linguistics/people/faculty/fox/index.html), [Martin Hackl](http://web.mit.edu/hackl/www/), [Irene Heim](http://web.mit.edu/linguistics/people/faculty/heim/), and [David Pesetsky](http://web.mit.edu/linguistics/people/faculty/pesetsky/). 
 

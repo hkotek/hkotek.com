@@ -6,50 +6,62 @@ title: Research
 My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different research questions.
 
 
-Intervention effects
---------------------
-This work investigates the nature of *intervention effects* in *wh*-questions. Most recently, this work argues that intervention effects are the logical result of the inability of movement and focus to operate over the same structure. It therefore suggests that intervention effects are a much more wide-spread phenomenon than previously thought. 
+Movement, focus, and their interaction
+--------------------------------------
+This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*.
+
+submitted
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). Manuscript.
+
+2016
+: Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
 2015
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
 
-2014
-: Kotek, Hadas. [**Intervention out of islands**](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*, eds. Jyoti Iyer and Leland Kusmer. GSLA: Amherst, MA. Volume 1, 234–246.
 
-2013
-: Kotek, Hadas. [**Intervention, covert movement, and focus computation in multiple *wh*-questions**](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
-
-
-Another aspect of this project develops the use of intervention effects as a diagnostic of underlying syntactic structure, distinguishing between regions where focus-alternatives are computed and areas where covert movement has occurred. This diagnostic informs our understanding of a variety of A-bar and pied-piping phenomena in *wh*-questions, Association with Focus constructions, and relative clauses.
+Non-interrogative uses of *wh*-words
+------------------------------------
+Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*. 
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
+
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [Non-interrogative *wh*-constructions in Chuj (Mayan)](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
+
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [Unifying definite and indefinite free relatives: Evidence from Mayan](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+
+submitted
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
+
+
+
+Intervention effects
+--------------------
+This work investigates the nature of *intervention effects* in A-bar constructions. It is shown that intervention can be used as a diagnostic of underlying syntactic structures, in particular distinguishing between regions where focus-alternatives are computed and areas where covert movement has occurred. This diagnostic informs our understanding of a variety of A-bar and pied-piping phenomena in *wh*-questions, Association with Focus constructions, and relative clauses.
+
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*, Volume 47, Issue 4, Summer 2016.
+
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf))
 
 2014
+: Kotek, Hadas. [**Intervention out of islands**](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*, eds. Jyoti Iyer and Leland Kusmer. GSLA: Amherst, MA. Volume 1, 234–246.
+
+2014
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Intervention in focus pied-piping**](http://semanticsarchive.net/Archive/WIzNzViN/erlewine-kotek-nels2013-preprint.pdf). *Proceedings of the 43th annual meeting of the North East Linguistic Society (NELS)*, eds. Hsin-Lun Huang, Ethan Poole and Amanda Rysling. GLSA: Amherst, MA. Volume 1, 117-130. ([Handout](Kotek-Erlewine-nels2013.pdf))
 
-
-Non-interrogative uses of *wh*-words
-------------------------------------
-Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, wh-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by wh-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
-
-to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
-
-submitted
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
-
-manuscript 
-: Kotek, Hadas and Michael Yoshitaka Erlewine. **Non-interrogative *wh*-constructions in Chuj**. Manuscript. (WSCLA  [handout](wscla-handout.pdf), [slides](wscla-slides.pdf)).
-
-2016
-: Hadas Kotek and Michael Yoshitaka Erlewine. **Unifying definite and indefinite free relatives: Evidence from Mayan**. ([handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). *Presentation at the Linguistic Society of America (LSA) 90*, Washington DC, January 2016.
+2013
+: Kotek, Hadas. [**Intervention, covert movement, and focus computation in multiple *wh*-questions**](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
 
 
 The syntax/semantics of *wh*-questions
@@ -59,20 +71,11 @@ This work studies the syntax and semantics of *wh*-questions, concentrating on E
 in prep.
 : Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
 
-to appear 
-: Kotek, Hadas. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: Special Issue on Syntactic computation*.
-
 to appear
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
-submitted
-: Kotek, Hadas and Martin Hackl. **Covert scrambling in English multiple *wh*-questions: Evidence from online processing**. Manuscript under review.
-
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
-
-2015
-: Kotek, Hadas. **A new compositional semantics for *wh*-questions** ([handout](Kotek-synsem-handout.pdf)). *Presentation at the Linguistic Society of America (LSA) 89*, Portland, Oregon, January 2015. 
 
 2014
 : Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
@@ -123,8 +126,8 @@ Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we deve
 
 Tools available at: [turktools.net](http://turktools.net).
 
-2015
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory*. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
 
 
 Morphological blocking effects in causative constructions
