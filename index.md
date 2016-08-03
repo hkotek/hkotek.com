@@ -18,7 +18,6 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	Department of Linguistics
 	Dow Hall, 370 Temple St
 	New Haven, CT 06520-8366
-	
 	[hadas.kotek@yale.edu](mailto:hadas.kotek@yale.edu)
 	
 I am a lecturer in semantics at Yale University. My main research specialty lies in generative syntax and its interaction with formal semantics. My research employs a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. These techniques are supplemented by  elicitation work and traditional judgment work, concentrating most recently on the understudied languages Chuj (Mayan, Guatemala) and Dharamsala Tibetan (India), as well as English, Hebrew, and German.
