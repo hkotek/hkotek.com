@@ -18,7 +18,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	Department of Linguistics
 	Dow Hall, 370 Temple St
 	New Haven, CT 06520-8366
-    [hadas.kotek@yale.edu](mailto:hadas.kotek@yale.edu)
+	[hadas.kotek@yale.edu](mailto:hadas.kotek@yale.edu)
 	
 I am a lecturer in semantics at Yale University. My main research specialty lies in generative syntax and its interaction with formal semantics. My research employs a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. These techniques are supplemented by  elicitation work and traditional judgment work, concentrating most recently on the understudied languages Chuj (Mayan, Guatemala) and Dharamsala Tibetan (India), as well as English, Hebrew, and German.
 
@@ -35,7 +35,7 @@ Newest work
 
 ### Journal papers: ###
 
-* Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
+* Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
@@ -46,9 +46,9 @@ Newest work
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [Non-interrogative *wh*-constructions in Chuj (Mayan)](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [Unifying definite and indefinite free relatives: Evidence from Mayan](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
 * Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
 
@@ -61,7 +61,7 @@ Recent and upcoming presentations
 
 * **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016 (with Michael Yoshitaka Erlewine).
 
-* **Movement and alternatives don't mix: a new look at intervention effects**. *SynSem, University of California, Los Angeles, June 2016.
+* **Movement and alternatives don't mix: a new look at intervention effects**. *SynSem*, University of California, Los Angeles, June 2016.
 
 * **Untangling Tanglewood using covert focus movement**. *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
 

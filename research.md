@@ -31,10 +31,10 @@ to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [Non-interrogative *wh*-constructions in Chuj (Mayan)](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [Unifying definite and indefinite free relatives: Evidence from Mayan](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
@@ -84,6 +84,16 @@ to appear
 : Kotek, Hadas and Martin Hackl. [**An experimental investigation of interrogative syntax/semantics**](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
 
 
+Tools for online linguistic surveys
+-----------------------------------
+Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we develop a set of free, open-source tools that aid in the construction of linguistic surveys for [Amazon’s Mechanical Turk](https://www.mturk.com/mturk/welcome), along with a supplied server-side component which allows researchers to host these randomized experiments on their own servers. The tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. These tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data.
+
+Tools available at: [turktools.net](http://turktools.net).
+
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
+
+
 The syntax and semantics of *most*
 ----------------------------------
 This work focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
@@ -118,16 +128,6 @@ This work concerns children's acquisition of covert movement. We concentrate on 
 
 2013
 : Sugawara, Ayaka, Hadas Kotek, Martin Hackl and Ken Wexler. [**Long vs. Short QR: Evidence from the Acquisition of ACD**](Kotek%20ACD%20BUCLD%20proceedings.pdf). *Proceedings of Boston University Conference on Language Development (BUCLD) 37*. Somerville, MA: Cascadilla Press.
-
-
-Tools for online linguistic surveys
------------------------------------
-Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we develop a set of free, open-source tools that aid in the construction of linguistic surveys for [Amazon’s Mechanical Turk](https://www.mturk.com/mturk/welcome), along with a supplied server-side component which allows researchers to host these randomized experiments on their own servers. The tools allow for the creation of a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. These tools further help streamline the design of such experiments and assist in the extraction and analysis of the resulting data.
-
-Tools available at: [turktools.net](http://turktools.net).
-
-2016
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
 
 
 Morphological blocking effects in causative constructions
