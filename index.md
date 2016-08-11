@@ -21,7 +21,8 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	
 	hadas.kotek at yale dot edu
 	
-I am a lecturer in semantics at Yale University. My main research specialty lies in generative syntax and its interaction with formal semantics. My research employs a variety of experimental techniques, including sentence processing, large-scale grammaticality surveys, first language acquisition, and ERPs. These techniques are supplemented by  elicitation work and traditional judgment work, concentrating most recently on the understudied languages Chuj (Mayan, Guatemala) and Dharamsala Tibetan (India), as well as English, Hebrew, and German.
+
+I am a lecturer in Semantics in the Linguistics Department. I received my PhD from MIT in 2014, and prior to joining Yale I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history.
 
@@ -59,10 +60,9 @@ Newest work
 Recent and upcoming presentations
 ---------------------------------
 
-
 * **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016 (with Michael Yoshitaka Erlewine).
 
-* **Movement and alternatives don't mix: a new look at intervention effects**. *SynSem*, University of California, Los Angeles, June 2016.
+* **Movement and alternatives don't mix: A new look at intervention effects**. *SynSem*, University of California, Los Angeles, June 2016.
 
 * **Untangling Tanglewood using covert focus movement**. *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
 
