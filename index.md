@@ -60,6 +60,8 @@ Newest work
 Recent and upcoming presentations
 ---------------------------------
 
+* **Movement and alternatives don't mix: A new look at intervention effects**. *SynSem*, *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016.
+
 * **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016 (with Michael Yoshitaka Erlewine).
 
 * **Movement and alternatives don't mix: A new look at intervention effects**. *SynSem*, University of California, Los Angeles, June 2016.
