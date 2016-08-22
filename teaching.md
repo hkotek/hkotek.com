@@ -18,7 +18,9 @@ adverbs, and modals.
 
 **Questions and focus [Fall 2016]:**
 
-Undergraduate/graduate seminar on the syntax and semantics of questions and focus, Yale University. See Fall 2014 for materials.
+Undergraduate/graduate seminar on the syntax and semantics of questions and focus, Yale University. 
+
+See Fall 2014 for materials.
 
 [**Syllabus**](yale-wh-focus-syllabus.pdf)
 
