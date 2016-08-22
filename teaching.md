@@ -3,17 +3,42 @@ layout: default
 title: Teaching
 ---
 
+**Semantics 1 [Fall 2016]:**
+
+Introduction to semantics for undergraduate and graduate students, Yale University. Blurb: 
+
+Introduction to truth-conditional compositional semantics. Set theory, first- and
+higher-order logic, and the lambda calculus as they relate to the study of natural
+language meaning. Some attention to analyzing the meanings of tense/aspect markers,
+adverbs, and modals. 
+
+[**Syllabus**](semantics1-syllabus.pdf)
+
+--------------
+
+**Questions and focus [Fall 2016]:**
+
+Undergraduate/graduate seminar on the syntax and semantics of questions and focus, Yale University. See Fall 2014 for materials.
+
+[**Syllabus**](yale-wh-focus-syllabus.pdf)
+
+--------------
+
 **Introduction to the Study of Language [Winter 2016]:**
 
-Introduction to linguistics for non-majors, McGill University.
+Introduction to linguistics for non-majors, McGill University. Blurb: 
 
-[**Syllabus**](LING200-syllabus.pdf)
+This class will provide some answers to basic questions about the nature of human language. Throughout the course, we will be examining a number of ways in which human language is a complex but law-governed mental system. We will study some core aspects of this system in detail, and then use what we have learned to address a variety of other questions – including how language is acquired, how dialects arise, how languages change over time, and others. The main component of evaluation will be linguistic problem solving through assignments and exams.
+
+[**Syllabus**](LING200-syllabus.pdf), [**Materials**](http://hkotek.com/intro2015/index)
 
 --------------
 
 **Introduction to Linguistics [Winter 2016]:**
 
-Introduction to linguistics for majors, McGill University.
+Introduction to linguistics for majors, McGill University. Blurb: 
+
+This course is an introduction to linguistic theory and analysis. Topics covered include phonetics, phonology, morphology, syntax, semantics and pragmatics. The goal is to familiarize students with current tools of linguis- tic analysis. Students will be required to display an understanding of these tools by applying them to data from different languages. The main component of evaluation will be linguistic problem solving through assignments, quizzes and exams.
 
 [**Syllabus**](LING201-syllabus.pdf)
 
