@@ -40,7 +40,7 @@ Phenomena to be discussed include in-situ and ex-situ *wh*-questions and Associa
 
 Requirements for registered students will include infrequent homework assignments and two language journals, which report on the investigation of *wh*-questions and focus constructions in a particular language, based on elicitation with a native speaker. We will assume some familiarity with properties of A' (*wh*) movement and (extensional) compositional semantics as in Heim & Kratzer (1998), but important parts of the theory will be reviewed in class. Pass/fail registration is welcome.
 
-[**Syllabus**](wh-focus-syllabus.pdf), [**Materials**](http://people.linguistics.mcgill.ca/~hadas.kotek/wh-focus/)
+[**Syllabus**](wh-focus-syllabus.pdf), [**Materials**](http://hkotek.com/focus-wh/index.md)
 
 --------------
 
