@@ -26,7 +26,7 @@ Undergraduate seminar, McGill University. Blurb:
 
 Under certain conditions, linguistic material can be omitted from an utterance but we nevertheless understand the utterance as if it has not been [ ]. The challenge of associating meanings with "silence" has made this [ ] a central topic in linguistic research. In this course, we will explore a variety of phenomena that involve omission of *[ ], mainly involving ellipsis in the verbal domain. We will ask ourselves not only what material can be elided, but also why [ ]; and we will discuss at length whether it's possible to "rescue" some ungrammatical structures using ellipsis, and if so, which ones [ ]. We will study both seminal and current papers in the syntactic literature, and also ?[ ] psycholinguistic aspects of the processing of ellipsis and its perception. Students in the class will be required to do weekly readings, actively participate in *[ ], give one in-class presentation, and write a short squib.
 
-[**Syllabus**](ellipsis-syllabus.pdf)
+[**Syllabus**](ellipsis-syllabus.pdf), [**Materials**](http://hkotek.com/ellipsis/index)
 
 --------------
 
@@ -41,6 +41,9 @@ Phenomena to be discussed include in-situ and ex-situ *wh*-questions and Associa
 Requirements for registered students will include infrequent homework assignments and two language journals, which report on the investigation of *wh*-questions and focus constructions in a particular language, based on elicitation with a native speaker. We will assume some familiarity with properties of A' (*wh*) movement and (extensional) compositional semantics as in Heim & Kratzer (1998), but important parts of the theory will be reviewed in class. Pass/fail registration is welcome.
 
 [**Syllabus**](wh-focus-syllabus.pdf), [**Materials**](http://hkotek.com/focus-wh/index)
+
+
+This seminar led to a Winter semester reading group on *wh*-indefinites: [**Materials**](http://hkotek.com/wh-indefs/index).
 
 --------------
 
