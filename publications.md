@@ -15,16 +15,19 @@ Journal articles
 ----------------
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
-
-to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
+
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
 
 2016
 : Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](http://turktools.net).
+
+2016
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
 
 2015
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://link.springer.com/article/10.1007/s11050-015-9113-0). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
@@ -43,22 +46,22 @@ Proceedings papers
 ------------------
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*.
-
-to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
-to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
-
-to appear
-: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 
 2016
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
+
+2016
+: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
+
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf)), Chicago, IL.: Chicago Linguistic Society, pp. 149-163.
 
 2014 
 : Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study**](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
@@ -108,18 +111,17 @@ submitted
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). 
 
 in revisions
-: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. **Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**.
-
-in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
 
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
 
-
 Handouts and slides
 -------------------
+2016
+: Hadas Kotek. **Movement and alternatives don't mix: A new look at intervention effects** ([handout](nels2016-handout.pdf), [slides](nels2016-slides.pdf)). *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016.
+
 2016
 : Michael Yoshitaka Erlewine and Hadas Kotek. **Untangling Tanglewood using covert focus movement** ([slides](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)), *Presentation at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (slides and handout here from Yale talk in May 2016).
 

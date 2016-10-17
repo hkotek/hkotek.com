@@ -39,34 +39,36 @@ Newest work
 
 * Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). To appear in *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
+* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). 2016. *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
+
+* Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. 2016. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
+
+* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). Manuscript, July 2016 (comments welcome!).
 
 
 ### Proceedings papers: ###
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). Manuscript, July 2016 (comments welcome!).
+* Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2016. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+* Kotek, Hadas. 2016. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
 
-* Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
-
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Schöller.
 
 
 Recent and upcoming presentations
 ---------------------------------
 
-* **Movement and alternatives don't mix: A new look at intervention effects**. *SynSem*, *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016.
+* **Movement and alternatives don't mix: A new look at intervention effects**. *NYU Brown Bag*, December 2016; *SURGE*, Rutgers University, November 2016; Linguistics Colloquium, Goethe University, Frankfurk am Main, November 2016;  *SynSem*, University of California, Los Angeles, June 2016.
 
-* **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016 (with Michael Yoshitaka Erlewine).
+* TBD. Colloquium of the relative clause group, Goethe University, Frankfurk am Main, November 2016.
 
-* **Movement and alternatives don't mix: A new look at intervention effects**. *SynSem*, University of California, Los Angeles, June 2016.
+* **Movement and alternatives don't mix: A new look at intervention effects**. *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016 ([handout](nels2016-handout.pdf), [slides](nels2016-slides.pdf)).
 
-* **Untangling Tanglewood using covert focus movement**. *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
+* **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016; *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
 
 * **Tracking the human mind in attitude and speech reports**. Symposium participant. University of Massachusetts, Amherst, April 2016.
 

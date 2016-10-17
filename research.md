@@ -10,11 +10,11 @@ Movement, focus, and their interaction
 --------------------------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
-to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*.
-
 submitted
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). Manuscript.
+
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 
 2016
 : Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
@@ -28,13 +28,13 @@ Non-interrogative uses of *wh*-words
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax*.
-
-to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
@@ -48,11 +48,11 @@ This work investigates the nature of *intervention effects* in A-bar constructio
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*, Volume 47, Issue 4, Summer 2016.
 
-to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*.
+2016
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
 
-to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf))
+2016
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**The structure and interpretation of non-restrictive relatives: Evidence from relative pronoun pied-piping**](Erlewine_Kotek-cls51.pdf). *Proceedings of CLS 51*. ([slides](Erlewine-kotek-relp-cls2015.pdf)), Chicago, IL.: Chicago Linguistic Society, pp. 149-163.
 
 2014
 : Kotek, Hadas. [**Intervention out of islands**](Kotek-intervention-out-of-islands.pdf). *Proceedings of the 44th annual meeting of the North East Linguistic Society (NELS)*, eds. Jyoti Iyer and Leland Kusmer. GSLA: Amherst, MA. Volume 1, 234–246.
@@ -71,8 +71,8 @@ This work studies the syntax and semantics of *wh*-questions, concentrating on E
 in prep.
 : Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
 
-to appear
-: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*.
+2016
+: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
 
 2015
 : Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
@@ -144,6 +144,10 @@ ongoing
 Automaticity in L2 language acquisition
 ---------------------------------------
 A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: [Miwako Hisagi](http://www.linguistics.uconn.edu/profile/hisagi.html).)
+
+2016
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
+
 
 2014 
 : Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Perception of Japanese vowel contrasts by L1 and L2 learners of Japanese: An EEG study**](Kotek-FAJL-procedings.pdf). *MIT Working Papers in Linguistics #73: Proceedings of FAJL 7 (Formal Approaches to Japanese Linguistics)*, pp. 45-55.
