@@ -10,8 +10,8 @@ Movement, focus, and their interaction
 --------------------------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
-submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). Manuscript.
+to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
 
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
@@ -30,7 +30,7 @@ Aside from their canonical interrogative use, *wh*-words in many languages are u
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-to appear
+2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
 2016
@@ -45,8 +45,8 @@ Intervention effects
 --------------------
 This work investigates the nature of *intervention effects* in A-bar constructions. It is shown that intervention can be used as a diagnostic of underlying syntactic structures, in particular distinguishing between regions where focus-alternatives are computed and areas where covert movement has occurred. This diagnostic informs our understanding of a variety of A-bar and pied-piping phenomena in *wh*-questions, Association with Focus constructions, and relative clauses.
 
-to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*, Volume 47, Issue 4, Summer 2016.
+2016
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
 2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
@@ -69,7 +69,7 @@ The syntax/semantics of *wh*-questions
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
 
 in prep.
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (under contract)
 
 2016
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.

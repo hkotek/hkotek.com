@@ -15,7 +15,10 @@ Journal articles
 ----------------
 
 to appear
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](http://ling.auf.net/lingbuzz/001736). *Linguistic Inquiry*.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
+
+2016
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
@@ -48,7 +51,7 @@ Proceedings papers
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-to appear
+2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
 
 2016
@@ -101,24 +104,22 @@ Dissertation
 ------------
 
 2014
-: Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). Massachusetts Institute of Technology.
+: Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/). Massachusetts Institute of Technology.
 
 
 Submitted manuscripts
 ---------------------
 
-submitted
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from Tanglewood**](http://lingbuzz.auf.net/lingbuzz/003068). 
-
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
 
 in revisions
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). Manuscript under review.
 
 
 Handouts and slides
 -------------------
+
 2016
 : Hadas Kotek. **Movement and alternatives don't mix: A new look at intervention effects** ([handout](nels2016-handout.pdf), [slides](nels2016-slides.pdf)). *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016.
 
