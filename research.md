@@ -13,6 +13,9 @@ This work investigates the nature of (overt and covert) movement in natural lang
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
 
+to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
+
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 

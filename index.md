@@ -30,20 +30,22 @@ Please visit the [about page](/about) for more details concerning my research in
 Newest work
 -----------
 
-### Book: ###
+### Books: ###
 
 * Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press (under contract).
+
+* Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. **A Pesky Set: Papers for David Pesetsky**. MIT Working Paper in Linguistics 80.
 
 
 ### Journal papers: ###
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple wh-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple wh-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
 * Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). 2016. *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2016. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
 
 * Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. 2016. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
 
@@ -51,6 +53,8 @@ Newest work
 
 
 ### Proceedings papers: ###
+
+* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
@@ -65,6 +69,12 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
+
+* **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
+
+* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Matthew Barrow). 
+
+* **Diagnosing covert movement**. Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. [handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf)), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966).
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. Colloquium of the relative clause group, Goethe University, Frankfurk am Main, November 2016; NYU Brown Bag Lunch (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 

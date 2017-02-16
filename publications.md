@@ -8,7 +8,10 @@ title: Publications
 Books
 -----
 in prep.
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press.
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Under contract)
+
+2017 
+: Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. **A Pesky Set: Papers for David Pesetsky**. MIT Working Paper in Linguistics 80.
 
 
 Journal articles
@@ -47,6 +50,9 @@ to appear
 
 Proceedings papers
 ------------------
+
+to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
