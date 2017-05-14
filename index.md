@@ -43,7 +43,7 @@ Newest work
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
-* Barros, Mateus and Hadas Kotek. Submitted. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
+* Barros, Matthew and Hadas Kotek. Submitted. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple wh-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 

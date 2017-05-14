@@ -126,7 +126,7 @@ Submitted manuscripts
 ---------------------
 
 submitted 
-: Barros, Mateus and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
+: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
 
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
