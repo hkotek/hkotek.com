@@ -3,24 +3,30 @@ layout: default
 title: Research
 ---
 
-My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different research questions.
+My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different (but related) research projects.
 
 
-Movement, focus, and their interaction
---------------------------------------
+Operations in Grammar
+---------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+
+to appear
+: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
+
+to appear
+: Kotek, Hadas. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of the 47th annual meeting of the North East Linguistic Society (NELS)*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 2016
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
+: Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
 2016
-: Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 
 2015
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015. (Comments welcome!)
@@ -85,6 +91,14 @@ in prep.
 
 2013
 : Kotek, Hadas and Martin Hackl. [**An experimental investigation of interrogative syntax/semantics**](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
+
+
+Scope restrictions in sluicing and ellipsis licensing
+-----------------------------------------------------
+In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
+
+submitted 
+: Barros, Mateus and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
 
 
 Tools for online linguistic surveys

@@ -11,14 +11,17 @@ in prep.
 : Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Under contract)
 
 2017 
-: Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. **A Pesky Set: Papers for David Pesetsky**. MIT Working Paper in Linguistics 80.
+: Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
 
 
 Journal articles
 ----------------
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
+: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
+
+to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
 2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
@@ -50,6 +53,9 @@ to appear
 
 Proceedings papers
 ------------------
+
+to appear
+: Kotek, Hadas. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of the 47th annual meeting of the North East Linguistic Society (NELS)*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
@@ -116,11 +122,14 @@ Dissertation
 Submitted manuscripts
 ---------------------
 
+submitted 
+: Barros, Mateus and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
+
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
 
 in revisions
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). Manuscript under review.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
 
 
 Handouts and slides

@@ -22,7 +22,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
 	hadas.kotek at yale dot edu
 	
 
-I am a lecturer in Semantics in the Linguistics Department. I received my PhD from MIT in 2014, and prior to joining Yale I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, and comparative and superlative quantifiers.
+I am a lecturer in Semantics in the Linguistics Department. I received my PhD from MIT in 2014, and prior to joining Yale I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history.
 
@@ -34,12 +34,16 @@ Newest work
 
 * Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press (under contract).
 
-* Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. **A Pesky Set: Papers for David Pesetsky**. MIT Working Paper in Linguistics 80.
+* Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
 
 
 ### Journal papers: ###
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* (accepted with minor revisions).
+* Kotek, Hadas. To appear. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
+
+* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+
+* Barros, Mateus and Hadas Kotek. Submitted. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple wh-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
@@ -53,6 +57,8 @@ Newest work
 
 
 ### Proceedings papers: ###
+
+* Kotek, Hadas. To appear. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of the 47th annual meeting of the North East Linguistic Society (NELS)*.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
@@ -69,6 +75,13 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
+
+* TBD. Colloquium talk, Department of Linguistics, Stony Brook University, Fall 2017.
+
+* TBD. Cognitive semantics and quantities kick-off workshop. Institute for Logic,
+Language, and Computation, University of Amsterdam, September 2017.
+
+*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matt Barros).
 
 * **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
 
