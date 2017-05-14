@@ -85,7 +85,7 @@ Language, and Computation, University of Amsterdam, September 2017.
 
 * **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
 
-* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Matthew Barrow). 
+* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Mateus Barrow). 
 
 * **Diagnosing covert movement**. Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. [handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf)), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966).
 

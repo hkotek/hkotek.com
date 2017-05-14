@@ -14,8 +14,8 @@ in prep.
 : Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
 
 
-Journal articles
-----------------
+Journal articles and book chapters
+----------------------------------
 
 to appear
 : Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
@@ -36,7 +36,7 @@ to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](http://turktools.net).
 
 2016
-: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). *Brain Research* 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
 
 2015
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://link.springer.com/article/10.1007/s11050-015-9113-0). *Natural Language Semantics* 23(2): 119-156. DOI: 10.1007/s11050-015-9113-0.
@@ -62,6 +62,9 @@ to appear
 
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
+
+2017
+: Kotek, Hadas. Questioning Superiority. [**A Pesky Set: Papers for David Pesetsky**](51Kotek.pdf). MIT Working Papers in Linguistics 80, eds. Halpert, Claire, Hadas Kotek, and Coppe van Urk, 457–466. Cambridge, MA: MITWPL.
 
 2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.

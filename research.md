@@ -22,6 +22,9 @@ to appear
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
+2017
+: Kotek, Hadas. Questioning Superiority. [**A Pesky Set: Papers for David Pesetsky**](51Kotek.pdf). MIT Working Papers in Linguistics 80, eds. Halpert, Claire, Hadas Kotek, and Coppe van Urk, 457–466. Cambridge, MA: MITWPL.
+
 2016
 : Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
@@ -163,7 +166,7 @@ Automaticity in L2 language acquisition
 A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: [Miwako Hisagi](http://www.linguistics.uconn.edu/profile/hisagi.html).)
 
 2016
-: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). *Brain Research* 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
 
 
 2014 
