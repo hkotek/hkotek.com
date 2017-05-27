@@ -81,9 +81,12 @@ Recent and upcoming presentations
 * TBD. Cognitive semantics and quantities kick-off workshop. Institute for Logic,
 Language, and Computation, University of Amsterdam, September 2017.
 
-*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matt Barros).
+*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matt Barros, [handout](cls53-handout.pdf), [slides](cls53-slides.pdf)). 
 
 * **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
+
+*  **Ellipsis licensing in sluicing: A QuD account**. Multiple questions about sluicing, Yale University, April 2017 (with Matt Barros; [handout](sluicing-handout.pdf), [slides](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
+
 
 * **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Mateus Barrow). 
 
