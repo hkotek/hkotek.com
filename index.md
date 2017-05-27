@@ -39,13 +39,13 @@ Newest work
 
 ### Journal papers: ###
 
-* Kotek, Hadas. To appear. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
-
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
 * Barros, Matthew and Hadas Kotek. Submitted. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple wh-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
+* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
+
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
 * Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
 
@@ -81,16 +81,15 @@ Recent and upcoming presentations
 * TBD. Cognitive semantics and quantities kick-off workshop. Institute for Logic,
 Language, and Computation, University of Amsterdam, September 2017.
 
-*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matt Barros, [handout](cls53-handout.pdf), [slides](cls53-slides.pdf)). 
+*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matthew Barros, [handout](cls53-handout.pdf), [slides](cls53-slides.pdf)). 
 
 * **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
 
-*  **Ellipsis licensing in sluicing: A QuD account**. Multiple questions about sluicing, Yale University, April 2017 (with Matt Barros; [handout](sluicing-handout.pdf), [slides](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
+*  **Ellipsis licensing in sluicing: A QuD account**. Multiple questions about sluicing, Yale University, April 2017 (with Matthew Barros; [handout](sluicing-handout.pdf), [slides](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
 
+* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Matthew Barrow). 
 
-* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Mateus Barrow). 
-
-* **Diagnosing covert movement**. Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. [handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf)), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966).
+* **Diagnosing covert movement**. Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. [handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
 
 * **Unifying definite and indefinite free relatives: Evidence from Mayan**. Colloquium of the relative clause group, Goethe University, Frankfurk am Main, November 2016; NYU Brown Bag Lunch (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
