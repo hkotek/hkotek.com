@@ -32,16 +32,16 @@ Newest work
 
 ### Books: ###
 
-* Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press (under contract).
+* Kotek, Hadas. **Composing Questions**. Submitted. LI monograph, MIT Press (under contract; projected publication date: Fall 2018).
 
 * Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
 
 
 ### Journal papers: ###
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+* Barros, Matthew and Hadas Kotek. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
-* Barros, Matthew and Hadas Kotek. Submitted. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
+* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
 * Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
 
@@ -81,21 +81,35 @@ Recent and upcoming presentations
 * TBD. Cognitive semantics and quantities kick-off workshop. Institute for Logic,
 Language, and Computation, University of Amsterdam, September 2017.
 
-*  **Ellipsis licensing in sluicing: A QuD account**. Chicago Linguistic Society (CLS) 53, University of Chicago, May 2017 (with Matthew Barros, [handout](cls53-handout.pdf), [slides](cls53-slides.pdf)). 
+*  **Ellipsis licensing in sluicing: A QuD account**. 
+- *Chicago Linguistic Society (CLS) 53*, University of Chicago, May 2017. 
+- *Multiple questions about sluicing*, Yale University, April 2017; 
+- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017; 
+(with Matthew Barros; [handout](sluicing-handout.pdf), [slides](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)) 
 
-* **Stereotypical Gender Effects in 2016**. CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
+* **Stereotypical Gender Effects in 2016**. 
+CUNY Conference on Human Sentence Processing 30, MIT, April 2017 (with Margaret Grant, Jayun Bae and Jeffrey Lamontagne).
 
-*  **Ellipsis licensing in sluicing: A QuD account**. Multiple questions about sluicing, Yale University, April 2017 (with Matthew Barros; [handout](sluicing-handout.pdf), [slides](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
+* **Diagnosing covert movement**. 
+Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
 
-* **Scope restrictions in multiple sluicing and ellipsis licensing**. GLOW workshop on compositionality at the interfaces, Leiden University, March 2017 (with Matthew Barrow). 
+* **Unifying definite and indefinite free relatives: Evidence from Mayan**. 
+- NYU Brown Bag Lunch, December 2016. 
+- Colloquium of the relative clause group, Goethe University, Frankfurk am Main, November 2016; 
+(with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
 
-* **Diagnosing covert movement**. Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. [handout](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [slides](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
+* **Movement and alternatives don't mix: A new look at intervention effects**. 
+- *SURGE*, Rutgers University, November 2016; 
+- Linguistics Colloquium, Goethe University, Frankfurk am Main, November 2016;  
+- *North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016. 
+- *SynSem*, University of California, Los Angeles, June 2016; 
+([handout](nels2016-handout.pdf), [slides](nels2016-slides.pdf)).
 
-* **Unifying definite and indefinite free relatives: Evidence from Mayan**. Colloquium of the relative clause group, Goethe University, Frankfurk am Main, November 2016; NYU Brown Bag Lunch (with Michael Yoshitaka Erlewine; [handout](LSA90-handout.pdf), [slides](LSA90-slides.pdf)). 
-
-* **Movement and alternatives don't mix: A new look at intervention effects**. *NYU Brown Bag*, December 2016; *SURGE*, Rutgers University, November 2016; Linguistics Colloquium, Goethe University, Frankfurk am Main, November 2016;  *SynSem*, University of California, Los Angeles, June 2016; *Talk at the North East Linguistic Society (NELS) 47*, University of Massachusetts, Amherst, October 2016 ([handout](nels2016-handout.pdf), [slides](nels2016-slides.pdf)).
-
-* **Untangling Tanglewood using covert focus movement**. *Talk at Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016; *Poster at Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016 (with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
+* **Untangling Tanglewood using covert focus movement**. 
+- MIT workshop on exhaustivity, October 2016;
+- *Sinn und Bedeutung (SuB) 21*, Edinburgh, Scotland, September 2016; 
+- *Semantics and Linguistic Theory (SALT) 26*. University of Texas at Austin, May 2016.
+(with Michael Yoshitaka Erlewine; [poster](salt2016-poster.pdf), [slides from talk at Yale](Yale2016-Tanglewood-slides.pdf), [handout](Yale2016-Tanglewood-handout.pdf)).
 
 Additional details about these and other papers and presentations can be found on my [publications page](/publications). To read more about my various projects, visit the [research page](/research).
  

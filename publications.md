@@ -7,8 +7,8 @@ title: Publications
 
 Books
 -----
-in prep.
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Under contract)
+submitted
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Under contract; projection publication date: Fall 2018).
 
 2017 
 : Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
@@ -16,6 +16,9 @@ in prep.
 
 Journal articles and book chapters
 ----------------------------------
+
+to appear 
+: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 to appear
 : Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
@@ -125,14 +128,17 @@ Dissertation
 Submitted manuscripts
 ---------------------
 
-submitted 
-: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
-
-in revisions
-: Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
-
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
+
+submitted
+: Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
+
+submitted
+: Kotek, Hadas and Michael Yoshitaka Erlewine. ***Wh*-indeterminates in Chuj**.
+
+submitted
+: Michael Yoshitaka Erlewine and Hadas Kotek. **Don't lose the prejacent!**.
 
 
 Handouts and slides

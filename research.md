@@ -49,6 +49,9 @@ to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
 
 submitted
+: Kotek, Hadas and Michael Yoshitaka Erlewine. ***Wh*-indeterminates in Chuj**.
+
+submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
 
 
@@ -80,8 +83,8 @@ The syntax/semantics of *wh*-questions
 --------------------------------------
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
 
-in prep.
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (under contract)
+submitted
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Under contract; projection publication date: Fall 2018).
 
 2016
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
@@ -100,8 +103,8 @@ Scope restrictions in sluicing and ellipsis licensing
 -----------------------------------------------------
 In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
 
-submitted 
-: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](barros-kotek-sluicing.pdf).
+to appear 
+: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 
 Tools for online linguistic surveys
