@@ -14,13 +14,13 @@ to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
 to appear
-: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
-
-to appear
 : Kotek, Hadas. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of the 47th annual meeting of the North East Linguistic Society (NELS)*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
+
+2017
+: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
 
 2017
 : Kotek, Hadas. Questioning Superiority. [**A Pesky Set: Papers for David Pesetsky**](51Kotek.pdf). MIT Working Papers in Linguistics 80, eds. Halpert, Claire, Hadas Kotek, and Coppe van Urk, 457–466. Cambridge, MA: MITWPL.

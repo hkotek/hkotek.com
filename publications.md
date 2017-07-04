@@ -21,10 +21,13 @@ to appear
 : Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 to appear
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+
+2017
 : Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
 
-to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+2017
+: Kotek, Hadas. Questioning Superiority. [**A Pesky Set: Papers for David Pesetsky**](51Kotek.pdf). MIT Working Papers in Linguistics 80, eds. Halpert, Claire, Hadas Kotek, and Coppe van Urk, 457–466. Cambridge, MA: MITWPL.
 
 2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
@@ -48,7 +51,7 @@ to appear
 : Kotek, Hadas. [***Wh*-Fronting in a Two-Probe System**](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
 
 2013
-: Kotek, Hadas. **The syntax-semantics interface in Hebrew**. *Encyclopedia of Hebrew language and linguistics*, ed. Khan, Geoffrey. Boston: Brill publishing. Volume 3, 683-688. ISBN: 978-90-04-17642-3.
+: Kotek, Hadas. [**The syntax-semantics interface in Hebrew**](Kotek-EHLL.pdf). *Encyclopedia of Hebrew language and linguistics*, ed. Khan, Geoffrey. Boston: Brill publishing. Volume 3, 683-688. ISBN: 978-90-04-17642-3.
 
 2011
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. ISBN: 978-1-78052-374-3.
