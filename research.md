@@ -104,7 +104,7 @@ Scope restrictions in sluicing and ellipsis licensing
 In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
 
 to appear 
-: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 
 Tools for online linguistic surveys

@@ -18,7 +18,7 @@ Journal articles and book chapters
 ----------------------------------
 
 to appear 
-: Barros, Matthew and Hadas Kotek. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.

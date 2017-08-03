@@ -15,6 +15,7 @@ My research uses a variety of experimental techniques, including sentence proces
 * Pied-piping 
 * Intervention effects
 * Relative clauses, free relatives, and -ever free relatives
+* Sluicing and VP-ellipsis
 * Expletive negation 
 * Derivational economy and derivational timing
 * Additivity
@@ -28,7 +29,7 @@ For an updated list of my presentations and publications, please consult [my CV]
 Academic history
 ----------------
 
-I am currently a lecturer in semantics at [Yale University Department of Linguistics](http://ling.yale.edu/). Prior to moving to Yale I held a Mellon Postdoctoral Fellowship at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics), where my supervisor was [Junko Shimoyama](https://sites.google.com/site/junkoshimoyama/). 
+I am currently a Visiting Assistant Professor in Syntax at [NYU Department of Linguistics](http://as.nyu.edu/linguistics.html). Prior to joining NYU I was a lecturer in semantics at [Yale University Department of Linguistics](http://ling.yale.edu/). Before that I held a Mellon Postdoctoral Fellowship at [McGill University](https://www.mcgill.ca/linguistics/department-linguistics), where my supervisor was [Junko Shimoyama](https://sites.google.com/site/junkoshimoyama/). 
 
 I received my PhD from the [Department of Linguistics and Philosophy at MIT](http://web.mit.edu/linguistics/) in 2014, where I wrote [a dissertation](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc) on the syntax and semantics of *wh*-questions. My dissertation was co-chaired by [Danny Fox](http://web.mit.edu/linguistics/people/faculty/fox/index.html), [Martin Hackl](http://web.mit.edu/hackl/www/), [Irene Heim](http://web.mit.edu/linguistics/people/faculty/heim/), and [David Pesetsky](http://web.mit.edu/linguistics/people/faculty/pesetsky/). 
 

@@ -14,15 +14,15 @@ url: /
 Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play()"/>
 ===========
 
-	Yale University 
+	New York University 
 	Department of Linguistics
-	Dow Hall, 370 Temple St
-	New Haven, CT 06520-8366
+	10 Washington Pl
+	New York, NY 10003
 	
-	hadas.kotek at yale dot edu
+	hadas.kotek at nyu dot edu
 	
-
-I am a lecturer in Semantics in the Linguistics Department. I received my PhD from MIT in 2014, and prior to joining Yale I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
+	
+I am a Visiting Assistant Professor in Syntax at the NYU Department of Linguistics. I received my PhD from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining NYU I was a lecturer in Semantics at Yale University, and before then I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history.
 
@@ -39,7 +39,7 @@ Newest work
 
 ### Journal papers: ###
 
-* Barros, Matthew and Hadas Kotek. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+* Kotek, Hadas and Matthew Barros. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
@@ -78,7 +78,7 @@ Recent and upcoming presentations
 
 * TBD. Colloquium talk, Department of Linguistics, Stony Brook University, Fall 2017.
 
-* TBD. Cognitive semantics and quantities kick-off workshop. Institute for Logic,
+* TBD. [Cognitive semantics and quantities kick-off workshop](http://www.jakubszymanik.com/CoSaQ/events/kick-off-workshop/). Institute for Logic,
 Language, and Computation, University of Amsterdam, September 2017.
 
 *  **Ellipsis licensing in sluicing: A QuD account**. 
