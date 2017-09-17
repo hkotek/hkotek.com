@@ -14,9 +14,8 @@ My research uses a variety of experimental techniques, including sentence proces
 * Association with Focus 
 * Pied-piping 
 * Intervention effects
-* Relative clauses, free relatives, and -ever free relatives
 * Sluicing and VP-ellipsis
-* Expletive negation 
+* Relative clauses, free relatives, and -ever free relatives
 * Derivational economy and derivational timing
 * Additivity
 * Comparative and superlative quantifiers
