@@ -1,0 +1,226 @@
+# filler 1 ungrammatical
+The teacher played the girl with the doll.
+
+# filler 2 ungrammatical
+The councilor made the student skip the road.
+
+# filler 3 ungrammatical
+The photographer made the model smile a sandwich.
+
+# filler 4 ungrammatical
+The interrogator confessed the felon to the crime.
+
+# filler 5 ungrammatical
+The girl learned the pony a new trick.
+
+# filler 6 ungrammatical
+The manager made the receptionist greet some the cats.
+
+# filler 7 ungrammatical
+The seamstress fell the button to the floor.
+
+# filler 8 ungrammatical
+The farmer made the apple eat the cat.
+
+# filler 9 ungrammatical
+The boy colored the crayon a picture. 
+
+# filler 10 ungrammatical
+The waiter made the glass empty of wine.
+
+# filler 11 ungrammatical
+The programmer updated the computer the software.
+
+# filler 12 ungrammatical
+The artist made the camera use in black and white.
+
+
+# filler 13 grammatical
+The police protected the witness from the mafia.
+
+# filler 14 grammatical
+The principal made the boy stay after class.
+
+# filler 15 grammatical
+The politician hid the mistress from his wife.
+
+# filler 16 grammatical
+The police made the crowd scatter using fire hoses.
+
+# filler 17 grammatical
+The bully pushed the boy around in the yard.
+
+# filler 18 grammatical
+The flight attendant made the businessman fly economy.
+
+# filler 19 grammatical
+The carpenter broke the wall into several pieces.
+
+# filler 20 grammatical
+The magician made the rabbit vanish into thin air.
+
+# filler 21 grammatical
+The assistant developed the film in the darkroom.
+
+# filler 22 grammatical
+The mechanic made his apprentice take the car apart. 
+
+# filler 23 grammatical
+The mother bounced the baby on the trampoline.
+
+# filler 24 grammatical
+The teacher made his student read the note to the whole class.
+
+
+# target 1 inanimate-v
+The seaman sailed the boat every day.
+# target 1 animate-v
+The captain sailed the sailor in the race.
+# target 1 inanimate-make-v
+The seaman made the boat sail every day.
+# target 1 animate-make-v
+The captain made the sailor sail in the race.
+
+# target 2 inanimate-v
+The programmer ran the code on the new computer.
+# target 2 animate-v
+The coach ran the sprinter for 2 hours.
+# target 2 inanimate-make-v
+The programmer made the code run on the new computer.
+# target 2 animate-make-v
+The coach made the sprinter run for 2 hours.
+
+# target 4 inanimate-v
+The teacher stood the pen on its end.
+# target 4 animate-v
+The police stood the suspect in a line up.
+# target 4 inanimate-make-v
+The teacher made the pen stand on its end.
+# target 4 animate-make-v
+The police made the suspect stand in a line up.
+
+# target 5 inanimate-v
+The clown balanced the spoon on his nose.
+# target 5 animate-v
+The crowd balanced the daredevil on the rope.
+# target 5 inanimate-make-v
+The clown made the spoon balance on his nose.
+# target 5 animate-make-v
+The crowd made the daredevil balance on the rope.
+
+# target 6 inanimate-v
+The rider leaned the bike against the wall.
+# target 6 animate-v
+The officer leaned the gang against the wall.
+# target 6 inanimate-make-v
+The rider made the bike lean against the wall.
+# target 6 animate-make-v
+The officer made the gang lean against the wall.
+
+# target 7 inanimate-v
+The player swung the bat too early.
+# target 7 animate-v
+The trainer swung the monkey from a branch.
+# target 7 inanimate-make-v
+The player made the bat swing too early.
+# target 7 animate-make-v
+The trainer made the monkey swing from a branch.
+
+# target 8 inanimate-v
+The cook rested the cake in the oven.
+# target 8 animate-v
+The nurse rested the patient in bed.
+# target 8 inanimate-make-v
+The cook made the cake rest in the oven.
+# target 8 animate-make-v
+The nurse made the patient rest in bed.
+
+# target 9 inanimate-v
+The worker laid the plank on its side.
+# target 9 animate-v
+The negotiator laid the robber on the floor.
+# target 9 inanimate-make-v
+The worker made the plank lie on its side.
+# target 9 animate-make-v
+The negotiator made the robber lie on the floor.
+
+# target 10 inanimate-v
+The mailman slid the letter under the door.
+# target 10 animate-v
+The coach slid the skater on the ice.
+# target 10 inanimate-make-v
+The mailman made the letter slide under the door.
+# target 10 animate-make-v
+The coach made the skater slide on the ice.
+
+# target 11 inanimate-v
+The sculptor bent the wire in half.
+# target 11 animate-v
+The coach bent the gymnast backwards.
+# target 11 inanimate-make-v
+The sculptor made the wire bend in half.
+# target 11 animate-make-v
+The coach made the gymnast bend backwards.
+
+# target 13 inanimate-v
+The mother collapsed the stroller on the bus.
+# target 13 animate-v
+The amateur wrestler collapsed the champion to the floor.
+# target 13 inanimate-make-v
+The mother made the stroller collapse on the bus.
+# target 13 animate-make-v
+The amateur wrestler made the champion collapse to the floor.
+
+# target 14 inanimate-v
+The coach froze the ice pack before the game.
+# target 14 animate-v
+The police froze the robber in place.
+# target 14 inanimate-make-v
+The coach made the ice pack freeze before the game.
+# target 14 animate-make-v
+The police made the robber freeze in place.
+
+# target 15 inanimate-v
+The woman snapped the purse shut angrily.
+# target 15 animate-v
+The tutor snapped the pupil out of a dream.
+# target 15 inanimate-make-v
+The woman made the purse snap shut angrily.
+# target 15 animate-make-v
+The tutor made the pupil snap out of a dream.
+
+# target 16 inanimate-v
+The player slipped the puck towards the goal.
+# target 16 animate-v
+The prankster slipped the girl on the floor.
+# target 16 inanimate-make-v
+The player made the puck slip towards the goal.
+# target 16 animate-make-v
+The prankster made the girl slip on the floor.
+
+# target 17 inanimate-v
+The torpedo sank the battleship in the harbor.
+# target 17 animate-v
+The bully sank the swimmer to the bottom.
+# target 17 inanimate-make-v
+The torpedo made the battleship sink in the harbor.
+# target 17 animate-make-v
+The bully made the swimmer sink to the bottom.
+
+# target 20 inanimate-v
+The boys floated the raft on the river.
+# target 20 animate-v
+The instructor floated the boy in the pool.
+# target 20 inanimate-make-v
+The boys made the raft float on the river.
+# target 20 animate-make-v
+The instructor made the boy float in the pool.
+
+# target 21 inanimate-v
+The clown burst the balloon with a pin.
+# target 21 animate-v
+The magician burst the assistant out of a box.
+# target 21 inanimate-make-v
+The clown made the balloon burst with a pin.
+# target 21 animate-make-v
+The magician made the assistant burst out of a box.
