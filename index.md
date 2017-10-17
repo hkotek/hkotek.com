@@ -43,38 +43,42 @@ Newest work
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
 
-* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review*, selected papers from *GLOW* 38.
+* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
 
-* Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: http://doi.org/10.5334/gjgl.49. 
+* Kotek, Hadas. 2016. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: 10.5334/gjgl.49. 
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2016. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
 
-* Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. 2016. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: http://dx.doi.org/10.1016/j.brainres.2016.10.004.
+* Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. 2016. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). Brain Research 1652: 111–118. DOI: 10.1016/j.brainres.2016.10.004.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2016. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481–495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](http://turktools.net).
 
 
 ### Proceedings papers: ###
 
-* Kotek, Hadas. To appear. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of the 47th annual meeting of the North East Linguistic Society (NELS)*.
-
 * Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings of the 46th annual meeting of the North East Linguistic Society (NELS)*.
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Intervention tracks scope-rigidity in Japanese**](ErlewineKotek-LENLS14.pdf). *Proceedings of Logic and Engineering of Natural Language Semantics (LENLS) 14*.
+
+* Kotek, Hadas. 2017. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of North East Linguistic Society (NELS) 47*, eds. Andrew Lamont and Katerina Tetzloff. GSLA: Amherst, MA. Volume 2, 153–166.
+
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings North East Linguistic Society (NELS) 46*, eds. Christopher Hammerly and Brandon Prickett, GSLA: Amherst, MA. Volume 2, 241–254..
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2016. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
 
-* Kotek, Hadas. 2016. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
+* Kotek, Hadas. 2016. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Schöller.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2016. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Schöller.
 
 
 Recent and upcoming presentations
 ---------------------------------
+* TBD. Colloquium talk, Department of English Language and Literature, National
+University of Singapore, January 2018.
 
 * **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Josh Phillips)
 
@@ -82,9 +86,13 @@ Recent and upcoming presentations
 
 * **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel)
 
+* **Intervention tracks scope-rigidity in Japanese.** Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017. (with Michael Y. Erlewine)
+
+* TBD. Colloquium talk, Department of Linguistics, University of Pennsylvania, November 2017.
+
 * TBD. LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
 
-* TBD. Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
+* **Movement and alternatives don’t mix: a new look at intervention effects**. Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
 
 * **Quirks of subject *most***. [Cognitive semantics and quantities kick-off workshop](http://www.jakubszymanik.com/CoSaQ/events/kick-off-workshop/). Institute for Logic, Language, and Computation, University of Amsterdam, September 2017.
 
