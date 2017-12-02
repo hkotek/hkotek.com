@@ -62,6 +62,8 @@ Newest work
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Movement and alternatives don’t mix: Evidence from Japanese**](ErlewineKotek-AC2017.pdf). *Proceedings of the Amsterdam Colloquium (AC) 2017*.
+
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Intervention tracks scope-rigidity in Japanese**](ErlewineKotek-LENLS14.pdf). *Proceedings of Logic and Engineering of Natural Language Semantics (LENLS) 14*.
 
 * Kotek, Hadas. 2017. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of North East Linguistic Society (NELS) 47*, eds. Andrew Lamont and Katerina Tetzloff. GSLA: Amherst, MA. Volume 2, 153–166.
@@ -86,13 +88,15 @@ University of Singapore, January 2018.
 
 * **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel)
 
+* **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017. (with Michael Y. Erlewine)
+
+* **Which QuD?** (joint work with Matt Barros). LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
+
 * **Intervention tracks scope-rigidity in Japanese.** Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017. (with Michael Y. Erlewine)
 
-* TBD. Colloquium talk, Department of Linguistics, University of Pennsylvania, November 2017.
-
-* TBD. LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
-
-* **Movement and alternatives don’t mix: a new look at intervention effects**. Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
+* **Movement and alternatives don’t mix: a new look at intervention effects**. 
+	- Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
+	- Colloquium talk, Department of Linguistics, University of Pennsylvania, November 2017.
 
 * **Quirks of subject *most***. [Cognitive semantics and quantities kick-off workshop](http://www.jakubszymanik.com/CoSaQ/events/kick-off-workshop/). Institute for Logic, Language, and Computation, University of Amsterdam, September 2017.
 

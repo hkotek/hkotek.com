@@ -67,6 +67,9 @@ to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 2017 
+: Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Movement and alternatives don’t mix: Evidence from Japanese**](ErlewineKotek-AC2017.pdf). *Proceedings of the Amsterdam Colloquium (AC) 2017*.
+
+2017 
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Intervention tracks scope-rigidity in Japanese**](ErlewineKotek-LENLS14.pdf). *Proceedings of Logic and Engineering of Natural Language Semantics (LENLS) 14*.
 
 2017
