@@ -90,7 +90,7 @@ University of Singapore, January 2018.
 
 * **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017. (with Michael Y. Erlewine)
 
-* **Which QuD?** (joint work with Matt Barros). LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
+* **Which QuD?** (joint work with Matt Barros). LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017. [handout (from NYU presentation)](Barros-Kotek-Sem-equivalence.pdf)
 
 * **Intervention tracks scope-rigidity in Japanese.** Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017. (with Michael Y. Erlewine)
 
