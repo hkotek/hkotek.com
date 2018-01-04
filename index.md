@@ -82,7 +82,7 @@ Recent and upcoming presentations
 * TBD. Colloquium talk, Department of English Language and Literature, National
 University of Singapore, January 2018.
 
-* **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Josh Phillips)
+* **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Josh Phillips). [handout](Phillips-Kotek-otherwise.pdf)
 
 * **Intervention tracks scope-rigidity in Japanese**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Michael Y. Erlewine)
 
