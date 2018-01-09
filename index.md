@@ -79,14 +79,13 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
-* TBD. Colloquium talk, Department of English Language and Literature, National
-University of Singapore, January 2018.
+* Multiple sluicing, scope, and superiority: Consequences for ellipsis identity. Colloquium talk, Department of English Language and Literature, National University of Singapore, January 2018.
+
+* **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel). [slides](LSA2018_Gender-bias.pdf)
 
 * **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Josh Phillips). [handout](Phillips-Kotek-otherwise.pdf)
 
 * **Intervention tracks scope-rigidity in Japanese**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Michael Y. Erlewine)
-
-* **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018. (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel)
 
 * **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017. (with Michael Y. Erlewine)
 
