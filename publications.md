@@ -17,11 +17,14 @@ to appear
 Journal articles and book chapters
 ----------------------------------
 
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
+
 to appear 
-: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
 
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3).
 
 2017
 : Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
@@ -140,18 +143,12 @@ Submitted manuscripts
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
 
-in revisions
-: Kotek, Hadas and Michael Yoshitaka Erlewine. ***Wh*-indeterminates in Chuj**.
-
 submitted 
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Indefinite free relatives in Mayan:
 Lessons for the typology of free relatives and the nature of relative clause islands.**
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
-
-submitted
-: Michael Yoshitaka Erlewine and Hadas Kotek. **Don't lose the prejacent!**.
 
 
 Handouts and slides

@@ -39,9 +39,11 @@ Newest work
 
 ### Journal papers: ###
 
-* Kotek, Hadas and Matthew Barros. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+* Kotek, Hadas and Matthew Barros. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
+
+* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3).
 
 * Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
 

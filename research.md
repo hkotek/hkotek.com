@@ -10,8 +10,9 @@ Operations in Grammar
 ---------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
+
 to appear
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry*.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3).
 
 to appear
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
@@ -45,6 +46,9 @@ Non-interrogative uses of *wh*-words
 ------------------------------------
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
+to appear
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
+
 2018
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
@@ -53,9 +57,6 @@ Aside from their canonical interrogative use, *wh*-words in many languages are u
 
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
-
-submitted
-: Kotek, Hadas and Michael Yoshitaka Erlewine. ***Wh*-indeterminates in Chuj**.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
@@ -110,7 +111,7 @@ Scope restrictions in sluicing and ellipsis licensing
 In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
 
 to appear 
-: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry*.
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
 
 
 Tools for online linguistic surveys
