@@ -83,9 +83,9 @@ Recent and upcoming presentations
 ---------------------------------
 * **Some issues with sluicing as anaphora to issues**. West Coast Conference on Formal Linguistics (WCCFL) 36, University of California, Los Angeles, April 2018 (with Matt Barros).
 
-* **Which QuD?** (with Matt Barros). 
-    - GLOW colloquium 41, Budapest, April 2018.
-    - LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017. [**handout** (from NYU reading group presentation)](Barros-Kotek-Sem-equivalence.pdf)
+* **Which QuD?** (with Matt Barros; [**handout**](Barros-Kotek-GLOW41-handout.pdf), [**slides**](Barros-Kotek-GLOW41-slides.pdf)). 
+    - GLOW colloquium 41, Budapest, April 2018. 
+    - LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
 
 * **A selective ban on syntactic scope-taking**. 
     - Colloquium talk, Department of Linguistics, University of Illinois at Urbana-Champaign, February 2018.
@@ -93,15 +93,15 @@ Recent and upcoming presentations
 
 * **Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**. Colloquium talk, Department of English Language and Literature, National University of Singapore, January 2018.
 
-* **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel). [**slides**](LSA2018_Gender-bias.pdf)
+* **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel; [**slides**](LSA2018_Gender-bias.pdf)).
 
-* **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Josh Phillips). [**handout**](Phillips-Kotek-otherwise.pdf)
+* **Dynamic updates and the semantics of ’otherwise’**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Josh Phillips; [**handout**](Phillips-Kotek-otherwise.pdf)).
 
-* **Intervention tracks scope-rigidity in Japanese** (with Michael Y. Erlewine).
+* **Intervention tracks scope-rigidity in Japanese** (with Michael Y. Erlewine; [**handout**](ErlewineKotek-LSA2018-handout.pdf), [**slides**](ErlewineKotek-LSA2018-slides.pdf)).
     - Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018.
-    - Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017.
+    - Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017. 
 
-* **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017. (with Michael Y. Erlewine)
+* **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017 (with Michael Y. Erlewine; [**handout**](ErlewineKotek-AC2017-handout.pdf), [**slides**](ErlewineKotek-AC2017-slides.pdf))
 
 * **Movement and alternatives don’t mix: a new look at intervention effects**. 
 	- Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
@@ -113,11 +113,11 @@ Recent and upcoming presentations
 Recorded talks
 --------------
 
-*  **Ellipsis licensing in sluicing: A QuD account**. 
+*  **Ellipsis licensing in sluicing: A QuD account** (with Matthew Barros; [**handout**](sluicing-handout.pdf), [**slides**](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
 	- *Chicago Linguistic Society (CLS) 53*, University of Chicago, May 2017. 
 	- *Multiple questions about sluicing*, Yale University, April 2017;
 	- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017; 
-(with Matthew Barros; [**handout**](sluicing-handout.pdf), [**slides**](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)) 
+
 
 * **Diagnosing covert movement**. 
 Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([**handout**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [**slides**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
