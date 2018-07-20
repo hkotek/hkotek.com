@@ -14,15 +14,14 @@ url: /
 Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play()"/>
 ===========
 
-	New York University 
-	Department of Linguistics
-	10 Washington Pl
-	New York, NY 10003
+    Yale University
+    Department of Linguistics 
+    Dow Hall, 370 Temple Stree
+    New Haven, CT 06520-8366	
+	hadas.kotek at yale dot edu
 	
-	hadas.kotek at nyu dot edu
 	
-	
-I am a Visiting Assistant Professor in Syntax at the NYU Department of Linguistics. I received my PhD from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining NYU I was a lecturer in Semantics at Yale University, and before then I held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
+I am a Lecturer in Semantics at the Yale Department of Linguistics. I received my PhD from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Yale I was a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history.
 
@@ -43,7 +42,7 @@ Newest work
 
 * Kotek, Hadas and Matthew Barros. To appear. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3).
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3): 441–463.
 
 * Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
 
@@ -81,6 +80,9 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
+
+* **Updates & discourse anaphora: a dynamic approach to ‘otherwise’**. North East Linguistic Society (NELS) 49, Cornell University, October 2018 (with Josh Philips).
+
 * **Some issues with sluicing as anaphora to issues**. West Coast Conference on Formal Linguistics (WCCFL) 36, University of California, Los Angeles, April 2018 (with Matt Barros).
 
 * **Which QuD?** (with Matt Barros; [**handout**](Barros-Kotek-GLOW41-handout.pdf), [**slides**](Barros-Kotek-GLOW41-slides.pdf)). 
@@ -117,7 +119,6 @@ Recorded talks
 	- *Chicago Linguistic Society (CLS) 53*, University of Chicago, May 2017. 
 	- *Multiple questions about sluicing*, Yale University, April 2017;
 	- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017; 
-
 
 * **Diagnosing covert movement**. 
 Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([**handout**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [**slides**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
