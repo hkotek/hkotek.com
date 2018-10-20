@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-My research concentrates different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different (but related) research projects.
+My research concentrates on different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different (but related) research projects.
 
 
 Operations in Grammar
@@ -11,7 +11,7 @@ Operations in Grammar
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
 
-to appear
+2018
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 2018
@@ -91,7 +91,7 @@ The syntax/semantics of *wh*-questions
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
 
 in press
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Projected publication date: Spring 2019).
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Planned publication date: Spring 2019).
 
 2016
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
@@ -110,8 +110,11 @@ Scope restrictions in sluicing and ellipsis licensing
 -----------------------------------------------------
 In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
 
-to appear 
-: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
+2018 
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
+
+submitted
+: Kotek, Hadas and Matthew Barros. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). 
 
 
 Tools for online linguistic surveys

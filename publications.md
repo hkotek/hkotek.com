@@ -8,7 +8,7 @@ title: Publications
 Books
 -----
 to appear
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Projected publication date: Spring 2019).
+: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Planned publication date: Spring 2019).
 
 2017 
 : Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
@@ -20,8 +20,8 @@ Journal articles and book chapters
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
-to appear 
-: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4).
+2018 
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
 
 2018
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3): 441–463.
@@ -63,7 +63,7 @@ to appear
 Proceedings papers
 ------------------
 
-to appear
+2018
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 2018
@@ -142,6 +142,9 @@ Submitted manuscripts
 
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
+
+submitted
+: Kotek, Hadas and Matthew Barros. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). 
 
 submitted 
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Indefinite free relatives in Mayan:
