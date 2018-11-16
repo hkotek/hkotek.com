@@ -17,6 +17,9 @@ to appear
 Journal articles and book chapters
 ----------------------------------
 
+accepted
+: Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*.
+
 to appear
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
@@ -143,8 +146,8 @@ Submitted manuscripts
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
 
-submitted
-: Kotek, Hadas and Matthew Barros. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). 
+submitted 
+: Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
 
 submitted 
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Indefinite free relatives in Mayan:
