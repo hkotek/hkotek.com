@@ -51,7 +51,7 @@ Newest work
 
 ### Proceedings papers: ###
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. To appear. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
+* Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2018. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
