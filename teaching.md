@@ -3,7 +3,33 @@ layout: default
 title: Teaching
 ---
 
-**Illusions of Language [Spring 2017, Spring 2019]:**
+<script src="/js/zepto.min.js"></script>
+<script>
+Zepto(function($){
+	$('h2').each(function(i,dt){
+		var that = $(this);
+		// if the next and next next exist and are not dts
+		
+		if (that.next().length) {
+			var desc = that.next();
+			
+			while (desc.last().next().length && !desc.last().next('h2').length) {
+				desc.push(desc.last().next());
+			}
+		
+			that
+			.css('cursor','pointer')
+			.on('click', function() {
+				desc.toggle();
+			});
+			
+			desc.toggle();
+		}
+	});
+});
+</script>
+
+## Illusions of Language [Spring 2017, Spring 2019]
 
 Freshman seminar, Yale University. Blurb: 
 
@@ -11,9 +37,8 @@ In order to understand language, speakers must successfully navigate complex lin
 
 [**Syllabus**](syllabus-illusions.pdf)
 
---------------
 
-**Syntax 2 [Spring 2019]:**
+## Syntax 2 [Spring 2019]
 
 Advanced syntax for undergraduate and graduate students, Yale University. Blurb: 
 
@@ -29,9 +54,8 @@ Theoretical topics addressed will include (at least some aspects of) the followi
 
 [**Syllabus**](syllabus-syntax2.pdf)
 
---------------
 
-**Research methods [Fall 2018]:**
+## Research methods [Fall 2018]
 
 Research methods for undergraduate seniors, Yale University. Blurb: 
 
@@ -49,9 +73,8 @@ The second goal is to help you develop professional skills that are useful for y
 
 [**Syllabus**](syllabus-methods.pdf)
 
---------------
 
-**Semantics 1 [Fall 2016, Fall 2018]:**
+## Semantics 1 [Fall 2016, Fall 2018]
 
 Introduction to semantics for undergraduate and graduate students, Yale University. Blurb: 
 
@@ -62,9 +85,8 @@ adverbs, and modals.
 
 [**Syllabus**](syllabus-semantics1.pdf)
 
---------------
 
-**Special Topics: The Syntax of Ellipsis [Winter 2015, Spring 2018]:**
+## Special Topics: The Syntax of Ellipsis [Winter 2015, Spring 2018]
 
 Undergraduate seminar, McGill University (2015) and NYU (2018). Blurb:
 
@@ -72,9 +94,8 @@ Under certain conditions, linguistic material can be omitted from an utterance b
 
 [**Syllabus**](syllabus-ellipsis.pdf), [**Materials**](http://hkotek.com/teaching/ellipsis/index)
 
---------------
 
-**Language [=Introduction to Linguistics, Spring 2018]:**
+## Language [=Introduction to Linguistics, Spring 2018]
 
 This class will provide some answers to basic questions about the nature of human language. Throughout the
 course, we will be examining a number of ways in which human language is a complex but law-governed
@@ -85,9 +106,9 @@ assignments and exams.
 
 [**Syllabus**](syllabus-language.pdf)
 
---------------
 
-***Wh*-constructions cross-linguistically [Fall 2017]:**
+
+## *Wh*-constructions cross-linguistically [Fall 2017]
 
 Graduate syntax seminar, New York University. Blurb: 
 
@@ -95,9 +116,9 @@ This seminar will investigate the syntax/semantics of diverse *wh*-constructions
 
 [**Syllabus**](syllabus-wh-NYU.pdf)
 
---------------
 
-**Grammatical Analysis [=Syntax 1, Fall 2017]:**
+
+## Grammatical Analysis [=Syntax 1, Fall 2017]
 
 Undergraduate introduction to syntax, New York University. Blurb: 
 
@@ -107,9 +128,9 @@ This course is an undergraduate-level introduction to modern syntactic theory. E
 
 [**Syllabus**](syllabus-GA.pdf)
 
---------------
 
-**Semantics 2 [Spring 2017]:**
+
+## Semantics 2 [Spring 2017]
 
 Advanced course in semantics for undergraduate and graduate students, Yale University. Blurb: 
 
@@ -117,9 +138,9 @@ This course is the second course in sequence with LING 263/663, which is a prere
 
 [**Syllabus**](syllabus-semantics2.pdf)
 
---------------
 
-**Questions and focus [Fall 2016]:**
+
+## Questions and focus [Fall 2016]
 
 Undergraduate/graduate seminar on the syntax and semantics of questions and focus, Yale University. 
 
@@ -127,9 +148,9 @@ See Fall 2014 for materials.
 
 [**Syllabus**](syllabus-wh-focus-yale.pdf)
 
---------------
 
-**Introduction to the Study of Language [Winter 2016]:**
+
+## Introduction to the Study of Language [Winter 2016]
 
 Introduction to linguistics for non-majors, McGill University. Blurb: 
 
@@ -137,9 +158,9 @@ This class will provide some answers to basic questions about the nature of huma
 
 [**Syllabus**](syllabusLING200.pdf), [**Materials**](http://hkotek.com/teaching/intro2015/index)
 
---------------
 
-**Introduction to Linguistics [Winter 2016]:**
+
+## Introduction to Linguistics [Winter 2016]
 
 Introduction to linguistics for majors, McGill University. Blurb: 
 
@@ -147,9 +168,9 @@ This course is an introduction to linguistic theory and analysis. Topics covered
 
 [**Syllabus**](syllabus-LING201.pdf)
 
---------------
 
-**Questions, focus, and friends [Fall 2014]:**
+
+## Questions, focus, and friends [Fall 2014]
 
 Graduate seminar, McGill University. Blurb:
 
@@ -164,11 +185,12 @@ Requirements for registered students will include infrequent homework assignment
 
 This seminar led to a Winter semester reading group on *wh*-indefinites: [**Materials**](http://hkotek.com/teaching/wh-indefs/index).
 
---------------
 
-**Turkshop [Spring 2013]:** 
+
+## Turkshop [Spring 2013]
 
 Workshop at the Experimental Syntax/Semantics lab at MIT department of Linguistics on the use of Amazon's Mechanical Turk, introducing [**turktools**](turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
 
 [**Materials from MIT workshop (2013)**](http://web.mit.edu/hackl/www/lab/turkshop/); 
 [**Materials from NYU tutorial (2017)**](http://hkotek.com/turk/index.html)
+
