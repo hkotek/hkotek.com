@@ -8,7 +8,7 @@ title: Publications
 Books
 -----
 2019
-: Kotek, Hadas. **Composing Questions**. Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press. 
+: Kotek, Hadas. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press. 
 
 2017 
 : Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.

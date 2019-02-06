@@ -93,7 +93,7 @@ The syntax/semantics of *wh*-questions
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
 
 2019
-: Kotek, Hadas. **Composing Questions**. Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press.
+: Kotek, Hadas. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press.
 
 2016
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
