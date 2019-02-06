@@ -48,7 +48,7 @@ Non-interrogative uses of *wh*-words
 ------------------------------------
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
-to appear
+2019
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
 2018
@@ -92,8 +92,8 @@ The syntax/semantics of *wh*-questions
 --------------------------------------
 This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
 
-in press
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Planned publication date: Spring 2019).
+2019
+: Kotek, Hadas. **Composing Questions**. Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press.
 
 2016
 : Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.

@@ -31,7 +31,7 @@ Newest work
 
 ### Books: ###
 
-* Kotek, Hadas. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). In press. LI monograph, MIT Press. (Planned publication date: Spring 2019).
+* Kotek, Hadas. 2019. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistics Inquiry Monograph series. Cambridge, MA: MIT Press.
 
 * Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
 
@@ -40,7 +40,7 @@ Newest work
 
 * Barros, Matthew and Hadas Kotek. Accepted. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*. 
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. To appear. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
 * Kotek, Hadas and Matthew Barros. 2018. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
 
@@ -65,6 +65,12 @@ Newest work
 Recent and upcoming presentations
 ---------------------------------
 
+* TBD. Colloquium talk, Yale University, April 2019. 
+
+* **Semantic Identity under Discussion**. Invited talk, [Sluicing+@50](https://voices.uchicago.edu/sluicingat50/), University of Chicago, April 2019 (with Matt Barros).
+
+* **Diagnosing covert syntax: Lessons from *wh*-in-situ**. Colloquium talk, University of Pennsylvania, January 2019.
+
 * **Some issues with sluicing as anaphora to issues** (with Matt Barros).
     - Linguistic Society of America (LSA) 93, New York City, January 2019.
     - West Coast Conference on Formal Linguistics (WCCFL) 36, University of California, Los Angeles, April 2018.
@@ -72,30 +78,6 @@ Recent and upcoming presentations
 * **Updates & discourse anaphora: a dynamic approach to ‘otherwise’** (with Josh Philips; [**handout**](Phillips-Kotek-otherwise.pdf)). 
     - North East Linguistic Society (NELS) 49, Cornell University, October 2018 .
     - Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018.
-
-* **Which QuD?** (with Matt Barros; [**handout**](Barros-Kotek-GLOW41-handout.pdf), [**slides**](Barros-Kotek-GLOW41-slides.pdf)). 
-    - GLOW colloquium 41, Budapest, April 2018. 
-    - LingLangLunch talk, Department of Cognitive, Linguistic & Psychological Sciences, Brown University, November 2017.
-
-* **A selective ban on syntactic scope-taking**. 
-    - Colloquium talk, Department of Linguistics, University of Illinois at Urbana-Champaign, February 2018.
-    - Colloquium talk, Department of Linguistics, University of Toronto, February 2018.
-
-* **Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**. Colloquium talk, Department of English Language and Literature, National University of Singapore, January 2018.
-
-* **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018 (with Katharina Pabst, Paola Cépeda, Kristen Syrett, Katharine Donelson, and Miranda McCarvel; [**slides**](LSA2018_Gender-bias.pdf)).
-
-* **Intervention tracks scope-rigidity in Japanese** (with Michael Y. Erlewine; [**handout**](ErlewineKotek-LSA2018-handout.pdf), [**slides**](ErlewineKotek-LSA2018-slides.pdf)).
-    - Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018.
-    - Logic and Engineering of Natural Language Semantics (LENLS) 14, University of Tsukuba, Tokyo, Japan, November 2017. 
-
-* **Movement and alternatives don’t mix: Evidence from Japanese.** The Amsterdam Colloquium (AC), University of Amsterdam, December 2017 (with Michael Y. Erlewine; [**handout**](ErlewineKotek-AC2017-handout.pdf), [**slides**](ErlewineKotek-AC2017-slides.pdf))
-
-* **Movement and alternatives don’t mix: a new look at intervention effects**. 
-	- Colloquium talk, Department of Linguistics, Stony Brook University, October 2017.
-	- Colloquium talk, Department of Linguistics, University of Pennsylvania, November 2017.
-
-* **Quirks of subject *most***. [Cognitive semantics and quantities kick-off workshop](http://www.jakubszymanik.com/CoSaQ/events/kick-off-workshop/). Institute for Logic, Language, and Computation, University of Amsterdam, September 2017.
 
 
 Recorded talks

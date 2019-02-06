@@ -7,8 +7,8 @@ title: Publications
 
 Books
 -----
-to appear
-: Kotek, Hadas. **Composing Questions**. LI monograph, MIT Press. (Planned publication date: Spring 2019).
+2019
+: Kotek, Hadas. **Composing Questions**. Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press. 
 
 2017 
 : Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
@@ -20,7 +20,7 @@ Journal articles and book chapters
 accepted
 : Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*.
 
-to appear
+2019
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
 
 2018 
