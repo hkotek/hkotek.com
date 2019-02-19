@@ -40,13 +40,13 @@ Newest work
 
 * Barros, Matthew and Hadas Kotek. Accepted. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*. 
 
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
+* Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
 
 * Kotek, Hadas and Matthew Barros. 2018. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3): 441–463.
 
-* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
+* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. 
 
 
 ### Proceedings papers: ###
@@ -64,6 +64,9 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
+
+* TBD. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
+
 
 * TBD. Colloquium talk, Yale University, April 2019. 
 

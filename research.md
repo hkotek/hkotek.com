@@ -29,13 +29,13 @@ submitted
 : Kotek, Hadas. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings North East Linguistic Society (NELS) 47*, eds. Andrew Lamont and Katerina Tetzloff. GSLA: Amherst, MA. Volume 2, 153–166.
 
 2017
-: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. DOI: 10.1515/tlr-2017-0005.
+: Kotek, Hadas. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2): 397–417. 
 
 2017
 : Kotek, Hadas. Questioning Superiority. [**A Pesky Set: Papers for David Pesetsky**](51Kotek.pdf). MIT Working Papers in Linguistics 80, eds. Halpert, Claire, Hadas Kotek, and Coppe van Urk, 457–466. Cambridge, MA: MITWPL.
 
 2016
-: Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25:1--19. DOI: 10.5334/gjgl.49. 
+: Hadas Kotek. [**Covert partial *wh*-movement and the nature of derivations**](http://ling.auf.net/lingbuzz/002541/current.pdf?_s=TVHKDbQKt4hwC4kt). In *Glossa: a journal of general linguistics* 1(1), 25: 1-19. 
 
 2016
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Tanglewood untangled**](salt26.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 26*, eds. Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf, 224–243.
@@ -49,7 +49,7 @@ Non-interrogative uses of *wh*-words
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
 
 2019
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [***Wh*-indeterminates in Chuj (Mayan)**](http://ling.auf.net/lingbuzz/003954). *The Canadian Journal of Linguistics*.
+: Kotek, Hadas and Michael Yoshitaka Erlewine.  [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *Canadian Journal of Linguistics* 64(1): 62–101.
 
 2018
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
@@ -58,7 +58,7 @@ Aside from their canonical interrogative use, *wh*-words in many languages are u
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Unifying definite and indefinite free relatives: Evidence from Mayan**](nels46.pdf). *Proceedings North East Linguistic Society (NELS) 46*, eds. Christopher Hammerly and Brandon Prickett, GSLA: Amherst, MA. Volume 2, 241–254.
 
 2016
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4), 129–166. ISSN: 0098-9053.
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**Even-NPIs in Dharamsala Tibetan**](erlewine-kotek-tibetan.pdf). *Linguistic Analysis: Special Issue on South Asian morphosyntax* 40(3-4): 129–166.
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
@@ -70,7 +70,7 @@ Intervention effects
 This work investigates the nature of *intervention effects* in A-bar constructions. It is shown that intervention can be used as a diagnostic of underlying syntactic structures, in particular distinguishing between regions where focus-alternatives are computed and areas where covert movement has occurred. This diagnostic informs our understanding of a variety of A-bar and pied-piping phenomena in *wh*-questions, Association with Focus constructions, and relative clauses.
 
 2016
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. DOI: 10.1162/ ling_a_00226.
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Covert pied-piping in English multiple *wh*-questions**](https://muse.jhu.edu/article/634143). *Linguistic Inquiry* 47(4): 669–693. 
 
 2016
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Intervention effects in relative pronoun pied-piping: experimental evidence**](kotek-erlewine-sub20.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
@@ -126,7 +126,7 @@ Together with [Michael Yoshitaka Erlewine](http://mitcho.com/academic/), we deve
 Tools available at: [turktools.net](http://turktools.net).
 
 2016
-: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. DOI: 10.1007/s11049-015-9305-9 (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
+: Erlewine, Michael Yoshitaka and Hadas Kotek. [**A streamlined approach to online linguistic surveys**](http://link.springer.com/article/10.1007/s11049-015-9305-9). *Natural Language & Linguistic Theory* 34(2), 481-495. (includes an online Appendix). Tools available at: [turktools.net](turktools.net).
 
 
 The syntax and semantics of *most*
@@ -134,13 +134,13 @@ The syntax and semantics of *most*
 This work focuses on the syntax, semantics, and processing behavior of *most* in subject position. We argue that *most* is ambiguous between a *proportional* reading, which can be paraphrased as 'more than half,' and a *superlative* reading, which is usually associated with the determiner *the most*. Evidence comes from an array of experiments and from judgment data. 
 
 2015
-: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156.  DOI: 10.1007/s11050-015-9113-0.
+: Kotek, Hadas, Yasutada Sudo, and Martin Hackl. [**Experimental investigations of ambiguity: The case of *most***](http://semanticsarchive.net/Archive/TliOGUyM/most-final.pdf). *Natural Language Semantics* 23(2): 119-156.
 
 2012
 : Kotek, Hadas, Yasutada Sudo, and Martin Hackl. ***Many* readings of *Most*** ([handout](Kotek%20-%20Many%20readings%20of%20most.pdf)). *Presentation at Chicago Linguistic Society (CLS) 48*.
 
 2011
-: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. ISBN: 978-1-78052-374-3.
+: Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. Bingley, UK: Emerald Publications.
 
 2011
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [**Three Readings of *Most***](Three%20readings%20of%20most-final.pdf). *Proceedings of Semantics and Linguistic Theory (SALT) 21*, eds. Ashton, Neil, Anca Chereches and David Lutz, 353-372.
@@ -151,7 +151,7 @@ Understanding Hebrew questions
 This work concentrates on the syntax and semantics of Hebrew questions. I argue that Hebrew syntax distinguishes two kinds of *wh*-phrases: those headed by a *wh*-element and those headed by another element. I furthermore investigate the possible meaning multiple questions in Hebrew. 
 
 2014
-: Kotek, Hadas. [***Wh*-Fronting in a Two-Probe System**](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4):1105-1143, DOI 10.1007/s11049-014-9238-8.
+: Kotek, Hadas. [***Wh*-Fronting in a Two-Probe System**](http://link.springer.com/article/10.1007/s11049-014-9238-8?sa_campaign=email%2Fevent%2FarticleAuthor%2FonlineFirst). *Natural Language & Linguistic Theory* 32(4): 1105-1143.
 
 2012
 : Kotek, Hadas. [**Readings of Hebrew multiple questions**](KotekWCCFL30revised2.pdf). *Proceedings West Coast Conference on Formal Linguistics (WCCFL) 30*, eds. Nathan Arnett and Ryan Bennett, 216-225. Somerville, MA: Cascadilla Proceedings Project.
@@ -181,7 +181,7 @@ Automaticity in L2 language acquisition
 A project studying the automaticity of speech perception in second language acquisition of Japanese by native speakers of English, using ERPs and MEG. We show that as little as one semester of classroom experience with Japanese enhances discrimination of a phonemic contrast not found in English, but that L2 speech processing is still less automatic than for L1 listeners. The project furthermore examines whether changes in performance are more strongly related to the number of contact classroom hours, or the intensity of hours, and shows that duration of study plays an important role. (Lead investigator: [Miwako Hisagi](http://www.linguistics.uconn.edu/profile/hisagi.html).)
 
 2016
-: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). *Brain Research* 1652: 111–118. DOI: 10.1016/j.brainres.2016.10.004.
+: Hisagi, Miwako, Valerie L. Shafer, Shigeru Miyagawa, Hadas Kotek, Ayaka Sugawara, and Dimitrios Pantazis. [**Second-language learning effects on automaticity of speech processing of Japanese phonetic contrasts: An MEG study**](http://www.sciencedirect.com/science/article/pii/S0006899316306977). *Brain Research* 1652: 111–118.
 
 
 2014 
