@@ -14,14 +14,11 @@ url: /
 Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play()"/>
 ===========
 
-    Yale University
-    Department of Linguistics 
-    Dow Hall, 370 Temple Stree
-    New Haven, CT 06520-8366	
-	hadas.kotek at yale dot edu
+    Apple Park, Cupertino, CA
+    hkotek at alum.mit.edu
 	
-	
-I am a Lecturer in Semantics at the Yale Department of Linguistics. I received my PhD from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Yale I was a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
+
+I am a Linguist working at Apple. My role involves improving Siri's Natural Language Understanding. I received my PhD in Linguistic from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty lies in generative syntax and its interaction with formal semantics. The goal of my research is to develop an understanding of the inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history.
 
@@ -46,33 +43,24 @@ Newest work
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3): 441–463.
 
-* Kotek, Hadas. 2017. [**Dissociating intervention effects from superiority in English *wh*-questions**](kotek-superiority.pdf). *The Linguistic Review* 34(2), 397–417. 
-
 
 ### Proceedings papers: ###
+
+* Phillips, Josh and Hadas Kotek. 2019. [**Updates & discourse anaphora: a dynamic approach to *otherwise***](NELS49-PhillipsKotek.pdf). Proceedings of the North East Linguistic Society (NELS) 49.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2018. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
 
-* Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Movement and alternatives don’t mix: Evidence from Japanese**](ErlewineKotek-AC2017.pdf). *Proceedings of the Amsterdam Colloquium (AC) 2017*.
-
-* Erlewine, Michael Yoshitaka and Hadas Kotek. 2017. [**Intervention tracks scope-rigidity in Japanese**](ErlewineKotek-LENLS14.pdf). *Proceedings of Logic and Engineering of Natural Language Semantics (LENLS) 14*.
-
-* Kotek, Hadas. 2017. [**Intervention effects arise from scope-taking across alternatives**](nels47.pdf). *Proceedings of North East Linguistic Society (NELS) 47*, eds. Andrew Lamont and Katerina Tetzloff. GSLA: Amherst, MA. Volume 2, 153–166.
-
 
 Recent and upcoming presentations
 ---------------------------------
 
-* TBD. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
+* **Intervention tracks scope-rigidity in Japanese and English**. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
 
-
-* TBD. Colloquium talk, Yale University, April 2019. 
+* **Diagnosing covert syntax: Lessons from *wh*-in-situ**. Colloquium talk; Yale University, April 2019; University of Pennsylvania, January 2019.
 
 * **Semantic Identity under Discussion**. Invited talk, [Sluicing+@50](https://voices.uchicago.edu/sluicingat50/), University of Chicago, April 2019 (with Matt Barros).
-
-* **Diagnosing covert syntax: Lessons from *wh*-in-situ**. Colloquium talk, University of Pennsylvania, January 2019.
 
 * **Some issues with sluicing as anaphora to issues** (with Matt Barros).
     - Linguistic Society of America (LSA) 93, New York City, January 2019.
