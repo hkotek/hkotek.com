@@ -37,7 +37,7 @@ Newest work
 
 ### Journal papers: ###
 
-* Barros, Matthew and Hadas Kotek. Accepted. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*. 
+* Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
 
@@ -48,6 +48,8 @@ Newest work
 
 ### Proceedings papers: ###
 
+* Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript (submitted).
+
 * Phillips, Josh and Hadas Kotek. 2019. [**Updates & discourse anaphora: a dynamic approach to *otherwise***](NELS49-PhillipsKotek.pdf). Proceedings of the North East Linguistic Society (NELS) 49.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
@@ -57,6 +59,10 @@ Newest work
 
 Recent and upcoming presentations
 ---------------------------------
+
+* **Sluicing with complement coercion: An argument for focus-based semantic identity**. Linguistic Society of America (LSA) 94, New Orleans, January 2020.
+
+* **Gender bias in linguistic example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
 
 * **Intervention tracks scope-rigidity in Japanese and English**. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
 
