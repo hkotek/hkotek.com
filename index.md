@@ -37,14 +37,8 @@ Newest work
 
 ### Journal papers: ###
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 * Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript (submitted).
 
-=======
->>>>>>> origin/gh-pages
->>>>>>> Stashed changes
 * Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
@@ -68,22 +62,17 @@ Newest work
 Recent and upcoming presentations
 ---------------------------------
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 * [**Gender bias in linguistic example sentences**](LSA2020-gender-journals.pdf) (with Rikker Dockum, Sarah Babinski, and Christopher Geissler). Linguistic Society of America (LSA) 94, New Orleans, January 2020. 
 
 * [**Ellipsis with mismatched antecedents**](LSA2020-mismatched-antecedents.pdf). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
 
 * [**Intervention tracks scope-rigidity in Japanese and English**] ([**handout**](intervention-scope-handout.pdf), [**slides**](intervention-scope-slides.pdf)). [**Workshop on Approaches to *wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
-=======
->>>>>>> Stashed changes
+
 * **Sluicing with complement coercion: An argument for focus-based semantic identity**. Linguistic Society of America (LSA) 94, New Orleans, January 2020.
 
 * **Gender bias in linguistic example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
 
 * **Intervention tracks scope-rigidity in Japanese and English**. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
->>>>>>> origin/gh-pages
 
 * **Diagnosing covert syntax: Lessons from *wh*-in-situ** ([**handout**](diagnosing-covert-syntax-handout.pdf), [**slides**](diagnosing-covert-syntax-slides.pdf)). Colloquium talk; Yale University, April 2019; University of Pennsylvania, January 2019.
 
