@@ -18,7 +18,9 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     hkotek at alum.mit.edu
 	
 
-I am a Linguist working at Apple. My role involves improving Siri's Natural Language Understanding. Specifically, I lead Siri's NL Understanding Annotation projects. This includes contributing to ontology development and design; creating annotation guidelines and trainings; establishing metrics to measure annotator productivity, accuracy, and throughput; interfacing with data scientists and engineers to develop annotation projects; managing and setting project priorities to align with organization-wide milestones and guidelines; and coordinating with vendors and Finance.
+I am a Linguist working at Apple. My role involves improving Siri's Natural Language Understanding. Specifically, I lead Siri's NL Understanding Annotation projects. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; creating annotation guidelines and trainings; establishing metrics to measure annotator productivity, accuracy, and throughput; interfacing with data scientists and engineers to develop annotation projects; managing and setting project priorities to align with organization-wide milestones and guidelines; and coordinating with vendors and Finance.
+
+Although I am not currently teaching at a university, I still accept some advising requests. If you are on this site for this reason, email me at the above address. 
 
 I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty is in understanding the cognitive constraints on the structure of human language, with the goal of developing an inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
@@ -50,8 +52,6 @@ Newest work
 
 ### Proceedings papers: ###
 
-* Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript (submitted).
-
 * Phillips, Josh and Hadas Kotek. 2019. [**Updates & discourse anaphora: a dynamic approach to *otherwise***](NELS49-PhillipsKotek.pdf). Proceedings of the North East Linguistic Society (NELS) 49.
 
 * Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
@@ -66,13 +66,7 @@ Recent and upcoming presentations
 
 * [**Ellipsis with mismatched antecedents**](LSA2020-mismatched-antecedents.pdf). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
 
-* [**Intervention tracks scope-rigidity in Japanese and English**] ([**handout**](intervention-scope-handout.pdf), [**slides**](intervention-scope-slides.pdf)). [**Workshop on Approaches to *wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
-
-* **Sluicing with complement coercion: An argument for focus-based semantic identity**. Linguistic Society of America (LSA) 94, New Orleans, January 2020.
-
-* **Gender bias in linguistic example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
-
-* **Intervention tracks scope-rigidity in Japanese and English**. [**Workshop on Approaches to *Wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
+* **Intervention tracks scope-rigidity in Japanese and English** ([**handout**](intervention-scope-handout.pdf), [**slides**](intervention-scope-slides.pdf)). [**Workshop on Approaches to *wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
 
 * **Diagnosing covert syntax: Lessons from *wh*-in-situ** ([**handout**](diagnosing-covert-syntax-handout.pdf), [**slides**](diagnosing-covert-syntax-slides.pdf)). Colloquium talk; Yale University, April 2019; University of Pennsylvania, January 2019.
 
