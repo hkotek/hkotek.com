@@ -39,46 +39,13 @@ Newest work
 
 ### Journal papers: ###
 
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](Kotek-Gender_Representation-lingbuzz.pdf). Manuscript (submitted).
+
 * Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript (submitted).
 
 * Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
-
-* Kotek, Hadas and Matthew Barros. 2018. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
-
-* Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Covert focus movement with pied-piping: Evidence from Tanglewood**](http://ling.auf.net/lingbuzz/003068). *Linguistic Inquiry* 49(3): 441–463.
-
-
-### Proceedings papers: ###
-
-* Phillips, Josh and Hadas Kotek. 2019. [**Updates & discourse anaphora: a dynamic approach to *otherwise***](NELS49-PhillipsKotek.pdf). Proceedings of the North East Linguistic Society (NELS) 49.
-
-* Erlewine, Michael Yoshitaka and Hadas Kotek. 2018. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
-
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2018. [**Non-interrogative *wh*-constructions in Chuj (Mayan)**](wscla2016.pdf). *Proceedings of the Workshop on the Structure and Constituency of the Languages of the Americas (WSCLA) 21*.
-
-
-Recent and upcoming presentations
----------------------------------
-
-* [**Gender bias in linguistic example sentences**](LSA2020-gender-journals.pdf) (with Rikker Dockum, Sarah Babinski, and Christopher Geissler). Linguistic Society of America (LSA) 94, New Orleans, January 2020. 
-
-* [**Ellipsis with mismatched antecedents**](LSA2020-mismatched-antecedents.pdf). Linguistic Society of America (LSA) 94, New Orleans, January 2020.
-
-* **Intervention tracks scope-rigidity in Japanese and English** ([**handout**](intervention-scope-handout.pdf), [**slides**](intervention-scope-slides.pdf)). [**Workshop on Approaches to *wh*-Intervention**](https://lingconf.com/intervention/),  National University of Singapore, June 2019. 
-
-* **Diagnosing covert syntax: Lessons from *wh*-in-situ** ([**handout**](diagnosing-covert-syntax-handout.pdf), [**slides**](diagnosing-covert-syntax-slides.pdf)). Colloquium talk; Yale University, April 2019; University of Pennsylvania, January 2019.
-
-* **Semantic Identity under Discussion**. Invited talk, [Sluicing+@50](https://voices.uchicago.edu/sluicingat50/), University of Chicago, April 2019 (with Matt Barros).
-
-* **Some issues with sluicing as anaphora to issues** (with Matt Barros).
-    - Linguistic Society of America (LSA) 93, New York City, January 2019.
-    - West Coast Conference on Formal Linguistics (WCCFL) 36, University of California, Los Angeles, April 2018.
-
-* **Updates & discourse anaphora: a dynamic approach to ‘otherwise’** (with Josh Philips; [**handout**](Phillips-Kotek-otherwise.pdf)). 
-    - North East Linguistic Society (NELS) 49, Cornell University, October 2018 .
-    - Linguistic Society of America (LSA) 92, Salt Lake City, UT, January 2018.
 
 
 Recorded talks

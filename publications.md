@@ -17,8 +17,8 @@ Books
 Journal articles and book chapters
 ----------------------------------
 
-accepted
-: Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*.
+2019
+: Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa* 4(1): 100. 1-36.
 
 2019
 : Kotek, Hadas and Michael Yoshitaka Erlewine.  [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *Canadian Journal of Linguistics* 64(1): 62–101.
@@ -143,17 +143,23 @@ Dissertation
 Submitted manuscripts
 ---------------------
 
+submitted
+: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. **Gender bias and stereotypes in linguistic example sentences**.
+
+in revision
+: Phillips, Joshua and Hadas Kotek. **Discourse anaphoric *otherwise*: Information structure & modal subordination**
+
+in revision 
+: Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
+
 in revisions
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
 
-submitted 
-: Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
-
-submitted 
+manuscript 
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Indefinite free relatives in Mayan:
 Lessons for the typology of free relatives and the nature of relative clause islands.**
 
-submitted
+manuscript
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
 
 
