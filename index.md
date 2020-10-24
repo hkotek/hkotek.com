@@ -30,6 +30,17 @@ Please visit the [about page](/about) for more details concerning my research in
 Newest work
 -----------
 
+### Recent and upcoming presentations ###
+
+* 2021 Spring semester. Colloquium talk, University of Connecticut. 
+
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. **Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**. The 28th International Conference on Computational Linguistics (COLING), December 2020. 
+
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. **Generating Natural Questions from Images for Multimodal Assistant**. West Coast NLP (WeCNLP), October 2020.
+
+* Gender bias in constructed example sentences. Colloquium talk, University of Oregon, October 2020. 
+
+
 ### Books: ###
 
 * Kotek, Hadas. 2019. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistics Inquiry Monograph series. Cambridge, MA: MIT Press.
@@ -50,6 +61,11 @@ Newest work
 * Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
 
 * Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
+
+
+### Peer reviewed conference papers: ###
+
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. **Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**. Proceedings of the 28th International Conference on Computational Linguistics (COLING). 
 
 
 Recorded talks
