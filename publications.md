@@ -144,6 +144,12 @@ Submitted manuscripts
 ---------------------
 
 submitted
+: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**.
+
+submitted
+: Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**.
+
+submitted
 : Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. **Gender bias and stereotypes in linguistic example sentences**.
 
 in revision
