@@ -18,11 +18,13 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     hkotek at alum.mit.edu
 	
 
-I am a Linguist working at Apple. My role involves improving Siri's Natural Language Understanding. Specifically, I lead Siri's NL Understanding Annotation projects. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; creating annotation guidelines and trainings; establishing metrics to measure annotator productivity, accuracy, and throughput; interfacing with data scientists, machine learning engineers, and platform developers to launch annotation projects; managing and setting project priorities to align with organization-wide milestones and timelines; and coordinating with vendor project managers, annotators, and annotation operations admin.
+I am a Linguist working at Apple. My role involves improving Siri’s Natural Language Understanding. Specifically, I lead Siri Understanding's NL Annotation projects. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; co-coordinating and contributing to Data Science and Engineering around various Siri products; managing and setting project priorities to align with organization-wide milestones and timelines; creating annotation guidelines and trainings; establishing metrics to measure annotator productivity, accuracy, and throughput; and coordinating with vendor project managers, annotators, and Annotation Operations admins.
+
+I additionally continue to engage in research and am a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/). My research focuses on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly work on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equality in the field.
+
+I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. 
 
 Although I am not currently teaching at a university, I still accept some advising requests. If you are on this site for this reason, email me at the above address. 
-
-I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My main research specialty is in understanding the cognitive constraints on the structure of human language, with the goal of developing an inventory of the tools available to the language faculty for the construction of natural language utterances and for their interpretation: What strategies are employed during structure building in the syntax? What additional machinery must the semantics provide in order to interpret these structures? How does this inventory vary cross-linguistically, and how does it manifest itself in online sentence processing? My research employs a variety of experimental techniques, supplemented by elicitation work and traditional judgment work. Some of my recent research topics include the syntax and semantics of *wh*-questions, Association with Focus, relative clauses, ellipsis, and comparative and superlative quantifiers.
 
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [industry resume](KotekResume-2col.pdf) and my [academic CV](KotekCV.pdf) for additional details.
 
@@ -30,7 +32,7 @@ Please visit the [about page](/about) for more details concerning my research in
 Newest work
 -----------
 
-### Recent and upcoming presentations ###
+### Recent and upcoming presentations: ###
 
 * 2021 Spring semester. Colloquium talk, University of Connecticut. 
 
