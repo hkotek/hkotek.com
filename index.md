@@ -36,9 +36,9 @@ Newest work
 
 * 2021 Spring semester. Colloquium talk, University of Connecticut. 
 
-* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. **Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**. The 28th International Conference on Computational Linguistics (COLING), December 2020. 
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). The 28th International Conference on Computational Linguistics (COLING), December 2020. 
 
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. **Generating Natural Questions from Images for Multimodal Assistant**. West Coast NLP (WeCNLP), October 2020.
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). West Coast NLP (WeCNLP), October 2020.
 
 * Gender bias in constructed example sentences. Colloquium talk, University of Oregon, October 2020. 
 
@@ -52,9 +52,11 @@ Newest work
 
 ### Journal papers: ###
 
-* Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Manuscript (submitted).
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. Accepted. [**Gender bias and stereotypes in linguistic example sentences**](Kotek-Gender_Representation-lingbuzz.pdf). *Language*.
 
-* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](Kotek-Gender_Representation-lingbuzz.pdf). Manuscript (submitted).
+* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. To appear. **Gender stereotypes and inclusion in language teaching**. *Babylonia*.
+
+* Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Manuscript (submitted).
 
 * Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript (submitted).
 
@@ -67,7 +69,9 @@ Newest work
 
 ### Peer reviewed conference papers: ###
 
-* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. **Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**. Proceedings of the 28th International Conference on Computational Linguistics (COLING). 
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). The 28th International Conference on Computational Linguistics (COLING). 
+
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. 2020. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). West Coast NLP (WeCNLP).
 
 
 Recorded talks
