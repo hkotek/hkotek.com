@@ -130,7 +130,7 @@ Undergraduate/graduate seminar on the syntax and semantics of questions and focu
 
 ### Introduction to the Study of Language [Winter 2016]
 
-Introduction to linguistics for non-majors, McGill University. [**Blurb**](), [**Syllabus**](syllabusLING200.pdf), [**Materials**](http://hkotek.com/teaching/intro2015/index)
+Introduction to linguistics for non-majors, McGill University. [**Blurb**](), [**Syllabus**](syllabusLING200.pdf) <!---, [**Materials**](http://hkotek.com/teaching/intro2015/index) --->
 
 This class will provide some answers to basic questions about the nature of human language. Throughout the course, we will be examining a number of ways in which human language is a complex but law-governed mental system. We will study some core aspects of this system in detail, and then use what we have learned to address a variety of other questions – including how language is acquired, how dialects arise, how languages change over time, and others. The main component of evaluation will be linguistic problem solving through assignments and exams.
 
