@@ -6,6 +6,37 @@ title: Research
 My research concentrates on different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different (but related) research projects.
 
 
+Gender representation in Linguistics
+------------------------------------
+This work explores the representation of gender in linguistics through the lens of examples sentences in textbooks and journal papers. We find pervasive gender bias both in the distribution of arguments and in the lexical choices in examples referring to male and female arguments. 
+
+submitted
+: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**.
+
+2021
+: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). Accepted in *Language*.
+
+2021
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). To appear in *Babylonia*.
+
+2020
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.
+
+
+Related (non-peer-reviewed) work on this issue can be found in the [**REIL guidebook**](https://genderinlinguistics.com/reil/), which provides resources for equity and inclusivity for linguistic conference organizers. 
+
+
+Scope restrictions in sluicing and ellipsis licensing
+-----------------------------------------------------
+In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
+
+2019
+: Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa* 4(1): 100. 1-36.
+
+2018 
+: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
+
+
 Operations in Grammar
 ---------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
@@ -44,6 +75,26 @@ submitted
 : Kotek, Hadas. **Intervention everywhere!** ([handout,](Kotek-intervention-everywhere-handout.pdf) [slides](Kotek-intervention-everywhere-slides.pdf)). *Presentation at GLOW 38*, Paris, April 2015.
 
 
+The syntax/semantics of *wh*-questions
+--------------------------------------
+This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
+
+2019
+: Kotek, Hadas. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press.
+
+2016
+: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
+
+2015
+: Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
+
+2014
+: Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
+
+2013
+: Kotek, Hadas and Martin Hackl. [**An experimental investigation of interrogative syntax/semantics**](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
+
+
 Non-interrogative uses of *wh*-words
 ------------------------------------
 Aside from their canonical interrogative use, *wh*-words in many languages are used to express a variety of quantificational expressions, including free relatives, NPIs, *wh*-quantification, and free choice items. A key question is what syntactic and semantic strategies are employed to quantify over the alternatives introduced by *wh*-words. To answer this question, this project studies a number of non-interrogative *wh*-constructions through original elicitation on Chuj (Mayan; Guatemala) and Dharamsala Tibetan (India).
@@ -62,7 +113,6 @@ Aside from their canonical interrogative use, *wh*-words in many languages are u
 
 submitted
 : Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/current.pdf?_s=e1xvXt7sPFmVZQto). Manuscript under review.
-
 
 
 Intervention effects
@@ -86,37 +136,6 @@ This work investigates the nature of *intervention effects* in A-bar constructio
 
 2013
 : Kotek, Hadas. [**Intervention, covert movement, and focus computation in multiple *wh*-questions**](Kotek%20LSA%202013.pdf). *LSA Annual Meeting extended abstracts*.
-
-
-The syntax/semantics of *wh*-questions
---------------------------------------
-This work studies the syntax and semantics of *wh*-questions, concentrating on English and German multiple questions. I argue for *covert scrambling* of in-situ *wh*-phrases in English multiple questions, parallel to the overt scrambling of *wh*-in-situ in German. Evidence is provided from experimental data as well as offline judgments. My dissertation develops a new semantic framework for questions building on the syntax that I motivate. I am currently writing an LI Monograph based on this work.
-
-2019
-: Kotek, Hadas. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistic Inquiry Monographs series. Cambridge, MA: MIT Press.
-
-2016
-: Kotek, Hadas. [**On the semantics of *wh*-questions**](SuB-wh-paper.pdf). *Proceedings of Sinn und Bedeutung (SuB) 20*, eds. Nadine Bade, Polina Berezovskaya and Anthea Scholler.
-
-2015
-: Kotek, Hadas. **Against a feature driven view of *wh*-movement** ([slides](Kotek-covert-scrambling-slides.pdf)). *Presentation at the Deutsche Gesellschaft für Sprachwissenschaft (DGfS) 37*, workshop: What drives syntactic computation? Alternatives to formal features, Leipzig, March 2015.
-
-2014
-: Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/current.pdf?_s=mFXst8rtWr5B1Rhc). *Doctoral dissertation*, Massachusetts Institute of Technology.
-
-2013
-: Kotek, Hadas and Martin Hackl. [**An experimental investigation of interrogative syntax/semantics**](http://www.illc.uva.nl/AC/AC2013/uploaded_files/inlineitem/19_Kotek_Hackl.pdf). *Proceedings of the 2013 Amsterdam Colloquium*, eds. Maria Aloni, Michael Franke and Floris Roelofsen.
-
-
-Scope restrictions in sluicing and ellipsis licensing
------------------------------------------------------
-In joint work with [Matt Barros](https://sites.google.com/view/mattbarros/home), we defend a semantic identity account of ellipsis licensing.  We notice a surprising asymmetry in sluicing constructions with quantified antecedents, where surface-scope antecedents can license a multiple sluice, but inverse-scope antecedents cannot. We argue that this finding is explained by semantic accounts of ellipsis licensing, where ellipsis is licensed when the sluice corresponds to an (implicit) Question under Discussion. We show that QuDs cannot be computed based on the truth-conditional content of the antecedents alone; instead, they must be computed only after (scalar) implicatures have been calculated and added to the common ground, along with the context of utterance. We additionally examine the commitments required of a syntactic LF-identity account of ellipsis licensing in order to account for multiple sluicing with quantified antecedents, and argue that accounts along these lines would run into serious trouble, making them practically untenable.
-
-accepted
-: Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://ling.auf.net/lingbuzz/004210). *Glossa*.
-
-2018 
-: Kotek, Hadas and Matthew Barros. [**Multiple sluicing, scope, and superiority: Consequences for ellipsis identity**](http://ling.auf.net/lingbuzz/003549). *Linguistic Inquiry* 49(4): 781–812.
 
 
 Tools for online linguistic surveys

@@ -34,13 +34,16 @@ Newest work
 
 ### Recent and upcoming presentations: ###
 
-* 2021 Spring semester. Colloquium talk, University of Connecticut. 
+* Hadas Kotek. 2021. TBD. Invited presentation at the Bay Area Computer-Human Interaction group, May 2021. 
+
+* Hadas Kotek. 2021. Gender bias in constructed example sentences. Colloquium talk, University of Connecticut, March 2021.
+
+* Hadas Kotek. 2021. Top-down derivations: Flipping syntax on its head (with Bob Frank, Yale University). Berkeley SSCircle, February 2021.
 
 * Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). The 28th International Conference on Computational Linguistics (COLING), December 2020. 
 
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). West Coast NLP (WeCNLP), October 2020.
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). West Coast NLP (WeCNLP), October 2020 and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.
 
-* Gender bias in constructed example sentences. Colloquium talk, University of Oregon, October 2020. 
 
 
 ### Books: ###
@@ -52,9 +55,9 @@ Newest work
 
 ### Journal papers: ###
 
-* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. Accepted. [**Gender bias and stereotypes in linguistic example sentences**](Kotek-Gender_Representation-lingbuzz.pdf). *Language*.
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. Accepted. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). *Language*.
 
-* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. To appear. **Gender stereotypes and inclusion in language teaching**. *Babylonia*.
+* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. To appear. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). *Babylonia*.
 
 * Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Manuscript (submitted).
 

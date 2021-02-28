@@ -17,6 +17,12 @@ Books
 Journal articles and book chapters
 ----------------------------------
 
+2021
+: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). Accepted in *Language*.
+
+2021
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). To appear in *Babylonia*.
+
 2019
 : Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa* 4(1): 100. 1-36.
 
@@ -62,9 +68,24 @@ Journal articles and book chapters
 2011
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. Bingley, UK: Emerald Publications.
 
+Proceedings papers (papers reviewed)
+------------------------------------
 
-Proceedings papers
-------------------
+2021 
+: Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
+
+2020: 
+: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). *The 28th International Conference on Computational Linguistics (COLING)*. 
+
+
+Proceedings papers (abstracts reviewed)
+---------------------------------------
+
+2020
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.
+
+2020: 
+: Phillips, Josh and Hadas Kotek. [Updates discourse anaphora: a dynamic approach to otherwise](http://hkotek.com/NELS49-PhillipsKotek.pdf). *Proceedings of the North East Linguistic Society (NELS) 49}*, eds. Maggie Baird and Jonathan Pesetsky. GLSA: Amherst, MA. Volume 3, 29--38.
 
 2018
 : Erlewine, Michael Yoshitaka and Hadas Kotek. [**Focus association by movement: Evidence from binding and parasitic gaps**](sub21.pdf). *Proceedings of Sinn und Bedeutung (SuB) 21*.
@@ -148,9 +169,6 @@ submitted
 
 submitted
 : Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**.
-
-submitted
-: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. **Gender bias and stereotypes in linguistic example sentences**.
 
 in revision
 : Phillips, Joshua and Hadas Kotek. **Discourse anaphoric *otherwise*: Information structure & modal subordination**
