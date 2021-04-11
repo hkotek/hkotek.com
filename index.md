@@ -32,9 +32,9 @@ Please visit the [about page](/about) for more details concerning my research in
 Science and other outreach 
 --------------------------
 
-* [@Science\_Is\_US](https://twitter.com/Science_Is_US) [#PeopleofScience](https://twitter.com/search?q=%23ScienceIsUS&src=hashtag_click) [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) campaign by [scienceisus.org](www.scienceisus.org)
+* @Science\_Is\_US [#PeopleofScience](https://twitter.com/search?q=%23ScienceIsUS&src=hashtag_click) campaign on [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) by [scienceisus.org](www.scienceisus.org).
 
-* Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek)
+* Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek).
 
 * [Resources on Equity and Inclusivity in Linguistics](https://genderinlinguistics.com/reil/); a joint effort of LSA’s COGEL (Committee on Gender Equity in Linguistics, formerly COSWL) and SALT’s SALTED (Semantics and Linguistic Theory: Equity and Diversity): with Melissa Baese-Berk, Michael Yoshitaka Erlewine, Ivona Kucerova, Elin McCready, Mary Moroney, Jessica Rett, Carly Sommerlot, and Susi Wurmbrand.
 
@@ -94,18 +94,18 @@ Newest work
 Recorded talks
 --------------
 
-* **Gender bias in constructed example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler); [**slides**](gender-slides-notrans.pdf), [**YouTube recording**](https://www.youtube.com/watch?v=BJX1u2wCmjY)
+* **Gender bias in constructed example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler); [**slides**](gender-slides-notrans.pdf), [**YouTube recording**](https://www.youtube.com/watch?v=BJX1u2wCmjY).
     - Webinar, SOAS, March 2021.
     - Colloquium talk, University of Connecticut, March 2021.
     - Colloquium talk, University of Oregon, October 2020.
 
-*  **Ellipsis licensing in sluicing: A QuD account** (with Matthew Barros; [**handout**](sluicing-handout.pdf), [**slides**](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
+*  **Ellipsis licensing in sluicing: A QuD account** (with Matthew Barros; [**handout**](sluicing-handout.pdf), [**slides**](sluicing-slides.pdf), [**video recording**](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
 	- *Chicago Linguistic Society (CLS) 53*, University of Chicago, May 2017. 
 	- *Multiple questions about sluicing*, Yale University, April 2017.
 	- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017.
 
 * **Diagnosing covert movement**. 
-Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([**handout**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [**slides**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
+Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([**handout**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [**slides**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [**video recording**, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
 
 
 Additional details about these and other papers and presentations can be found on my [publications page](/publications). To read more about my various projects, visit the [research page](/research).
