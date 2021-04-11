@@ -29,12 +29,21 @@ Although I am not currently teaching at a university, I still accept some advisi
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [industry resume](KotekResume-2col.pdf) and my [academic CV](KotekCV.pdf) for additional details.
 
 
+Science outreach 
+----------------
+* *@Science\_Is\_US #PeopleofScience [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) campaign by [](www.scienceisus.org)
+
+* Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek)
+
+
 Newest work
 -----------
 
 ### Recent and upcoming presentations: ###
 
 * Hadas Kotek. 2021. TBD. Invited presentation at the Bay Area Computer-Human Interaction group, May 2021. 
+
+* Hadas Kotek. 2021. Gender bias in constructed example sentences. Webinar, SOAS, March 2021.
 
 * Hadas Kotek. 2021. Gender bias in constructed example sentences. Colloquium talk, University of Connecticut, March 2021.
 
@@ -61,9 +70,9 @@ Newest work
 
 * Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Manuscript (submitted).
 
-* Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript (submitted).
+* Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
 
-* Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript (submitted).
+* Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript.
 
 * Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
 
@@ -80,10 +89,15 @@ Newest work
 Recorded talks
 --------------
 
+* **Gender bias in constructed example sentences** (with Rikker Dockum, Sarah Babinski, and Christopher Geissler); [**slides**](gender-slides-notrans.pdf), [**YouTube recording**](https://www.youtube.com/watch?v=BJX1u2wCmjY)
+    - Webinar, SOAS, March 2021.
+    - Colloquium talk, University of Connecticut, March 2021.
+    - Colloquium talk, University of Oregon, October 2020.
+
 *  **Ellipsis licensing in sluicing: A QuD account** (with Matthew Barros; [**handout**](sluicing-handout.pdf), [**slides**](sluicing-slides.pdf), [video feed](https://www.facebook.com/YaleLinguisticsDepartment/videos/1471421752919620/)). 
 	- *Chicago Linguistic Society (CLS) 53*, University of Chicago, May 2017. 
-	- *Multiple questions about sluicing*, Yale University, April 2017;
-	- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017; 
+	- *Multiple questions about sluicing*, Yale University, April 2017.
+	- *GLOW* workshop on compositionality at the interfaces, Leiden University, March 2017.
 
 * **Diagnosing covert movement**. 
 Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, February 2017. ([**handout**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-handout.pdf), [**slides**](https://lingconf.com/dp60/wp-content/uploads/sites/5/2017/02/Kotek-slides.pdf), [video feed, starting at 1:15:30](https://livestream.com/accounts/2261474/events/6949939/videos/149280966)).
