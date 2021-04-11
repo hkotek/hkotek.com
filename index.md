@@ -29,11 +29,16 @@ Although I am not currently teaching at a university, I still accept some advisi
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [industry resume](KotekResume-2col.pdf) and my [academic CV](KotekCV.pdf) for additional details.
 
 
-Science outreach 
-----------------
-* *@Science\_Is\_US #PeopleofScience [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) campaign by [](www.scienceisus.org)
+Science and other outreach 
+--------------------------
+
+* [@Science\_Is\_US](https://twitter.com/Science_Is_US) [#PeopleofScience](https://twitter.com/search?q=%23ScienceIsUS&src=hashtag_click) [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) campaign by [scienceisus.org](www.scienceisus.org)
 
 * Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek)
+
+* [Resources on Equity and Inclusivity in Linguistics](https://genderinlinguistics.com/reil/); a joint effort of LSA’s COGEL (Committee on Gender Equity in Linguistics, formerly COSWL) and SALT’s SALTED (Semantics and Linguistic Theory: Equity and Diversity): with Melissa Baese-Berk, Michael Yoshitaka Erlewine, Ivona Kucerova, Elin McCready, Mary Moroney, Jessica Rett, Carly Sommerlot, and Susi Wurmbrand.
+
+* [Pop-Up Mentoring Program](https://genderinlinguistics.com/pump/); originally with by Melissa Baese-Berk, Paola Cepeda, Kristen Syrett, Jessica Rett, Ivona Kucerova. Now a continued LSA COGEL effort. The recipient of the [2019 LSA Linguistic Service Award](https://www.linguisticsociety.org/news/2019/10/08/award-winners-announced).
 
 
 Newest work
