@@ -46,11 +46,9 @@ Newest work
 
 ### Recent and upcoming presentations: ###
 
-* Hadas Kotek. 2021. TBD. Invited presentation at the Bay Area Computer-Human Interaction group, May 2021. 
-
-* Hadas Kotek. 2021. Gender bias in constructed example sentences. Webinar, SOAS, March 2021.
-
-* Hadas Kotek. 2021. Gender bias in constructed example sentences. Colloquium talk, University of Connecticut, March 2021.
+* Hadas Kotek. 2021. Gender bias in constructed example sentences. 
+    - Webinar, SOAS, March 2021.
+    - Colloquium talk, University of Connecticut, March 2021.
 
 * Hadas Kotek. 2021. Top-down derivations: Flipping syntax on its head (with Bob Frank, Yale University). Berkeley SSCircle, February 2021.
 
@@ -69,11 +67,11 @@ Newest work
 
 ### Journal papers: ###
 
-* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. Accepted. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). *Language*.
+*  Paola Cepeda, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. *Language*. Accepted with minor revisions.
+
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. To appear. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). *Language*.
 
 * Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. To appear. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). *Babylonia*.
-
-* Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. Manuscript (submitted).
 
 * Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
 
@@ -88,7 +86,9 @@ Newest work
 
 * Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). The 28th International Conference on Computational Linguistics (COLING). 
 
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. 2020. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). West Coast NLP (WeCNLP).
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). 
+    - West Coast NLP (WeCNLP), October 2020.
+    - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2021.
 
 
 Recorded talks
