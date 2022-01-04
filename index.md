@@ -18,9 +18,9 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     hkotek at alum.mit.edu
 	
 
-I am a Linguist working at Apple. My role involves improving Siri’s Natural Language Understanding. Specifically, I lead Siri Understanding's NL Annotation projects. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; co-coordinating and contributing to Data Science and Engineering around various Siri products; managing and setting project priorities to align with organization-wide milestones and timelines; creating annotation guidelines and trainings; establishing metrics to measure annotator productivity, accuracy, and throughput; and coordinating with vendor project managers, annotators, and Annotation Operations admins.
+I am a Linguist working at Apple. I work on data science for natural language annotation projects for the Siri and Language Technologies team. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; co-coordinating and contributing to Data Science and Engineering around various Siri products; establishing metrics to measure annotator productivity, accuracy, and throughput; contributing to new task and tool development around data annotation; and coordinating with vendor project managers, annotators, and Annotation Operations admins.
 
-I additionally continue to engage in research and am a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/). My research focuses on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly work on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equality in the field.
+I additionally continue to engage in research as a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/). My research focuses on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly work on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equity in the field.
 
 I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. 
 
@@ -32,11 +32,13 @@ Please visit the [about page](/about) for more details concerning my research in
 Science and other outreach 
 --------------------------
 
-* [Conference Tracker](https://genderinlinguistics.com/conference-tracker/): An online repository for conference-related data on representation.
+* [Because Language](http://becauselanguage.com/43-journal-club-zoomies-on-zoom/) podcast appearance.
 
 * @Science\_Is\_US [#PeopleofScience](https://twitter.com/search?q=%23ScienceIsUS&src=hashtag_click) campaign on [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) by [scienceisus.org](www.scienceisus.org).
 
 * Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek).
+
+* [Conference Tracker](https://genderinlinguistics.com/conference-tracker/): An online repository for conference-related data on representation.
 
 * [Resources on Equity and Inclusivity in Linguistics](https://genderinlinguistics.com/reil/); a joint effort of LSA’s COGEL (Committee on Gender Equity in Linguistics, formerly COSWL) and SALT’s SALTED (Semantics and Linguistic Theory: Equity and Diversity): with Melissa Baese-Berk, Michael Yoshitaka Erlewine, Ivona Kucerova, Elin McCready, Mary Moroney, Jessica Rett, Carly Sommerlot, and Susi Wurmbrand.
 
@@ -47,6 +49,10 @@ Newest work
 -----------
 
 ### Recent and upcoming presentations: ###
+
+* Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](https://www.linguisticsociety.org/abstract/top-down-derivations-flipping-syntax-its-head-0). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
+
+* Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova,Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
 * Hadas Kotek. 2021. Gender bias in constructed example sentences. 
     - Webinar, SOAS, March 2021.
@@ -59,7 +65,6 @@ Newest work
 * Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). West Coast NLP (WeCNLP), October 2020 and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.
 
 
-
 ### Books: ###
 
 * Kotek, Hadas. 2019. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistics Inquiry Monograph series. Cambridge, MA: MIT Press.
@@ -69,11 +74,11 @@ Newest work
 
 ### Journal papers: ###
 
-*  Paola Cepeda, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**. *Language*. Accepted with minor revisions.
+* Paola Cepeda, Hadas Kotek, Katharina Pabst, and Kristen Syrett. 2021. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
 
-* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. To appear. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). *Language*.
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. 2021. [**Gender bias and stereotypes in linguistic example sentences**](https://muse.jhu.edu/article/840952). *Language* 97(4): 653--677.
 
-* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. To appear. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). *Babylonia*.
+* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
 
 * Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
 
@@ -86,9 +91,9 @@ Newest work
 
 ### Peer reviewed conference papers: ###
 
-* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). The 28th International Conference on Computational Linguistics (COLING). 
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. 2020. [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING). 
 
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). 
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). 
     - West Coast NLP (WeCNLP), October 2020.
     - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2021.
 

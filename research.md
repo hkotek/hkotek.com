@@ -10,20 +10,31 @@ Gender representation in Linguistics
 ------------------------------------
 This work explores the representation of gender in linguistics through the lens of examples sentences in textbooks and journal papers. We find pervasive gender bias both in the distribution of arguments and in the lexical choices in examples referring to male and female arguments. 
 
-submitted
-: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**.
+2021
+: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
 
 2021
-: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). Accepted in *Language*.
+: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](https://muse.jhu.edu/article/840952). *Language* 97(4): 653--677.
 
 2021
-: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). To appear in *Babylonia*.
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
 
 2020
 : Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.
 
 
 Related (non-peer-reviewed) work on this issue can be found in the [**REIL guidebook**](https://genderinlinguistics.com/reil/), which provides resources for equity and inclusivity for linguistic conference organizers. 
+
+NLP
+---
+This is joint work with members of the Siri and Language Technologies Data Science team. 
+
+2021
+: Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+2020
+: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING). 
+
 
 
 Scope restrictions in sluicing and ellipsis licensing
@@ -41,7 +52,7 @@ Operations in Grammar
 ---------------------
 This work investigates the nature of (overt and covert) movement in natural language, how focus is calculated, and how the two interact. First, it is proposed that Association with Focus must involve covert focus movement with pied-piping. I additionally argue that the derivation of English *wh*-questions must involve both covert movement and focus-alternatives composition, and that the pattern and distribution of *intervention effects* in *wh*-questions suggests that syntactic derivations are better understood as constructed top-down, left-to-right, rather than bottom-up. Finally, I argue that intervention effects are the logical consequence of the inability of movement and focus to operate over the same structures, leading to the (correct) expectation that they are in fact quite a prevalent phenomenon which can be found in a variety of linguistic structures. 
 
-submitted 
+manuscript 
 : Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
 
 2018

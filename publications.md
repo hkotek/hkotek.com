@@ -18,10 +18,13 @@ Journal articles and book chapters
 ----------------------------------
 
 2021
-: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](gender-Language.pdf). Accepted in *Language*.
+: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
 
 2021
-: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender stereotypes and inclusion in language teaching**](gender-Babylonia.pdf). To appear in *Babylonia*.
+: Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. [**Gender bias and stereotypes in linguistic example sentences**](https://muse.jhu.edu/article/840952). *Language* 97(4): 653--677.
+
+2021
+: Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
 
 2019
 : Barros, Matthew and Hadas Kotek. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa* 4(1): 100. 1-36.
