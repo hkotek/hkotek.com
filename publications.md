@@ -75,10 +75,10 @@ Proceedings papers (papers reviewed)
 ------------------------------------
 
 2021 
-: Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [https://arxiv.org/abs/2012.03678](**Generating Natural Questions from Images for Multimodal Assistant**). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
+: Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
 
 2020: 
-: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [https://arxiv.org/abs/2012.04169](**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**). *The 28th International Conference on Computational Linguistics (COLING)*. 
+: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). *The 28th International Conference on Computational Linguistics (COLING)*. 
 
 
 Proceedings papers (abstracts reviewed)

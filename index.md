@@ -14,10 +14,9 @@ url: /
 Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play()"/>
 ===========
 
-    Apple Park, Cupertino, CA
+    Cambridge, MA
     hkotek at alum.mit.edu
 	
-
 I am a Linguist working at Apple. I work on data science for natural language annotation projects for the Siri and Language Technologies team. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; co-coordinating and contributing to Data Science and Engineering around various Siri products; establishing metrics to measure annotator productivity, accuracy, and throughput; contributing to new task and tool development around data annotation; and coordinating with vendor project managers, annotators, and Annotation Operations admins.
 
 I additionally continue to engage in research as a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/). My research focuses on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly work on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equity in the field.
@@ -52,7 +51,7 @@ Newest work
 
 * Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](https://www.linguisticsociety.org/abstract/top-down-derivations-flipping-syntax-its-head-0). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
-* Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova,Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
+* Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
 * Hadas Kotek. 2021. Gender bias in constructed example sentences. 
     - Webinar, SOAS, March 2021.
