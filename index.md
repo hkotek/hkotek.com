@@ -25,7 +25,7 @@ I received my PhD in Linguistics from MIT in 2014, with a dissertation on the sy
 
 Although I am not currently teaching at a university, I still accept some advising requests. If you are on this site for this reason, email me at the above address. 
 
-Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), or  my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/) for additional details.
+Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
 
 
 Science and other outreach 
