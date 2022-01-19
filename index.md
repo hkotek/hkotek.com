@@ -49,6 +49,8 @@ Newest work
 
 ### Recent and upcoming presentations: ###
 
+* Panelist: [Challenges and Opportunities for Mentoring in Linguistics](https://www.youtube.com/watch?v=ojgXCEkbyFs). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
+
 * Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](https://www.linguisticsociety.org/abstract/top-down-derivations-flipping-syntax-its-head-0). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
 * Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
@@ -59,9 +61,9 @@ Newest work
 
 * Hadas Kotek. 2021. Top-down derivations: Flipping syntax on its head (with Bob Frank, Yale University). Berkeley SSCircle, February 2021.
 
-* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING), December 2020. 
+* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING), December 2020. 
 
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). West Coast NLP (WeCNLP), October 2020 and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.
+* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [Generating Natural Questions from Images for Multimodal Assistant](https://arxiv.org/abs/2012.03678). West Coast NLP (WeCNLP), October 2020 and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.
 
 
 ### Books: ###
