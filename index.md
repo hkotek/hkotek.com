@@ -49,6 +49,8 @@ Newest work
 
 ### Recent and upcoming presentations: ###
 
+* Meet the Authors: [Gender Bias & Stereotypes in Linguistics Research and Teaching](https://www.linguisticsociety.org/news/2022/01/11/january-webinar-meet-authors-gender-bias-stereotypes-linguistics-research-and). LSA Webinar, January 2022.
+
 * Panelist: [Challenges and Opportunities for Mentoring in Linguistics](https://www.youtube.com/watch?v=ojgXCEkbyFs). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
 * Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](https://www.linguisticsociety.org/abstract/top-down-derivations-flipping-syntax-its-head-0). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
