@@ -14,9 +14,9 @@ url: /
 Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play()"/>
 ===========
 
-    Cambridge, MA
-    hkotek at alum.mit.edu
-    https://linguistics.mit.edu/user/hkotek/
+    office location: Cambridge, MA
+    email: hkotek at alum.mit.edu
+    [MIT Linguistics profile page](https://linguistics.mit.edu/user/hkotek/)
 	
 I am a Linguist working at Apple. I work on data science for natural language annotation projects for the Siri and Language Technologies team. This includes contributing to Siri ontology development and design; leading Named Entity Recognition efforts; co-coordinating and contributing to Data Science and Engineering around various Siri products; establishing metrics to measure annotator productivity, accuracy, and throughput; contributing to new task and tool development around data annotation; and coordinating with vendor project managers, annotators, and Annotation Operations admins.
 
