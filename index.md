@@ -23,13 +23,13 @@ I additionally continue to engage in research as a Research Affiliate at [MIT li
 
 I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale, a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. 
 
-Although I am not currently teaching at a university, I still accept some advising requests. If you are on this site for this reason, email me at the above address. 
-
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
 
 
 Science and other outreach 
 --------------------------
+
+* [Superlinguo jobs series](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural) post.
 
 * [Because Language](http://becauselanguage.com/43-journal-club-zoomies-on-zoom/) podcast appearance.
 
@@ -37,9 +37,7 @@ Science and other outreach
 
 * Linguistic Society of America: [January 2021 Member Spotlight](https://www.linguisticsociety.org/content/january-2021-member-spotlight-hadas-kotek).
 
-* [Conference Tracker](https://genderinlinguistics.com/conference-tracker/): An online repository for conference-related data on representation.
-
-* [Resources on Equity and Inclusivity in Linguistics](https://genderinlinguistics.com/reil/); a joint effort of LSA’s COGEL (Committee on Gender Equity in Linguistics, formerly COSWL) and SALT’s SALTED (Semantics and Linguistic Theory: Equity and Diversity): with Melissa Baese-Berk, Michael Yoshitaka Erlewine, Ivona Kucerova, Elin McCready, Mary Moroney, Jessica Rett, Carly Sommerlot, and Susi Wurmbrand.
+* [Resources on Equity and Inclusivity in Linguistics (REIL) Guidelbook](https://genderinlinguistics.com/reil/): a joint effort of LSA’s COGEL (Committee on Gender Equity in Linguistics, formerly COSWL) and SALT’s SALTED (Semantics and Linguistic Theory: Equity and Diversity): with Melissa Baese-Berk, Michael Yoshitaka Erlewine, Ivona Kucerova, Elin McCready, Mary Moroney, Jessica Rett, Carly Sommerlot, and Susi Wurmbrand.
 
 * [Pop-Up Mentoring Program](https://genderinlinguistics.com/pump/); originally with by Melissa Baese-Berk, Paola Cepeda, Kristen Syrett, Jessica Rett, Ivona Kucerova. Now a continued LSA COGEL effort. The recipient of the [2019 LSA Linguistic Service Award](https://www.linguisticsociety.org/news/2019/10/08/award-winners-announced).
 
@@ -47,25 +45,15 @@ Science and other outreach
 Newest work
 -----------
 
-### Recent and upcoming presentations: ###
+### Recent presentations: ###
 
 * Meet the Authors: [Gender Bias & Stereotypes in Linguistics Research and Teaching](https://www.linguisticsociety.org/news/2022/01/11/january-webinar-meet-authors-gender-bias-stereotypes-linguistics-research-and). LSA Webinar, January 2022.
 
 * Panelist: [Challenges and Opportunities for Mentoring in Linguistics](https://www.youtube.com/watch?v=ojgXCEkbyFs). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
-* Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](https://www.linguisticsociety.org/abstract/top-down-derivations-flipping-syntax-its-head-0). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
+* Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](frank_kotek-top_down.pdf). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
 
 * Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
-
-* Hadas Kotek. 2021. Gender bias in constructed example sentences. 
-    - Webinar, SOAS, March 2021.
-    - Colloquium talk, University of Connecticut, March 2021.
-
-* Hadas Kotek. 2021. Top-down derivations: Flipping syntax on its head (with Bob Frank, Yale University). Berkeley SSCircle, February 2021.
-
-* Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING), December 2020. 
-
-* Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [Generating Natural Questions from Images for Multimodal Assistant](https://arxiv.org/abs/2012.03678). West Coast NLP (WeCNLP), October 2020 and IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.
 
 
 ### Books: ###
@@ -84,12 +72,6 @@ Newest work
 * Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
 
 * Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
-
-* Phillips, Josh and Hadas Kotek. 2019. [**Discourse anaphoric *otherwise*: Information structure & modal subordination**](https://ling.auf.net/lingbuzz/004800). Manuscript.
-
-* Barros, Matthew and Hadas Kotek. 2019. [**Ellipsis licensing and redundancy reduction: A focus-based approach**](https://www.glossa-journal.org/articles/10.5334/gjgl.811/). *Glossa: A Journal of General Linguistics, 4(1), 100. DOI: http://doi.org/10.5334/gjgl.811*. 
-
-* Kotek, Hadas and Michael Yoshitaka Erlewine. 2019. [***Wh*-indeterminates in Chuj (Mayan)**](https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/whindeterminates-in-chuj-mayan/DCADC86BD97BE0A442D631DE8CC3F621). *The Canadian Journal of Linguistics* 64(1): 62–101.
 
 
 ### Peer reviewed conference papers: ###

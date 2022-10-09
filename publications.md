@@ -83,6 +83,8 @@ Proceedings papers (papers reviewed)
 
 Proceedings papers (abstracts reviewed)
 ---------------------------------------
+2022
+: Frank, Rober, and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](frank_kotek-top_down.pdf). *Proceedings of the Linguistic Society of America (LSA)*, Volume 7, Number 1 (2022), 5264. https://doi.org/10.3765/plsa.v7i1.5264.
 
 2020
 : Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.

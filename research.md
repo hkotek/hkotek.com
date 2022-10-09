@@ -36,6 +36,14 @@ This is joint work with members of the Siri and Language Technologies Data Scien
 : Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams. [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). The 28th International Conference on Computational Linguistics (COLING). 
 
 
+Arguments for top-down derivations in syntax
+--------------------------------------------
+In joint work with [Bob Frank](https://bobfrank1.github.io/), we collect arguments in favor of a top-down approach to linguistic derivations. Arguments come in the form of phenomena where properties of higher parts of the structure condition elements or operations in a lower domain. This would follow from a top-down approach to structure-building but require additional assumptions in bottom-up approaches. 
+
+2022
+: Frank, Rober, and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](frank_kotek-top_down.pdf). *Proceedings of the Linguistic Society of America (LSA)*, Volume 7, Number 1 (2022), 5264. https://doi.org/10.3765/plsa.v7i1.5264.
+
+
 
 Scope restrictions in sluicing and ellipsis licensing
 -----------------------------------------------------
