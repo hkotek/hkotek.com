@@ -20,7 +20,7 @@
 	<div id="menu">
 		<ul>
 	{% for item in site.pages %}
-		{% if item.path != 'personal.md' and item.path != 'blog.md' %}
+		{% if item.path != 'personal.md' and item.path != 'blog/' %}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
 				{% if item.path == 'index.md' %}
 					Home
@@ -41,17 +41,17 @@
 <div id="content">
 {% if page.path != 'index.md' %}
 <h1><a href='/'>Hadas Kotek</a> » 
-{% if page.path contains 'blog' %}<a href='/blog/'>Blog</a> » {% endif %}
+{% if page.dir == '/blog/' %}<a href='/blog/'>Blog</a> » {% endif %}
 {{ page.title }}</h1>
 {% endif %}
 
-{% if page.path contains 'blog' %}
+{% if page.dir == '/blog/' %}
 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 {% endif %}
 
 {{ content }}
 
-{% if page.path contains 'blog' %}
+{% if page.dir == '/blog/' %}
 {% include comments.html %}
 {% endif %}
 
