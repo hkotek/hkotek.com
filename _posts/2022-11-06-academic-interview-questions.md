@@ -39,7 +39,7 @@ Zepto(function($){
 });
 </script>
 
-Between 2014 and 2019 I went on the North American academic job market for 6(!) cycles. I applied broadly to jobs in theoretical syntax and semantics, experimental/psycholinguistics, SLACs as well as research institutions. I also applied to a handful of jobs in Europe and the UK. I had quite a bit of success, with a total of 29 long-lists and 12 short-lists. I have written separately about [**my experiences on the job market**](\my-academic-journey); I have a lot to say.
+Between 2014 and 2019 I went on the North American academic job market for 6(!) cycles. I applied broadly to jobs in theoretical syntax and semantics, experimental/psycholinguistics, SLACs as well as research institutions. I also applied to a handful of jobs in Europe and the UK. I had quite a bit of success, with a total of 29 long-lists and 12 short-lists. I have written separately about [**my experiences on the job market**](/blog/my-academic-journey); I have a lot to say.
 
 Me being me, I took contemporaneous notes from the majority of interviews I did. I've been sitting on them for years and I've finally decided I should just put them out there for others to use. The academic job market is an absolute horror show (again, the topic of another post), and if this can help at least *someone* not feel so overwhelmed, I will count that as a great success. 
 

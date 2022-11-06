@@ -9,7 +9,7 @@ tags:
   - academia, interviews, jobs, long-list, short-list, linguistics
 ---
 
-As I've been collecting the various [**lists of interview questions**](/academic-interview-questions) from jobs I was long- or short-listed at, I can't help but also add a few words about the process itself. There is more to say than could fit in one post, but I find the numbers to be instructive.
+As I've been collecting the various [**lists of interview questions**](/blog/academic-interview-questions) from jobs I was long- or short-listed at, I can't help but also add a few words about the process itself. There is more to say than could fit in one post, but I find the numbers to be instructive.
 
 ## By the numbers
 
