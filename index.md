@@ -31,6 +31,8 @@ Science and other outreach
 
 * [Superlinguo jobs series](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural) post.
 
+* [The Vocal Fries](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mZGNkMWVjL3BvZGNhc3QvcnNz/episode/QnV6enNwcm91dC0xMDYxODAwNQ?sa=X&ved=0CAUQkfYCahcKEwjowsvSy5r7AhUAAAAAHQAAAAAQAQ) podcast appearance ("John Mary Bill Sue").
+
 * [Because Language](http://becauselanguage.com/43-journal-club-zoomies-on-zoom/) podcast appearance.
 
 * @Science\_Is\_US [#PeopleofScience](https://twitter.com/search?q=%23ScienceIsUS&src=hashtag_click) campaign on [Twitter](https://twitter.com/Science_Is_US/status/1380578017160933377) and [Instagram](https://www.instagram.com/p/CNXbf62gFoG/) by [scienceisus.org](www.scienceisus.org).
