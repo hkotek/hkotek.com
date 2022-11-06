@@ -41,17 +41,17 @@
 <div id="content">
 {% if page.path != 'index.md' %}
 <h1><a href='/'>Hadas Kotek</a> » 
-{% if page.dir == '/blog/' %}<a href='/blog/'>Blog</a> » {% endif %}
+{% if page.url contains '/blog/' %}<a href='/blog/'>Blog</a> » {% endif %}
 {{ page.title }}</h1>
 {% endif %}
 
-{% if page.dir == '/blog/' %}
+{% if page.url contains '/blog/' %}
 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 {% endif %}
 
 {{ content }}
 
-{% if page.dir == '/blog/' %}
+{% if page.url contains '/blog/' %}
 {% include comments.html %}
 {% endif %}
 
