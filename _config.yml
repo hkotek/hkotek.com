@@ -1,2 +1,5 @@
 theme: false
 markdown: kramdown
+
+# Permalinks
+permalink: /blog/:title:output_ext
