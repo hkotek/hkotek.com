@@ -6,7 +6,7 @@ permalink: /blog/my-academic-journey/
 categories:
   - academia, interviews
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
+  - academia, interviews, jobs, long-list, short-list, linguistics
 ---
 
 As I've been collecting the various [**lists of interview questions**](/academic-interview-questions) from jobs I was long- or short-listed at, I can't help but also add a few words about the process itself. There is more to say than could fit in one post, but I find the numbers to be instructive.
@@ -17,7 +17,7 @@ I went on the job market for **6 cycles** between 2014--2019.
 
 Over the years, I had **11 different letter writers**, to whom I continue to be eternally grateful. 
 
-I applied to **109 jobs** (mostly TT but some temporary, quite selectively). I had **26 long-list interviews** and **12 short-list interviews**. I received 1 TT job offer which didn't pan out (and is a very long and shocking[^1] story indeed) and 1 unsolicited[^2] offer, plus 4 offers for temporary jobs. So overall you might argue that I did alright. Given that I was dependent on having a job for a visa to allow me to live when I wanted to live, I feel like I can't really complain. I was continuously employed and I was living in locations that I wanted to live in. 
+I applied to **109 jobs** (mostly TT but some temporary, quite selectively). I had **29 long-list interviews** and **12 short-list interviews**. I received 1 TT job offer which didn't pan out (and is a very long and shocking[^1] story indeed) and 1 unsolicited[^2] offer, plus 4 offers for temporary jobs. So overall you might argue that I did alright. Given that I was dependent on having a job for a visa to allow me to live when I wanted to live, I feel like I can't really complain. I was continuously employed and I was living in locations that I wanted to live in. 
 
 I became quite immersed in the gossip[^3] and most of the time knew **the makeup of the short-list** for each job I was short-listed for. Over 12 distinct short-lists, with an average of 4-5 candidates per list, there were only **three(!) other distinct female candidates**, who showed up in lists again and again. I was the only female candidate on at least a half dozen lists. In total, those lists contained roughly 35 men, though I may be off by 1-2 on that. I cannot begin to explain how demoralizing it was when I started to realize this pattern and [**its implications**](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired). 
 
