@@ -9,9 +9,9 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
-        <!--<script src="js/vendor/modernizr-2.6.2.min.js"></script>-->
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <!--<script src="/js/vendor/modernizr-2.6.2.min.js"></script>-->
     </head>
     <body>
 
@@ -20,7 +20,7 @@
 	<div id="menu">
 		<ul>
 	{% for item in site.pages %}
-		{% if item.path != 'personal.md' %}
+		{% if item.path != 'personal.md' and item.path != 'blog.md' %}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
 				{% if item.path == 'index.md' %}
 					Home
@@ -40,10 +40,21 @@
 
 <div id="content">
 {% if page.path != 'index.md' %}
-<h1><a href='/'>Hadas Kotek</a> » {{ page.title }}</h1>
+<h1><a href='/'>Hadas Kotek</a> » 
+{% if page.path contains 'blog' %}<a href='/blog/'>Blog</a> » {% endif %}
+{{ page.title }}</h1>
+{% endif %}
+
+{% if page.path contains 'blog' %}
+<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 {% endif %}
 
 {{ content }}
+
+{% if page.path contains 'blog' %}
+{% include comments.html %}
+{% endif %}
+
 </div>
 </div>
 
