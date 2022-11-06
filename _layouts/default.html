@@ -20,7 +20,7 @@
 	<div id="menu">
 		<ul>
 	{% for item in site.pages %}
-		{% if item.path != 'personal.md' and item.path != '/blog/' %}
+		{% if item.path != 'personal.md' and item.path != '/blog/index.md' %}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
 				{% if item.path == 'index.md' %}
 					Home
