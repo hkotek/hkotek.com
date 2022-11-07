@@ -19,23 +19,17 @@
 
 	<div id="menu">
 		<ul>
+		<li><a href='/'>Home</a></li>
 	{% for item in site.pages %}
-	<!--{{item.path}}-->
-		{% if item.path != 'personal.md' and item.path != '/blog/index.md' %}
-			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>
-				{% if item.path == 'index.md' %}
-					Home
-				{% else %}
-					{{ item.title }}
-				{% endif %}
-			</a></li>
+		{% if item.path != 'index.md' and item.path != 'personal.md' and item.path != 'blog/index.md' %}
+			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
 		{% comment %} ugly special-casing for personal.md {% endcomment %}
 		<li {% if page.path == 'personal.md' %} class='active'{% endif %}><a href='personal.html'>Personal</a></li>
 		<li><a href='KotekCV.pdf'>Academic CV</a></li>
 		<li><a href='KotekResume-2col.pdf'>Resume</a></li>
-<!--		<li><a href='/blog'>Blog</a></li> -->
+		<li><a href='/blog/'>Blog</a></li>
 		</ul>
 	</div>
 
