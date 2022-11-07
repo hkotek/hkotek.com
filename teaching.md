@@ -33,6 +33,8 @@ Zepto(function($){
 });
 </script>
 
+Click on the *blurb* link to see a description of the course in-line, or on the *syllabus* link to download a PDF copy. In some cases, I additionally include a link to course materials.
+
 ### Illusions of Language [Spring 2017, Spring 2019]
 
 Freshman seminar, Yale University. [**Blurb**](), [**Syllabus**](syllabus-illusions.pdf) 
