@@ -15,17 +15,17 @@ Zepto(function($){
 	$('a').each(function(i,dt){
 		var that = $(this);
 
-		if (that.text() != 'expand >>')
+		if (!that.text().match(/^expand/))
 			return;
 		
 		// for anchors that have text 'expand >>':
 
-		var par = that.closest('p');
+		var par = that.closest('h3');
 		var desc = par.next();
 		
-		while (desc.last().next().length && !desc.last().next('h1,h2,h3').length) {
-			desc.push(desc.last().next());
-		}
+//		while (desc.last().next().length && !desc.last().next('h1,h2,h3').length) {
+//			desc.push(desc.last().next());
+//		}
 	
 		that
 		.attr('href','#')
@@ -95,8 +95,8 @@ Long list questions
 ### Long-list interview for a TT job in syntax [**expand >>**]()
 
   - how do you fit with the department
-        - who would you collaborate with within and outside the department
-         - experimental methods 
+    - who would you collaborate with within and outside the department
+    - experimental methods 
   - the new hire will shape the syntax curriculum: what's your approach, what would you teach 
   - specifically, how should syntax inform language documentation, computational MAs
   - question about an ongoing research project of mine that came up in a previous answer
@@ -126,25 +126,26 @@ Long list questions
 ### Long-list interview for a TT job in syntax [**expand >>**]()
 
   - teaching: 
-        - what is your approach to teaching undergrad syntax and would it be different than how you would teach graduate syntax
-        - what other classes could you teach? 
-        - what's your approach to teaching semantics?
-        - what's your approach to teaching experimental linguistics? 
+    - what is your approach to teaching undergrad syntax and would it be different than how you would teach graduate syntax
+    - what other classes could you teach? 
+    - what's your approach to teaching semantics?
+    - what's your approach to teaching experimental linguistics? 
   - research 
-          - tell us what you're working on now 
-          - where do you see yourself in 5 years 
+    - tell us what you're working on now 
+    - where do you see yourself in 5 years 
   - advising
-        - tell us about advising experiences
+    - tell us about advising experiences
   - fit
-           - how do you see yourself fitting? who could you collaborate with? 
+    - how do you see yourself fitting?
+    - who could you collaborate with? 
   - do you have any questions for us
 
 ### Long-list interview for a TT job in syntax [**expand >>**]()
 
   - research: open ended: what are you most excited about in your current research, with follow up questions about what I said; overall a 20 minute conversation on this; we discussed my dissertation and one newer project related to but different from the dissertation 
   - teaching: 
-        - how would you approach grad intro syntax, given different background levels in the class? 
-        - what seminars would you teach?
+    - how would you approach grad intro syntax, given different background levels in the class? 
+    - what seminars would you teach?
 
 ### Long-list interview for a TT job in syntax (these questions were sent ahead of time) [**expand >>**]()
 
@@ -165,8 +166,8 @@ Long list questions
 
   - what are your current/future research plans
   - teaching: what all can you teach? (give full list)
-        - how would you teach UG semantics?
-        - how about grad semantics?
+    - how would you teach UG semantics?
+    - how about grad semantics?
   - questions about one of my published papers
   - questions about a choice I made in my teaching demo
   - what are your strengths and weaknesses (by teaching, research, service)
@@ -215,7 +216,7 @@ Long list questions
   - what can you teach of those techniques?
   - what do you consider to be your most important paper
   - what course would you propose for undergrads
-        - how would you help undergrads come up with topics for papers for this class
+    - how would you help undergrads come up with topics for papers for this class
   - some of our MA students enter the program with little/no background, and they need to complete a project within 6 months; how would you help them choose a topic
   - do you have any questions for us
 
@@ -267,11 +268,11 @@ Very few of my campus visits included an explicit panel interview.
   - tell us about your advising experience
   - the person hired will be the primary semanticist, do you see that as an issue for advising? imagine a student who wants to work on lexical semantics, what would you say
   - how would you teach: 
-        - undergraduate intro semantics, textbook
-        - intermediate semantics, intermediate pragmatics
-        - higher level seminars
-        - general education class, propose something
-        - we are hoping to start a comp ling MA, is that something you are interested in or could help with
+    - undergraduate intro semantics, textbook
+    - intermediate semantics, intermediate pragmatics
+    - higher level seminars
+    - general education class, propose something
+    - we are hoping to start a comp ling MA, is that something you are interested in or could help with
   - do you see opportunities for co-teaching within the department and beyond
   - do you see your research pursuing external funding
   - if you come here what would you need in terms of support to start your research
