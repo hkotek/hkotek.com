@@ -166,7 +166,7 @@ Workshop at the Experimental Syntax/Semantics lab at MIT department of Linguisti
 [**Materials from MIT workshop (2013)**](http://web.mit.edu/hackl/www/lab/turkshop/); 
 [**Materials from NYU tutorial (2017)**](http://hkotek.com/turk/index.html)
 
-Workshop on the use of Amazon's Mechanical Turk, introducing [**turktools**](turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
+Workshop on the use of Amazon's Mechanical Turk, introducing [**turktools**](https://turktools.net): a set of tools designed to assist researchers to create a wide range of linguistic tasks, including linguistic grammaticality surveys, sentence completion tasks, and picture-matching tasks. The tools further help streamline the design of such linguistic experiment and assist in the extraction and analysis of the resulting data.
 
 
 ### 
