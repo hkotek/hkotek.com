@@ -84,28 +84,6 @@ Long list questions
 
 ### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
 
-  - Tell us about yourself
-  - research related questions concerning my research area
-  - diverse methods: how do you view experimental work
-        - when do you use it 
-        - what's one new thing we learned from experimental work
-  - more research questions leading to a general conversation about A-bar syntax
-  - what would you enjoy teaching at the graduate level
-  - how would you teach grad intro syntax
-  - do you have any questions for us
-
-### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
-
-  - how do you fit with the department
-    - who would you collaborate with within and outside the department
-    - experimental methods 
-  - the new hire will shape the syntax curriculum: what's your approach, what would you teach 
-  - specifically, how should syntax inform language documentation, computational MAs
-  - question about an ongoing research project of mine that came up in a previous answer
-  - do you have any questions for us
-
-### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
-
   - tell us about yourself
   - where do you see yourself in 3-5 years 
   - what sources of funding are available for your research 
@@ -123,23 +101,6 @@ Long list questions
   - what seminars would you offer? 
   - what's your approach to undergraduate syntax 
   - what fun course would you offer 
-  - do you have any questions for us
-
-### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
-
-  - teaching: 
-    - what is your approach to teaching undergrad syntax and would it be different than how you would teach graduate syntax
-    - what other classes could you teach? 
-    - what's your approach to teaching semantics?
-    - what's your approach to teaching experimental linguistics? 
-  - research 
-    - tell us what you're working on now 
-    - where do you see yourself in 5 years 
-  - advising
-    - tell us about advising experiences
-  - fit
-    - how do you see yourself fitting?
-    - who could you collaborate with? 
   - do you have any questions for us
 
 ### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
@@ -164,20 +125,43 @@ Long list questions
   - What questions would you like to ask us? Is there anything we have not asked you about, that you would like to tell us?
     
 
-### Long-list interview for a TT job in semantics <!--- [**expand >>**]() --->
+### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
 
-  - what are your current/future research plans
-  - teaching: what all can you teach? (give full list)
-    - how would you teach UG semantics?
-    - how about grad semantics?
-  - questions about one of my published papers
-  - questions about a choice I made in my teaching demo
-  - what are your strengths and weaknesses (by teaching, research, service)
-  - how do you fit with DEPARTMENT
-  - question concerning research on endangered languages
-  - what course would you teach that philosophy majors might take
-  - question concerning living in CITY (fit)
-  - what are your hobbies
+  - Tell us about yourself
+  - research related questions concerning my research area
+  - diverse methods: how do you view experimental work
+        - when do you use it 
+        - what's one new thing we learned from experimental work
+  - more research questions leading to a general conversation about A-bar syntax
+  - what would you enjoy teaching at the graduate level
+  - how would you teach grad intro syntax
+  - do you have any questions for us
+
+### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
+
+  - how do you fit with the department
+    - who would you collaborate with within and outside the department
+    - experimental methods 
+  - the new hire will shape the syntax curriculum: what's your approach, what would you teach 
+  - specifically, how should syntax inform language documentation, computational MAs
+  - question about an ongoing research project of mine that came up in a previous answer
+  - do you have any questions for us
+
+### Long-list interview for a TT job in syntax <!--- [**expand >>**]() --->
+
+  - teaching: 
+    - what is your approach to teaching undergrad syntax and would it be different than how you would teach graduate syntax
+    - what other classes could you teach? 
+    - what's your approach to teaching semantics?
+    - what's your approach to teaching experimental linguistics? 
+  - research 
+    - tell us what you're working on now 
+    - where do you see yourself in 5 years 
+  - advising
+    - tell us about advising experiences
+  - fit
+    - how do you see yourself fitting?
+    - who could you collaborate with? 
   - do you have any questions for us
 
 ### Long-list interview for a TT job in semantics <!--- [**expand >>**]() --->
@@ -209,6 +193,22 @@ Long list questions
   - what is an example of a good practice in graduate advising, and what is a bad one? 
   - do you have any questions for us
 
+
+### Long-list interview for a TT job in semantics <!--- [**expand >>**]() --->
+
+  - what are your current/future research plans
+  - teaching: what all can you teach? (give full list)
+    - how would you teach UG semantics?
+    - how about grad semantics?
+  - questions about one of my published papers
+  - questions about a choice I made in my teaching demo
+  - what are your strengths and weaknesses (by teaching, research, service)
+  - how do you fit with DEPARTMENT
+  - question concerning research on endangered languages
+  - what course would you teach that philosophy majors might take
+  - question concerning living in CITY (fit)
+  - what are your hobbies
+  - do you have any questions for us
 
 ### Long-list interview with a UK-based university for a lecturer (TT-equivalent) job in psycholinguistics <!--- [**expand >>**]() --->
 
@@ -250,6 +250,17 @@ Short list questions
 
 Very few of my campus visits included an explicit panel interview.
 
+### Short-list interview with a UK-based university for a lecturer (TT-equivalent) job in syntax <!--- [**expand >>**]() --->
+
+  - talk-specific questions
+  - if you had to choose a topic in syntax to teach to 500 people with no background, what would it be (then, teach it) 
+  - if you had (very large sum, $500 million?), what would you use it for?
+  - how does your research impact society?
+  - what are important issues in syntax
+  - why do you want to be in CITY, what attracts you here?
+  - what courses would you teach?
+  - do you have any questions for us
+
 ### Short-list interview for a TT job in semantics for a small department in a state school that doesn't have a graduate program <!--- [**expand >>**]() --->
 
   - what do the next 5 years of research look like for you
@@ -258,6 +269,7 @@ Very few of my campus visits included an explicit panel interview.
   - how would you structure a graduate class in semantics
   - how might you contribute diversity and inclusion at SCHOOL
   - how does your teaching accommodate students who are low-income, first-generation college students, and English language learners
+
 
 ### Short-list interview for a TT job in semantics for a department with a large undergraduate offering and a small graduate program <!--- [**expand >>**]() --->
 
@@ -281,20 +293,6 @@ Very few of my campus visits included an explicit panel interview.
   - how has your teaching changed over time
   - why are you interested in SCHOOL
   - what would you tell a Dean about what you do and why it's important
-
-
-### Short-list interview with a UK-based university for a lecturer (TT-equivalent) job in syntax <!--- [**expand >>**]() --->
-
-  - talk-specific questions
-  - if you had to choose a topic in syntax to teach to 500 people with no background, what would it be (then, teach it) 
-  - if you had (very large sum, $500 million?), what would you use it for?
-  - how does your research impact society?
-  - what are important issues in syntax
-  - why do you want to be in CITY, what attracts you here?
-  - what courses would you teach?
-  - do you have any questions for us
-
-
 
   
 NTT jobs questions
