@@ -1,8 +1,8 @@
 ---
-title: Interview questions
+title: Academic job interview questions
 layout: default
 comments: false
-permalink: /blog/academic-interview-questions/
+permalink: /blog/academic-job-interview-questions/
 categories:
   - academia, interviews
 tags:
