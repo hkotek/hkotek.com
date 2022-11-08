@@ -45,7 +45,7 @@ Between 2014 and 2019 I went on the North American academic job market for 6(!) 
 
 Me being me, I took contemporaneous notes from the majority of interviews I did. I've been sitting on them for years and I've finally decided I should just put them out there for others to use. The academic job market is an absolute horror show (again, the topic of another post), and if this can help at least *someone* not feel so overwhelmed, I will count that as a great success. 
 
-Below are 25 distinct lists. I don't provide the names of institutions but instead summarize the type of job and department. I've collapsed the lists so the main page is manageable, but you can click on each list to expand the questions. In the majority of cases the questions are paraphrases rather than verbatim what was asked, since I took notes after the fact. 
+Below are 25 distinct lists. I don't provide the names of institutions but instead summarize the type of job and department. In the majority of cases the questions are paraphrases rather than verbatim what was asked, since I took notes after the fact. 
 
 
 Long list questions
@@ -349,4 +349,30 @@ In all the cases below, there was a single Skype/LSA interview with no campus vi
   - do you have any questions for us
 
 
+The gist
+--------
+
+Congrats, you've scrolled through 25 lists! I hope you've started to notice some similarities across the questions being asked, plus some of the unusual questions that are more interesting and harder to come up with answers for on the spot. If I were using this to prep for an upcoming interview, I might try to have answers at least to the following: 
+
+### Collection of prep questions
+
+  - tell us about your research
+  - where do you see your work in 3-5 years 
+  - how would you teach {intro to Ling, intro to SUBJECT, advanced SUBJECT} 
+  - what seminars would you teach
+  - why do you want to work at DEPARTMENT (incl identifying faculty with related interests)
+  - how would you involve students in your work 
+  - do you have any questions for us
+
+
+### Collection of less expected but very good questions
+
+  - what's the state of FIELD
+  - what's a major open debate in SUBFIELD
+  - who is a scientist in FIELD that you admire
+  - what's a paper you've enjoyed in the past 2 years
+  - what's a topic you changed your mind about since you started working on it
+  
+  
+Notice that I've proposed no answers to anything here. My only piece of advice is this: **always have questions for the committee**. Two questions you should always ask are: (a) is there anything I haven't told you that you'd like to know more about (this on occasion leads to important clarification questions that wouldn't have come up otherwise), and (b) what is the timeline for next steps (so you're stressing less if you don't hear from them for some time). Aside from that questions depend on specifics, but someone once told me to make sure you ask things that make your interlocutor feel good about themself. So don't ask about things you know are problematic or broken in their department; maybe focus instead on things that you think they're proud of. 
 
