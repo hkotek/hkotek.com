@@ -26,8 +26,8 @@ I received my PhD in Linguistics from MIT in 2014, with a dissertation on the sy
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
 
 
-***NEW*** Blog 
---------------
+✨ ️***NEW***✨  Blog 
+-------------------
 
 * [My academic job market journey](/blog/my-academic-journey/): a short post about my own experience on the academic job market, mainly focusing on the numbers and concrete facts.
 
