@@ -26,6 +26,16 @@ I received my PhD in Linguistics from MIT in 2014, with a dissertation on the sy
 Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
 
 
+***NEW*** Blog 
+--------------
+
+* [My academic job market journey](/blog/my-academic-journey/): a short post about my own experience on the academic job market, mainly focusing on the numbers and concrete facts.
+
+* [Academic job interview questions](/blog/academic-job-interview-questions/): a compilation of 25 sets of interview questions I was asked in interviews between 2014--2019. 
+
+* [Alt-Ac informational interviews](/blog/altac-informational-interview-questions/): on informational interviews for alt-ac careers, including a suggested list of questions. 
+
+
 Science and other outreach 
 --------------------------
 
@@ -105,3 +115,5 @@ Panel on questions, workshop for David Pesetsky. MIT Department of Linguistics, 
 Additional details about these and other papers and presentations can be found on my [publications page](/publications). To read more about my various projects, visit the [research page](/research).
  
 For the most up to date list of my presentations and publications, please consult [my CV](KotekCV.pdf).
+
+<a rel="" href="https://tech.lgbt/@HadasKotek">Mastodon</a>

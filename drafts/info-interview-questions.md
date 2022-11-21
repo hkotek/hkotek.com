@@ -2,7 +2,7 @@
 
 As part of a *careers for linguists* workshop I've been teaching, we have developed a long set of questions I will reproduce below. We tweak the questions and pick just a subset every time we host an external speaker, to match the speaker's background and experience. I've organized these questions by topic. This post is part of [a longer blog post about informational interviews](https://hkotek.com/blog/altac-informational-interview-questions/), created for ease of saving and printing. 
 
-A useful conversation starter: Tell me about yourself and what you do
+**A useful conversation starter**: Tell me about yourself and what you do
 
 ### Questions about skills [**expand >>**]()
 * What skill(s) do you use most often in your (current or previous) job?
@@ -79,4 +79,4 @@ A useful conversation starter: Tell me about yourself and what you do
 * Do you have advice for negotiating a first offer? 
 * Are there deal breakers for you in negotiations? 
 
-A useful conversation ender: do you know anyone else [with relevant skills, title, background, etc.] who you could connect me with? 
+**A useful conversation ender**: do you know anyone else [with relevant skills, title, background, etc.] who you could connect me with? 

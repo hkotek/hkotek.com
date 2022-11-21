@@ -21,7 +21,7 @@
 		<ul>
 		<li><a href='/'>Home</a></li>
 	{% for item in site.pages %}
-		{% if item.path != 'index.md' and item.path != 'personal.md' and item.path != 'blog/index.md' %}
+		{% if item.path != 'index.md' and item.path != 'personal.md' and item.path != 'blog/index.md' and item.path != 'drafts/info-interview-questions.md' %}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
@@ -61,5 +61,18 @@
             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));
         </script>
+        
+        
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q592WT3G49"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-Q592WT3G49');
+        </script>
+
     </body>
 </html>
