@@ -1,5 +1,5 @@
 ---
-title: Alt-Ac informational interview questions
+title: Alt-Ac informational interviews
 layout: default
 comments: false
 permalink: /blog/altac-informational-interview-questions/
