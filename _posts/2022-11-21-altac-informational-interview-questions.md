@@ -68,7 +68,7 @@ A typical meeting in the tech industry is 30 minutes long. I would suggest limit
 
 ## What should I ask
 
-As part of a *careers for linguists* workshop I've been teaching, we have developed a long set of questions I will reproduce below. We tweak the questions and pick just a subset every time we host an external speaker, to match the speaker's background and experience. I've organized these questions by topic, with a list of questions collapsed under the header which you can expand. For a fully expanded version which may be easier to print, see [here](https://hkotek.com/drafts/info-interview-questions/): 
+As part of a *careers for linguists* workshop I've been teaching, we have developed a long set of questions I will reproduce below. We tweak the questions and pick just a subset every time we host an external speaker, to match the speaker's background and experience. I've organized these questions by topic, with a list of questions collapsed under the header which you can expand. For a fully expanded version which may be easier to print, see [here](../drafts/info-interview-questions): 
 
 **A useful conversation starter**: Tell me about yourself and what you do
 
