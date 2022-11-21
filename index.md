@@ -116,4 +116,4 @@ Additional details about these and other papers and presentations can be found o
  
 For the most up to date list of my presentations and publications, please consult [my CV](KotekCV.pdf).
 
-<a rel="" href="https://tech.lgbt/@HadasKotek">Mastodon</a>
+<a rel="me" href="https://tech.lgbt/@HadasKotek"> </a>
