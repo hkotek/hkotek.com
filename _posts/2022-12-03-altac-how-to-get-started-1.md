@@ -1,8 +1,8 @@
 ---
-title: How to start preparing to apply for non-academic jobs: Part 1
+title: How to get started with Alt-Ac jobs (Part 1)
 layout: default
 comments: false
-permalink: /blog/altac-how-to-get-started/
+permalink: /blog/how-to-get-started-part1/
 categories:
   - academia, interviews
 tags:
@@ -12,7 +12,7 @@ tags:
 Ok, so you've decided you want to explore non-academic jobs, but you don't know what options are out there and you don't know how to begin prepping. This post is an attempt to spell out some of the steps you'll need to go through. This is part 1 in a two-part series. I'll cover learning steps first, and the next post will discuss actions you can take. 
   
 
-## Initial phase: learn the basics
+## Getting started: the basics
 
 It can be daunting to start pivoting to a non-academic career. Most academics share the experience of having been trained to stay on the academic path, and many are explicitly or implicitly taught that anything else is failure or quitting. Putting aside the many fallacies there, there is one thing to be said for the academic path: it's very clear --- your goal is to obtain that coveted tenure-track assistant professor position, and once you have it your goal is to get tenured, i.e. become and associate professor, and maybe one day, a full professor.[^1] It's clear how what you've done in grad school and as a precariously employed academic constitute relevant experience for the job, and your advisors have direct knowledge that can help you apply for it. 
 
@@ -63,6 +63,28 @@ This is also a time to consider what type of employer you'd want to work for (an
 * Mid-sized company --- companies with a few dozen to a thousand employees, say. Such companies may have a few locations and may have been around for a bit longer. They're maybe not actively in a money raising phase, but rather have a stable product they produce. These companies will have less of a hierarchical structure, but still there are established teams and administrative processes and some documented knowledge. There could be interesting options for career growth here; a lot will depend on the individuals around you.
 * The giants --- tech giants, financial institutions, large pharma companies, and the like. These are global companies with multiple offices worldwide and thousands and employees. They tend to be very stable and have established admin processes. They may be the most likely to support a visa application if you are international. Your role will often be very well defined, and there will likely be a decent level of structure and hierarchy. 
 * Work for yourself --- there is always also the option of starting your own company or working as a consultant/freelance. This may be hard to do as a first job, but keep in mind that this is an option that may suit your personality and priorities down the line, once you've made the transition out of academia and gained a bit of experience. 
+
+
+## A bit more learning
+
+### Conduct informational interviews 
+
+I've written about [informational interviews](https://hkotek.com/blog/altac-informational-interview-questions/) in a different post. They are useful for getting additional details about potential career paths and to start building a network. 
+
+How do you find people to interview? One of two ways: you can start from people you know. Maybe recent alums from your program, or friends you met elsewhere. If you can find someone who has a similar background to yours or someone who knows you well, you may be able to get targeted advice that will help you identify types of jobs and translate your experience into the language hiring managers speak. Or start from jobs of (potential) interest. Find people who work in these jobs on LinkedIn or on social media, and pay attention to their profile. There are quite a few people out there who explicitly offer up their time to help others in your situation. 
+
+If cold-emailing someone doesn't sound appealing, consider events that lend themselves to making these early connections. There are meetups in a lot of locations. The LSA [Linguistics Beyond Academia](https://www.linguisticsociety.org/content/linguistics-beyond-academia) special interest group runs events every Annual Meeting and at various other times of year, and participants will usually be open to speaking to academics who need their help. Your department may organize similar events, or maybe you should think about organizing one yourself.
+
+### Learn the terminology 
+
+Once you have some (vague) sense of what types of jobs might be of interest, it will be important that you learn the terminology used in those jobs. This will be a crucial step toward translating your academic experience into resume bullet points that will catch a hiring manager's eye. How should you do this? 
+
+* Read LinkedIn profiles of people with similar jobs and pay attention to how they describe their experience
+* Read job ads and identify terms that repeat 
+* Read blog posts about the relevant field
+* When you conduct informational interviews, pay attention to terms that aren't familiar to you. Make a note and ask your interviewee what they mean. 
+
+There is a bit of a learning curve here, mostly in adjusting how you think about your existing experience and how you talk about it. But, we're linguists, after all. Studying various ways people express themselves is what we do! Use your linguistics superpowers to help you through this part of the process.
 
 
 &nbsp;
