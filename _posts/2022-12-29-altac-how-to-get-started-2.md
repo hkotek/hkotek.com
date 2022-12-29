@@ -2,14 +2,14 @@
 title: Prepping for Alt-Ac jobs (aka taking action)
 layout: default
 comments: false
-permalink: /blog/how-to-get-started-2/
+permalink: /blog/altac-get-started-doing-prep/
 categories:
   - academia, interviews
 tags:
   - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
 ---
 
-So you've decided you want to explore non-academic jobs. You've also started to take some of the steps in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/how-to-get-started-1/) and have identified at least the beginnings of types of skills and jobs that might be of interest to you. This post discusses a few concrete steps you can take to get yourself started on the road toward a non-academic job.[^1] As in other posts, I take a tech-focused approach since that's where I am most knowledgeable, so YMMV.
+So you've decided you want to explore non-academic jobs. You've also started to take some of the steps in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/altac-get-started-exploring-options/) and have identified at least the beginnings of types of skills and jobs that might be of interest to you. This post discusses a few concrete steps you can take to get yourself started on the road toward a non-academic job.[^1] As in other posts, I take a tech-focused approach since that's where I am most knowledgeable, so YMMV.
 
 
 ## Learn some coding
@@ -124,7 +124,7 @@ Even before you start making a resume and actively making materials for your job
 
 # Summary
 
-I hope you've noticed the strong 'it depends' flavor of this post. What you actually choose to pursue largely depends on what skills you want to develop, so doing a bit of the thinking I recommend in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/how-to-get-started-1/) is key. 
+I hope you've noticed the strong 'it depends' flavor of this post. What you actually choose to pursue largely depends on what skills you want to develop, so doing a bit of the thinking I recommend in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/altac-get-started-exploring-options/) is key. 
 
 In all, I try to take a skills-first approach here. **What you actually do matters less than the skills you learn and how you eventually showcase them in a resume and interview**. You should be very strategic when you choose a project to work on or skill to study: think about the bullet point you'd want to have in your resume (maybe even draft it if it helps) and work backwards to plan how to substantiate it. 
 

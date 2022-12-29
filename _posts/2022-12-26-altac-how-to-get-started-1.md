@@ -2,14 +2,14 @@
 title: Learning about Alt-Ac opportunities (aka how to get started)
 layout: default
 comments: false
-permalink: /blog/how-to-get-started-part1/
+permalink: /blog/altac-get-started-exploring-options/
 categories:
   - academia, interviews
 tags:
   - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
 ---
 
-Ok, so you've decided you want to explore non-academic jobs, but you don't know what options are out there and you don't know how to begin prepping. This post is an attempt to spell out some of the steps you'll need to go through. This is part 1 in a two-part series. I'll cover learning steps first, and the next post will discuss actions you can take. 
+Ok, so you've decided you want to explore non-academic jobs, but you don't know what options are out there and you don't know how to begin prepping. This post is an attempt to spell out some of the steps you'll need to go through. This is part 1 in a two-part series. I'll cover learning steps first, and the next post [Prepping for Alt-Ac jobs (aka taking action)](https://hkotek.com/blog/altac-get-started-doing-prep/) will discuss actions you can take.
   
 
 ## Getting started part 1: understand the diversity of paths
@@ -48,7 +48,7 @@ That is, it's useful to recognize that the three main components of an academic 
 
 To identify particular **skills** that you enjoy and are good at more directly, if the questions above are still too vague or hard for you to think through, there are various tests online that can help you identify skills more explicitly. Google one that works for you, go to your university's career center for resources, or consider coaching or other outside help if necessary. 
 
-I frequently get asked, **do you have to know how to code in order to get a job in tech**? The true answer is *it depends!* If you want to be a software engineer, then yes, you'll have to code. But there are plenty of jobs that require minimal or no coding experience. Even if you *can* code, if you don't enjoy it, a coding-heavy job is probably not for you. What *is* true, though, is that more jobs will be open to you if you can code at least a little bit, and that often more technical jobs are better compensated than those that do not require technical skills. I say a bit more about this in my [next post](https://hkotek.com/blog/how-to-get-started-2/).
+I frequently get asked, **do you have to know how to code in order to get a job in tech**? The true answer is *it depends!* If you want to be a software engineer, then yes, you'll have to code. But there are plenty of jobs that require minimal or no coding experience. Even if you *can* code, if you don't enjoy it, a coding-heavy job is probably not for you. What *is* true, though, is that more jobs will be open to you if you can code at least a little bit, and that often more technical jobs are better compensated than those that do not require technical skills. I say a bit more about this in my [next post](https://hkotek.com/blog/altac-get-started-doing-prep/).
 
 ### What are your values and preferences? 
 
