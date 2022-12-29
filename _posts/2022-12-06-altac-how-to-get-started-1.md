@@ -1,5 +1,5 @@
 ---
-title: Exploring Alt-Ac jobs (Part 1)
+title: Learning about Alt-Ac opportunities (aka how to get started)
 layout: default
 comments: false
 permalink: /blog/how-to-get-started-part1/
