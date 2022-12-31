@@ -1,7 +1,7 @@
 ---
 title: My academic job market journey
 layout: default
-comments: false
+comments: true
 permalink: /blog/my-academic-journey/
 categories:
   - academia, interviews

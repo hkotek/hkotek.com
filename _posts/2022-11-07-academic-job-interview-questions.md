@@ -1,7 +1,7 @@
 ---
 title: Academic job interview questions
 layout: default
-comments: false
+comments: true
 permalink: /blog/academic-job-interview-questions/
 categories:
   - academia, interviews

@@ -1,7 +1,7 @@
 ---
 title: Do you need a graduate degree to get an Alt-Ac job?
 layout: default
-comments: false
+comments: true
 permalink: /blog/do-you-need-a-phd/
 categories:
   - academia, interviews

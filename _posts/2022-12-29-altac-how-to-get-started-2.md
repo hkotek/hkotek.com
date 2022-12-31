@@ -1,7 +1,7 @@
 ---
 title: Prepping for Alt-Ac jobs (aka taking action)
 layout: default
-comments: false
+comments: true
 permalink: /blog/altac-get-started-doing-prep/
 categories:
   - academia, interviews

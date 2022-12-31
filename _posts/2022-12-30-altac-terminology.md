@@ -1,7 +1,7 @@
 ---
 title: Let's talk about terminology
 layout: default
-comments: false
+comments: true
 permalink: /blog/altac-terminology/
 categories:
   - 
@@ -63,3 +63,6 @@ In the process of writing several other posts I hope to have out in the next few
 * *MT* = machine translation
 * *NL* = natural language 
 * *NLP*, *NLU*, *NLG* = natural language {processing, understanding, generation} 
+
+
+Have I left out other important terminology? Please drop a note. 

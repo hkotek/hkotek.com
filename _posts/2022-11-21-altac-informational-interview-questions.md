@@ -1,7 +1,7 @@
 ---
 title: Alt-Ac informational interviews
 layout: default
-comments: false
+comments: true
 permalink: /blog/altac-informational-interview-questions/
 categories:
   - academia, interviews
