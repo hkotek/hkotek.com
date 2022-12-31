@@ -197,5 +197,3 @@ The resume is *not* a list of everything you've ever done. That said, you can an
 [^8]: Oh how I wish I had done a better job keeping track of enrollments. Are you sensing a pattern here, yet? 
 [^9]: It used to be that there was a Spring phonology workshop and a Fall syntax/semantics workshop, which you took in your 4th and 5th semesters respectively, with your cohort only. What if you didn't want to write a phonology paper in your 4th semester? (or at all!) Too bad. Now there's just a Spring and a Fall workshop with no topic limitation and no cohort limitation. I think that's just all around better. You're welcome, MIT students. (To be clear, I definitely did not do this on my own; but I was an active member of the group that investigated this and made the recommendations and decisions, and I think that counts.)
 
-
-I'm going to turn on comments for this post, please don't make me regret it!
