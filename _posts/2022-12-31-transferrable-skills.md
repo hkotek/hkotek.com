@@ -2,7 +2,7 @@
 title: Transferrable skills (and how to talk about them)
 layout: default
 comments: true
-permalink: /blog/altac-transferrable skills/
+permalink: /blog/altac-transferrable_skills/
 categories:
   - 
 tags:
