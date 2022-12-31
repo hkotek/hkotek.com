@@ -35,6 +35,16 @@ Please visit the [about page](/about) for more details concerning my research in
 
 * [Alt-Ac informational interviews](/blog/altac-informational-interview-questions/): on informational interviews for alt-ac careers, including a suggested list of questions. 
 
+* [Do you need a graduate degree to get an Alt-Ac job?](/blog/do-you-need-a-phd/): answering this FAQ. Short answer: probably not. 
+
+* [Learning about Alt-Ac opportunities (aka how to get started)](/blog/altac-get-started-exploring-options/): on getting started on the journey by asking yourself some questions and gathering some information. 
+
+* [Prepping for Alt-Ac jobs (aka taking action)](/blog/altac-get-started-doing-prep/): on getting started on the journey by taking some active steps to learn or expand relevant skills.
+
+* [Let's talk about terminology](/blog/altac-terminology/): an ongoing master list of industry terminology. 
+ 
+* [Transferable skills (and how to talk about them)](/blog/altac-transferable_skills/): a compilation of transferable skills for AltAc jobs, including sample resume bullet points using my own experience in academia to illustrate.
+
 
 Science and other outreach 
 --------------------------
