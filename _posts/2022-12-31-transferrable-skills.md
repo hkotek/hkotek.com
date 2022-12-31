@@ -1,7 +1,7 @@
 ---
 title: Transferrable skills (and how to talk about them)
 layout: default
-comments: false
+comments: true
 permalink: /blog/altac-transferrable skills/
 categories:
   - 
@@ -185,6 +185,8 @@ The resume is *not* a list of everything you've ever done. That said, you can an
 
 &nbsp;
 
+#### Notes
+
 [^1]: To be clear, I had none of these bullets on my resume when I was first looking for a job! I did quite well regardless, but thinking back, I could have had a much stronger resume.  
 [^2]: You can think of handouts or slides you've written to present to e.g. your advisor or lab peers, which describe the design, aim, and potential outcomes of your results along with a plan to analyze them, as a *design document*, which is a common business term. You might consider collecting some of those, cleaning them up if needed, and making them available as samples on your website when you apply with links in your resume. (I did this when I started applying.) Likewise if you've ever worked with anyone else to process your collected data, and sometimes just as good documentation practice, you might also have something you might consider an *annotation guideline*, which would describe what values your features of interest can have and how you determine them.
 [^3]: A massive thanks to 10-years-ago-me for downloading a spreadsheet with all this information from AMT, because having to manually count up all the participants in the various projects I've been involved in over the years would have been somewhere between tedious and impossible. This is most definitely an undercount: the spreadsheet leaves out my entire dissertation year, where I estimate I ran easily over 500 participants for my experiments. Lesson for you, dear reader: document these things now! It'll be infinitely more difficult the more time passes by. 
@@ -194,3 +196,6 @@ The resume is *not* a list of everything you've ever done. That said, you can an
 [^7]: This is another one of those 'hard to quantify' things, especially if people don't cite our paper. (Please cite our paper if you're using our tools!) I stopped keeping track of it a few years ago. 
 [^8]: Oh how I wish I had done a better job keeping track of enrollments. Are you sensing a pattern here, yet? 
 [^9]: It used to be that there was a Spring phonology workshop and a Fall syntax/semantics workshop, which you took in your 4th and 5th semesters respectively, with your cohort only. What if you didn't want to write a phonology paper in your 4th semester? (or at all!) Too bad. Now there's just a Spring and a Fall workshop with no topic limitation and no cohort limitation. I think that's just all around better. You're welcome, MIT students. (To be clear, I definitely did not do this on my own; but I was an active member of the group that investigated this and made the recommendations and decisions, and I think that counts.)
+
+
+I'm going to turn on comments for this post, please don't make me regret it!
