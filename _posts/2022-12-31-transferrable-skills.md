@@ -1,8 +1,8 @@
 ---
-title: Transferrable skills (and how to talk about them)
+title: Transferable skills (and how to talk about them)
 layout: default
 comments: true
-permalink: /blog/altac-transferrable_skills/
+permalink: /blog/altac-transferable_skills/
 categories:
   - 
 tags:
@@ -24,7 +24,7 @@ This is not a dedicated resume post. I do want to point out some key ingredients
 * **Concise**, keeping it to just 2-3 sentences per bullet and trying to stay jargon-free.
  
 
-## Transferrable skills with sample resume bullets 
+## Transferable skills with sample resume bullets 
 
 Ok, hang in there, this will be long! 
 
