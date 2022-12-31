@@ -13,19 +13,20 @@ In the process of writing several other posts I hope to have out in the next few
 
 ### People terminology
 
-* *(The) Talent*: people we want to hire or target for a hire. In other words, you. 
-* *Hiring manager* : the person hiring for a job, most likely the person who will become the direct manager of the new hire. 
-* *Directs / direct reports* : the team members who report to some manager
+* *(The) Talent*: people companies want to hire or target for a hire. In other words, you. 
+* *Hiring manager*: the person hiring for a job, most likely the person who will become the direct manager of the new hire. 
+* *Directs / direct reports*: the team members who report to some manager
 * *IC = individual contributor*: a full-time employee who is not a manager
-* *FTE = full-time employee* : someone employed directly by a company, in contrast to *contractors*, who may also work the same hours but aren’t considered FTEs. FTEs are paid directly by the company. Compensation often includes other benefits like stock or bonuses. Contractors are paid by their *vendor* companies. Note, confusingly, that none of this actually refer to how many hours you work. Contractors will often work a similar number of hours to FTEs, sometimes even on the same teams. 
+* *FTE = full-time employee*: someone employed directly by a company, in contrast to *contractors*, who may also work the same hours but aren’t considered FTEs. FTEs are paid directly by the company. Compensation often includes other benefits like stock or bonuses. Contractors are paid by their *vendor* companies. Note, confusingly, that none of this actually refer to how many hours you work. Contractors will often work a similar number of hours to FTEs, sometimes even on the same teams. 
 
 ### Job content terminology
 
-* *Cross-functional collaboration*: being able to work with individuals who hold different kinds of functions. In the tech setting, think about collaborating with engineers, data scientists, project managers, design folks, ops, etc. That is, people with different backgrounds and points of view.
-* *Deliverables*: the tangible product of your work, often the things you'll quantify and plan ahead for.
-* *Insights*: what we would usually just call the conclusions of our research, preferably phrased in an actionable way so someone can implement improvements based on them. 
+* *Cross-functional collaboration*: being able to work with individuals who hold different kinds of functions. For example, working with people from other university departments or who have a different theoretical focus. Or, working with engineers, designers, product managers, and finance.
+* *Deliverables*: the tangible product of your work, often the things you'll quantify and plan ahead for. Papers, for example. 
+* *Insights*: what we would usually just call the main findings of our research, preferably phrased in an actionable way so someone can implement improvements based on them. 
 * *Stakeholders*: the people who drive decisions or otherwise have a vested interest in what you do. 
 * *Resources*: material and financial but also the actual people who work with/for you. 
+* *Value* (or, delivering value): the financial worth of your company; in the academic setting you'd increase the value of your university by bringing in grants and awards or by teaching courses. 
 * *End-to-End (E2E)*: describes a process from beginning to end through all stages. 
 * *Scope (v)*: Scope/scope out a project - make a plan before a project is implemented to estimate what needs to happen: how many hours it would take, what expertise is needed, what resources are needed, what dependencies exist, all of which eventually translates into how many individuals need to be staffed on the project and what other resources need to be dedicated and for how long.
 * *KPIs = Key Performance Indicators*: usually broader and a bit more abstract than OKRs. Used for strategic long-term planning. 

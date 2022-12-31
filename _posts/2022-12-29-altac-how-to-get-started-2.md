@@ -116,9 +116,9 @@ Collect ideas for situations you might tell in **behavioral interviews**, which 
 Even before you start making a resume and actively making materials for your job search, it will be useful to start paying attention to things you can quantify. Much more than CVs, resumes benefit from quantifying results. You'll often be counting things that would never appear on your CV, but in the context of applying for jobs with a broad applicant pool, and where the hiring managers may often come from another field, numbers help frame skills and accomplishments in concrete ways. Some examples of things you can quantify: 
 
 * How many publications, presentations, invitations, interviews in popular media? How many citations? How much impact on others' work through being taught by others or through others replicating, extending, or otherwise building on your work? 
-* If you run experimental studies: how many studies over how much time? How many participants? How many techniques, locations, tools, money paid, papers resulting, citations, followups, papers that use your results to do further work? 
+* If you run experimental studies: how many studies over how much time? How many participants? How many techniques, locations, tools, money paid, papers resulting, citations, followups, papers that use your results to do further work? How many hours/days/../years using a method? 
 * If you collected data through consultant work: how many consultants? How many languages? How many example sentences / entries in your database? How many resulting papers? How many other users of your data? How much funding? How many field trips over how much time? 
-* If you teach or TA: how many courses and how many students? How many materials now used by others? 
+* If you teach or TA: how many courses and how many students? Alternatively, how many hours? How many materials now used by others? 
 * If you organized a speaker series or lab meeting: how many regular participants? How many guests? What was the budget? 
 
 
