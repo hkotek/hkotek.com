@@ -27,11 +27,12 @@ In the process of writing several other posts I hope to have out in the next few
 * *Stakeholders*: the people who drive decisions or otherwise have a vested interest in what you do. 
 * *Resources*: material and financial but also the actual people who work with/for you. 
 * *Value* (or, delivering value): the financial worth of your company; in the academic setting you'd increase the value of your university by bringing in grants and awards or by teaching courses. 
-* *End-to-End (E2E)*: describes a process from beginning to end through all stages. 
+* *End-to-End (E2E)*: describes a process from beginning to end through all stages. You probably do this all the time for your projects. 
 * *Scope (v)*: Scope/scope out a project - make a plan before a project is implemented to estimate what needs to happen: how many hours it would take, what expertise is needed, what resources are needed, what dependencies exist, all of which eventually translates into how many individuals need to be staffed on the project and what other resources need to be dedicated and for how long.
 * *KPIs = Key Performance Indicators*: usually broader and a bit more abstract than OKRs. Used for strategic long-term planning. 
 * *OKR = Objectives and Key Results*: usually measurable and on a lower scale than KPIs, quarterly or yearly.
-* *Fast-paced work environment*, *build business/customer relationships*, *leverage resources*, *identify metrics*, 
+* Other terms you can probably guess from the name itself: *Fast-paced work environment*, *build business/customer relationships*, *leverage resources*, *identify metrics*
+* *QA* = quality assurance, the process whereby someone makes sure the products you produce are correct and the process you use is efficient
 
 ### Getting hired and evaluated 
 
@@ -62,4 +63,3 @@ In the process of writing several other posts I hope to have out in the next few
 * *MT* = machine translation
 * *NL* = natural language 
 * *NLP*, *NLU*, *NLG* = natural language {processing, understanding, generation} 
-
