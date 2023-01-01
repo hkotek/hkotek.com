@@ -56,9 +56,9 @@ This is also a good time to think about your **values and preferences**. For exa
 
 * Are there types of companies, industries, or jobs you wouldn't want to do? Some common examples may include working for the government in certain capacities or working for certain companies whose products you may not support. 
 * Are there locations you do/don't want to live in?
-* Are there other properties of the team or company you join that are deal-breakers? For example concerning the diversity of the leadership, whether it's privately owned or public, characteristic of your future direct manager, types of work you wouldn't do in any company, etc. 
+* Are there other properties of the team or company you join that are deal-breakers? For example concerning the diversity of the leadership, whether it's privately owned or public, characteristics or work style of your manager, types of work you wouldn't do in any situation, etc. 
 
-Finally, you should also ask yourself: **do you want a job related to your academic field of studies**? That's not necessarily a given, and even if you say yes, there are different levels of engagement with the topic that might work for you. For a linguist, do you care if the product you work on is language-related, or that the job itself is language-related (those are not the same!)? Do you want to engage with language data directly or would you be happy doing more of a higher-level analysis where you don't usually engage with the raw data itself? 
+Finally, you should also ask yourself: **do you want a job that is related to your academic field of studies**? That's not necessarily a given, and even if you say yes, there are different levels of engagement with the topic that might work for you. For a linguist, do you care if the product you work on is language-related, or that the job itself is language-related (those are not the same!)? Do you want to engage with language data directly or would you be happy doing more of a higher-level analysis where you don't usually engage with the raw data itself? 
 
 ## Learn about different jobs and industries
 
@@ -75,7 +75,7 @@ This is also a time to consider what type of employer you'd want to work for (an
 * Start-up/small company --- companies that have a very small number of employees (think several dozen). Job responsibilities are not well defined, so you'll have more flexibility, but there's probably less support if you get stuck. There may be fewer established processes in place (think small/no HR, for example). On the practical side, startups may pay less and be less inclined to support visas. But if you get in early and you believe in the product, if the company succeeds you may leave with a lot of reward in the form of actualized stock options, connections, and unique experiences. 
 * Mid-sized company --- companies with a few dozen to a thousand employees, say. Such companies may have a few locations and may have been around for a bit longer. They're maybe not actively in a money raising phase, but rather have a stable product they produce. These companies will have less of a hierarchical structure, but still there are established teams and administrative processes and some documented knowledge. There could be interesting options for career growth here; a lot will depend on the individuals around you. I might also group some NGOs and non-profits under this category. 
 * The giants --- tech giants, financial institutions, large pharma companies, and the like. These are global companies with multiple offices worldwide and thousands and employees. They tend to be very stable and have established admin processes. They may be the most likely to support a visa application if you are international. Your role will often be very well defined, and there will likely be a decent level of structure and hierarchy. I might also add government and academic institutions here, although they're not global, they can be large and very stable and hierarchical in a similar way. 
-* Work for yourself --- there is always also the option of starting your own company or working as a consultant/freelance. This may be hard to do as a first job, but keep in mind that this is an option that may suit your personality and priorities down the line, once you've made the transition out of academia and gained a bit of experience. 
+* Work for yourself --- there is always also the option of starting your own company or working as a consultant/contractor/freelance. This may be hard to do as a first job, but keep in mind that this is an option that may suit your personality and priorities down the line, once you've made the transition out of academia and gained a bit of experience. 
 
 
 ## Conduct informational interviews 
@@ -87,13 +87,14 @@ How do you find people to interview? One of two ways: you can start from people 
 If cold-emailing someone doesn't sound appealing, consider events that lend themselves to making these early connections. There are meetups in a lot of locations. The LSA [Linguistics Beyond Academia](https://www.linguisticsociety.org/content/linguistics-beyond-academia) special interest group runs events every Annual Meeting and at various other times of year, and participants will usually be open to speaking to academics who need their help. Your department may organize similar events, or maybe you should think about organizing one yourself.
 
 
-## Learn the terminology 
+## Learn the terminology
 
 Once you have some (vague) sense of what types of jobs might be of interest, it will be important that you learn the terminology used in those jobs. This will be a crucial step toward translating your academic experience into resume bullet points that will catch a hiring manager's eye. How should you do this? 
 
 * Read LinkedIn profiles of people with similar jobs and pay attention to how they describe their experience
 * Read job ads and identify terms that repeat 
 * Read blog posts about the relevant field
+* Read my [terminology](https://hkotek.com/blog/altac-terminology/) post
 * When you conduct informational interviews, pay attention to terms that aren't familiar to you. Make a note and ask your interviewee what they mean. 
 
 There is a bit of a learning curve here, mostly in adjusting how you think about your existing experience and how you talk about it. But, we're linguists, after all. Studying various ways people express themselves is what we do! Use your linguistics superpowers to help you through this part of the process.
@@ -101,6 +102,4 @@ There is a bit of a learning curve here, mostly in adjusting how you think about
 
 &nbsp;
 
-&nbsp;
-
-[^1]: Replace this with **lecturer** and **senior lecturer** in the UK or similar titles in other locations: there is always a clear job title and expected path of career progression, ignoring for a moment the possibility of taking on administrative roles. 
+[^1]: Replace this with *lecturer* and *senior lecturer* in the UK or similar titles in other locations: there is always a clear job title and expected path of career progression, ignoring for a moment the possibility of taking on administrative roles. 

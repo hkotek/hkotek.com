@@ -68,9 +68,11 @@ As a linguist, you may engage in several forms of data collection from humans wh
 > "Conducted semi-structured interviews with native speakers of low-resource languages (Tibetan, Kaqchikel, Chuj) over 3 years to study grammatical properties of these languages, resulting in 3 papers and 5 presentations."
 
 
-### 3. Language data collection; labeling, annotation
+### 3. Large-scale data collection; generalization; labeling, annotation
 
 Linguists also engage in **language data collection and labeling**, although we don't tend to think of it that way. Along the way, we may also create **annotation guidelines** --- that is, documentation surrounding how to identify the properties of interest in our data, including what values a property can have and how do decide what (if any) value to assign to a given datapoint.
+
+On a related note, ***a superpower linguists have but tend not to value nearly enough is the ability to generalize from a large set of unstructured data***. More precisely: the ability to construct the data set, adopt a set of properties that best capture the variation in the data, find the generalizations and identify the exceptions, and draw conclusions about how to best explain both. This is _such_ an important skill!
 
 (This describes a project on [gender representation in syntax example sentences](https://muse.jhu.edu/article/840952) in published linguistics papers:)
 > "Led a team of 3 graduate researchers and 24 undergraduate research assistants in a large-scale data collection project; created a corpus of 22,954 example sentences from 927 papers published in 3 leading linguistics journals between 1997--2018. Created [annotation guidelines](https://hkotek.com/annotation-guidelines.pdf) to label the data for 10 properties. Oversaw data analysis using non-parametric tests and sentiment analysis using the Bing and NRC methods in R."
