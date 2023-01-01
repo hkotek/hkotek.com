@@ -40,7 +40,7 @@ There are, in fact, various skills involved here, from â€œalgorithmic thinkingâ€
 I was lucky enough to engage in several experimental collaborations while I was in grad school, so here is an attempt to tell some of those stories. (I'm focusing here mostly on the data collection part, not the writing up of the results part, but see more below): 
 
 (The experimental chapter of my dissertation on multiple *wh*-questions and intervention effects, aka chapter 8 of my [monograph](https://mitpress.mit.edu/9780262536547/):)
-> "Designed and conducted 15 self-paced reading experiments and large-scale grammaticality surveys to study the structure and meaning of complex questions in English; wrote design documents[^2] and guidelines; analyzed the results using linear and logistic mixed effects models in R."
+> "Designed and conducted 15 behavioral experiments and tested 500+ participants to study the structure and meaning of complex questions in English; wrote design documents[^2] and guidelines; analyzed the results using linear and logistic mixed effects models in R."
 
 (My first foray into experimental work was through a study of English 'most' and 'more than half' in the MIT Experimental Syntax/Semantics Lab. It also led to my first Generals Paper:) 
 > "Developed and implemented over a dozen studies of quantified expressions in English using diverse methodologies, including self-paced counting, eye-tracking, picture-matching, picture selection, covered box, and grammaticality surveys. Analyzed the results using mixed effects models and parametric and non-parametric tests in R."
@@ -75,7 +75,7 @@ Linguists also engage in **language data collection and labeling**, although we 
 On a related note, ***a superpower linguists have but tend not to value nearly enough is the ability to generalize from a large set of unstructured data***. More precisely: the ability to construct the data set, adopt a set of properties that best capture the variation in the data, find the generalizations and identify the exceptions, and draw conclusions about how to best explain both. This is _such_ an important skill!
 
 (This describes a project on [gender representation in syntax example sentences](https://muse.jhu.edu/article/840952) in published linguistics papers:)
-> "Led a team of 3 graduate researchers and 24 undergraduate research assistants in a large-scale data collection project; created a corpus of 22,954 example sentences from 927 papers published in 3 leading linguistics journals between 1997--2018. Created [annotation guidelines](https://hkotek.com/annotation-guidelines.pdf) to label the data for 10 properties. Oversaw data analysis using non-parametric tests and sentiment analysis using the Bing and NRC methods in R."
+> "Led a team of 3 graduate researchers and 24 undergraduate research assistants in a large-scale data collection project; created a corpus of >22k example sentences from 900+ journal papers published in leading linguistics journals over 20 years. Created [annotation guidelines](https://hkotek.com/annotation-guidelines.pdf) to label the data for 10 properties. Oversaw data analysis using non-parametric tests and sentiment analysis using the Bing and NRC methods in R."
 
 (Consultant/field work obviously involves data collection. Really, all linguistic work involves some form of data collection, I think.)
 > "Constructed a corpus of over 1,000 example sentences elicited from a native speaker of Chuj (Mayan) over 2 years to study the properties and uses of question words (e.g. 'who', 'what') in the language."[^4] 
@@ -108,7 +108,7 @@ Again, anyone in a graduate program has done some of this. It's easy to overlook
 I'd argue that the bullet immediately above this section which discusses my dissertation work also demonstrates innovative problem solving! Turns out that it's kind of hard to write bullets that only demonstrate one skill without also showcasing others. 
 
 
-### 6. Securing buy-in for your work 
+### 6. Securing buy-in from stakeholders 
 
 Getting grants is probably the most direct way you can show you've not only done interesting research, but also convinced others it was worth investing in. 
  
