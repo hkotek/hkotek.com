@@ -103,8 +103,7 @@ These two are separate skills, but you can usually showcase them in one bullet. 
 Again, anyone in a graduate program has done some of this. It's easy to overlook this (and many other skills on this list) because everyone around you also has done the same. But out there in the 'real world' these skills are rare and worth celebrating. 
 
 (This is a project I did in grad school that initially came about because I needed some help implementing my own experiments. Eventually I also got a small internal grant and co-taught a workshop on it:)
-> "Co-created *[Turktools](http://turktools.net/)*, a free toolkit for implementing and analyzing 
-behavioral language experiments on Amazon Mechanical Turk, including HTML and R scripts for data visualization and analysis. The tools have powered several dozen studies world wide and are still actively used today."[^7]
+> "Co-created *[Turktools](http://turktools.net/)*, a free toolkit for implementing and analyzing behavioral language experiments on Amazon Mechanical Turk, including HTML and R scripts for data visualization and analysis. The tools have powered several dozen studies world wide and are still actively used today."[^7]
 
 I'd argue that the bullet immediately above this section which discusses my dissertation work also demonstrates innovative problem solving! Turns out that it's kind of hard to write bullets that only demonstrate one skill without also showcasing others. 
 
@@ -122,7 +121,7 @@ Getting grants is probably the most direct way you can show you've not only done
 This may sound cliche, but being able to **communicate complex findings to a range of audiences** is not something everyone can do. This is the second most common skill my former academic friends tend to mention as something useful they learned in grad school. 
 
 (Presentation focus:)
-> "Communicated research insights to diverse audiences in >120 talks and panels at national and international conferences, colloquia, panels, and public outreach events (with audiences averaging 50-100 participants per event); gave interviews for podcasts and social media outreach campaigns; wrote a blog post series to showcase non-academic career paths for linguists."
+> "Communicated research insights to diverse audiences in >120 talks and panels at national and international conferences, colloquia, and public outreach events (with audiences averaging 50-100 participants per event); gave interviews for podcasts and social media outreach campaigns; wrote a blog post series to showcase non-academic career paths for linguists."
 
 (Teaching focus:)
 > "Developed and taught 14 courses in linguistics at 3 universities; designed curricula, lecture notes, assignments, and assessments. Managed 14 teaching assistants and over 500 enrolled students."[^8]
