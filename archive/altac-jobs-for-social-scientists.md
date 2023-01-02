@@ -375,7 +375,7 @@ Come up with brand names to best suit products, work with clients to research un
 
 Some interview links: 
 * [Superlinguo Interview with a copywriter and brand strategist (and fiction author) (Steph Campisi)](https://www.superlinguo.com/post/142972814522/linguistics-jobs-interview-with-a-copywriter-and)
-* [Interview with a PR Consultant (Kate Warwick)](https://www.superlinguo.com/post/182353797752/linguistics-jobs-interview-with-a-pr-consultant)
+* [Superlinguo Interview with a PR Consultant (Kate Warwick)](https://www.superlinguo.com/post/182353797752/linguistics-jobs-interview-with-a-pr-consultant)
 
 ### Ops 
 
@@ -387,7 +387,17 @@ Direct the logistical aspects of projects within your organization, including st
 Develop or use metrics to check the accuracy and quality of products. 
 
 
+### Freelance consulting, coaching, etc. 
 
+Build your own company! Do anything you want! There are no job ads here; the sky is the limit. 
+
+> "Transformational Coach: Through structured conversations held in a safe, confidential and non-judgemental space, I help clients overcome limiting beliefs as they navigate change to achieve their goals. I use a variety of techniques from psychology, UX, management, development and of course, linguistics. Key skill areas include deep listening, data analysis, conversation analysis, semantics, metaphor, pragmatics, and understanding of sociolinguistic principles. Also, research methods, esp qualitative and ethnographic approaches."
+
+> "CEO of my own firm: Anti-bias consultant and researcher, book author, e-learning course creator/presenter."
+
+Some interview links: 
+* [Superlinguo Interview with an Internet Linguist (Gretchen McCulloch)](https://www.superlinguo.com/post/185962917501/linguistics-jobs-interview-with-an-internet)
+* [Superlinguo Interview with The Career Linguist (Anna Marie Trester)](https://www.superlinguo.com/post/160671767109/linguistics-jobs-interview-with-the-career)
 
 &nbsp;
 
