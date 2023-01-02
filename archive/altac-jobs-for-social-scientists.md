@@ -27,11 +27,11 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 * included some descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
-You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. You are encouraged to also spend some time browsing those interviews (including [my interview](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural), if you are so inclined!)
+You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well.
 
 If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to *apply like Kyle*! 
 
-<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%" />
+<img src="https://hkotek.com/apply-like-kyle.png" width="40%" />
 
 <!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
@@ -84,6 +84,10 @@ Some links to job ads:
 * [Language Engineer (Amazon)](https://web.archive.org/web/20221025181113/https://www.amazon.jobs/en/jobs/2279906/language-engineer-ii-amazon-comprehend)[^4]
 * [Technical Linguist (Advantis)](https://web.archive.org/web/20230101231811/https://www.linkedin.com/jobs/view/3390394262/)
 
+Some interview links: 
+* [Superlinguo Interview with a Natural Language Annotation Lead (Hadas Kotek)](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)
+* [Superlinguo Interview with a Language Engineer (Brent Woo)](https://www.superlinguo.com/post/694502157231259648/linguistics-jobs-interview-with-a-language)
+
 ### More technical: data science and variants
 
 Work with annotated data to train machine-learning models and/or analyze their results. Usually requires an understanding of NLP and AI/ML tools and/or as data analysis methods.
@@ -102,11 +106,20 @@ Some links to job ads:
 * [Senior Analyst (AirBnb)](https://web.archive.org/web/20230101234944/https://www.linkedin.com/jobs/view/3395187051)
 * [Lead Natural Language Processing Scientist (Two Six Technologies)](https://web.archive.org/web/20230101235350/https://www.linkedin.com/jobs/view/3352952588)
 
+Some interview links: 
+* [Superlinguo Interview with a Computational Linguist (Mel Mistica)](https://www.superlinguo.com/post/146520844381/linguistics-jobs-interview-with-a-computational)
+* [Superlinguo Interview with a data analyst (Aidan Wilson)](https://www.superlinguo.com/post/118642648400/linguistics-jobs-interview-with-a-data-analyst)
+
+
 ### Most technical -- developers and engineers
 
 There are, of course, also language-related roles that are basically engineering roles. You can be a **software engineer, full-stack/front end/back end developer, NLP engineer, AIML researcher/scientist**, and similar. These would be roles that require high competency in coding and the latest AIML techniques. You can already see some of that in the links above. I won't go into additional details here. 
 
 And, of course, there are also lots of data-related roles that aren't language related, but again this post is going to be long enough without trying to exhaustively list those roles, too. 
+
+Some interview links: 
+* [Superlinguo Interview with a Software Engineer (Brooke Lynne Weaver)](https://www.superlinguo.com/post/188795466330/linguistics-jobs-interview-with-a-software)
+
 
 ### Caveat
 
@@ -151,6 +164,10 @@ Some links to job ads:
 * [Ontologist (Bloomberg)](https://web.archive.org/web/20230102163335/https://www.linkedin.com/jobs/view/3393555915)
 * [Semantic Data Engineer (Starbucks)](https://web.archive.org/web/20230102163437/https://www.linkedin.com/jobs/view/3361903651)
 * [Vocabulary Engineering Associate (JPMorgan Chase)](https://web.archive.org/web/20221025020035/https://www.linkedin.com/jobs/view/3234870174/?alternateChannel=search&refId=U3E7nnzhiy%2BPw5ADEISwcQ%3D%3D&trackingId=4F%2F%2BuVJCOfZqiQ5DMsO9sA%3D%3D)
+
+
+Some interview links: 
+* [Superlinguo Interview with a Metadata Specialist and Genealogist (Mallory Manley)](https://www.superlinguo.com/post/639958986335174656/linguistics-jobs-interview-with-a-metadata)
 
 
 ## Localization
@@ -202,6 +219,12 @@ Some links to job ads:
 * [Research manager (Patagonia)](https://web.archive.org/web/20221025015311/https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/3210026562?refId=0O9ZeNTO6EWCe1s%2FpFY4xA%3D%3D&trackingId=aZdWtCo8f7ttX%2BCNNclBJw%3D%3D)
 * [Market Researcher, New Publication Launches (Industry Dive)](https://web.archive.org/web/20230102192410/https://www.linkedin.com/jobs/view/3289968419/)
 
+Some interview links: 
+* [Superlinguo Interview with a Senior Analyst, Strategic Insights & Analytics (Edward Wilford)](https://www.superlinguo.com/post/664057761795014656/linguistics-jobs-interview-with-a-senior-analyst)
+* [Superlinguo Interview with an Impact Lead (Shivonne Gates)](https://www.superlinguo.com/post/675472970553098240/linguistics-jobs-interview-with-an-impact-lead)
+* [Superlinguo Interview with a think tank researcher (Jena Barchas-Lichtenstein)](https://www.superlinguo.com/post/171283136149/linguistics-jobs-interview-with-a-think-tank)
+* [Superlinguo Interview with a Learning Scientist (Cindy Blanco)](https://www.superlinguo.com/post/186776833731/linguistics-jobs-interview-with-a-learning)
+
 
 ### User experience and design, conversation design
 
@@ -227,6 +250,10 @@ Some job ads:
 * [UX Researcher (Google, YouTube)](https://web.archive.org/web/20230102192242/https://www.linkedin.com/jobs/view/3395788002)
 * [Conversation Designer (QuickBooks)](https://web.archive.org/web/20230102181832/https://www.linkedin.com/jobs/view/3385083829)
 
+Some interview links: 
+* [Superlinguo Interview with a User Experience (UX) Researcher (Abby Bajuniemi)](https://www.superlinguo.com/post/162252383196/linguistics-jobs-interview-with-a-user)
+* [Superlinguo Interview with a  Director of Conversation Design (Greg Bennett)](https://www.superlinguo.com/post/702742707325599744/linguistics-jobs-interview-with-a-director-of)
+
 
 ## ProXXXX management 
 
@@ -238,6 +265,10 @@ Some links to job ads:
 * [Product Manager - Natural Language Processing (Qualtrics)](https://web.archive.org/web/20230101235053/https://www.linkedin.com/jobs/view/3261466605)
 * [Project Manager - Linguistics (Apple)](https://web.archive.org/web/20230102161236/https://jobs.apple.com/en-us/details/200286448/project-manager-linguistics?team=MLAI)
 
+Some interview links: 
+* [Superlinguo Interview with a Linguistic Project Manager at a Language Tech Company (Sasha Wilmoth)](https://www.superlinguo.com/post/166921953185/linguistics-jobs-interview-with-a-linguistic)
+* [Superlinguo Interview with a Product Manager (Megan Risdal)](https://www.superlinguo.com/post/188176778397/linguistics-jobs-interview-with-a-product-manager)
+* [Interview with a Client Services Manager](https://www.superlinguo.com/post/150930940729/linguistics-jobs-interview-with-a-client)
 
 ## Curriculum design
 
@@ -258,6 +289,10 @@ Some descriptions of job responsibilities:
 Some links to job ads: 
 * [Curriculum Designer (Discover)](https://web.archive.org/web/20230102195442/https://www.linkedin.com/jobs/view/3400314280)
 * [Instructional Designer (Arizona State University)](https://web.archive.org/web/20230102195648/https://www.linkedin.com/jobs/view/3411937166)
+
+Some interview links: 
+* [Superlinguo Interview with an educational development lecturer (and linguistic consultant) (Olga Maxwell)](https://www.superlinguo.com/post/152524200571/linguistics-jobs-interview-with-an-educational)
+
 
 ## Writing and editing
 
@@ -280,6 +315,11 @@ Some links to job ads:
 * [Technical Writer (Blue Cross Blue Shield of Arizona)](https://web.archive.org/web/20230102200245/https://www.linkedin.com/jobs/view/3405201042)
 
 
+Some interview links: 
+* [Superlinguo Interview with a Technical Writer (Alex Katz)](https://www.superlinguo.com/post/653280551203160064/linguistics-jobs-interview-with-a-technical)
+* [Superlinguo Interview with a Freelance Editor, Writer and Trainer (Howard Walwyn)](https://www.superlinguo.com/post/179529490940/linguistics-jobs-interview-with-a-freelance)
+* [Superlinguo Interview with a Lexicographer (Jane Solomon)](https://www.superlinguo.com/post/184512967606/linguistics-jobs-interview-with-a-lexicographer)
+
 ## DEI 
 
 One particular use of a language background is in anti-bias, in the Diversity, Equity, and Inclusion (DEI) space. Two examples: 
@@ -299,6 +339,11 @@ There are many roles in academia that aren't research-related, either on the ten
 
 > "Director of Education and Professional Practice: I work at a professional association where I'm in charge of professional development, public / youth outreach and research on the profession. It's mainly program management, service design and evaluation"
 
+Some interview links: 
+* [Superlinguo Interview with a data scientist (Heather Froehlich)](https://www.superlinguo.com/post/165702012482/linguistics-jobs-interview-with-a-data)
+* [Superlinguo Interview with a Librarian (Shanna Hollich)](https://www.superlinguo.com/post/164687104323/linguistics-jobs-interview-with-a-librarian)
+
+
 ## Various others
 
 Each of the following sections could be expanded into its own category, but I don't have enough expertise or information to do it on my own. If you know more about this, drop a comment with links or descriptions and I'll expand the sections accordingly. 
@@ -307,13 +352,21 @@ Each of the following sections could be expanded into its own category, but I do
 
 Work with museums, libraries, government agencies, universities, private companies, NGOs, and other institutions, to communicate research findings with the general public.
 
+Some interview links: 
+* [Superlinguo Interview with an Exhibition Content Manager (Emily Gref)](https://www.superlinguo.com/post/611420940961792000/linguistics-jobs-interview-with-an-exhibition)
+
 ### Naming, branding, advertising: 
 
 Come up with brand names to best suit products, work with clients to research unique aspects of their brands. 
 
+Some interview links: 
+* [Superlinguo Interview with a copywriter and brand strategist (and fiction author) (Steph Campisi)](https://www.superlinguo.com/post/142972814522/linguistics-jobs-interview-with-a-copywriter-and)
+* [Interview with a PR Consultant (Kate Warwick)](https://www.superlinguo.com/post/182353797752/linguistics-jobs-interview-with-a-pr-consultant)
+
 ### Ops 
 
 Direct the logistical aspects of projects within your organization, including staffing, budgeting, hiring, prioritizing projects, procuring tools, evaluating efficiencies. 
+
 
 ### Quality Assurance
 
