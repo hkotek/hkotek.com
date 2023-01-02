@@ -325,7 +325,7 @@ Some interview links:
 * [Superlinguo Interview with a Lexicographer (Jane Solomon)](https://www.superlinguo.com/post/184512967606/linguistics-jobs-interview-with-a-lexicographer)
 
 
-## DEI 
+## Diversity, Equity, and Inclusion  
 
 One particular use of a language background is in anti-bias, in the Diversity, Equity, and Inclusion (DEI) space. Two examples: 
 
@@ -333,6 +333,9 @@ One particular use of a language background is in anti-bias, in the Diversity, E
 
 > "Language Science and Design Manager Situated in DEI: I work with people both in DEI and language science/tech to develop frameworks and resources for identifying and working through bias in and about language."
 
+Some interview links: 
+* [Superlinguo Interview with a Language Revitalisation Program Director (Margaret Florey)]
+(https://www.superlinguo.com/post/141797685003/linguistics-jobs-interview-with-a-language)
 
 ## Work at academic institutions
 
