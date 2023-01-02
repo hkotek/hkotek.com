@@ -170,22 +170,6 @@ Some interview links:
 * [Superlinguo Interview with a Metadata Specialist and Genealogist (Mallory Manley)](https://www.superlinguo.com/post/639958986335174656/linguistics-jobs-interview-with-a-metadata)
 
 
-## Localization
-
-Localization (l10n) or internationalization (i18n), often in combination with “language engineering” roles involve adapting a product that was created in language X (often but not always English) to another language or market. The simplest form involves translation of existing materials to the local language, but will often involve actually contributing new content that’s specifically relevant to the language, culture, and market.
-
-Some job titles: **Language Engineer, Localization Project Manager, Machine Translation Engineer, Translation Project Manager**
-
-
-Some descriptions of job responsibilities: 
-> "Doing data collections for model testing, and localizing language artifacts for additional languages."
-
-Some links to job ads: 
-* [Translation Project Manager (Avantpage)](https://web.archive.org/web/20221025032306/https://locjobs.com/job/1141/translation-project-manager-remote-us-based/)
-* [Localization Project Manager (Supertext)](https://web.archive.org/web/20221025031902/https://locjobs.com/job/870/localization-project-manager/)
-* [Localization Specialist (Tesla)](https://web.archive.org/web/20230102172440/https://www.linkedin.com/jobs/view/3289213345)
-* [Product Manager - Internationalization (Klaviyo)](https://web.archive.org/web/20230102172624/https://www.linkedin.com/jobs/view/3409103941)
-
 
 ## Research 
 
@@ -255,6 +239,23 @@ Some interview links:
 * [Superlinguo Interview with a  Director of Conversation Design (Greg Bennett)](https://www.superlinguo.com/post/702742707325599744/linguistics-jobs-interview-with-a-director-of)
 
 
+## Localization
+
+Localization (l10n) or internationalization (i18n), often in combination with “language engineering” roles involve adapting a product that was created in language X (often but not always English) to another language or market. The simplest form involves translation of existing materials to the local language, but will often involve actually contributing new content that’s specifically relevant to the language, culture, and market.
+
+Some job titles: **Language Engineer, Localization Project Manager, Machine Translation Engineer, Translation Project Manager**
+
+
+Some descriptions of job responsibilities: 
+> "Doing data collections for model testing, and localizing language artifacts for additional languages."
+
+Some links to job ads: 
+* [Translation Project Manager (Avantpage)](https://web.archive.org/web/20221025032306/https://locjobs.com/job/1141/translation-project-manager-remote-us-based/)
+* [Localization Project Manager (Supertext)](https://web.archive.org/web/20221025031902/https://locjobs.com/job/870/localization-project-manager/)
+* [Localization Specialist (Tesla)](https://web.archive.org/web/20230102172440/https://www.linkedin.com/jobs/view/3289213345)
+* [Product Manager - Internationalization (Klaviyo)](https://web.archive.org/web/20230102172624/https://www.linkedin.com/jobs/view/3409103941)
+
+
 ## ProXXXX management 
 
 Drive different aspects of large-scale projects. Drive short- and long-term planning. Ensure projects are staffed appropriately and that budgets are met. Drive syncs and use organizational tools to report consistently on results and processes. Conduct retrospectives to learn from the past and plan better in the future. “Unblock” others, network within and across teams to identify needed resources to ensure progress. 
@@ -298,6 +299,23 @@ Some interview links:
 * [Superlinguo Interview with a High School Teacher](https://www.superlinguo.com/post/131442688782/linguistics-jobs-interview-with-a-high-school)
 * [Superlinguo Interview with an Online Linguistics Teacher (Colin Gorrie)](https://www.superlinguo.com/post/672302090415161344/linguistics-jobs-interview-with-an-online)
 
+
+## Work at academic institutions
+
+There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs, e.g. **Assistant Dean** of students or **Postdoc Office. There are also librarian, outreach, and science communication jobs. The list of titles is too long to exhaustively list, but here are a few examples: 
+
+> "Academic librarian ("Digital Scholarship Specialist"): I focus on text + data mining."
+
+> "Subject librarian at a large university library: I maintain the collection for Linguistics, Dutch and German, give various skills trainings to students & researchers, and am one of the library's Open Access specialists. Subject and liaison librarian for languages and literatures plus open access."
+
+> "Director of Education and Professional Practice: I work at a professional association where I'm in charge of professional development, public / youth outreach and research on the profession. It's mainly program management, service design and evaluation"
+
+Some interview links: 
+* [Superlinguo Interview with a data scientist (Heather Froehlich)](https://www.superlinguo.com/post/165702012482/linguistics-jobs-interview-with-a-data)
+* [Superlinguo Interview with a Librarian (Shanna Hollich)](https://www.superlinguo.com/post/164687104323/linguistics-jobs-interview-with-a-librarian)
+* [Superlinguo Interview with a university course coordinator](https://www.superlinguo.com/post/172249448291/linguistics-jobs-interview-with-a-university)
+
+
 ## Writing and editing
 
 Various kinds of writing and editing-related jobs: Create documentation of materials developed by engineers and other content creators, work for a scientific publisher, do copywriting, or similar.  
@@ -337,20 +355,6 @@ Some interview links:
 * [Superlinguo Interview with a Language Revitalisation Program Director (Margaret Florey)]
 (https://www.superlinguo.com/post/141797685003/linguistics-jobs-interview-with-a-language)
 
-## Work at academic institutions
-
-There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs, e.g. **Assistant Dean** of students or **Postdoc Office. There are also librarian, outreach, and science communication jobs. The list of titles is too long to exhaustively list, but here are a few examples: 
-
-> "Academic librarian ("Digital Scholarship Specialist"): I focus on text + data mining."
-
-> "Subject librarian at a large university library: I maintain the collection for Linguistics, Dutch and German, give various skills trainings to students & researchers, and am one of the library's Open Access specialists. Subject and liaison librarian for languages and literatures plus open access."
-
-> "Director of Education and Professional Practice: I work at a professional association where I'm in charge of professional development, public / youth outreach and research on the profession. It's mainly program management, service design and evaluation"
-
-Some interview links: 
-* [Superlinguo Interview with a data scientist (Heather Froehlich)](https://www.superlinguo.com/post/165702012482/linguistics-jobs-interview-with-a-data)
-* [Superlinguo Interview with a Librarian (Shanna Hollich)](https://www.superlinguo.com/post/164687104323/linguistics-jobs-interview-with-a-librarian)
-* [Superlinguo Interview with a university course coordinator](https://www.superlinguo.com/post/172249448291/linguistics-jobs-interview-with-a-university)
 
 ## Various others
 
@@ -363,6 +367,8 @@ Work with museums, libraries, government agencies, universities, private compani
 Some interview links: 
 * [Superlinguo Interview with an Exhibition Content Manager (Emily Gref)](https://www.superlinguo.com/post/611420940961792000/linguistics-jobs-interview-with-an-exhibition)
 * [Superlinguo Interview with the Director of Education and Professional Practice at the American Anthropological Association (Daniel Ginsberg)](https://www.superlinguo.com/post/628547548302524416/linguistics-jobs-interview-with-the-director-of)
+
+
 ### Naming, branding, advertising: 
 
 Come up with brand names to best suit products, work with clients to research unique aspects of their brands. 
@@ -373,7 +379,7 @@ Some interview links:
 
 ### Ops 
 
-Direct the logistical aspects of projects within your organization, including staffing, budgeting, hiring, prioritizing projects, procuring tools, evaluating efficiencies. 
+Direct the logistical aspects of projects within your organization, including staffing, budgeting, hiring, prioritizing projects, procuring tools, evaluating efficiencies. Related to project management in some ways. 
 
 
 ### Quality Assurance
