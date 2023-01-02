@@ -27,11 +27,11 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 * included some descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
-You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well.
+You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well ([there's even an interview with me!](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)).
 
-If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to *apply like Kyle*! 
+If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, **I urge you to *apply like Kyle***! 
 
-<img src="https://hkotek.com/apply-like-kyle.png" width="95%" />
+<img src="https://hkotek.com/apply-like-kyle.png" width="80%" />
 
 <!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
