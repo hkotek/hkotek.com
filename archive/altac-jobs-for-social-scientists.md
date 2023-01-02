@@ -124,7 +124,7 @@ Some links to job ads:
 
 ## Knowledge engineering
 
-Broadly: Create ontologies/taxonomies, develop annotation schemas, define the label space used for annotation for machine-learning products. 
+Create ontologies/taxonomies, develop annotation schemas, define the label space used for annotation for machine-learning products. 
 
 Some job titles: **Knowledge Engineer, Ontologist, Taxonomist, Information Manager, Content Manager, Content Strategist, Content Specialist, Product Hierarchy Specialist, Vocabulary Prototyping Associate, Vocabulary Engineering Associate, Lexical Developer**
 
@@ -147,7 +147,7 @@ Some links to job ads:
 
 ## Localization
 
-Broadly: Localization (l10n) or internationalization (i18n), often in combination with “language engineering” roles involve adapting a product that was created in language X (often but not always English) to another language or market. The simplest form involves translation of existing materials to the local language, but will often involve actually contributing new content that’s specifically relevant to the language, culture, and market.
+Localization (l10n) or internationalization (i18n), often in combination with “language engineering” roles involve adapting a product that was created in language X (often but not always English) to another language or market. The simplest form involves translation of existing materials to the local language, but will often involve actually contributing new content that’s specifically relevant to the language, culture, and market.
 
 Some job titles: **Language Engineer, Localization Project Manager, Machine Translation Engineer, Translation Project Manager**
 
@@ -168,7 +168,7 @@ A lot can go into here. I'm going to split out UX research from the rest simply 
 
 ### General roles
 
-Broadly: Use qualitative and/or quantitative tools (A/B testing, interviews, questionnaires, data analysis, etc) to investigate how consumers and clients benefit from a product, what new features the market wants, what products exist in the market and how makes each one unique, how to make products friendly, how to increase customer satisfaction, how to improve employee retention, etc. Create reports and presentations to share findings with clients and internal stakeholders. 
+Use qualitative and/or quantitative tools (A/B testing, interviews, questionnaires, data analysis, etc) to investigate how consumers and clients benefit from a product, what new features the market wants, what products exist in the market and how makes each one unique, how to make products friendly, how to increase customer satisfaction, how to improve employee retention, etc. Create reports and presentations to share findings with clients and internal stakeholders. 
 
 Some job titles: **Research Analyst, Research Scientist, Research-Innovation Lead, Solutions Innovator, Insights Consultant, Marketing Researcher, Ethnographic Researcher, People Analytics Specialist, Behavioral Scientist, Applied Scientist, Data Quality Curator, Researcher, Growth Strategist, Chief Learning Officer, Chief Knowledge Officer, R&D (research & development)** (I'll cover [UX research, conversation design](User-experience-and-design) and variants as a separate category below)
 
@@ -197,7 +197,7 @@ Some links to job ads:
 
 ### User experience and design
 
-Broadly: Do research and/or design that focuses specifically on the user. This can include work with voice-centric products or with other products. 
+Do research and/or design that focuses specifically on the user. This can include work with voice-centric products or with other products. 
 
 Some job titles: **UX Researcher, Human Factors Engineer, Content Designer, Content Strategist, UX writer, UX Design, Conversation Designer, Voice Designer, Voice-User Interface Designer, Conversational Architect, Chatbot Designer**
 
@@ -233,7 +233,7 @@ Some links to job ads:
 
 ## Curriculum design
 
-Broadly: Create course content, timelines, and plans. Create metrics to evaluate learning outcomes. You might be employed by an EdTech company, by any other company that does internal trainings on its own (many large tech companies do this, for example), or by an academic institution.
+Create course content, timelines, and plans. Create metrics to evaluate learning outcomes. You might be employed by an EdTech company, by any other company that does internal trainings on its own (many large tech companies do this, for example), or by an academic institution.
 
 Some job titles: **Curriculum Designer, Instructional Designer, Educational Developer, Test Developer**
 
@@ -253,7 +253,7 @@ Some links to job ads:
 
 ## Writing and editing
 
-Broadly: various kinds of writing and editing-related jobs. create documentation of materials created by engineers and other content creators, work for a scientific publisher, do copywriting, or similar.  
+Various kinds of writing and editing-related jobs: Create documentation of materials developed by engineers and other content creators, work for a scientific publisher, do copywriting, or similar.  
 
 Some job titles: **Technical Writer, CI Writer, Document Designer, Lexicographer, Editor, Managing Director** 
 
