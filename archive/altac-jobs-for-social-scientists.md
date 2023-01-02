@@ -40,24 +40,21 @@ also, my perennial reminder to anyone who isn't a cishet white dude: apply for j
 
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
-<!--
 ## TOC 
 
 This post is going to be long enough that I'm going to provide links to my top level categories so it's easier to browse. 
 
-1. [Language data roles (incl linguist, annotation, data science, NLP, AI/ML](#Language-data-roles)
-2. [Knowledge engineering / ontology](#Knowledge-engineering)
-3. [Localization](#Localization)
-4. [Research](#Research)
-5. [Project management, product management, program management](#ProXXXX-management)
-6. [Curriculum design](#Curriculum-design)
-7. [Writing and editing](#Writing-and-editing)
-8. [DEI](#DEI)
-9. [Work at academic institutions](#Work-at-academic-institutions)
-10. [Various others](#Various-others)
-    a. 
+1. [Language data roles (including linguist, annotation, data science, NLP, AI/ML](https://hkotek.com/blog/altac-jobs-for-social-scientists/#language-data-roles)
+2. [Knowledge engineering / ontology](https://hkotek.com/blog/altac-jobs-for-social-scientists/#knowledge-engineering)
+3. [Research (including UXR and conversation design)](https://hkotek.com/blog/altac-jobs-for-social-scientists/#research)
+4. [Localization](https://hkotek.com/blog/altac-jobs-for-social-scientists/#localization)
+5. [Project management, product management, program management](https://hkotek.com/blog/altac-jobs-for-social-scientists/#proxxxx-management)
+6. [Curriculum design](https://hkotek.com/blog/altac-jobs-for-social-scientists/#curriculum-design)
+7. [Work at academic institutions](#https://hkotek.com/blog/altac-jobs-for-social-scientists/#work-at-academic-institutions)
+8. [Writing and editing](https://hkotek.com/blog/altac-jobs-for-social-scientists/#writing-and-editing)
+9. [Diversity, Equity, and Inclusion](https://hkotek.com/blog/altac-jobs-for-social-scientists/#diversity-equity-and-inclusion)
+10. [Various others](https://hkotek.com/blog/altac-jobs-for-social-scientists/#various-others)
 
---->
 
 ## Language data roles
 
@@ -143,7 +140,7 @@ Some links to job ads:
 * [Localization QA Tester (Apple)](https://web.archive.org/web/20230102161408/https://jobs.apple.com/en-us/details/200379132/localization-qa-tester?team=SFTWR)
 
 
-## Knowledge engineering / ontology
+## Knowledge engineering
 
 Create ontologies/taxonomies, develop annotation schemas, define the label space used for annotation for machine-learning products. 
 
@@ -269,7 +266,7 @@ Some links to job ads:
 Some interview links: 
 * [Superlinguo Interview with a Linguistic Project Manager at a Language Tech Company (Sasha Wilmoth)](https://www.superlinguo.com/post/166921953185/linguistics-jobs-interview-with-a-linguistic)
 * [Superlinguo Interview with a Product Manager (Megan Risdal)](https://www.superlinguo.com/post/188176778397/linguistics-jobs-interview-with-a-product-manager)
-* [Interview with a Client Services Manager](https://www.superlinguo.com/post/150930940729/linguistics-jobs-interview-with-a-client)
+* [Superlinguo Interview with a Client Services Manager](https://www.superlinguo.com/post/150930940729/linguistics-jobs-interview-with-a-client)
 
 
 ## Curriculum design
@@ -352,8 +349,7 @@ One particular use of a language background is in anti-bias, in the Diversity, E
 > "Language Science and Design Manager Situated in DEI: I work with people both in DEI and language science/tech to develop frameworks and resources for identifying and working through bias in and about language."
 
 Some interview links: 
-* [Superlinguo Interview with a Language Revitalisation Program Director (Margaret Florey)]
-(https://www.superlinguo.com/post/141797685003/linguistics-jobs-interview-with-a-language)
+* [Superlinguo Interview with a Language Revitalisation Program Director (Margaret Florey)](https://www.superlinguo.com/post/141797685003/linguistics-jobs-interview-with-a-language)
 
 
 ## Various others
