@@ -21,7 +21,7 @@
 		<ul>
 		<li><a href='/'>Home</a></li>
 	{% for item in site.pages %}
-		{% if item.path != 'index.md' and item.path != 'personal.md' and item.path != 'blog/index.md' and item.path != 'archive/info-interview-questions.md' %}
+		{% if item.path != 'index.md' and item.path != 'personal.md' and item.path != 'blog/index.md' and item.path != 'archive/info-interview-questions.md' and item.path != 'blog/2023-1-2-altac-jobs-for-social-scientists.md'%}
 			<li {% if item.url == page.url %} class='active'{% endif %}><a href='{{ item.url }}'>{{ item.title }}</a></li>
 		{% endif %}
 	{% endfor %}
