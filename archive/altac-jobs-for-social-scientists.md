@@ -29,15 +29,6 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 
 You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well ([there's even an interview with me!](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)).
 
-If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, **I urge you to *apply like Kyle***! 
-
-<img src="https://hkotek.com/apply-like-kyle.png" width="80%" />
-
-<!---
-![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
-also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png =300x300)
---->
-
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
 ## TOC 
@@ -394,6 +385,19 @@ Build your own company! Do anything you want! There are no job ads here; the sky
 Some interview links: 
 * [Superlinguo Interview with an Internet Linguist (Gretchen McCulloch)](https://www.superlinguo.com/post/185962917501/linguistics-jobs-interview-with-an-internet)
 * [Superlinguo Interview with The Career Linguist (Anna Marie Trester)](https://www.superlinguo.com/post/160671767109/linguistics-jobs-interview-with-the-career)
+
+## Summary 
+
+This post was both long and non-exhaustive. There are *so many* opportunities out there. I realize that this may both exciting and intimidating at the same time. If you are not sure if you have enough experience to apply, **I strongly encourage you *apply like Kyle*!** 
+
+<img src="https://hkotek.com/apply-like-kyle.png" width="80%" />
+
+<!---
+![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
+also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png =300x300)
+--->
+
+
 
 &nbsp;
 
