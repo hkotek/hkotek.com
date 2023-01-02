@@ -1,7 +1,7 @@
 ---
 title: Job titles and job descriptions for social scientists
 layout: default
-comments: false
+comments: true
 permalink: /blog/altac-jobs-for-social-scientists/
 categories:
   - altac, jobs, job titles, job search
@@ -31,14 +31,14 @@ You may have also already encountered [**Superlinguo’s Linguist Job Interviews
 
 If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to *apply like Kyle*! 
 
-<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%"/>
+<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%" />
 
 <!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
 also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png =300x300)
 --->
 
-Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
+Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
 <!--
 ## TOC 
@@ -86,7 +86,7 @@ Some links to job ads:
 
 ### More technical: data science and variants
 
-Work with annotated data to train machine-learning models and/or analyze their results. Usually requires an understanding of NLP and AI/ML tools as well as data analysis methods.
+Work with annotated data to train machine-learning models and/or analyze their results. Usually requires an understanding of NLP and AI/ML tools and/or as data analysis methods.
 
 Some job titles: **Data Analyst, Data Scientist, Data Science Analyst, Search Quality Analyst, Language Analyst, NLP engineer, Language Engineer, Computational Linguist, Conversational AI Engineer, Applied Scientist, NLP Scientist, Localization Engineer**
 
@@ -110,7 +110,9 @@ And, of course, there are also lots of data-related roles that aren't language r
 
 ### Caveat
 
-The grouping I made here is somewhat artificial. As I hope the descriptions make clear, the actual set of responsibilities you might have could fall anywhere along the spectrum of {creating guidelines, doing trainings, giving feedback to annotators} > {designing annotation projects, devising data strategies, doing data sampling, constructing and running projects} > {analyzing results of projects, doing error analysis, tracking metrics} > {training ML models, devising and using evaluation methods, building products that use the models}. In fact, a team of linguists could have several members with the same title (say, Analytical Linguist at Google) but each person could be in charge of different aspects of the process for different projects or at different times. You'll have to read the job ad and talk to the recruiter and hiring manager to know how technical a particular job is and whether it suits your skills. 
+The grouping I made here is somewhat artificial. As I hope the descriptions make clear, the actual set of responsibilities you might have could fall anywhere along the spectrum of {creating guidelines, doing trainings, giving feedback to annotators} > {designing annotation projects, devising data strategies, doing data sampling, constructing and running projects} > {analyzing results of projects, doing error analysis, tracking metrics} > {training ML models, devising and using evaluation methods, building products that use the models}. 
+
+In fact, a team of linguists could have several members with the same title (say, Analytical Linguist at Google) but each person could be in charge of different aspects of the process for different projects or at different times. You'll have to read the job ad and talk to the recruiter and hiring manager to know how technical a particular job is and whether it suits your skills. 
 
 
 ### An aside: annotation 
@@ -170,13 +172,13 @@ Some links to job ads:
 
 ## Research 
 
-A lot can go into here. I'm going to split out UX research from the rest simply because I have a lot of descriptions from people in those roles. Once again, this is a fully artificial split that I'm making just for convenience. 
+A lot can go into here. I'm going to separate out UX research from the rest simply because I have a lot of descriptions from people in those roles. Once again, this is a fully artificial split that I'm making just for convenience. 
 
 ### General roles
 
 Use qualitative and/or quantitative tools (A/B testing, interviews, questionnaires, data analysis, etc) to investigate how consumers and clients benefit from a product, what new features the market wants, what products exist in the market and how makes each one unique, how to make products friendly, how to increase customer satisfaction, how to improve employee retention, etc. Create reports and presentations to share findings with clients and internal stakeholders. 
 
-Some job titles: **Research Analyst, Research Scientist, Research-Innovation Lead, Solutions Innovator, Insights Consultant, Marketing Researcher, Ethnographic Researcher, People Analytics Specialist, Behavioral Scientist, Applied Scientist, Data Quality Curator, Researcher, Growth Strategist, Chief Learning Officer, Chief Knowledge Officer, R&D (research & development)** (I'll cover [UX research, conversation design](User-experience-and-design) and variants as a separate category below)
+Some job titles: **Research Analyst, Research Scientist, Research-Innovation Lead, Solutions Innovator, Insights Consultant, Marketing Researcher, Ethnographic Researcher, People Analytics Specialist, Behavioral Scientist, Applied Scientist, Data Quality Curator, Researcher, Growth Strategist, Chief Learning Officer, Chief Knowledge Officer, R&D (research & development)**.
 
 Some descriptions of job responsibilities: 
 > "I design and carry out ethnographic research projects using a variety of qualitative 
@@ -201,7 +203,7 @@ Some links to job ads:
 * [Market Researcher, New Publication Launches (Industry Dive)](https://web.archive.org/web/20230102192410/https://www.linkedin.com/jobs/view/3289968419/)
 
 
-### User experience and design
+### User experience and design, conversation design
 
 Do research and/or design that focuses specifically on the user. This can include work with voice-centric products or with other products. 
 
