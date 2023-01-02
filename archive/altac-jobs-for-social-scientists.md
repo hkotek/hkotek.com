@@ -29,7 +29,7 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 
 If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to apply like Kyle! 
 
-[Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
+![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
 also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png)
 
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. YMMV.
