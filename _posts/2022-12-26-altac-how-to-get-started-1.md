@@ -18,8 +18,9 @@ It can be daunting to start pivoting to a non-academic career. Most academics sh
 
 Not so once you start looking outside this narrow path. It can be hard to see how your skills are relevant to other jobs (although they absolutely are!). It can be hard to even know what jobs are available, what they're called, or where to look for them. Your advisors can't help you because they simply don't know and don't have the experience. Maybe you're even afraid to ask, worried that they'll think less of you or stop investing time in advising you. So there is a great deal that you'll have to research and teach yourself. 
 
-(I have at least two posts planned about job titles and transferrable skills which I'll link in this post once they're ready!)
-
+Read some of my other posts: 
+* [Transferable skills (and how to talk about them)](https://hkotek.com/blog/altac-transferable_skills/)
+* [Job titles and job descriptions for social scientists](https://hkotek.com/blog/altac-jobs-for-social-scientists/)
 
 ## Getting started part 2: understand yourself
 
@@ -64,7 +65,7 @@ Finally, you should also ask yourself: **do you want a job that is related to yo
 
 ### What kind of job is right for you? 
 
-There are various materials out there that can help you identify types of jobs, including guides and interview series. [This post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started. The main link from there I'd like to point out is Superlinguo’s [Linguist Job Interviews](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of job titles. 
+There are various materials out there that can help you identify types of jobs, including guides and interview series. [This post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started. The main link from there I'd like to point out is [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of job titles. 
 
 The process of learning about different types of jobs can also help you answer some of the questions above. When you read about people's descriptions of their jobs, are there parts that you relate to more? Which parts stand out repeatedly in different posts? Those are probably worth exploring more.
 
@@ -80,11 +81,11 @@ This is also a time to consider what type of employer you'd want to work for (an
 
 ## Conduct informational interviews 
 
-I've written about [informational interviews](https://hkotek.com/blog/altac-informational-interview-questions/) in a different post. They are useful for getting additional details about potential career paths and to start building a network. 
+I've written about [**informational interviews**](https://hkotek.com/blog/altac-informational-interview-questions/) in a different post. They are useful for getting additional details about potential career paths and to start building a network. 
 
 How do you find people to interview? One of two ways: you can start from people you know. Maybe recent alums from your program, or friends you met elsewhere. If you can find someone who has a similar background to yours or someone who knows you well, you may be able to get targeted advice that will help you identify types of jobs and translate your experience into the language hiring managers speak. Or start from jobs of (potential) interest. Find people who work in these jobs on LinkedIn or on social media, and pay attention to their profile. There are quite a few people out there who explicitly offer up their time to help others in your situation. 
 
-If cold-emailing someone doesn't sound appealing, consider events that lend themselves to making these early connections. There are meetups in a lot of locations. The LSA [Linguistics Beyond Academia](https://www.linguisticsociety.org/content/linguistics-beyond-academia) special interest group runs events every Annual Meeting and at various other times of year, and participants will usually be open to speaking to academics who need their help. Your department may organize similar events, or maybe you should think about organizing one yourself.
+If cold-emailing someone doesn't sound appealing, consider events that lend themselves to making these early connections. There are meetups in a lot of locations. The LSA [**Linguistics Beyond Academia**](https://www.linguisticsociety.org/content/linguistics-beyond-academia) special interest group runs events every Annual Meeting and at various other times of year, and participants will usually be open to speaking to academics who need their help. Your department may organize similar events, or maybe you should think about organizing one yourself.
 
 
 ## Learn the terminology
@@ -94,7 +95,8 @@ Once you have some (vague) sense of what types of jobs might be of interest, it 
 * Read LinkedIn profiles of people with similar jobs and pay attention to how they describe their experience
 * Read job ads and identify terms that repeat 
 * Read blog posts about the relevant field
-* Read my [terminology](https://hkotek.com/blog/altac-terminology/) post
+* Read my [**terminology**](https://hkotek.com/blog/altac-terminology/) post
+* Browse the many resources on the [**Linguistics Career Launch**](https://www.linguisticscareerlaunch.com/resources/) website.
 * When you conduct informational interviews, pay attention to terms that aren't familiar to you. Make a note and ask your interviewee what they mean. 
 
 There is a bit of a learning curve here, mostly in adjusting how you think about your existing experience and how you talk about it. But, we're linguists, after all. Studying various ways people express themselves is what we do! Use your linguistics superpowers to help you through this part of the process.

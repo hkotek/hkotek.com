@@ -50,7 +50,7 @@ This post is going to be long enough that I'm going to provide links to my top l
 4. [Localization](https://hkotek.com/blog/altac-jobs-for-social-scientists/#localization)
 5. [Project management, product management, program management](https://hkotek.com/blog/altac-jobs-for-social-scientists/#proxxxx-management)
 6. [Curriculum design](https://hkotek.com/blog/altac-jobs-for-social-scientists/#curriculum-design)
-7. [Work at academic institutions](#https://hkotek.com/blog/altac-jobs-for-social-scientists/#work-at-academic-institutions)
+7. [Work at academic institutions](https://hkotek.com/blog/altac-jobs-for-social-scientists/#work-at-academic-institutions)
 8. [Writing and editing](https://hkotek.com/blog/altac-jobs-for-social-scientists/#writing-and-editing)
 9. [Diversity, Equity, and Inclusion](https://hkotek.com/blog/altac-jobs-for-social-scientists/#diversity-equity-and-inclusion)
 10. [Various others](https://hkotek.com/blog/altac-jobs-for-social-scientists/#various-others)
