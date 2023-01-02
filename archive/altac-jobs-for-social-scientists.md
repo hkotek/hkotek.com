@@ -9,7 +9,7 @@ tags:
   - altac, jobs, job titles, job search
 ---
 
-If you studied engineering or computer science or other STEM fields, several career-related first steps would be easy for you. For one, it's clear what the [transferable skills](https://hkotek.com/blog/altac-transferable_skills/) from your education might be. Job ads will explicitly list your degree in their 'education' field. Job titles are relatively streamlined and straightforward. And it's assumed and expected that many in your cohort will get industry jobs upon graduation. There are resources and existing knowledge in your institution to help students find those jobs; it's certainly not considered a failure or exception of some kind. 
+If you studied engineering or computer science or other STEM fields, several career-related first steps would be easy for you. For one, it's clear what the [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) from your education might be. Job ads will explicitly list your degree in their 'education' field. Job titles are relatively streamlined and straightforward. And it's assumed and expected that many in your cohort will get industry jobs upon graduation. There are resources and existing knowledge in your institution to help students find those jobs; it's certainly not considered a failure or exception of some kind. 
 
 Not so if you're a linguist (or other social scientist).
 
@@ -23,23 +23,22 @@ Identifying the relevant [**skills**](https://hkotek.com/blog/altac-transferable
 
 This post is a summary of an extensive crowd-supported effort to collect the many types of jobs that are available to linguists (and other social scientists) along with descriptions from former academics who hold them. Since it's a long post, I've done the following: 
 * organized the job titles by category[^1]
-* included a list of job titles that have similar or overlapping responsibilities 
+* included a (non-exhaustive) list of job titles that have similar or overlapping responsibilities 
 * included some descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
 You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. You are encouraged to also spend some time browsing those interviews (including [my interview](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural), if you are so inclined!)
 
-If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to apply like Kyle! 
+If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to *apply like Kyle*! 
 
-<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
-also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%"/>
+<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%"/>
 
 <!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
 also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png =300x300)
 --->
 
-Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. YMMV.
+Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
 <!--
 ## TOC 
@@ -62,11 +61,11 @@ This post is going to be long enough that I'm going to provide links to my top l
 
 ## Language data roles
 
-This is a large category that includes what are perhaps the most obvious job titles for linguists. Even here, though, most job titles actually aren't *linguist*. In fact, most jobs with the title "linguist" tend to be translation-related, and _not_ what linguistics PhDs are trained to do. I'm including all jobs in this category that engage with data for machine learning in all its aspects from annotation to data science to training models. 
+This is a broad category that includes what are perhaps the most obvious job titles for linguists. Even here, though, most job titles actually aren't *linguist*. In fact, most jobs with the title "linguist" tend to be translation-related, and _not_ what linguistics PhDs are trained to do. I'm including all jobs in this category that engage with data for machine learning in all its aspects from annotation to data science to training models. 
 
 ### Less technical: analytical linguist and variants
 
-Work with the data that is used to train machine-learning models at various stages of the process and/or with the people who annotate the data. May require some technical skills (mostly data analysis or SQL).
+Work with the data that is used to train machine-learning models at various stages of the process and/or with the people who annotate the data. May require some technical skills (mostly data analysis or SQL). Most jobs are at tech companies. 
 
 Some job titles: **Linguist, Analytical linguist, Computational Linguist, Principal Computational Linguist, AI Linguist, Technical Linguist, Language Engineer, Language Data Researcher, Data Specialist, Product Operations Manager, Annotation Project Lead**.
 
