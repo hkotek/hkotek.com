@@ -31,7 +31,7 @@ You may have also already encountered [**Superlinguo’s Linguist Job Interviews
 
 If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to *apply like Kyle*! 
 
-<img src="https://hkotek.com/apply-like-kyle.png" width="40%" />
+<img src="https://hkotek.com/apply-like-kyle.png" width="95%" />
 
 <!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
@@ -143,7 +143,7 @@ Some links to job ads:
 * [Localization QA Tester (Apple)](https://web.archive.org/web/20230102161408/https://jobs.apple.com/en-us/details/200379132/localization-qa-tester?team=SFTWR)
 
 
-## Knowledge engineering
+## Knowledge engineering / ontology
 
 Create ontologies/taxonomies, develop annotation schemas, define the label space used for annotation for machine-learning products. 
 
@@ -270,9 +270,12 @@ Some interview links:
 * [Superlinguo Interview with a Product Manager (Megan Risdal)](https://www.superlinguo.com/post/188176778397/linguistics-jobs-interview-with-a-product-manager)
 * [Interview with a Client Services Manager](https://www.superlinguo.com/post/150930940729/linguistics-jobs-interview-with-a-client)
 
+
 ## Curriculum design
 
 Create course content, timelines, and plans. Create metrics to evaluate learning outcomes. You might be employed by an EdTech company, by any other company that does internal trainings on its own (many large tech companies do this, for example), or by an academic institution.
+
+There are also other teaching-related roles that fall outside the traditional academic TT path that might go here.
 
 Some job titles: **Curriculum Designer, Instructional Designer, Educational Developer, Test Developer**
 
@@ -292,7 +295,8 @@ Some links to job ads:
 
 Some interview links: 
 * [Superlinguo Interview with an educational development lecturer (and linguistic consultant) (Olga Maxwell)](https://www.superlinguo.com/post/152524200571/linguistics-jobs-interview-with-an-educational)
-
+* [Superlinguo Interview with a High School Teacher](https://www.superlinguo.com/post/131442688782/linguistics-jobs-interview-with-a-high-school)
+* [Superlinguo Interview with an Online Linguistics Teacher (Colin Gorrie)](https://www.superlinguo.com/post/672302090415161344/linguistics-jobs-interview-with-an-online)
 
 ## Writing and editing
 
@@ -320,6 +324,7 @@ Some interview links:
 * [Superlinguo Interview with a Freelance Editor, Writer and Trainer (Howard Walwyn)](https://www.superlinguo.com/post/179529490940/linguistics-jobs-interview-with-a-freelance)
 * [Superlinguo Interview with a Lexicographer (Jane Solomon)](https://www.superlinguo.com/post/184512967606/linguistics-jobs-interview-with-a-lexicographer)
 
+
 ## DEI 
 
 One particular use of a language background is in anti-bias, in the Diversity, Equity, and Inclusion (DEI) space. Two examples: 
@@ -342,7 +347,7 @@ There are many roles in academia that aren't research-related, either on the ten
 Some interview links: 
 * [Superlinguo Interview with a data scientist (Heather Froehlich)](https://www.superlinguo.com/post/165702012482/linguistics-jobs-interview-with-a-data)
 * [Superlinguo Interview with a Librarian (Shanna Hollich)](https://www.superlinguo.com/post/164687104323/linguistics-jobs-interview-with-a-librarian)
-
+* [Superlinguo Interview with a university course coordinator](https://www.superlinguo.com/post/172249448291/linguistics-jobs-interview-with-a-university)
 
 ## Various others
 
@@ -354,7 +359,7 @@ Work with museums, libraries, government agencies, universities, private compani
 
 Some interview links: 
 * [Superlinguo Interview with an Exhibition Content Manager (Emily Gref)](https://www.superlinguo.com/post/611420940961792000/linguistics-jobs-interview-with-an-exhibition)
-
+* [Superlinguo Interview with the Director of Education and Professional Practice at the American Anthropological Association (Daniel Ginsberg)](https://www.superlinguo.com/post/628547548302524416/linguistics-jobs-interview-with-the-director-of)
 ### Naming, branding, advertising: 
 
 Come up with brand names to best suit products, work with clients to research unique aspects of their brands. 
