@@ -34,6 +34,7 @@ also, my perennial reminder to anyone who isn't a cishet white dude: apply for j
 
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. YMMV.
 
+<!--
 ## TOC 
 
 This post is going to be long enough that I'm going to provide links to my top level categories so it's easier to browse. 
@@ -49,6 +50,8 @@ This post is going to be long enough that I'm going to provide links to my top l
 9. [Work at academic institutions](#Work-at-academic-institutions)
 10. [Various others](#Various-others)
     a. 
+
+--->
 
 ## Language data roles
 
@@ -72,7 +75,7 @@ Some descriptions of job responsibilities:
 
 Some links to job ads: 
 * [Analytical Linguist (Google)](https://web.archive.org/web/20230101232559/https://in.karier.co/job/analytical-linguist-google-ekp)
-* [Language Engineer (Amazon)[^4]](https://web.archive.org/web/20221025181113/https://www.amazon.jobs/en/jobs/2279906/language-engineer-ii-amazon-comprehend)
+* [Language Engineer (Amazon)](https://web.archive.org/web/20221025181113/https://www.amazon.jobs/en/jobs/2279906/language-engineer-ii-amazon-comprehend)[^4]
 * [Technical Linguist (Advantis)](https://web.archive.org/web/20230101231811/https://www.linkedin.com/jobs/view/3390394262/)
 
 ### More technical: data science and variants
@@ -138,7 +141,7 @@ Some descriptions of job responsibilities:
 Some links to job ads: 
 * [Knowledge Engineer (Big Cloud)](https://web.archive.org/web/20230102163715/https://www.linkedin.com/jobs/view/3415839514)
 * [Ontologist (Bloomberg)](https://web.archive.org/web/20230102163335/https://www.linkedin.com/jobs/view/3393555915)
-* [Semantic Data Engineer (Starbucks)][https://web.archive.org/web/20230102163437/https://www.linkedin.com/jobs/view/3361903651]
+* [Semantic Data Engineer (Starbucks)](https://web.archive.org/web/20230102163437/https://www.linkedin.com/jobs/view/3361903651)
 * [Vocabulary Engineering Associate (JPMorgan Chase)](https://web.archive.org/web/20221025020035/https://www.linkedin.com/jobs/view/3234870174/?alternateChannel=search&refId=U3E7nnzhiy%2BPw5ADEISwcQ%3D%3D&trackingId=4F%2F%2BuVJCOfZqiQ5DMsO9sA%3D%3D)
 
 
