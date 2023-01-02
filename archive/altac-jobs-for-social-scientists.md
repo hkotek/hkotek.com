@@ -27,10 +27,17 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 * included some descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
+You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. You are encouraged to also spend some time browsing those interviews (including [my interview](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural), if you are so inclined!)
+
 If you are new on the Alt-Ac transition path, please note: Despite having more than enough relevant skills, you may not be sure if you should apply. If so, I urge you to apply like Kyle! 
 
+<img src="https://hkotek.com/apply-like-kyle.png" alt="Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
+also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job." width="40%"/>
+
+<!---
 ![Two tweets from lindsay blackwell @linguangst from Aug 11, 2021: 
 also, my perennial reminder to anyone who isn't a cishet white dude: apply for jobs like you're a cishet white dude. you think some dude named kyle is out there reading job descriptions like "darn, i only have 7 of these 10 qualifications!" nah. kyle's applying anyway. kyle has a degree in sports medicine and spelled linguist wrong in his cover letter and he still thinks he's getting this job.](https://hkotek.com/apply-like-kyle.png =300x300)
+--->
 
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective. YMMV.
 

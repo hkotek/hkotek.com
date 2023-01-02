@@ -46,7 +46,7 @@ That is, it's useful to recognize that the three main components of an academic 
 
 ### What skills are you particularly good at?
 
-To identify particular **skills** that you enjoy and are good at more directly, if the questions above are still too vague or hard for you to think through, there are various tests online that can help you identify skills more explicitly. Google one that works for you, go to your university's career center for resources, or consider coaching or other outside help if necessary. 
+To identify particular [**skills**](https://hkotek.com/blog/altac-transferable_skills/) that you enjoy and are good at more directly, if the questions above are still too vague or hard for you to think through, there are various tests online that can help you identify skills more explicitly. Google one that works for you, go to your university's career center for resources, or consider coaching or other outside help if necessary. 
 
 I frequently get asked, **do you have to know how to code in order to get a job in tech**? The true answer is *it depends!* If you want to be a software engineer, then yes, you'll have to code. But there are plenty of jobs that require minimal or no coding experience. Even if you *can* code, if you don't enjoy it, a coding-heavy job is probably not for you. What *is* true, though, is that more jobs will be open to you if you can code at least a little bit, and that often more technical jobs are better compensated than those that do not require technical skills. I say a bit more about this in my [next post](https://hkotek.com/blog/altac-get-started-doing-prep/).
 
