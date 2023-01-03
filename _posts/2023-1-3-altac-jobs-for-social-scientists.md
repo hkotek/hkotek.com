@@ -290,7 +290,7 @@ Some interview links:
 
 ## Work at academic institutions
 
-There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs such as **Assistant Dean** of students or **Director of Postdoctoral Affairs**. There are also options like **librarian, course coordinator, office manager,** etc. A list of titles would too long to exhaustively compile, but here are a few examples: 
+There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administration jobs such as **Assistant Dean** of students or **Director of Postdoctoral Affairs**. There are also options like **librarian, course coordinator, office manager,** etc. A list of titles would too long to exhaustively compile, but here are a few examples: 
 
 > "Academic librarian ("Digital Scholarship Specialist"): I focus on text + data mining."
 
