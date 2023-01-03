@@ -45,6 +45,8 @@ Please visit the [about page](/about) for more details concerning my research in
  
 * [Transferable skills (and how to talk about them)](/blog/altac-transferable_skills/): a compilation of transferable skills for AltAc jobs, including sample resume bullet points using my own experience in academia to illustrate.
 
+* [Job titles and job descriptions for linguists (and other social scientists)](/blog/altac-jobs-for-social-scientists/): a compilation of (a) job titles, (b) informal job descriptions, (c) sample job ads, and (d) interviews with job holders for a diverse set of non-technical roles for linguists. This post is over 5k words long and divided into 10 categories, since there's a lot to cover.  
+
 
 Science and other outreach 
 --------------------------
