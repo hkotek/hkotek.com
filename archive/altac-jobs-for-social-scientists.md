@@ -9,7 +9,7 @@ tags:
   - altac, jobs, job titles, job search
 ---
 
-If you studied engineering or computer science or other STEM fields, several career-related first steps would be easy for you. For one, it's clear what the [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) from your education might be. Job ads will explicitly list your degree in their 'education' field. Job titles are relatively streamlined and straightforward. And it's assumed and expected that many in your cohort will get industry jobs upon graduation. There are resources and existing knowledge in your institution to help students find those jobs; it's certainly not considered a failure or exception of some kind. 
+If you studied engineering or computer science or another STEM field, several career-related first steps would be easy for you. For one, it's clear what the [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) from your education might be. Job ads will explicitly list your degree in their 'education' field. Job titles are relatively streamlined and straightforward. And it's assumed and expected that many in your cohort will get industry jobs upon graduation. There are resources and existing knowledge in your institution to help students find those jobs; it's certainly not considered a failure or exception of some kind. 
 
 Not so if you're a linguist (or other social scientist).
 
@@ -24,18 +24,18 @@ Identifying the relevant [**skills**](https://hkotek.com/blog/altac-transferable
 This post is a summary of an extensive crowd-supported effort to collect the many types of jobs that are available to linguists (and other social scientists) along with descriptions from former academics who hold them. Since it's a long post, I've done the following: 
 * organized the job titles by category[^1]
 * included a (non-exhaustive) list of job titles that have similar or overlapping responsibilities 
-* included some descriptions of the job responsibilities from people who hold those jobs[^2]
+* included some informal descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
 You may have also already encountered [**Superlinguoâ€™s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well ([there's even an interview with me!](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)).
 
-Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simple what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
+Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simply what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
 ## TOC 
 
 This post is going to be long enough that I'm going to provide links to my top level categories so it's easier to browse. 
 
-1. [Language data roles (including linguist, annotation, data science, NLP, AI/ML](https://hkotek.com/blog/altac-jobs-for-social-scientists/#language-data-roles)
+1. [Language data roles (including linguist, annotation, data science, NLP, AI/ML)](https://hkotek.com/blog/altac-jobs-for-social-scientists/#language-data-roles)
 2. [Knowledge engineering / ontology](https://hkotek.com/blog/altac-jobs-for-social-scientists/#knowledge-engineering)
 3. [Research (including UXR and conversation design)](https://hkotek.com/blog/altac-jobs-for-social-scientists/#research)
 4. [Localization](https://hkotek.com/blog/altac-jobs-for-social-scientists/#localization)
@@ -57,7 +57,7 @@ Work with the data that is used to train machine-learning models at various stag
 
 Some job titles: **Linguist, Analytical linguist, Computational Linguist, Principal Computational Linguist, AI Linguist, Technical Linguist, Language Engineer, Language Data Researcher, Data Specialist, Product Operations Manager, Annotation Project Lead**.
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "Anything touching data in the NLP space. Deciding what data to collect, how, how to annotate and evaluate it, how to evaluate systems that use it. At higher levels, identifying data that needs to be analyzed that currently isn't."
 
 > "Design, run, prioritize, and generally own everything about annotation projects. Create annotation guidelines, create and maintain the ontologies used in annotation, create trainings, answer annotator questions, provide ongoing feedback to annotators to improve their work, propose ways to improve the tasks to improve the speed and accuracy of the overall process."
@@ -82,7 +82,7 @@ Work with annotated data to train machine-learning models and/or analyze their r
 
 Some job titles: **Data Analyst, Data Scientist, Data Science Analyst, Search Quality Analyst, Language Analyst, NLP engineer, Language Engineer, Computational Linguist, Conversational AI Engineer, Applied Scientist, NLP Scientist, Localization Engineer**
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "Experimental design + testing, data visualization, modeling, setting up + monitoring data pipelines, thinking through strategy, setting/tracking goals/metrics, and explaining all of the above to other people."
 
 > "Analyzing the problem, figuring out the best architecture to solve it, sometimes some data annotation, then writing code to pre-process your data and to either train a model or use an existing model, then analysing the performance of the model/figuring out ways to improve it."
@@ -137,7 +137,7 @@ Create ontologies/taxonomies, develop annotation schemas, define the label space
 
 Some job titles: **Knowledge Engineer, Ontologist, Taxonomist, Information Manager, Content Manager, Content Strategist, Content Specialist, Product Hierarchy Specialist, Vocabulary Prototyping Associate, Vocabulary Engineering Associate, Lexical Developer**
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 
 > "Managing metadata to help organize data like shopping inventories, medical data, etc."
 
@@ -169,7 +169,7 @@ Use qualitative and/or quantitative tools (A/B testing, interviews, questionnair
 
 Some job titles: **Research Analyst, Research Scientist, Research-Innovation Lead, Solutions Innovator, Insights Consultant, Marketing Researcher, Ethnographic Researcher, People Analytics Specialist, Behavioral Scientist, Applied Scientist, Data Quality Curator, Researcher, Growth Strategist, Chief Learning Officer, Chief Knowledge Officer, R&D (research & development)**.
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "I design and carry out ethnographic research projects using a variety of qualitative 
 methods (focus groups, surveys, participant observation, etc.) to study and improve 
 guest experiences at a theme park."
@@ -204,7 +204,7 @@ Do research and/or design that focuses specifically on the user. This can includ
 
 Some job titles: **UX Researcher, Human Factors Engineer, Content Designer, Content Strategist, UX writer, UX Design, Conversation Designer, Voice Designer, Voice-User Interface Designer, Conversational Architect, Chatbot Designer**
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "I do quantitative behavioral/attitudinal human subjects research to evaluate how people use, perceive, and experience novel audio tech"
 
 > "I map out the interaction model for new features on my assistant product. I advocate for UX in the face of technical constraints: what our voice assistant says and doesn't say (+ the how! literally writing nlg templates), and brainstorm what Assistant *should* say (guidelines)"
@@ -234,7 +234,7 @@ Localization (l10n) or internationalization (i18n), often in combination with â€
 Some job titles: **Language Engineer, Localization Project Manager, Machine Translation Engineer, Translation Project Manager**
 
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "Doing data collections for model testing, and localizing language artifacts for additional languages."
 
 Some links to job ads: 
@@ -268,7 +268,7 @@ There are also other teaching-related roles that fall outside the traditional ac
 
 Some job titles: **Curriculum Designer, Instructional Designer, Educational Developer, Test Developer**
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "Create subject content (e.g. language arts, foreign language) and evaluate their effectiveness."
 
 > "Create online course content as a part of a digital training session."
@@ -290,7 +290,7 @@ Some interview links:
 
 ## Work at academic institutions
 
-There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs, e.g. **Assistant Dean** of students or **Postdoc Office. There are also librarian, outreach, and science communication jobs. The list of titles is too long to exhaustively list, but here are a few examples: 
+There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs, e.g. **Assistant Dean** of students or **Director of Postdoctoral Affairs**. There are also librarian, outreach, and science communication jobs. The list of titles is too long to exhaustively list, but here are a few examples: 
 
 > "Academic librarian ("Digital Scholarship Specialist"): I focus on text + data mining."
 
@@ -310,7 +310,7 @@ Various kinds of writing and editing-related jobs: Create documentation of mater
 
 Some job titles: **Technical Writer, CI Writer, Document Designer, Lexicographer, Editor, Managing Director** 
 
-Some descriptions of job responsibilities: 
+Some informal descriptions of job responsibilities: 
 > "write (along with many others) dictionaries (monolingual, bilingual, for learners,...); also involves specifications, usability & project management."
 
 > "Content development and copywriting, social media, marketing, creating an arts & letters directory, currently working on a series of coffee table books on various languages."
