@@ -27,7 +27,7 @@ This post is a summary of an extensive crowd-supported effort to collect the man
 * included some informal descriptions of the job responsibilities from people who hold those jobs[^2]
 * included links to some archived job postings so you can get a sense for what job ads for these titles look like[^3]
 
-You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well ([there's even an interview with me!](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)).
+You may have also already encountered [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which is an excellent resource that showcases linguists with diverse career paths and job titles. I'll add a few links throughout this post but there are more, which you may want to browse as well ([**there's even an interview with me!**](https://www.superlinguo.com/post/688794606439120896/linguistics-jobs-interview-with-a-natural)).
 
 Finally, as always, a set of caveats goes here. The post will be long but not exhaustive. The categories are made up by me and there are some inevitable overlaps among them. My focus is more on the tech industry than other sectors, and has a linguistics/social science perspective and US focus. The sample job ads are simply what I happened to find, not an indication of where jobs are generally most likely to be found and certainly not an endorsement of the jobs themselves or the companies/sectors they are in.  YMMV.
 
@@ -38,10 +38,10 @@ This post is going to be long enough that I'm going to provide links to my top l
 1. [Language data roles (including linguist, annotation, data science, NLP, AI/ML)](https://hkotek.com/blog/altac-jobs-for-social-scientists/#language-data-roles)
 2. [Knowledge engineering / ontology](https://hkotek.com/blog/altac-jobs-for-social-scientists/#knowledge-engineering)
 3. [Research (including UXR and conversation design)](https://hkotek.com/blog/altac-jobs-for-social-scientists/#research)
-4. [Localization](https://hkotek.com/blog/altac-jobs-for-social-scientists/#localization)
+4. [Localization / internationalization](https://hkotek.com/blog/altac-jobs-for-social-scientists/#localization)
 5. [Project management, product management, program management](https://hkotek.com/blog/altac-jobs-for-social-scientists/#proxxxx-management)
-6. [Curriculum design](https://hkotek.com/blog/altac-jobs-for-social-scientists/#curriculum-design)
-7. [Work at academic institutions](https://hkotek.com/blog/altac-jobs-for-social-scientists/#work-at-academic-institutions)
+6. [Curriculum design and teaching](https://hkotek.com/blog/altac-jobs-for-social-scientists/#curriculum-design)
+7. [Non-research work at academic institutions](https://hkotek.com/blog/altac-jobs-for-social-scientists/#work-at-academic-institutions)
 8. [Writing and editing](https://hkotek.com/blog/altac-jobs-for-social-scientists/#writing-and-editing)
 9. [Diversity, Equity, and Inclusion](https://hkotek.com/blog/altac-jobs-for-social-scientists/#diversity-equity-and-inclusion)
 10. [Various others](https://hkotek.com/blog/altac-jobs-for-social-scientists/#various-others)
@@ -264,7 +264,7 @@ Some interview links:
 
 Create course content, timelines, and plans. Create metrics to evaluate learning outcomes. You might be employed by an EdTech company, by any other company that does internal trainings on its own (many large tech companies do this, for example), or by an academic institution.
 
-There are also other teaching-related roles that fall outside the traditional academic TT path that might go here.
+There are also other **teaching-related roles** that fall outside the traditional academic TT path that might go here.
 
 Some job titles: **Curriculum Designer, Instructional Designer, Educational Developer, Test Developer**
 
@@ -290,7 +290,7 @@ Some interview links:
 
 ## Work at academic institutions
 
-There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs, e.g. **Assistant Dean** of students or **Director of Postdoctoral Affairs**. There are also librarian, outreach, and science communication jobs. The list of titles is too long to exhaustively list, but here are a few examples: 
+There are many roles in academia that aren't research-related, either on the tenure track or otherwise. There are **teaching stream** jobs, there are administation jobs such as **Assistant Dean** of students or **Director of Postdoctoral Affairs**. There are also options like **librarian, course coordinator, office manager,** etc. A list of titles would too long to exhaustively compile, but here are a few examples: 
 
 > "Academic librarian ("Digital Scholarship Specialist"): I focus on text + data mining."
 
@@ -306,7 +306,7 @@ Some interview links:
 
 ## Writing and editing
 
-Various kinds of writing and editing-related jobs: Create documentation of materials developed by engineers and other content creators, work for a scientific publisher, do copywriting, or similar.  
+Various kinds of writing and editing-related jobs: Create documentation of materials developed by engineers and other content creators, work for a scientific publisher, do copywriting, or similar. This can happen at pretty much any institution, from government to corporate jobs to NGO to freelance.  
 
 Some job titles: **Technical Writer, CI Writer, Document Designer, Lexicographer, Editor, Managing Director** 
 
@@ -345,7 +345,7 @@ Some interview links:
 
 ## Various others
 
-Each of the following sections could be expanded into its own category, but I don't have enough expertise or information to do it on my own. If you know more about this, drop a comment with links or descriptions and I'll expand the sections accordingly. 
+Each of the following sections could be expanded into its own category, but I don't have enough expertise or information to do it on my own. If you know more about this, drop a comment with links or descriptions and I'll try to expand the sections accordingly. 
 
 ### Science communication 
 
@@ -356,7 +356,7 @@ Some interview links:
 * [Superlinguo Interview with the Director of Education and Professional Practice at the American Anthropological Association (Daniel Ginsberg)](https://www.superlinguo.com/post/628547548302524416/linguistics-jobs-interview-with-the-director-of)
 
 
-### Naming, branding, advertising: 
+### Naming, branding, advertising
 
 Come up with brand names to best suit products, work with clients to research unique aspects of their brands. 
 
@@ -364,7 +364,7 @@ Some interview links:
 * [Superlinguo Interview with a copywriter and brand strategist (and fiction author) (Steph Campisi)](https://www.superlinguo.com/post/142972814522/linguistics-jobs-interview-with-a-copywriter-and)
 * [Superlinguo Interview with a PR Consultant (Kate Warwick)](https://www.superlinguo.com/post/182353797752/linguistics-jobs-interview-with-a-pr-consultant)
 
-### Ops 
+### Operations (Ops)
 
 Direct the logistical aspects of projects within your organization, including staffing, budgeting, hiring, prioritizing projects, procuring tools, evaluating efficiencies. Related to project management in some ways. 
 
@@ -376,7 +376,9 @@ Develop or use metrics to check the accuracy and quality of products.
 
 ### Freelance consulting, coaching, etc. 
 
-Build your own company! Do anything you want! There are no job ads here; the sky is the limit. 
+Build your own company! Do anything you want! There are no job ads here; the sky's the limit. 
+
+A couple of examples: 
 
 > "Transformational Coach: Through structured conversations held in a safe, confidential and non-judgemental space, I help clients overcome limiting beliefs as they navigate change to achieve their goals. I use a variety of techniques from psychology, UX, management, development and of course, linguistics. Key skill areas include deep listening, data analysis, conversation analysis, semantics, metaphor, pragmatics, and understanding of sociolinguistic principles. Also, research methods, esp qualitative and ethnographic approaches."
 
@@ -388,7 +390,7 @@ Some interview links:
 
 ## Summary 
 
-This post was both long and non-exhaustive. There are *so many* opportunities out there. I realize that this may both exciting and intimidating at the same time. If you are not sure if you have enough experience to apply, **I strongly encourage you *apply like Kyle*!** 
+This post was both long and non-exhaustive. There are *so many* opportunities out there. I realize that this may both exciting and intimidating at the same time. If you are not sure if you have enough experience to apply, **I strongly encourage you to *apply like Kyle*!** 
 
 <img src="https://hkotek.com/apply-like-kyle.png" width="80%" />
 
