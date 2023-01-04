@@ -65,7 +65,7 @@ Finally, you should also ask yourself: **do you want a job that is related to yo
 
 ### What kind of job is right for you? 
 
-There are various materials out there that can help you identify types of jobs, including guides and interview series. You could start with [this post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started, or with my post on [**job titles and job descriptions for social scientists**](https://hkotek.com/blog/altac-jobs-for-social-scientists/). I'd also recommend browsing [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of job titles. 
+There are various materials out there that can help you identify types of jobs, including guides and interview series. You could start with [this post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started, or with my post on [**job titles and job descriptions for social scientists**](https://hkotek.com/blog/altac-jobs-for-social-scientists/). I'd also recommend browsing [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of jobs. 
 
 The process of learning about different types of jobs can also help you answer some of the questions above. When you read about people's descriptions of their jobs, are there parts that you relate to more? Which parts stand out repeatedly in different posts? Those are probably worth exploring more.
 

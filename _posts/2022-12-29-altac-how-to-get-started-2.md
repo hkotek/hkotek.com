@@ -9,7 +9,7 @@ tags:
   - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
 ---
 
-So you've decided you want to explore non-academic jobs. You've also started to take some of the steps in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/altac-get-started-exploring-options/) and have identified at least the beginnings of types of skills and jobs that might be of interest to you. This post discusses a few concrete steps you can take to get yourself started on the road toward a non-academic job.[^1] As in other posts, I take a tech-focused approach since that's where I am most knowledgeable, so YMMV.
+So you've decided you want to explore non-academic jobs. You've also started to take some of the steps in [**Learning about Alt-Ac opportunities (aka how to get started)**](https://hkotek.com/blog/altac-get-started-exploring-options/) and have identified at least the beginnings of types of skills and jobs that might be of interest to you. This post discusses a few concrete steps you can take to get yourself started on the road toward a non-academic job.[^1] As in other posts, I take a tech-focused approach since that's where I am most knowledgeable, so YMMV.
 
 
 ## Learn some coding
@@ -120,6 +120,8 @@ Even before you start making a resume and actively making materials for your job
 * If you collected data through consultant work: how many consultants? How many languages? How many example sentences / entries in your database? How many resulting papers? How many other users of your data? How much funding? How many field trips over how much time? 
 * If you teach or TA: how many courses and how many students? Alternatively, how many hours? How many materials now used by others? 
 * If you organized a speaker series or lab meeting: how many regular participants? How many guests? What was the budget? 
+
+There are various other examples in my [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) post. Check out the notes at the end of the post for examples of cases where I wish I had done a better job tracking the numbers. 
 
 
 # Summary
