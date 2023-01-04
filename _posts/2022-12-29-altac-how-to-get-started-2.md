@@ -22,7 +22,7 @@ SQL is a database querying language. At its core it allows you to join data tabl
 
 Python is a scripting language. You'll want to understand some basics like different types of loops, functions, and objects. Beyond that, it depends on what you might use it for --- some options might include data analysis (e.g. using libraries like `numpy`,`pandas`, or `csv`), language processing (e.g. using libraries like `nltk` or `spaCy`), and data visualization (e.g. using `matplotlib`, `seaborn`, or `plotly`). Alternatively you might be more into model training (i.e. you'll need to be familiar with `scikitlearn`, `pytorch`, or `tensorflow`).[^4]  
 
-If you know **R**, learning python will require you to learn a new syntax to do things you mostly already know, which can be frustrating but is nonetheless entirely doable. Many jobs, especially on the more research side, might allow you to use R instead of python for you analyses, or they may have in-house tools of their own. (And some may prefer R in some cases.)
+If you know **R**, learning python will require you to learn a new syntax to do things you mostly already know, which can be frustrating but is nonetheless entirely doable. Many jobs, especially on the more research side, may allow you to use R instead of python for your analyses, or they may even prefer it. (Or they may have in-house tools of their own.)
 
 The level of proficiency you'll need to obtain again depends on the kind of job you'll want to have. You'll need to be highly proficient to be a software engineer or ML engineer, and usually a lot less or none at all so be an analytical linguist or UX researcher, for example. 
 
@@ -47,14 +47,14 @@ In addition to direct learnings you will gain from such projects, you will also 
 
 * A handout, slides, or written description of a study you are about to undertage (such as you might share with your advisor or a lab meeting) could be described as a *design document*. 
 * *Guidelines* you create for your studies are a type of document linguists routinely produce in the course of their job if they work with annotation or data analysis.
-* You could consider hosting a mock version of a study you design on your personal website or on GitHub to showcase your skills to potential employers, along with your design documents and guidelines. 
+* You could consider hosting a version of a study you design on your personal website or on GitHub to showcase your skills to potential employers, along with your design documents and guidelines, data visualization of the results, and a short writeup of the main findings. Think of it as an entry in a portfolio.
 
 Finally, to be a bit cynical but also realistic, it can be easier to obtain funding for experimental research than theoretical research sometimes. If you can find some small pots of money in the university or outside it, you could then add a relevant line to your resume about convincing stakeholders of the utility of your work and obtaining external funding. 
 
 
 ## Learn qualitative research methods
 
-In addition to (or instead of, if it's not your jam) quantitative methods, some jobs require diverse qualitative research skills. Some jobs are described as *mixed methods* or just straightforwardly as having a *quantitative* focus. Again, your university may offer courses or you may self-teach using online materials. 
+In addition to (or instead of, if it's not your jam) quantitative methods, some jobs require diverse qualitative research skills. Some jobs are described as *mixed methods* or just straightforwardly as having a *qualitative* focus. Again, your university may offer courses or you may self-teach using online materials. 
 
 Here I want to stress that **consultant work** (aka *fieldwork*) should absolutely count as relevant experience. Whether you go out into the field or you work with native speakers in your office, you develop skills that can be used in non-academic settings. 
 
@@ -67,7 +67,7 @@ Although everyone with a PhD is supposed to aspire to the coveted professor job 
 
 Do you enjoy organizing things, or laying out plans for others to execute? If so, there are jobs where you get to do that full time. Try to gain more experience along these lines. 
 
-For example, is there a way for you to have an undergraduate (or early grad) research assistant? This can happen in a lab setting where you mentor a younger lab member, or in some universities through directed program.[^5] Can you be a head-TA who is responsible for creating materials, coordinating among TAs, solving conflicts, etc. for some large class? Another obvious approach is to lead research projects, where you learn to delegate work and coordinate schedules. Or you could organize a reading group or workshop. Consider ways to go a bit beyond the obvious: can you initiate and organize a new talk series on a topic not currently offered by your department, but where you can identify a clear need for the department (to name an obvious example, maybe there's a need among students to learn about non-academic careers but your department isn't offering this right now)? Is there funding to be obtained for bringing in an external speaker? Can you coordinate this event with other departments that have sufficiently similar interests? 
+For example, is there a way for you to have an undergraduate (or early grad) research assistant? This can happen in a lab setting where you mentor a younger lab member, or in some universities through directed program.[^5] Can you be a head-TA who is responsible for creating materials, coordinating among TAs, solving conflicts, etc. for some large class? Another obvious approach is to lead research projects, where you learn to delegate work and coordinate schedules. Or you could organize a reading group or workshop. Consider ways to go a bit beyond the obvious: can you initiate and organize a new talk series on a topic not currently offered by your department, but where you can identify a clear need for the department (to name an obvious example, maybe there's a need among students to learn about non-academic careers but your department isn't offering this right now)? Is there funding to be obtained for bringing in an external speaker? Can you coordinate this event with other departments that have sufficiently overlapping interests? 
 
 Is there a way to learn about administering budgets? Maybe this happens by working with a PI in a lab within your department who has external grants. Or maybe there's a working papers operation in your department that students occasionally edit for. Or maybe it's just co-organizing a large conference and seeing everything that goes into planning, budgeting, and executing on the plan. You can learn a whole lot from being active on an LSA committee or trying to organize a session at an LSA annual meeting, for example. You can be creative here, it's less about the details of the event itself and more about the skills you want to learn. 
 
@@ -98,17 +98,17 @@ So what kind of side project should you do? It depends on what your focus is! (I
 
 ## Start making job materials
 
-As with everything else, what you need will depend on the jobs you seek. Most obviously, everyone will need to have a **resume**. You can start creating a master document to collect everything you might want to showcase, design your resume, and create some content. There's more to say, but that would be a whole nother post which I'll leave to another time. 
+As with everything else, what you need will depend on the jobs you seek. Most obviously, everyone will need to have a **resume**. You can start creating a **master document** to collect everything you might want to showcase, design your resume, and create some content. There's more to say, but that would be a whole nother post which I'll leave to another time. 
 
 Create and polish your **LinkedIn profile**. These days, LinkedIn is the most common site that recruiters use to find talent (i.e., you). When you're ready to start searching you'll want to add the 'actively looking' banner, but even before then, you should have a picture, header, short bio, and at least some basics (education, experience) filled in. Spend some time looking at profiles or people who have jobs you want to have and see how they present themselves. Feel free to steal their wording and customize it for yourself. 
+
+Polish your **personal website**, upload some work you'd like to showcase and link from your resume. 
+
+Collect ideas for situations you might talk about in **behavioral interviews**, which require you to tell stories about events from your past using the STAR method,[^6] and which benefit tremendously from some prep. 
 
 You may need a **cover letter**. Read about those and make a draft. 
 
 You may need to create a **portfolio** of your work, for example for design jobs. If relevant start reading about that and creating the relevant content.
-
-Polish your **personal website**, upload some work you'd like to showcase and link from your resume. 
-
-Collect ideas for situations you might tell in **behavioral interviews**, which require you to tell stories about events from your past using the STAR method,[^6] and which benefit tremendously from some prep. 
 
 
 ## Start keeping track of numbers
@@ -121,14 +121,14 @@ Even before you start making a resume and actively making materials for your job
 * If you teach or TA: how many courses and how many students? Alternatively, how many hours? How many materials now used by others? 
 * If you organized a speaker series or lab meeting: how many regular participants? How many guests? What was the budget? 
 
-There are various other examples in my [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) post. Check out the notes at the end of the post for examples of cases where I wish I had done a better job tracking the numbers. 
+There are various other examples in the [**sample resume bullets**](https://hkotek.com/blog/altac-transferable_skills/) in my transferable skills post. Check out the notes at the end of the post for examples of cases where I wish I had done a better job tracking the numbers. 
 
 
 # Summary
 
-I hope you've noticed the strong 'it depends' flavor of this post. What you actually choose to pursue largely depends on what skills you want to develop, so doing a bit of the thinking I recommend in [Learning about Alt-Ac opportunities (aka how to get started)](https://hkotek.com/blog/altac-get-started-exploring-options/) is key. 
+I hope you've noticed the strong 'it depends' flavor of this post. What you actually choose to pursue largely depends on what skills you want to develop, so doing a bit of the thinking I recommend in [**learning about Alt-Ac opportunities (aka how to get started)**](https://hkotek.com/blog/altac-get-started-exploring-options/) is key. 
 
-In all, I try to take a skills-first approach here. **What you actually do matters less than the skills you learn and how you eventually showcase them in a resume and interview**. You should be very strategic when you choose a project to work on or skill to study: think about the bullet point you'd want to have in your resume (maybe even draft it if it helps) and work backwards to plan how to substantiate it. 
+In all, I try to take a skills-first approach here. **What you actually do matters less than the skills you learn and how you eventually showcase them in a resume and interview**. You can be very strategic when you choose a project to work on or skill to study: think about the bullet point you'd want to have in your resume (maybe even draft it if it helps) and work backwards to plan how to substantiate it. 
 
 Also keep in mind that a lot of things can be learned on the job; if you don't have the time to do some of the more time consuming things I suggest here, don't fret. You might take a two-pronged approach: start applying to some jobs immediately, and also scrutinize your profile and hone in on specific things to learn or add, especially if your initial search isn't getting you the kind of attention you'd like (and you're pretty sure it's not just because your resume needs work or because you're not aiming for the right kinds of titles).
 
