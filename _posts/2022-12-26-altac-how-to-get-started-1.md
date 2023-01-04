@@ -19,8 +19,8 @@ It can be daunting to start pivoting to a non-academic career. Most academics sh
 Not so once you start looking outside this narrow path. It can be hard to see how your skills are relevant to other jobs (although they absolutely are!). It can be hard to even know what jobs are available, what they're called, or where to look for them. Your advisors can't help you because they simply don't know and don't have the experience. Maybe you're even afraid to ask, worried that they'll think less of you or stop investing time in advising you. So there is a great deal that you'll have to research and teach yourself. 
 
 Read some of my other posts: 
-* [Transferable skills (and how to talk about them)](https://hkotek.com/blog/altac-transferable_skills/)
-* [Job titles and job descriptions for social scientists](https://hkotek.com/blog/altac-jobs-for-social-scientists/)
+* [**Transferable skills (and how to talk about them)**](https://hkotek.com/blog/altac-transferable_skills/)
+* [**Job titles and job descriptions for social scientists**](https://hkotek.com/blog/altac-jobs-for-social-scientists/)
 
 ## Getting started part 2: understand yourself
 
@@ -65,7 +65,7 @@ Finally, you should also ask yourself: **do you want a job that is related to yo
 
 ### What kind of job is right for you? 
 
-There are various materials out there that can help you identify types of jobs, including guides and interview series. [This post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started. The main link from there I'd like to point out is [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of job titles. 
+There are various materials out there that can help you identify types of jobs, including guides and interview series. You could start with [this post](https://www.khiajohnson.com/post/2022/getting-a-start-in-tech/) by Khia Johnson provides a collection of links to get started, or with my post on [**job titles and job descriptions for social scientists**](https://hkotek.com/blog/altac-jobs-for-social-scientists/). I'd also recommend browsing [**Superlinguo’s Linguist Job Interviews**](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list), which presents a variety of job titles. 
 
 The process of learning about different types of jobs can also help you answer some of the questions above. When you read about people's descriptions of their jobs, are there parts that you relate to more? Which parts stand out repeatedly in different posts? Those are probably worth exploring more.
 
