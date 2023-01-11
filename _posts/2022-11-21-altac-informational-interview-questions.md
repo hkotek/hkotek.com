@@ -60,6 +60,9 @@ A lot of people are generous with their time. But to make maximal use of this ti
 
 Use this information to prepare some questions ahead of time, and tailor the questions to the circumstances. For example, only people with certain types of experiences can answer questions about being an immigrant; and it might make less sense to ask someone about their experience getting their first job if it was 20 years ago -- it might be better to focus on recent experiences and/or how they approach career growth or hiring. 
 
+<img src="https://hkotek.com/inigo-networking.jpg" width="80%" />
+
+
 You can also use this opportunity to practice some answers you will need to provide in job interviews as well: a short (2-3 minute) introduction to you background and relevant skills and what kind of job you're looking for, and a short explanation of what your academic field is ("e.g. what does a linguist do?", "why should we hire linguists into [Role]?").
 
 ## How long should an interview be
