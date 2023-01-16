@@ -281,6 +281,8 @@ Some informal descriptions of job responsibilities:
 Some links to job ads: 
 * [Curriculum Designer (Discover)](https://web.archive.org/web/20230102195442/https://www.linkedin.com/jobs/view/3400314280)
 * [Instructional Designer (Arizona State University)](https://web.archive.org/web/20230102195648/https://www.linkedin.com/jobs/view/3411937166)
+* [Instructional Designer and Facilitator (Apple)](https://web.archive.org/web/20230115004205/https://www.linkedin.com/jobs/view/3311380419/?refId=%EF%BF%BD%0B%EF%BF%BD%24%EF%BF%BD%25T%28p%7F%D2%AF%EF%BF%BD%EF%BF%BD%22%EF%BF%BD)
+
 
 Some interview links: 
 * [Superlinguo Interview with an educational development lecturer (and linguistic consultant) (Olga Maxwell)](https://www.superlinguo.com/post/152524200571/linguistics-jobs-interview-with-an-educational)
