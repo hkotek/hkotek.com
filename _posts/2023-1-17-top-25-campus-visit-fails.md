@@ -52,7 +52,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 20. That time when a few search committee members wanted me to choose between three dinner options and it felt like a test that set me up to fail no matter what I chose. 
 
-21. That time when my visit coincided with Valentine's Day but no one thought they should reserve a table for dinner. I ended up having a very late (and kind of romantic??) one-on-one dinner with the Dean, who also hung out with me for two hours before the dinner because I guess it didn't make sense for her to drive home and back to pick me up. 
+21. That time when my visit coincided with Valentine's Day but no one thought they should reserve a table for dinner. I ended up having a very late (and kind of romantic??) one-on-one dinner with the Dean, who also hung out with me for two hours before the dinner because I guess it didn't make sense for her to drive home and back to pick me up. We went on a scenic walk to view the town from a nice trail; it would have made for a nice date if not for, you know, the circumstances.
 
 22. That time when a search committee member got upset that I said "fuck" at dinner. (I was repeating a sentence he said verbatim for effect. But, fair enough, lesson learned.)
 
