@@ -9,7 +9,7 @@ tags:
   - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
 ---
 
-The good(?) thing about [**being on the job market for 6 cycles**](https://hkotek.com/blog/my-academic-journey/) is that I have lots of funny-not-funny stories to share. This is not the OMFG I NEED TO SIT DOWN HOW ARE YOU OK, for that you'll still need to find me in person and buy me a drink or two; this is the hahaomgwow post, which I put together in just under an hour on a Tuesday evening, and which I'm not even going to try to rank. So, here are 25 anecdotes off the top of my head. I'd be curious to read about your stories in the comments! 
+The good(?) thing about [**being on the job market for 6 cycles**](https://hkotek.com/blog/my-academic-journey/) is that I have lots of funny-not-funny stories to share. This is not the OMFG I NEED TO SIT DOWN HOW ARE YOU OK post, for that you'll still need to find me in person and buy me a drink or two; this is the hahaomgwow post, which I put together in just under an hour on a Tuesday evening, and which I'm not even going to try to rank. So, here are 25 anecdotes off the top of my head. I'd be curious to read about your stories in the comments! 
  
 
 1. That time on my very first campus visit, still a grad student and very much clueless, when a search committee member I was meeting with told me "I'm sure you know [Israeli linguist who I'd actually never met] and I don't care what she told you, this is actually a good department." (The Israeli linguist left soon after; it probably wasn't a good department.)
