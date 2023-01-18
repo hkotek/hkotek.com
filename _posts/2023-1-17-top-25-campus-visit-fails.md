@@ -16,7 +16,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 2. That time when my first meeting on a campus visit turned out to be with my champion on the search committee, who proceeded to tell me who the members of the search committee were who had another preferred candidate, what trick questions they would ask, and how to answer. (To their credit, they were totally right about the trick questions.)
 
-3. That time when I had a meeting with an absolutely *ancient* search committee member and he fell asleep as soon as he sat down after greeting me and I just .. sat there for 30 minutes until my escort came to take me to my next meeting. 
+3. That time when I had a meeting with an absolutely *ancient* search committee member and he fell asleep as soon as he sat down after greeting me and I just .. sat there for 30 minutes until my escort came to take me to my next meeting. The ancient dude thanked me for the conversation before I left (lol).
 
 4. That time when a search committee chair asked me if I'd prefer their job or another one he heard I was shortlisted for. 
 
@@ -30,7 +30,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 9. That time when the department scheduled a dinner with students and NONE of them showed up. 
 
-10. That time when the students had a trick (non-job-related) question they asked all the candidates and they later told me I didn't get it right. 
+10. That time when the students had a joke question they asked all the candidates and they later told me I didn't get it right. (I just answered seriously, I didn't realize it was a joke.)
 
 11. That time when the grad students at a visit told me the faculty think they weren't good and I said surely not, but then in other meetings the faculty told me they thought their students weren't good. (Why would you say this to a job candidate??)
 
@@ -40,7 +40,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 14. That time when the grad students outside the room where I was being yelled at hugged me when I left the room completely dazed and confused about what just happened, and told me not to worry, he does that sometimes. 
 
-15. That time when a search committee member told me that if I could do *anything* other than take this job, then I should do that. 
+15. That time when a search committee member told me that if I could do *anything* other than take this job, I should do that. 
 
 16. That time when a search committee member had just recently gotten her drivers license and almost ran someone over in the parking lot where we were going for lunch; I had to shout to get her attention. 
 
@@ -58,7 +58,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 23. That time in flat country when a search committee member who was giving me a tour pointed at the tiniest mound of earth and said "that's the tallest mountain in the area" and I laughed but he was actually being serious. 
 
-24. Those times when search committee members wanted to tell me in detail how Chomsky was wrong, however unrelated it may be to me or my research. (I don't care, dude, why are you telling me this.)
+24. Those times when search committee members wanted to tell me in detail how Chomsky was wrong, however unrelated it may be to me or my research. (I don't care, dude, why are you telling me this. Though tbh this isn't necessarily a job market-specific story.)
 
 25. That time when every single faculty member I met with over multiple meetings said the best thing about the school was that there were really great supermarkets in the area, even Asian ones!
 
