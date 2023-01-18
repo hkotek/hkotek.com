@@ -14,7 +14,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 1. That time on my very first campus visit, still a grad student and very much clueless, when a search committee member I was meeting with told me "I'm sure you know [Israeli linguist who I'd actually never met] and I don't care what she told you, this is actually a good department." (The Israeli linguist left soon after; it probably wasn't a good department.)
 
-2. That time when my first meeting on a campus visit turned out to be with my champion on the search committee, who proceeded to tell me who the members on the search committee were who had another preferred candidate, what trick questions they would ask, and how to answer. (To their credit, they were totally right about the trick questions.)
+2. That time when my first meeting on a campus visit turned out to be with my champion on the search committee, who proceeded to tell me who the members of the search committee were who had another preferred candidate, what trick questions they would ask, and how to answer. (To their credit, they were totally right about the trick questions.)
 
 3. That time when I had a meeting with an absolutely *ancient* search committee member and he fell asleep as soon as he sat down after greeting me and I just .. sat there for 30 minutes until my escort came to take me to my next meeting. 
 
@@ -52,11 +52,11 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 20. That time when a few search committee members wanted me to choose between three dinner options and it felt like a test that set me up to fail no matter what I chose. 
 
-21. That time when my visit coincided with Valentine's Day and no one thought they should reserve a table for dinner. I ended up having a very late (and kind of romantic??) one-on-one dinner with the Dean, who also hung out with me for two hours before the dinner because I guess it didn't make sense for her to drive home and back to pick me up. 
+21. That time when my visit coincided with Valentine's Day but no one thought they should reserve a table for dinner. I ended up having a very late (and kind of romantic??) one-on-one dinner with the Dean, who also hung out with me for two hours before the dinner because I guess it didn't make sense for her to drive home and back to pick me up. 
 
 22. That time when a search committee member got upset that I said "fuck" at dinner. (I was repeating a sentence he said verbatim for effect. But, fair enough, lesson learned.)
 
-23. That time in flat country when a search committee member who was giving me a tour pointed at the tiniest mound of earth and said "that's the tallest mountain in the area" and I laughed but he was actually serious. 
+23. That time in flat country when a search committee member who was giving me a tour pointed at the tiniest mound of earth and said "that's the tallest mountain in the area" and I laughed but he was actually being serious. 
 
 24. Those times when search committee members wanted to tell me in detail how Chomsky was wrong, however unrelated it may be to me or my research. (I don't care, dude, why are you telling me this.)
 
