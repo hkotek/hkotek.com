@@ -1,5 +1,5 @@
 ---
-title: Top 25 campus visit fails
+title: My top 25 campus visit lolsob stories
 layout: default
 comments: true
 permalink: /blog/academic-campus-visit-fails/
@@ -12,11 +12,11 @@ tags:
 The good(?) thing about [**being on the job market for 6 cycles**](https://hkotek.com/blog/my-academic-journey/) is that I have lots of funny-not-funny stories to share. This is not the OMFG I NEED A DRINK post, for that you'll still need to find me in person and buy me a drink or two; this is the hahaomgwow post, which I put together in just under an hour on a Tuesday evening, and which I'm not even going to try to rank. So, here are 25 anecdotes off the top of my head. I'd be curious to read about your stories in the comments! 
  
 
-1. That time on my very first campus visit, still a grad student and very much clueless, a search committee member I was meeting with told me "I'm sure you know [Israeli linguist who I'd actually never met] and I don't care what she told you, this is actually a good department." (The Israeli linguist left soon after; it probably wasn't a good department.)
+1. That time on my very first campus visit, still a grad student and very much clueless, when a search committee member I was meeting with told me "I'm sure you know [Israeli linguist who I'd actually never met] and I don't care what she told you, this is actually a good department." (The Israeli linguist left soon after; it probably wasn't a good department.)
 
-2. That time when my first meeting on a campus visit turned out to be with my champion on the search committee, who proceeded to tell me who the members on the search committee were who had another preferred candidate, what trick questions they would ask, and how to answer. 
+2. That time when my first meeting on a campus visit turned out to be with my champion on the search committee, who proceeded to tell me who the members on the search committee were who had another preferred candidate, what trick questions they would ask, and how to answer. (To their credit, they were totally right about the trick questions.)
 
-3. That time when I had a meeting with an absolutely ancient search committee member and he fell asleep as soon as he sat down after greeting me and I just .. sat there for 30 minutes until my escort came to take me to my next meeting. 
+3. That time when I had a meeting with an absolutely *ancient* search committee member and he fell asleep as soon as he sat down after greeting me and I just .. sat there for 30 minutes until my escort came to take me to my next meeting. 
 
 4. That time when at a meeting with a group of faculty from another discipline (think large, interdisciplinary department) someone told me with a straight face that it was the first time anyone bothered to pitch a talk so they could understand it and how great that was. (They liked OT.)
 
@@ -28,7 +28,7 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 9. That time when a dean asked if my then-partner would be ok following me to the job's location. 
 
-10. That time when the search committee chair asked how much I was making at my post doc and when I told her she said 'oh, we can't pay that much'. 
+10. That time when the search committee chair asked how much I was making at my post doc and when I told her she said 'Oh. We can't pay that much'. 
 
 11. That time when the department scheduled a dinner with students and NONE of them showed up. 
 
@@ -46,16 +46,18 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 
 18. That time when the search committee member who drove me back to town at the end of my visit almost missed his exit, swerved across a solid line AND VERY CLOSE TO A TUNNEL WALL to make the exit, and I died a little. "What," he said, "it wasn't that close."
 
-19. That time when a search committee member drove me home from dinner in a vintage car that was super low to the ground and sounded like its engine was about to give at any moment --- felt like driving a Car2Go on the highway, which I don't recommend if you've never tried it, btw --- and I thought I was going to die the whole way and he definitely noticed. 
+19. That time when a search committee member drove me home from dinner in a vintage car that was super low to the ground and seriously vibrating and sounded like its engine was about to give at any moment --- felt like driving a Car2Go on the highway, which I don't recommend if you've never tried it, btw --- and I thought I was going to die the whole way and he definitely noticed. 
 
 20. That time when an assistant asked about my food allergies ahead of time but still booked a restaurant where I couldn't eat anything because it was the committee's favorite, and the committee members were visibly upset when they realized they'd have to go to another place. 
 
-21. That time when a few search committee members wanted me to choose between three dinner options and it felt like a test that set me up to fair no matter what I answered. 
+21. That time when a few search committee members wanted me to choose between three dinner options and it felt like a test that set me up to fail no matter what I chose. 
 
 22. That time when my visit coincided with Valentine's Day and no one thought they should reserve a table for dinner. I ended up having a very late (and kind of romantic??) one-on-one dinner with the Dean, who also hung out with me for two hours before the dinner because I guess it didn't make sense for her to drive home and back to pick me up. 
 
 23. That time when a search committee member got upset that I said "fuck" at dinner. (I was repeating a sentence he said verbatim for effect. But, fair enough, lesson learned.)
 
-24. That time in flat country when someone pointed at the tiniest mound of earth and said "that's the tallest mountain in the area" and I laughed but he was actually serious. 
+26. Those times when search committee members wanted to tell me in detail how Chomsky was wrong, however unrelated it may be to me or my research. (I don't care, dude, why are you telling me this.)
+
+24. That time in flat country when a search committee member who was giving me a tour pointed at the tiniest mound of earth and said "that's the tallest mountain in the area" and I laughed but he was actually serious. 
 
 25. That time when every single faculty member I met with over multiple meetings said the best thing about the school was that there were really great supermarkets in the area. 
