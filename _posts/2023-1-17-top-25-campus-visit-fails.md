@@ -61,3 +61,5 @@ The good(?) thing about [**being on the job market for 6 cycles**](https://hkote
 24. Those times when search committee members wanted to tell me in detail how Chomsky was wrong, however unrelated it may be to me or my research. (I don't care, dude, why are you telling me this.)
 
 25. That time when every single faculty member I met with over multiple meetings said the best thing about the school was that there were really great supermarkets in the area, even Asian ones!
+
+26. (Bonus! I can't believe I forgot about this one:) That time when a search committee member instructed me (it really didn't feel like a request) to tell the Dean about an unrelated department need (hire more Language teachers) and was disappointed when he checked in after the meeting and I told him it didn't come up.
