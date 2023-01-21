@@ -9,7 +9,9 @@ tags:
   - academia,
 ---
 
-*[Omer Preminger's recent blog post about leaving academia](https://preminger.xyz/posts/some-random-reflections-on-leaving-academia) and the resulting fascinating discussion on his Facebook post have left me thinking. I was going to write about choosing to leave, what I miss from academia, and how I choose to engage with it now. But the post is getting long so I'm going to focus only on the first part here and I'll have another post (or two) for the rest.*
+*[Omer Preminger's recent blog post about leaving academia](https://preminger.xyz/posts/some-random-reflections-on-leaving-academia) and the resulting fascinating discussion on his Facebook post have left me thinking. I want to write about choosing to leave academia, what I miss about it, and how I choose to engage with it now. This post focuses only on the first topic, to keep the length manageable, and I'll circle back to the other two in a separate post.*
+
+## Early days
 
 The decision to leave academia was more of a process than a flipped switch. I was fully committed to academia through grad school and was lucky enough to end my dissertation year with a nice two-year Mellon postdoc. Things were looking good.
 
@@ -21,11 +23,17 @@ Being an international person on a visa, having (or not having) a job also means
 
 I'm sure I said I wanted to leave academia at that point once in a while, and it was probably true to an extent, but at that time I had taken no steps to explore or prepare for any other jobs. I fiercely wanted to believe what my advisors kept telling me, that it was just a matter of time and things would work out. I was regularly getting long- and short-listed and getting concrete feedback from search committee members that I was doing well and decisions going another way wasn't about me. But I also kept having [**strange and sometimes actively bad experiences on the job market**](https://hkotek.com/blog/academic-campus-visit-fails/). 
 
+
+## It kept happening 
+
 Aside from the worst experience I've already described above, the second worst experience I had was a visit two years later that ended with a committee wanting to offer me the job but then backing away and choosing someone else without making me an offer when a politically powerful professor on campus (but outside the committee) intervened and threatened to make my life miserable and my tenure unlikely. That person had reasons to want to hurt my one of my advisors and generally had a research program that conflicted with the kind of research I had done in the past. I discovered all of this through a verbal conversation with a search committee member after what I felt like a very strong visit and warm discussions of an offer had turned into a form rejection email. I seriously freaked out for a day, flashbacks and everything, but then decided to just write the committee member, who I felt was a supporter, and ask if I had just misread the situation very badly. They wanted to speak on the phone, and told me this story. So, I have no proof that any of this happened, but also no reason to think they made it up. It's consistent with other things I know. 
 
 So at this point I had two "almost-offers" and a nice and thriving research program (and no green card) so inertia continued. Although I didn't get that job, I had another offer for a position that was temporary but with a permanent hire planned for the next year and I had been told I'd be the strong internal candidate who they'd want to hire. Of course, I took that job. Anyway, that year ended with [**incident #13-14**](https://hkotek.com/blog/academic-campus-visit-fails/), which was worse than it might have been if it were just a random interview because I had to stay in that department for another full semester. But --- I finally got my green card. **That is the point when I actively decided to leave academia**: third time's the charm. I finally realized that while I might get a job at some point, the politics will never end. 
 
 I had additionally grown picky about where I wanted to live and what kind of department I wanted to work in. That limited my options. And --- and I realize this may sound like bragging --- I had a really strong CV, including by then a Linguistic Inquiry Monograph on the way and a steady stream of publications in top tier journals despite the constant precarity and lack of funding. I had been at it for 4 years post-PhD. I am sure I could have been close to tenure based on this CV, but I was applying for jobs that would have me essentially start over on the tenure track and where I'd have to wait at least 4-5 more years to have some stability in the form of tenure. The whole thing became less and less appealing with each passing year. 
+
+
+## On leaving
 
 I didn't leave immediately that year. I had some health reasons to want to keep my insurance and to slow down on big life changes. I took another 1-year contract, this time with the explicit resolution to apply selectively to academic jobs but also to prep for and apply for non-academic jobs. As year 5 of precarity started, I finally had only one new prep, instead of 3-4 per year as had been the case in the past. What a concept! 
 
@@ -34,6 +42,8 @@ I started by conducting several informational interviews. I really started out k
 At that point, things happened quickly. I know the exact date I decided to actually act on my increasing desire to leave academia. It was the day I got the rejection from the only job I was short-listed for that year that I was really interested in. (I've since also heard multiple stories about this department that convince me that I was lucky not to have gotten this offer.) It was March 4, 2019.
 
 Between March and May of 2019 I went on two full job application cycles, from submission to chatting with the recruiter and hiring manager to phone interviews to on-sites, and ended up with three offers for roles as an ontologist or analytical linguist. I accepted one of them, moved to the Bay Area, and started the job in July of 2019. It was such a stark contrast with the experience I had in academia. This job search was everything that the academic search was not: fast, uneventful, successful. 
+
+## Finally 
 
 There is a lot more to say about my current thinking about academia and linguistics. I don't miss most of it. I lost interest in the details of my research, which I had been so passionate about in the past, surprisingly quickly. I have not a single ounce of respect for the politics that senior academics play on the back of junior folks, especially knowing how rigid the market is. Mostly, I just don't see the point of it all anymore. Now I get to have an exciting and fulfilling job with lots of flexibility and interesting problems that have real world impact, I get to choose where I live, and I make a nice salary. Even with the ongoing tech layoffs which make it clear that job security is ephemeral at best, I prefer where I am now to where I was before. 
 
