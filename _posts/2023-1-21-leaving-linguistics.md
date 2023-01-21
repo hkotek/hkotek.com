@@ -11,6 +11,7 @@ tags:
 
 *[Omer Preminger's recent blog post about leaving academia](https://preminger.xyz/posts/some-random-reflections-on-leaving-academia) and the resulting fascinating discussion on his Facebook post have left me thinking. I want to write about choosing to leave academia, what I miss about it, and how I choose to engage with it now. This post is the story of my leaving academia. To keep the length manageable, and I'll circle back to musings about what I do and don't miss about it in another post.*
 
+
 ## Early days
 
 For me, the decision to leave academia was more of a process than a flipped switch. I was fully committed to academia through grad school and was lucky enough to end my dissertation year with a nice two-year Mellon postdoc. Things were looking good.
@@ -44,6 +45,7 @@ I also took some online courses in Python and SQL (which in hindsight weren't ne
 At that point, things happened quickly. I know the exact date I decided to actually act on my increasing desire to leave academia. It was the day I got the rejection from the only job I was short-listed for that year that I was really interested in. (I've since also heard multiple stories about this department that convince me that I was lucky not to have gotten this offer.) It was March 4, 2019. It was also just two weeks shy of when my LI Monograph was officially published, the last big project I still wanted to see through. 
 
 Between March and May of 2019 I went on two full job application cycles, from submission to chatting with the recruiter and hiring manager to phone interviews to on-sites, and ended up with three offers for roles as an ontologist or analytical linguist. I accepted one of them, moved to the Bay Area, and started the job in July of 2019. It was such a stark contrast with the experience I had in academia. This job search was everything that the academic search was not: fast, uneventful, successful. 
+
 
 ## Finally 
 
