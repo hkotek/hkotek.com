@@ -1,0 +1,61 @@
+---
+title: More musings on leaving academia
+layout: default
+comments: false
+permalink: /blog/more-musings-on-leaving-academia/
+categories:
+  - academia,
+tags:
+  - academia, 
+---
+
+In a recent post, I spelled out in great detail [my process of deciding to leave academia](https://hkotek.com/blog/on-leaving-academia/). It's a longer tale of woe than I think anyone deserves, and in many ways it's emblematic of everything that's wrong with academia --- the personality cult that allows "geniuses" to behave in ways that wouldn't be acceptable anywhere else,[^1] the scarcity of jobs and the many difficulties that entails, the overall insanity that is a one-shot-per-year job market -- especially given the scarcity -- and the anxiety and sheer luck that is needed for [all the pieces to fall into place](https://www.youtube.com/watch?v=cUbIkNUFs-4) (and how easy it is for something to go sideways).  
+
+
+## Grieving what could have been
+
+I don't think it's a stretch to say that even with [everything that went wrong for me in the process](https://hkotek.com/blog/academic-campus-visit-fails/) and the various [excellent reasons I had for leaving](https://hkotek.com/blog/on-leaving-academia/), there was also **a prolonged grieving process** associated with actively walking away from a career that I had by then spent over a decade single-mindedly pursuing. I made a lot of sacrifices to get to where I was.
+
+I needed to sit with the decision for a while. It took years to go from the first knee-jerk reaction of "screw it all, I'm leaving" to taking the necessary steps to do it. I think I was a damn good professor, if I may say so myself. That said, leaving academia has felt like **walking away from an abusive relationship**. It's hard; you see all the good in it, but ultimately you realize that it's unhealthy, you can't fix it, and it's never going to change.
+
+Right now, with a few years of distance from the whole ordeal, **I have no regrets about leaving**. Even with the current atmosphere of layoffs in tech and the uncertainty that comes with it, I'm happier where I am. I know that will always be opportunities open to me that accommodate my priorities and reward my talents. 
+
+
+## Do I miss it? 
+
+There are some things that I miss about my old career. Most of all, I miss the **special close relationships** one develops with one's students over the years.[^2] I think some of it can be recovered by having an intern or becoming a mentor to junior team members, and/or by becoming a people manager, or of course outside one's job in various ways. But people have broader networks at work and aren't as dependent on a single person for anything (which is a good thing!) and that changes the nature of what the relationship can be.[^3] 
+
+I also really enjoyed **teaching --- at least, the in-class aspects of it**, not so much the admin or the grading involved. Aside from the performance aspect of it and the gratification of changing young minds, teaching is also one of the best ways to learn. These days I teach myself various new skills once in a while, but I don't get as many opportunities to teach others, and I miss it. 
+
+That said, I lost interest in the details of my former academic research surprisingly quickly. Looking back at it, I now think a lot of the debates that generated so much emotion and animosity were dwelling on minutiae that lost their importance once I took a step or three back and looked at the bigger picture. **At the end of the day, I just don’t see the point of it all anymore**. 
+
+Don't get me wrong, **I'm proud of everything that I've written**, and I still hold strong opinions about what is right and what is wrong and what directions I think are best for future research in A-bar syntax and semantics. I'm glad that the work is out there and I hope that people continue to engage with it and cite it. But it is a great relief not to be as invested in it --- not to worry when someone who clearly should know about my work (or, who I definitely know is aware of it) doesn't even bother to cite it, let alone engage with it; not to have to constantly defend it; not to engage in the politics of who-cites-whom as a matter of career survival. 
+
+I did continue to publish a bit after I left academia, most notably [a series of papers](https://muse.jhu.edu/article/840952) on [gender bias](https://muse.jhu.edu/article/840953) in [example sentences](https://babylonia.online/index.php/babylonia/article/view/46), which I am very proud of. But I also chose to walk away from several papers, including invited publications, that I simply didn't feel passionate about anymore. The manuscripts or earlier versions of the work are on my website and people can engage with them as they choose. But I don't want to spend any time on a lengthy review process that doesn't benefit me at all. 
+
+I never learned how not to take reviews personally; the process has always been emotional and on occasion even soul-crushing. Even when some reviews contain constructive criticism or great suggestions for improvement, almost invariably another reviewer will engage in some ad hominem attack or write a stream-of-consciousness review that's hard to deal with because they never bothered to think deeply about the work but still make all sorts of demands and proclamations about it. You spend years on work you deeply care about only to have someone come in with the goal of tearing it apart, who is not invested in your success and who is not compensated or appreciated for their work.[^4] In a good case scenario, it takes some months and just a couple of rounds of back-and-forth to reach a version of the work that everyone is sufficiently happy with. But in a not-as-good case scenario, it can take years and never reach a happy conclusion. I've had both. It's a relief not to rely on this process for career advancement anymore. 
+
+I now occasionally write papers with my team at work, which we submit to computational linguistics conferences. The CS publication process is very different from linguistics and has its own set of issues and imperfections. For me, what matters most is that I am not nearly as invested in it. These papers are *going above and beyond* but they're not a requirement of my job, although they're definitely valued.  
+
+Ultimately, **it now feels like linguistics is just one of a series of interests that I'll have over the course of my lifetime**. One I invested a whole lot into, to be sure, but not the only one I could ever care about. I find that liberating. 
+
+
+## Leaving .. ish? 
+
+
+Unlike many others in my position, I haven't fully extricated myself from academia: aside from the few publications that I mentioned above, I engage in mentorship to help academics find fulfilling jobs outside academia; I participate in various careers panels, talks, and events; I'll be mentoring an [Apple Scholar in AIML](https://machinelearning.apple.com/work-with-us#scholars) for the next two years;[^5] for the past couple of years I've had a Research Affiliate affiliation with MIT Linguistics; I sat in on a seminar last semester and plan to sit in on another one this coming semester; and I have a couple of teaching plans that are still in various approval stages so may still fall through, but if all goes as planned then I'll teach a professionalization workshop at the [LSA Summer Institute at UMass Amherst](https://blogs.umass.edu/lingstitute2023/)[^6] and I'll co-teach an intro undergrad course (topic to be announced later) at MIT Linguistics. 
+
+I am very fortunate that my managers have been supportive of these activities, not only in helping to facilitate the approval processes that I need to go through to be able to engage with academia in this way, but also in actually building some of this work into my schedule, so I officially have hours out of my week dedicated to this work.[^7] 
+
+Given all this you might ask if I might then consider going back to academia. While I am a firm believer in *never say never*, I want to say that no -- not now and not in the foreseeable future. Maybe on a full-time visiting basis in a few years, but never to a tenure track job and not to just any random place that happens to have an opening. I've been able to craft a professional life for myself that is diverse, dynamic, and rewarding in many ways, *and* I also get to keep some of what I enjoyed most about being an academic. Why would I want to willingly walk back into the toxic environment that I just got finished extricating myself from? 
+
+
+&nbsp;
+
+[^1]: Don't get me wrong, it's not that I think that industry is all sparkly unicorns and magic, there are definitely companies and teams with horrendous corporate culture, but the standards still seem to be better in my experience. It's also much easier to leave a bad situation and take another job without the badness following you around in the way it would in the small pool of academia, and in most cases you'll be able to do this without having to move to another location or another industry, which is often the only solution to extricating yourself from a bad situation in academia. 
+[^2]: Although I realize that the very existence of these deep relationships is what allows for a lot of the abusive behavior that we sometimes see in academia.
+[^3]: In many ways, if you have a manager who has so much impact on your life or work that they are your sole avenue for growth, feedback, or contact with others in the company, then something is very wrong. That almost always means an abusive manager, because a good manager should be helping you make connections and grow your network. But in academia, most of the time that's the normal setup, for better or for worse. 
+[^4]: I know that this isn't the most generous description of the process, but it's not entirely inaccurate. I think it's the very nature of a process where someone external who has no stake in the work and who may even be incentivized to block or change some of it acts as a gatekeeper of the work. Especially when that someone isn't compensated for the review and this service work is essentially invisible and not valued. It also seems to me that a lot of academics take the reviewer role at its core as asking them to find what's wrong with the work they've been tasked with reviewing; discussions and disagreements that I think should happen in the pages of the journal end up happening in the reviews, depriving the field from the rich conversation and sometimes from part or all of the work itself. 
+[^5]: The winners haven't been officially announced, though they've been informed, so the webpage still only shows previous years' winners. But regardless, I'm excited about this. 
+[^6]: This will be my first summer institute in any capacity. I had never been able to commit to summer plans as a precarious academic, because I always expected to have to move (to some as-yet unknown location) and to have to deal with immigration concerns, so I never even tried to apply to summer schools or conferences. 
+[^7]: This is something that sometimes cause my interlocutors some consternation. Like everyone else in my job and industry, I've signed an NDA. There are people in place (legal, product, marketing) who want to make sure that what I say and do doesn't reflect poorly on my employer and that there are no intellectual property concerns. By now I've been doing this long enough that I've established relationships with the people who are in charge of these processes and I know what the parameters of my involvement can be. Maybe that sounds concerning or unappealing; I am fine with it and can find ways to work within the system to get to do what I want. But it's definitely something to keep in mind for anyone reading this who is thinking of leaving academia but keeping a presence like I do. 
