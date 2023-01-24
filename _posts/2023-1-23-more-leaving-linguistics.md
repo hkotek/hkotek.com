@@ -1,7 +1,7 @@
 ---
 title: More musings on leaving academia
 layout: default
-comments: false
+comments: true
 permalink: /blog/more-musings-on-leaving-academia/
 categories:
   - academia,
