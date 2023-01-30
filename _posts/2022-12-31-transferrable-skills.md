@@ -1,5 +1,5 @@
 ---
-title: Transferable skills (and how to talk about them)
+title: Transferable skills and your resume
 layout: default
 comments: true
 permalink: /blog/altac-transferable_skills/
