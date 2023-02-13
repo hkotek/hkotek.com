@@ -9,7 +9,7 @@ tags:
   - industry, alt-ac
 ---
 
-**This is the last installment of a three-part series of my musings on leaving academia. Previous posts include a detailed description of [my path to leaving academia](https://hkotek.com/blog/on-leaving-academia/) and [what I miss about it the most](https://hkotek.com/blog/more-musings-on-leaving-academia/])**. 
+**This is the last installment of a three-part series of my musings on leaving academia. Previous posts include a detailed description of [my path to leaving academia](https://hkotek.com/blog/on-leaving-academia/) and [what I miss about it the most](https://hkotek.com/blog/more-musings-on-leaving-academia/)**. 
 
 Despite of (or maybe because of) the recent wave of layoffs and its general impact on my life[^1], I've recently been contemplating some of the things I like most about my non-academic career in tech. Some of these things could also easily be ported over to academia, and maybe some of them already have some parallels, but that's a topic for another time. 
 
@@ -28,15 +28,16 @@ Which leads me to the more general point: you have choices. You can choose where
 
 All of those questions blew my mind --- especially that last one --- but she was absolutely right. You have choices and you can calibrate your search to fit those parameters. 
 
+### Lots of career growth opportunities
+
+Within the job I have, and in future jobs I may have, there are many different career paths that I can grow into. For me, specifically, there have been several areas I've focused on in the past: Ops, Project Management, Ontology, and Data Science, all in the broad context of annotation and machine learning. Going forward, both within my current job and in future ones, I could choose to focus more specifically on any of those areas of expertise (or pick up a new one!) --- I'm not bound to any single one, and my career path is wide open with many potential future directions. 
+
+
 ### Flexibility
 
 A related point to the above, in our "post"-COVID world,[^2] is that more and more jobs allow for part- or full-time **work from home**/remote options. WFH can make life much more convenient and opens up a lot of opportunities, for obvious reasons. 
 
 In general, there is a lot of flexibility around precise **work hours** and **time off**. The flexibility of just stepping away from your work for a couple of hours for errands is not unlike the flexibility you have as an academic, though one big difference is being able to take time off whenever suits you, not necessarily during semester breaks. (On the other hand, I generally have a whole lot less time off than I did as an academic,[^3] so there's that.)
-
-### Lots of career growth opportunities
-
-The flexibility extends beyond the day to day, as well. Within the job I have, there are many different career paths that I can grow into. For me, specifically, there have been several areas I've focused on in the past: Ops, Project Management, Ontology, and Data Science, all in the broad context of annotation and machine learning. Going forward, both within my current job and in future ones, I could choose to focus more specifically on any of those areas of expertise (or pick up a new one!) --- I'm not bound to any single one, and my career path is wide open with many potential future directions. 
 
 
 ### Work-life balance
