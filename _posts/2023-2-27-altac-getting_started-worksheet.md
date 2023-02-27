@@ -19,7 +19,7 @@ As I've stated elsewhere, an ideal job would sit at the intersection of:
 
 There are some other things you'll want to consider, as well, and I'll try to spell them out here. 
 
-## Consider your likes and dislikes 
+## Consider your likes and dislikes about academia
 
 it's useful to recognize that the three main components of an academic life --- research, teaching, and service --- really break down into many smaller pieces. There are also various pieces that academics implicitly do but aren't even officially counted among those three components. So, for example, when you say you enjoy "research", what about it is actually fun and what is just the stuff that comes along with it? There will be jobs that cater to any particular part of your interests that minimize the stuff you enjoy less. More specifically: 
 
@@ -84,7 +84,7 @@ Since this is just for you, I hope that you can be honest with yourself. I've br
 Of the things that you enjoy from the list above, are there any that stick out as more important? Any that you wouldn't want to do without? Are there things that you don't enjoy and definitely want to stay away from? Are any themes emerging? 
 
 
-## Consider your preferences
+## Consider your preferences for a new job and career
 
 There are various other factors you could consider at this point, to help narrow down your search space. Within a job:
 
