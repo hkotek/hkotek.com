@@ -30,7 +30,7 @@ An ideal job would sit at the intersection of:
 * Things that you enjoy doing, and
 * Things that the market needs and compensates for.
 
-### What do you enjoy doing? 
+### [What do you enjoy doing?](#what-do-you-enjoy-about-academia) 
 
 Spelling these things out can be a prolonged process of **self-exploration**. Some questions to ask yourself: 
 
@@ -51,7 +51,7 @@ To identify particular [**skills**](https://hkotek.com/blog/altac-transferable_s
 
 I frequently get asked, **do you have to know how to code in order to get a job in tech**? The true answer is *it depends!* If you want to be a software engineer, then yes, you'll have to code. But there are plenty of jobs that require minimal or no coding experience. Even if you *can* code, if you don't enjoy it, a coding-heavy job is probably not for you. What *is* true, though, is that more jobs will be open to you if you can code at least a little bit, and that often more technical jobs are better compensated than those that do not require technical skills. I say a bit more about this in my [next post](https://hkotek.com/blog/altac-get-started-doing-prep/).
 
-### What are your values and preferences? 
+### [What are your values and preferences?](#values) 
 
 This is also a good time to think about your **values and preferences**. For example:  
 
@@ -69,7 +69,7 @@ There are various materials out there that can help you identify types of jobs, 
 
 The process of learning about different types of jobs can also help you answer some of the questions above. When you read about people's descriptions of their jobs, are there parts that you relate to more? Which parts stand out repeatedly in different posts? Those are probably worth exploring more.
 
-### What size company is right for you? 
+### [What size company is right for you?](#company-size) 
 
 This is also a time to consider what type of employer you'd want to work for (and what type you would not!). Consider roughly four options:  
 
