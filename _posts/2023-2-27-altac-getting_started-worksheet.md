@@ -88,60 +88,60 @@ Of the things that you enjoy from the list above, are there any that stick out a
 
 There are various other factors you could consider at this point, to help narrow down your search space. Within a job:
 
-3.  How important is it to you that your job engage directly with your research topic? For linguists, for example, 
+3.  How important is it to you that your **job engage directly with your research topic**? For linguists, for example, 
     - Do you want to work with language data? 
     - Do you want to work on a language product even if your day-to-day doesn't touch language data too much? 
     - Does it matter that the language or data types be the same the ones you worked on as an academic? 
     - Would you be happy if you used similar research methods as in your current research, but applied to very different types of data or problems? 
-1.  Do you want a job where you have a lot of meetings and collaborations or where you mostly work on your own? 
-2.  Do you want to go deep into one topic or engage with a lot of topics in less detail? 
-3.  Do you have thoughts about what stage of a project you'd want to work on? 
+1.  Do you want a job where you have a lot of meetings and **collaborations** or where you mostly work on your own? 
+2.  Do you want to **go deep into one topic** or engage with a lot of topics in less detail? 
+3.  Do you have thoughts about **what stage of a project** you'd want to work on? 
     - Do you want to work on the ideation and early design of a product, 
     - Do you want to focus on implementing someone else's design? 
     - Do you want to test a product with customers? 
     - Do you want to focus on sales and researching market reception? 
     - Do you want to think about communicating or advertising a product?
     - Or do you actually prefer being involved in mulitple stages of a project, from beginning to end? 
-4.  Do you prefer to work on an existing, established product or be involved in early R&D? 
-5.  Do you enjoy designing things? both in terms of process and in terms of visual impact? 
-6.  How important would it be that the job have clear, established responsibilities, documentation, and support to get your started? Would you be comfortable landing in a team with less structure where you'd have to be independent and teach yourself things more quickly? 
+4.  Do you prefer to **work on an existing, established product** or be involved in early R&D? 
+5.  Do you enjoy **designing** things? both in terms of process and in terms of visual impact? 
+6.  How important would it be that the job have **clear, established responsibilities, documentation, and support** to get your started? Would you be comfortable landing in a team with less structure where you'd have to be independent and teach yourself things more quickly? 
 
 
 At a higher level: 
 
-1. Do you prefer a particular [company size](https://hkotek.com/blog/altac-get-started-exploring-options/#company-size) over others? 
-2. Do you prefer a particular industry or sector -- e.g. the government, non-profits, (higher) education, tech (FinTech, AdTech, EdTech, MedTech, etc.), advertising and marketing, etc? 
-3. Do you prefer a part-time or full-time job? 
-4. Do you want to be self-employed (a contractor or consultant) or salaried? 
+1. Do you prefer a particular [**company size**](https://hkotek.com/blog/altac-get-started-exploring-options/#company-size) over others? 
+2. Do you prefer a particular **industry or sector** -- e.g. the government, non-profits, (higher) education, tech (FinTech, AdTech, EdTech, MedTech, etc.), advertising and marketing, etc? 
+3. Do you prefer a **part-time or full-time** job? 
+4. Do you want to be **self-employed** (a contractor or consultant) or **salaried**? 
 5. What is your preferred/minimum acceptable **compensation**? (I realize this may be hard to know without a bit of research, but you should know this before you start applying --- so you don't pigeon-hole yourself into lower-paying jobs, and so you don't give a lower range to a recruiter than you should)
 
 
-## Consider your values
+## Consider your values (or: your "no-list")
 
-1. Are there companies or industries that you would not want to work for? 
-2. Are there specific job responsibilities you would not want to perform? 
-3. Are there locations you would not want to live in? 
-4. Are there properties of the team or company you want to insist on -- such as diverse team structure or leadership? 
+1. Are there **companies or industries** that you would not want to work for? 
+2. Are there **specific job responsibilities** you would not want to perform? 
+3. Are there **locations** you would not want to live in? 
+4. Are there **properties of the team or company** you want to insist on -- such as diverse team structure or leadership? 
 
 
 ## Consider work-life balance
 
-1. Do you want to work on-site or from home or in a hybrid situation? How much does this matter to you? 
-2. What is the minimum amount of PTO you'd be willing to take? Could you work for a company with a culture that doesn't support employees taking too much vacation? 
-3. How much do you value the ability to learn within the company, e.g. through explicit studies or internal mentorship at the company? (You could also just learn on your own, or feel like further education isn't currently a priority at all)
-4. How much do you value having flexibility in actual work hours? 
-5. How much do you value the ability to grow and be promoted within your role? (for example, maybe you just want a job to learn some skills or draw a salary, and promotion doesn't matter right now -- you can always take a job at another company or team later)
-6. Are there specific other accommodations that you would need the company to provide? 
+1. Do you want to **work on-site or from home** or in a hybrid situation? How much does this matter to you? 
+2. What is the **minimum amount of PTO** you'd be willing to take? Could you work for a company with a culture that doesn't support employees taking too much vacation? 
+3. How much do you value the **ability to learn within the company**, e.g. through explicit studies or internal mentorship at the company? (You could also just learn on your own, or feel like further education isn't currently a priority at all)
+4. How much do you value having **flexibility in actual work hours**? 
+5. How much do you value the **ability to grow and be promoted within your role**? (for example, maybe you just want a job to learn some skills or draw a salary, and promotion doesn't matter right now -- you can always take a job at another company or team later)
+6. Are there **other specific accommodations** that you would need the company to provide? 
 
 
 ## Consider your circumstances 
 
 Things aren't always set up so you can just pursue your ideal career or job immediately (or ever). There may be other considerations you need to take into account. 
 
-1. What is your immigration status? Do you need visa sponsorship?  
-2. What location(s) are you prepared to work in? 
-3. Can you move for a new job at all? 
-4. What is the minimum salary you are able to take? What is your goal salary?
+1. What is your **immigration status**? Do you need visa sponsorship?  
+2. What **location(s)** are you prepared to work in? 
+3. **Can you move** for a new job at all? 
+4. What is the **minimum salary** you are able to take? What is your **goal salary**?
 
 Needing a visa will limit some options --- not every company will sponsor a visa. Larger companies are more likely to provide sponsorship, but it'll be something to ask about very early so you don't waste your time with an interview process that can't lead to an offer. Likewise if you would like to have green card sponsorship, that's a conversation to have with the company very early. 
 
