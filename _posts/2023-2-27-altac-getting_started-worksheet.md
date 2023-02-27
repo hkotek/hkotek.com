@@ -1,5 +1,5 @@
 ---
-title: Getting started \: guided self-reflection
+title: A guided self-reflection for getting started with Alt-Ac jobs
 layout: default
 comments: true
 permalink: /blog/altac-guided-self-reflection/
