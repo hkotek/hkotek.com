@@ -25,59 +25,59 @@ it's useful to recognize that the three main components of an academic life --- 
 
 1.  Do you enjoy your **research**? What about it is enjoyable? (By the way, it's also ok if your _don't_ like research at all!) 
         
-    1. Do you enjoy formulating the general research question? 
-    1. Do you enjoy breaking down the main question into operationlizable sub-questions? 
-    1. Do you enjoy identifying resources to support hypothesis building and data collection? 
-    1. Do you enjoy planning timelines, identifying resources, establishing collaborations, etc? 
-    1. Do you enjoy engaging in data collection? 
-    1. Do you enjoy data collection specifically in the field, in the lab, in archives or printed texts, or using some other resource? 
-    1. Do you enjoy teaching yourself new tools if needed, or do you like learning in an organized setting? 
-    1. Do you enjoy coming up with vague early proposals that can guide early hypothesis building? 
-    1. Do you enjoy trouble-shooting/identifying holes in early proposals? 
-    1. Do you enjoy identifying the right analysis for your data? 
-    1. Do you enjoy implementing the analysis? 
-    1. Do you enjoy producing the graphs and other visualization for your work? 
-    1. Do you enjoy writing the project up?
-    1. Do you enjoy presenting results?  
+    - Do you enjoy formulating the general research question? 
+    - Do you enjoy breaking down the main question into operationlizable sub-questions? 
+    - Do you enjoy identifying resources to support hypothesis building and data collection? 
+    - Do you enjoy planning timelines, identifying resources, establishing collaborations, etc? 
+    - Do you enjoy engaging in data collection? 
+    - Do you enjoy data collection specifically in the field, in the lab, in archives or printed texts, or using some other resource? 
+    - Do you enjoy teaching yourself new tools if needed, or do you like learning in an organized setting? 
+    - Do you enjoy coming up with vague early proposals that can guide early hypothesis building? 
+    - Do you enjoy trouble-shooting/identifying holes in early proposals? 
+    - Do you enjoy identifying the right analysis for your data? 
+    - Do you enjoy implementing the analysis? 
+    - Do you enjoy producing the graphs and other visualization for your work? 
+    - Do you enjoy writing the project up?
+    - Do you enjoy presenting results?  
     
 2.  Do you enjoy **science communication**? If so, what parts? 
-    1. Do you enjoy writing long-form papers? 
-    1. Do you enjoy making posters or slides? 
-    1. Do you enjoy writing blog posts or tweets? 
-    1. Do you enjoy editing your own or others' writing? 
-    1. Do you enjoy answering questions in forums or groups or other informal venues? 
-    1. Do you enjoy working with large/small groups, or teaching one-time workshops on your research?
+    - Do you enjoy writing long-form papers? 
+    - Do you enjoy making posters or slides? 
+    - Do you enjoy writing blog posts or tweets? 
+    - Do you enjoy editing your own or others' writing? 
+    - Do you enjoy answering questions in forums or groups or other informal venues? 
+    - Do you enjoy working with large/small groups, or teaching one-time workshops on your research?
     
 3.  Do you enjoy **teaching**? Although teaching isn't always the most valued part of the job in academia, if you enjoy it, maybe consider making it part of your new career. What part(s) of teaching do you enjoy? 
-    1. Do you enjoy designing the curriculum for a class?
-    1. Do you enjoy making teaching materials? 
-    1. Do you enjoy standing in front of a classroom? 
-    1. Do you enjoy giving office hours? 
-    1. Do you enjoy developing the right assessment tools?
-    1. Do you enjoy providing good feedback?
-    1. Do you enjoy grading exams or papers? 
-    1. Do you enjoy doing hands-on activities?
-    1. Do you enjoy facilitating discussions?  
-    1. Do you enjoy working in small groups or large ones?
-    1. Do you enjoy teaching introductory materials and first introducing participants to something new, or teaching advanced materials? 
+    - Do you enjoy designing the curriculum for a class?
+    - Do you enjoy making teaching materials? 
+    - Do you enjoy standing in front of a classroom? 
+    - Do you enjoy giving office hours? 
+    - Do you enjoy developing the right assessment tools?
+    - Do you enjoy providing good feedback?
+    - Do you enjoy grading exams or papers? 
+    - Do you enjoy doing hands-on activities?
+    - Do you enjoy facilitating discussions?  
+    - Do you enjoy working in small groups or large ones?
+    - Do you enjoy teaching introductory materials and first introducing participants to something new, or teaching advanced materials? 
     
 4.  Do you enjoy **organizing things**? Again, this type of service may not be appreciated in academia but there are whole jobs that revolve around making sure things are working smoothly. 
-    1. Do you enjoy coordinating the work of multiple individuals?
-    1. Do you enjoy identifying resources needed for your job through connections or innovation? 
-    1. Do you enjoy administering budgets? 
-    1. Do you enjoy hiring people and building teams? 
-    1. Do you enjoy making connections across parts of your organization that don't always speak to each other? 
-    1. Do you enjoy organizing events along their various dimensions -- identifying the need, the format, the speakers, the audience, the budget, the time and location, etc.? 
+    - Do you enjoy coordinating the work of multiple individuals?
+    - Do you enjoy identifying resources needed for your job through connections or innovation? 
+    - Do you enjoy administering budgets? 
+    - Do you enjoy hiring people and building teams? 
+    - Do you enjoy making connections across parts of your organization that don't always speak to each other? 
+    - Do you enjoy organizing events along their various dimensions -- identifying the need, the format, the speakers, the audience, the budget, the time and location, etc.? 
     
 5.  Are there **other skills** you are good at and that you enjoy that may not fall into the above categories but that you can nonetheless identify? 
-    1. Do you like coding? 
-    1. Do you like statistics, data analysis, data visualization, hypothesis testing, and similar? 
-    1. Do you like writing? 
-    1. Do you like designing things, including anything from webpages to products to new recipes? 
-    1. Do you like making things, including anything from sewing patterns to comics to cakes?
-    1. Do you like building up and supporting the work of others? 
-    1. Do you like planning things or do you prefer to be told what to do? 
-    1. Do you like to be creative? (In what ways?)
+    - Do you like coding? 
+    - Do you like statistics, data analysis, data visualization, hypothesis testing, and similar? 
+    - Do you like writing? 
+    - Do you like designing things, including anything from webpages to products to new recipes? 
+    - Do you like making things, including anything from sewing patterns to comics to cakes?
+    - Do you like building up and supporting the work of others? 
+    - Do you like planning things or do you prefer to be told what to do? 
+    - Do you like to be creative? (In what ways?)
 
 Since this is just for you, I hope that you can be honest with yourself. I've broken "research" down into a dozen or so pieces, and there are probably more; the same goes for the other categories. I assume you don't enjoy all parts the same, and that's not only okay but expected. For example, not everyone likes having to come up with new ideas all the time, but they're really good at pursuing the details of a vague idea someone else has proposed in passing. Some people like identifying the right statistical analysis for their data but really don't like implementing it (and vice versa). Some people really enjoy making pretty graphs, and others couldn't care less. Some people enjoy writing, others prefer editing other people's writing, and yet others don't enjoy any part of putting a project into words. This is all fine! The question is really about what is right _for you_: what are you good at, and what do you enjoy? 
 
@@ -89,19 +89,19 @@ Of the things that you enjoy from the list above, are there any that stick out a
 There are various other factors you could consider at this point, to help narrow down your search space. Within a job:
 
 3.  How important is it to you that your job engage directly with your research topic? For linguists, for example, 
-    1. Do you want to work with language data? 
-    1. Do you want to work on a language product even if your day-to-day doesn't touch language data too much? 
-    1. Does it matter that the language or data types be the same the ones you worked on as an academic? 
-    1. Would you be happy if you used similar research methods as in your current research, but applied to very different types of data or problems? 
+    - Do you want to work with language data? 
+    - Do you want to work on a language product even if your day-to-day doesn't touch language data too much? 
+    - Does it matter that the language or data types be the same the ones you worked on as an academic? 
+    - Would you be happy if you used similar research methods as in your current research, but applied to very different types of data or problems? 
 1.  Do you want a job where you have a lot of meetings and collaborations or where you mostly work on your own? 
 2.  Do you want to go deep into one topic or engage with a lot of topics in less detail? 
 3.  Do you have thoughts about what stage of a project you'd want to work on? 
-    1. Do you want to work on the ideation and early design of a product, 
-    1. Do you want to focus on implementing someone else's design? 
-    1. Do you want to test a product with customers? 
-    1. Do you want to focus on sales and researching market reception? 
-    1. Do you want to think about communicating or advertising a product?
-    1. Or do you actually prefer being involved in mulitple stages of a project, from beginning to end? 
+    - Do you want to work on the ideation and early design of a product, 
+    - Do you want to focus on implementing someone else's design? 
+    - Do you want to test a product with customers? 
+    - Do you want to focus on sales and researching market reception? 
+    - Do you want to think about communicating or advertising a product?
+    - Or do you actually prefer being involved in mulitple stages of a project, from beginning to end? 
 4.  Do you prefer to work on an existing, established product or be involved in early R&D? 
 5.  Do you enjoy designing things? both in terms of process and in terms of visual impact? 
 6.  How important would it be that the job have clear, established responsibilities, documentation, and support to get your started? Would you be comfortable landing in a team with less structure where you'd have to be independent and teach yourself things more quickly? 
