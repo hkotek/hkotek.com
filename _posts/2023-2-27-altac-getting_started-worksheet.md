@@ -24,6 +24,7 @@ There are some other things you'll want to consider, as well, and I'll try to sp
 it's useful to recognize that the three main components of an academic life --- research, teaching, and service --- really break down into many smaller pieces. There are also various pieces that academics implicitly do but aren't even officially counted among those three components. So, for example, when you say you enjoy "research", what about it is actually fun and what is just the stuff that comes along with it? There will be jobs that cater to any particular part of your interests that minimize the stuff you enjoy less. More specifically: 
 
     1. Do you enjoy your **research**? What about it is enjoyable? (By the way, it's also ok if your _don't_ like research at all!) 
+        
         1. Do you enjoy formulating the general research question? 
         1. Do you enjoy breaking down the main question into operationlizable sub-questions? 
         1. Do you enjoy identifying resources to support hypothesis building and data collection? 
@@ -38,6 +39,7 @@ it's useful to recognize that the three main components of an academic life --- 
         1. Do you enjoy producing the graphs and other visualization for your work? 
         1. Do you enjoy writing the project up?
         1. Do you enjoy presenting results?  
+    
     2. Do you enjoy **science communication**? If so, what parts? 
         a. Do you enjoy writing long-form papers? 
         a. Do you enjoy making posters or slides? 
@@ -45,6 +47,7 @@ it's useful to recognize that the three main components of an academic life --- 
         a. Do you enjoy editing your own or others' writing? 
         a. Do you enjoy answering questions in forums or groups or other informal venues? 
         a. Do you enjoy working with large/small groups, or teaching one-time workshops on your research?
+    
     3. Do you enjoy **teaching**? Although teaching isn't always the most valued part of the job in academia, if you enjoy it, maybe consider making it part of your new career. What part(s) of teaching do you enjoy? 
         b. Do you enjoy designing the curriculum for a class?
         a. Do you enjoy making teaching materials? 
@@ -57,6 +60,7 @@ it's useful to recognize that the three main components of an academic life --- 
         a. Do you enjoy facilitating discussions?  
         h. Do you enjoy working in small groups or large ones?
         a. Do you enjoy teaching introductory materials and first introducing participants to something new, or teaching advanced materials? 
+    
     4. Do you enjoy **organizing things**? Again, this type of service may not be appreciated in academia but there are whole jobs that revolve around making sure things are working smoothly. 
         a. Do you enjoy coordinating the work of multiple individuals?
         b. Do you enjoy identifying resources needed for your job through connections or innovation? 
@@ -64,6 +68,7 @@ it's useful to recognize that the three main components of an academic life --- 
         d. Do you enjoy hiring people and building teams? 
         e. Do you enjoy making connections across parts of your organization that don't always speak to each other? 
         f. Do you enjoy organizing events along their various dimensions -- identifying the need, the format, the speakers, the audience, the budget, the time and location, etc.? 
+    
     5. Are there **other skills** you are good at and that you enjoy that may not fall into the above categories but that you can nonetheless identify? 
         a. Do you like coding? 
         e. Do you like statistics, data analysis, data visualization, hypothesis testing, and similar? 
