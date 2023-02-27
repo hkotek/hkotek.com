@@ -24,27 +24,27 @@ There are some other things you'll want to consider, as well, and I'll try to sp
 it's useful to recognize that the three main components of an academic life --- research, teaching, and service --- really break down into many smaller pieces. There are also various pieces that academics implicitly do but aren't even officially counted among those three components. So, for example, when you say you enjoy "research", what about it is actually fun and what is just the stuff that comes along with it? There will be jobs that cater to any particular part of your interests that minimize the stuff you enjoy less. More specifically: 
 
 1. Do you enjoy your **research**? What about it is enjoyable? (By the way, it's also ok if your _don't_ like research at all!) 
-        a. Do you enjoy formulating the general research question? 
-        b. Do you enjoy breaking down the main question into operationlizable sub-questions? 
-        a. Do you enjoy identifying resources to support hypothesis building and data collection? 
-        a. Do you enjoy planning timelines, identifying resources, establishing collaborations, etc? 
-        c. Do you enjoy engaging in data collection? 
-        d. Do you enjoy data collection specifically in the field, in the lab, in archives or printed texts, or using some other resource? 
-        e. Do you enjoy teaching yourself new tools if needed, or do you like learning in an organized setting? 
-        d. Do you enjoy coming up with vague early proposals that can guide early hypothesis building? 
-        b. Do you enjoy trouble-shooting/identifying holes in early proposals? 
-        c. Do you enjoy identifying the right analysis for your data? 
-        d. Do you enjoy implementing the analysis? 
-        e. Do you enjoy producing the graphs and other visualization for your work? 
-        f. Do you enjoy writing the project up?
-        g. Do you enjoy presenting results?  
+        1. Do you enjoy formulating the general research question? 
+        1. Do you enjoy breaking down the main question into operationlizable sub-questions? 
+        1. Do you enjoy identifying resources to support hypothesis building and data collection? 
+        1. Do you enjoy planning timelines, identifying resources, establishing collaborations, etc? 
+        1. Do you enjoy engaging in data collection? 
+        1. Do you enjoy data collection specifically in the field, in the lab, in archives or printed texts, or using some other resource? 
+        1. Do you enjoy teaching yourself new tools if needed, or do you like learning in an organized setting? 
+        1. Do you enjoy coming up with vague early proposals that can guide early hypothesis building? 
+        1. Do you enjoy trouble-shooting/identifying holes in early proposals? 
+        1. Do you enjoy identifying the right analysis for your data? 
+        1. Do you enjoy implementing the analysis? 
+        1. Do you enjoy producing the graphs and other visualization for your work? 
+        1. Do you enjoy writing the project up?
+        1. Do you enjoy presenting results?  
 2. Do you enjoy **science communication**? If so, what parts? 
         a. Do you enjoy writing long-form papers? 
-        b. Do you enjoy making posters or slides? 
-        c. Do you enjoy writing blog posts or tweets? 
-        g. Do you enjoy editing your own or others' writing? 
-        d. Do you enjoy answering questions in forums or groups or other informal venues? 
-        e. Do you enjoy working with large/small groups, or teaching one-time workshops on your research?
+        a. Do you enjoy making posters or slides? 
+        a. Do you enjoy writing blog posts or tweets? 
+        a. Do you enjoy editing your own or others' writing? 
+        a. Do you enjoy answering questions in forums or groups or other informal venues? 
+        a. Do you enjoy working with large/small groups, or teaching one-time workshops on your research?
 3. Do you enjoy **teaching**? Although teaching isn't always the most valued part of the job in academia, if you enjoy it, maybe consider making it part of your new career. What part(s) of teaching do you enjoy? 
         b. Do you enjoy designing the curriculum for a class?
         a. Do you enjoy making teaching materials? 
