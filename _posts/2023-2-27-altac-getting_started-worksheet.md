@@ -31,7 +31,7 @@ it's useful to recognize that the three main components of an academic life --- 
     - Do you enjoy planning timelines, identifying resources, establishing collaborations, etc? 
     - Do you enjoy engaging in data collection? 
     - Do you enjoy data collection specifically in the field, in the lab, in archives or printed texts, or using some other resource? 
-    - Do you enjoy teaching yourself new tools if needed, or do you like learning in an organized setting? 
+    - Do you enjoy teaching yourself new tools, or do you like learning in an organized setting? 
     - Do you enjoy coming up with vague early proposals that can guide early hypothesis building? 
     - Do you enjoy trouble-shooting/identifying holes in early proposals? 
     - Do you enjoy identifying the right analysis for your data? 
@@ -88,7 +88,7 @@ Of the things that you enjoy from the list above, are there any that stick out a
 
 There are various other factors you could consider at this point, to help narrow down your search space. Within a job:
 
-3.  How important is it to you that your **job engage directly with your research topic**? For linguists, for example, 
+3.  How important is it to you that your **job engage directly with your research topic**? E.g. for linguists: 
     - Do you want to work with language data? 
     - Do you want to work on a language product even if your day-to-day doesn't touch language data too much? 
     - Does it matter that the language or data types be the same the ones you worked on as an academic? 
