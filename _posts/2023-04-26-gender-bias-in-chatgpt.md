@@ -40,7 +40,7 @@ As they note, **this is particularly striking given that the entire WinoBias dat
 
 ## What does this mean 
 
-Now, this result is not new and maybe you don't find it surprising. For one, here is a screenshot of **an experiment I did in 2012 on Google Translate, which likewise showed pervasive gender bias**. The basic idea is this: English does not mark gender on verbs and adjectives, but Hebrew does. So when we translate from English to Hebrew, we are forced to make decisions about which gender agreement we want to use -- masculine or feminine. In this screenshot, the model has made many stereotypical choices. For example, "I wash the dishes" gets feminine agreement but "I wash the car" gets masculine agreement. "I like math" gets masculine agreement but "I don't like math" gets feminine agreement.
+Now, this result is not new and maybe you don't find it surprising. For one, here is a screenshot of **an experiment I did in 2012 on Google Translate, which likewise showed pervasive gender bias**. The basic idea is this: English does not mark gender on verbs and adjectives, but Hebrew does. So when we translate from English to Hebrew, we are forced to make decisions about which gender agreement we want to use -- masculine or feminine. In this screenshot, the model has made many stereotypical choices. For example, "I wash the dishes" gets feminine agreement but "I wash the car" gets masculine agreement. "I like math" gets masculine agreement but "I don't like math" gets feminine agreement. This result was later replicated also for Russian (direction: Russian to Turkish) and for Turkish (direction: Turkish to English).
 
 <img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="100%" />
 
