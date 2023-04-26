@@ -1,5 +1,5 @@
 ---
-title: Doctors can't get pregnant and other gender bias in ChatGPT
+title: Doctors can't get pregnant and other gender biases in ChatGPT
 layout: default
 comments: true
 permalink: /blog/gender-bias-in-chatgpt/
