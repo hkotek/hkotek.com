@@ -56,7 +56,7 @@ This is particularly important given the prevalent discussions recently of intro
 
 ## A quick note on our assumptions about gender
 
-The experiments I show here, and most other replications and attempts at measuring gender bias, are overly simplistic. For one, we **assume a gender binary, contrary to fact** (although the WinoBias dataset does contain singular *they* variants of the pronouns). We also **ignore the existence of **trans individuals, again contrary to fact**.
+The experiments I show here, and most other replications and attempts at measuring gender bias, are overly simplistic. For one, we **assume a gender binary, contrary to fact** (although the WinoBias dataset does contain singular *they* variants of the pronouns). We also **ignore the existence of trans individuals, again contrary to fact**.
 
 There are reason for doing this relating to simplicity, expediency, and data availability (if we want to compare to published data from e.g. the US labor statistics or US census, we have to conform to the categories they publish). Nonetheless, I want to end this post by noting that **these simplifying assumptions may themselves cause harm, and researchers who work in this area --- myself included --- should actively work to reduce or eliminate it**.
 
