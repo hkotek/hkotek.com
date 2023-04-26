@@ -25,15 +25,16 @@ In fact, **the model is quite resistent to attempts to "help" it see the ambigui
 
 <img src="https://hkotek.com/chatgpt/doc-justification.jpg" width="80%" />
 
+&nbsp;
 Here is a version where the model acknowledges the ambiguity, but changes the pronoun from a feminine to a masculine one when it refers to the doctor in its answer. 
 
-<img src="https://hkotek.com/chatgpt/doc-is-he.jpg" width="80%" />
+<img src="https://hkotek.com/chatgpt/doc-is-he.jpg" width="50%" />
 
 ## Quantifying ChatGPT’s gender bias 
 
 Inspired by my post, earlier today, [Sayash Kapoor and Arvind Narayanan tested ChatGPT on WinoBias](https://aisnakeoil.substack.com/p/quantifying-chatgpts-gender-bias), a standard gender bias benchmark. They show that **GPT-3.5 is 2.8 times more likely to answer anti-stereotypical questions incorrectly than stereotypical ones (34% incorrect vs. 12%), and GPT-4 is 3.2 times more likely (26% incorrect vs 8%)**. Here is a reproduction of the graph from their blog post:
 
-<img src="https://hkotek.com/chatgpt/wino-bias.jpg" width="80%" />
+<img src="https://hkotek.com/chatgpt/wino-bias.jpg" width="50%" />
 
 As they note, **this is particularly striking given that the entire WinoBias dataset is likely included in the model's training data**, and despite the otherwise quite successful human reinforcement approach, which has been able to suppress (though -- importantly -- not fix!) a lot of undesirable behavior in the model. It is also striking given how frequently we hear of new large language models (LLMs) shattering existing state-of-the-art results on NLP tasks and passing standard exams such as the SATs and the medical boards. 
 
@@ -41,7 +42,7 @@ As they note, **this is particularly striking given that the entire WinoBias dat
 
 Now, this result is not new and maybe you don't find it surprising. For one, here is a screenshot of **an experiment I did in 2012 on Google Translate, which likewise showed pervasive gender bias**. The basic idea is this: English does not mark gender on verbs and adjectives, but Hebrew does. So when we translate from English to Hebrew, we are forced to make decisions about which gender agreement we want to use -- masculine or feminine. In this screenshot, the model has made many stereotypical choices. For example, "I wash the dishes" gets feminine agreement but "I wash the car" gets masculine agreement. "I like math" gets masculine agreement but "I don't like math" gets feminine agreement.
 
-<img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="80%" />
+<img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="100%" />
 
 And of course, you might say, these models are trained on data produced by humans, so it's not surprising that they reflect all of the biases of those humans. I don't disagree, but I think **these results provide support for the growing calls from the AI ethics community for transparency in data sources and for explicit thought, discussion, and regulation of these models for potential harms**. 
 
