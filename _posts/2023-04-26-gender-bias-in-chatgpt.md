@@ -39,23 +39,15 @@ Now, this result is not new and maybe you don't find it surprising. For one, her
 
 <img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="80%" />
 
+And of course, you might say, these models are trained on data produced by humans, so it's not surprising that they reflect all of the biases of those humans. I don't disagree, but I think these results provide support for the growing calls from the AI ethics community for transparency in data sources and for explicit thought, discussion, and regulation of these models for potential harms. 
 
-Given the vast discussions recently of introducing LLMs into 
+This is particularly important given the prevalent discussions recently of introducing LLMs directly customer-facing applications in different domains including finance, health, security, and even simple question-answering. **The potential for harm is simply too large to ignore.** 
 
-
-directly customer-facing applications,
-
-google translate
-
-reflects and amplifies societal biases
-
-can't inspect training data
-
-AI ethics community
 
 ## A quick note on gender
 
-not binary, trans men can get pregnant, winobias has they
+The experiments I show here, and most other replications and attempts at measuring gender bias are overly simplistic. For one, we assume a gender binary, contrary to fact (although the WinoBias dataset does contain singular *they* variants of the pronouns). We also ignore the existence of trans individuals, again contrary to fact. There are reason for doing this relating to simplicity, expediency, and data availability (if we want to compare to published data from e.g. the US labor statistics or US census, we have to conform to the categories they publish). Nonetheless, I want to end this post by noting that these simplifying assumptions may themselves cause harm, and researchers who work in this area --- myself included --- should actively work to reduce or eliminate it.
+
 
 &nbsp;
 
