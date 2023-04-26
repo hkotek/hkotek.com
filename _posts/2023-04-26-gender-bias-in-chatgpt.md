@@ -45,15 +45,15 @@ As they note, **this is particularly striking given that the entire WinoBias dat
 
 ## What does this mean 
 
-Now, this result is not new and maybe you don't find it surprising. For one, here is a screenshot of **an experiment I did in 2012 on Google Translate, which likewise showed pervasive gender bias**. The basic idea is this: English does not mark gender on verbs and adjectives, but Hebrew does. So when we translate from English to Hebrew, we are forced to make decisions about which gender agreement we want to use -- masculine or feminine. In this screenshot, the model has made many stereotypical choices. For example, "I wash the dishes" gets feminine agreement but "I wash the car" gets masculine agreement. "I like math" gets masculine agreement but "I don't like math" gets feminine agreement. This result was later replicated also for Russian (direction: Russian to Turkish) and for Turkish (direction: Turkish to English).
+Now, **this result is not new and maybe you don't find it surprising**. For one, here is a screenshot of **an experiment I did in 2012 on Google Translate, which likewise showed pervasive gender bias**. The basic idea is this: English does not mark gender on verbs and adjectives, but Hebrew does. So when we translate from English to Hebrew, we are forced to make decisions about which gender agreement we want to use -- masculine or feminine. In this screenshot, the model has made many stereotypical choices. For example, "I wash the dishes" gets feminine agreement but "I wash the car" gets masculine agreement. "I like math" gets masculine agreement but "I don't like math" gets feminine agreement. This result was later replicated also for Russian (direction: Russian to Turkish) and for Turkish (direction: Turkish to English).
 
 <img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="100%" />
 
 &nbsp;
 
-And of course, you might say, these models are trained on data produced by humans, so it's not surprising that they reflect all of the biases of those humans. I don't disagree, but I think **these results provide support for the growing calls from the AI ethics community for transparency in data sources and for explicit thought, discussion, and regulation of these models for potential harms**. 
+And of course, you might say, these models are trained on data produced by humans, so it's not at all surprising that they reflect the biases ingrained in those humans. I don't disagree! But I think **these results provide support for the growing calls from the AI ethics community for transparency in data sources and for explicit thought, discussion, and regulation of these models for potential harms**. 
 
-This is particularly important given the prevalent discussions recently of introducing LLMs directly customer-facing applications in different domains including finance, health, security, and even simple question-answering. **The potential for harm is simply too large to ignore.** 
+This is particularly important given the prevalent discussions recently of introducing LLMs directly customer-facing applications in different domains including finance, health, security, and even simple question-answering. **The potential for harm is simply too large to ignore**. We need to understand them and develop ways to mitigate them before we get too excited and deploy large scale systems that will then require new investigations and diagnostics and will be hard to roll back.  
 
 
 ## A quick note on our assumptions about gender
