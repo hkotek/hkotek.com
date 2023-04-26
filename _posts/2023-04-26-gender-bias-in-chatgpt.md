@@ -36,6 +36,7 @@ Inspired by my post, earlier today, [Sayash Kapoor and Arvind Narayanan tested C
 
 <img src="https://hkotek.com/chatgpt/wino-bias.jpg" width="50%" />
 
+&nbsp;
 As they note, **this is particularly striking given that the entire WinoBias dataset is likely included in the model's training data**, and despite the otherwise quite successful human reinforcement approach, which has been able to suppress (though -- importantly -- not fix!) a lot of undesirable behavior in the model. It is also striking given how frequently we hear of new large language models (LLMs) shattering existing state-of-the-art results on NLP tasks and passing standard exams such as the SATs and the medical boards. 
 
 ## What does this mean 
@@ -44,6 +45,7 @@ Now, this result is not new and maybe you don't find it surprising. For one, her
 
 <img src="https://hkotek.com/chatgpt/google-translate-hebrew.jpg" width="100%" />
 
+&nbsp;
 And of course, you might say, these models are trained on data produced by humans, so it's not surprising that they reflect all of the biases of those humans. I don't disagree, but I think **these results provide support for the growing calls from the AI ethics community for transparency in data sources and for explicit thought, discussion, and regulation of these models for potential harms**. 
 
 This is particularly important given the prevalent discussions recently of introducing LLMs directly customer-facing applications in different domains including finance, health, security, and even simple question-answering. **The potential for harm is simply too large to ignore.** 
