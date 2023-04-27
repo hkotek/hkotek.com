@@ -56,7 +56,7 @@ And of course, you might say, these models are trained on data produced by human
 This is particularly important given the prevalent discussions recently of introducing LLMs directly customer-facing applications in different domains including finance, health, security, and even simple question-answering. **The potential for harm is simply too large to ignore**. We need to understand them and develop ways to mitigate them before we get too excited and deploy large scale systems that will then require new investigations and diagnostics and will be hard to roll back.  
 
 
-## A quick note on our assumptions about gender
+## A note on our assumptions about gender
 
 The experiments I show here, and most other replications and attempts at measuring gender bias, are overly simplistic. For one, we **assume a gender binary, contrary to fact** (although the WinoBias dataset does contain singular *they* variants of the pronouns). We also **ignore the existence of trans individuals, again contrary to fact**.
 
