@@ -63,6 +63,19 @@ The experiments I show here, and most other replications and attempts at measuri
 There are reason for doing this relating to simplicity, expediency, and data availability (if we want to compare to published data from e.g. the US labor statistics or US census, we have to conform to the categories they publish). Nonetheless, I want to end this post by noting that **these simplifying assumptions may themselves cause harm, and researchers who work in this area --- myself included --- should actively work to reduce or eliminate it**.
 
 
+## Addendum
+
+(April 27, 2023:) I've been seen comments along the lines of "the models aren't biased! just like they don't 'know' or 'think' things, they're just glorified machines. They are simply reflecting our data back to us." These responses somehow manage to be exactly right while still fully missing the point. 
+
+**Exactly right**: Yes! **LLMs are glorified next-word-prediction-machines**. You should find it alarming that certain very high profile individuals in the field of AI are talking about sentience and emergent intelligence in these models. All that's happening here is that a very(!) powerful algorithm is using vast amounts of data to identify patterns. It's entirely unsurprising that we're seeing biases since they're extremely likely to be contained in the data itself, and that's really all the model is exposed to. 
+
+I also agree that it's important to be careful in how we talk and think about LLMs: they are reflecting properties of the training data and model architecture, as well as (importantly!) decisions of the model owners in the form of the ways they constrain the model through reinforcement learning and (probably) rules and heuristics about how the model should handle certain types of requests. It's indeed dangerous to believe that the model "thinks" on its own; but the English language makes it really hard to avoid this kind of phrasing, so a lot of us reluctantly fall back into using it anyway.
+
+**Missing the point**: Yes, **the model doesn't "think" but that doesn't mean the model isn't biased!** Not because it inherently holds some false belief (it doesn't) but precisely because it is trained on biased data and is spitting it back at us dangerously wrapped in a polished paragraph of perfect English often with (wrong-but-plausible-sounding) justifications. **It has proved surprisingly difficult to clearly illustrate these biases**, especially in light of all of the shiny successes that have been reported, such as the model breaking all kinds of SOTAs, passing the medical boards, or acing the bar exam. 
+
+Companies have been putting up elaborate guardrails that *do not fix the problem* but rather *hide it quite well*, essentially **playing an elaborate game of what-a-mole every time the monster raises its giant head**. The fact that even now, two weeks after this experiment went viral, it's still being easily replicated across the internet tells you something deep about just how ingrained this problem is and how difficult or maybe impossible it is to eradicate given the current setup of the system. And, again, the fact that, as we speak, large-scale, real-world applications using these systems are being developed and pushed into the market should make you worry. A lot. 
+
+
 &nbsp;
 
 #### Notes
