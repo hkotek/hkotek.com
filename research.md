@@ -6,9 +6,11 @@ title: Research
 My research concentrates on different aspects of the syntax-semantics interface, using both traditional and experimental tools. This work can be divided into several different (but related) research projects.
 
 
-Gender representation in Linguistics
-------------------------------------
-This work explores the representation of gender in linguistics through the lens of examples sentences in textbooks and journal papers. We find pervasive gender bias both in the distribution of arguments and in the lexical choices in examples referring to male and female arguments. 
+Gender bias and stereotypes
+---------------------------
+This work explores the representation of gender in linguistics through the lens of examples sentences in textbooks and journal papers. We find pervasive gender bias both in the distribution of arguments and in the lexical choices in examples referring to male and female arguments. This work replicates and extends work conducted in the mid-90s on then-contemporary textbooks.
+
+In earlier co-authored work, we replicated and extended an influential norming study of occupation-denoting nouns, showing that biases and stereotypes associated with men and women have hardly changed between 2003 and 2016.
 
 2021
 : Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
@@ -22,8 +24,10 @@ This work explores the representation of gender in linguistics through the lens 
 2020
 : Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.
 
-
 Related (non-peer-reviewed) work on this issue can be found in the [**REIL guidebook**](https://genderinlinguistics.com/reil/), which provides resources for equity and inclusivity for linguistic conference organizers. 
+
+2017
+: Grant, Margaret, Hadas Kotek, Jayun Bae and Jeffrey Lamontagne. Stereotypical Gender Effects in 2016. CUNY Conference on Human Sentence Processing 30, MIT, April 2017. [Full dataset here (csv)](2016-gender-norming-results.csv)
 
 NLP
 ---
