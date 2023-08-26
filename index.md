@@ -17,7 +17,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     office location: Cambridge, MA
     email: hkotek at alum.mit.edu
 	
-I am a Linguist working at Apple. I am a member of the Natural Language data science team for Siri Understanding. I have expertise in managing all aspects of data collection and analysis efforts for various NLP tasks at scale, including onboarding and training annotators; designing annotation tasks and tools; data sampling; analyzing data for accuracy, consistency, and efficiency; error analysis; implementing improvements to ontology, task design, and annotator training; and reporting to stakeholders. Most recently, my focus has been on LLM data generation, robustness, and safety. In Fall 2023, I am teaching a [seminar on LLMs at MIT](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/). 
+I am a Linguist working at Apple. I am a member of the Natural Language data science team for Siri Understanding. I have expertise in managing all aspects of data collection and analysis efforts for various NLP tasks at scale, including onboarding and training annotators; designing annotation tasks and tools; data sampling; analyzing data for accuracy, consistency, and efficiency; error analysis; implementing improvements to ontology, task design, and annotator training; and reporting to stakeholders. Most recently, my focus has been on data generation, robustness, and safety of Large Language Models. In Fall 2023, I am teaching a [seminar on LLMs at MIT](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/). 
 
 I continue to engage in research as a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/), with a focus on LLM safety and efficient data collection. My academic research focused on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly worked on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equity in the field.
 
@@ -29,13 +29,13 @@ Please visit the [about page](/about) for more details concerning my research in
 ✨ ️***NEW***✨  Blog 
 -------------------
 
-## Gender bias ##
+### Gender bias ##
 
 * [Stereotypical Gender Effects in 2016](/blog/stereotypical-gender-effects-in-2016/): a summary of a co-authored study I conducted in 2016 exploring stereotypes associated with occupation-denoting nouns. [Full dataset here (csv)](2016-gender-norming-results.csv)
 
 * [Doctors can't get pregnant and other gender biases in ChatGPT](/blog/gender-bias-in-chatgpt/): a writeup of my [Twitter post](https://twitter.com/HadasKotek/status/1648453764117041152) that went viral, illustrating gender biases in ChatGPT.
 
-## Informational posts on the non-academic job market ##
+### Informational posts on the non-academic job market ##
 
 * [A guided self-reflection for getting started with Alt-Ac jobs](https://hkotek.com/blog/altac-guided-self-reflection/): a post with lots of questions you can ask yourself to start figuring out what jobs are right for you.
 
@@ -54,7 +54,7 @@ Please visit the [about page](/about) for more details concerning my research in
 * [Let's talk about terminology](/blog/altac-terminology/): an ongoing master list of industry terminology. 
 
 
-## Academia ##
+### Academia ##
 
 * [On the emotional toll of the academic job market](/blog/on-the-emotional-toll-of-the-academic-job-market/): a reflection on how emotionally difficult it was to be on the academic job market. 
 

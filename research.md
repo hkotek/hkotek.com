@@ -29,9 +29,19 @@ Related (non-peer-reviewed) work on this issue can be found in the [**REIL guide
 2017
 : Grant, Margaret, Hadas Kotek, Jayun Bae and Jeffrey Lamontagne. Stereotypical Gender Effects in 2016. CUNY Conference on Human Sentence Processing 30, MIT, April 2017. [Full dataset here (csv)](2016-gender-norming-results.csv)
 
+
 NLP
 ---
-This is joint work with members of the Siri and Language Technologies Data Science team. 
+This is joint work with members of the Siri and Language Technologies Data Science team and other collaborators. 
+
+2023
+: Kotek, Hadas, Rikker Dockum, and David Q. Sun. Gender bias in Large Language Models. ACM Collective Intelligence conference. 
+
+2023
+: Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/pdf/2303.10255.pdf). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
+
+2021
+: Patel, Alkesh, Joel Moniz, Roman Nguyen, Hadas Kotek, Nick Tzou, Vincent Renkens. 2021. MMIU: Dataset for Intent Understanding in Multimodal Assistant". West Coast NLP (WeCNLP). 
 
 2021
 : Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
