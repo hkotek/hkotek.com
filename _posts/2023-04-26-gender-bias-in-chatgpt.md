@@ -9,6 +9,9 @@ tags:
   - nlp, gender
 ---
 
+**Update: August 29, 2023** -- a paper based on this initial idea has been accepted for presentation at ACM Collective Intelligence: [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921).
+
+
 About a week ago (on April 18, 2023) I posted [a Twitter thread](https://twitter.com/HadasKotek/status/1648453764117041152) showing quite **explicit and robust gender bias in ChatGPT** that has since gone a bit viral and [replicated](https://twitter.com/ndyjroo/status/1649821809154613248) by [various people](https://twitter.com/Nwoyecid/status/1648953360584785922), including [Margaret Mitchell](https://twitter.com/mmitchell_ai/status/1650110045781393410) on Twitter as well as by [Ravit Dotan](https://www.linkedin.com/posts/ravit-dotan_gender-bias-in-chatgpt-activity-7056274429856624640-DgUT?utm_source=share&utm_medium=member_desktop), [Suzanne Wertheim](https://www.linkedin.com/posts/suzanne-wertheim-ph-d-1508464_chatgpt-ai-inclusivelanguage-activity-7056670275194556416-ZRkD/), and [Jan Berger](https://www.linkedin.com/feed/update/urn:li:activity:7056956619753943041/) on LinkedIn, so I figure it's worth turning it into a post with a bit more explanation around it. Here is the original tweet that got the conversation started: 
 
 <img src="https://hkotek.com/chatgpt/original-pic.jpg" width="80%" />

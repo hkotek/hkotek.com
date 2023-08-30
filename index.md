@@ -120,7 +120,7 @@ Newest work
 
 ### Peer reviewed conference papers: ###
 
-* Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. Gender bias in Large Language Models. ACM Collective Intelligence conference. 
+* Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
 
 * Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. 2023. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/pdf/2303.10255.pdf). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 

@@ -35,7 +35,7 @@ NLP
 This is joint work with members of the Siri and Language Technologies Data Science team and other collaborators. 
 
 2023
-: Kotek, Hadas, Rikker Dockum, and David Q. Sun. Gender bias in Large Language Models. ACM Collective Intelligence conference. 
+: Kotek, Hadas, Rikker Dockum, and David Q. Sun. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
 
 2023
 : Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/pdf/2303.10255.pdf). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
