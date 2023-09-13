@@ -35,6 +35,15 @@ Zepto(function($){
 
 Click on the *blurb* link to see a description of the course in-line, or on the *syllabus* link to download a PDF copy. In some cases, I additionally include a link to course materials.
 
+
+
+### Exploring Language Technologies (aka Demystifying LLMs) [Fall 2023]
+
+[Special seminar](https://canvas.mit.edu/courses/22294) (undergrad/grad), MIT. [**Blurb**](), [**Syllabus**](syllabus-llms.pdf) 
+
+This course explores the abilities and limitations of language models, focusing on state of the art tools such as ChatGPT. LLMs possess impressive language abilities, but they also occasionally fail in unpredictable ways. Our goal in this class will be to map the abilities and limitations of these models, focusing on complex reasoning and language abilities. We will attempt to discover systematicity in the models’ failures and to understand how they relate on the one hand to how the prompt is formulated and what we believe the training data and model architecture to be, and on the other hand how humans perform on the same tasks and how children acquire this knowledge. Along the way, we will learn about the development of language technologies and their capacities over time, as well as the state of the art linguistic theories that explain the phenomena of interest. We’ll ask ourselves whether LLMs appear to resemble humans in their approach to language and reasoning, and what this means for how we should understand what LLMs actually do (and how humans can and should interact with them).
+
+
 ### Illusions of Language [Spring 2017, Spring 2019]
 
 Freshman seminar, Yale University. [**Blurb**](), [**Syllabus**](syllabus-illusions.pdf) 
