@@ -38,3 +38,6 @@ Without further ado:
 Applying for non-academic jobs was much more straightforward. The only thing I needed to submit was a resume, nothing else--not even a cover letter. How refreshing! 
 
 Here's the version of [the resume that got me my first alt-ac job](https://hkotek.com/job_materials/KotekResume-AppleApp.pdf). I used the same template as my CV, but re-wrote it extensively and got lots of feedback before submitting. A resume is not just a short CV --- it's a whole different genre. [I've written about resumes in other posts before](https://hkotek.com/blog/altac-transferable_skills/). These days I use a [two-column design](https://hkotek.com/KotekResume-2col.pdf) for my resume, which I find more aesthetically pleasing.
+
+&nbsp;
+
