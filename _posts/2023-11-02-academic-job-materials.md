@@ -27,6 +27,8 @@ Without further ado:
 
 * **Teaching statements**: [2014 version](https://hkotek.com/job_materials/Kotek-teaching-statement-2014.pdf), [2018 version](https://hkotek.com/job_materials/Kotek-teaching-statement-2018.pdf)
 
+* **Diversity statements**: [2015 version](https://hkotek.com/job_materials/Kotek-diversity-statement-2015.pdf) (the earliest I can find), [2018 version](https://hkotek.com/job_materials/Kotek-diversity-statement-2018.pdf)
+
 * **CVs**: [2014 version](https://hkotek.com/job_materials/KotekCV-2014.pdf), [2018 version](https://hkotek.com/job_materials/KotekCV-2018.pdf)
 
 (I have redacted the names of the schools I applied to and of my recommenders, they are immaterial for relevant purposes.) You can find links to all of the publications mentioned in my cover letters on my [publications](https://hkotek.com/publications.html) page.
