@@ -17,7 +17,7 @@ The academic jobs cycle is in full swing so I thought I'd post a version of my j
 
 I've chosen to share two sets of materials. The first set is from my first year on the market after I graduated (my second cycle since I applied to a handful of jobs as a student the year before). I got several shortlist interviews and one TT job offer with these materials ([disastrous eventual outcome notwithstanding](https://hkotek.com/blog/on-leaving-academia/)), so they did the job of getting people interested---which is what you want from the initial submission. The second set of materials is from my last year on the market, so the sixth time overall that I tweaked and overhauled the documents. They also got me on a couple of shortlists---so still doing the trick. 
 
-I think it's interesting to compare the 2014 materials with the 2018 ones. I personally find the 2018 versions to be vastly improved over the earlier ones. I can clearly see how I matured as a scholar and writer over the years. You can also compare my CVs to get a sense of how my research program grew and changed over the years between the two sets. 
+I think it's interesting to compare the 2014 materials with the 2018 ones. I personally find the 2018 versions to be vastly improved over the earlier ones. I can clearly see how I matured as a scholar, teacher, and writer over the years. You can also compare my CVs to get a sense of how my research program grew and changed between the two sets. 
 
 Without further ado: 
 
