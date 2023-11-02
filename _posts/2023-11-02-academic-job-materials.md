@@ -33,7 +33,7 @@ Without further ado:
 
 (I have redacted the names of the schools I applied to and of my recommenders, they are immaterial for relevant purposes.) You can find links to all of the publications mentioned in my cover letters on my [publications](https://hkotek.com/publications.html) page.
 
-## Academic job materials
+## Non-academic job materials
 
 Applying for non-academic jobs was much more straightforward. The only thing I needed to submit was a resume, nothing else--not even a cover letter. How refreshing! 
 
