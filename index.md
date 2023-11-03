@@ -37,7 +37,7 @@ Please visit the [about page](/about) for more details concerning my research in
 
 ### Informational posts on the non-academic job market ##
 
-* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my job application materials, one from an early cycle and one from a late one. I also share the resume that got me my first alt-ac job. 
+* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my academic job application materials, one from my first post-PhD cycle and one from the last cycle. I also share the resume that got me my alt-ac job at the end of that last cycle. 
 
 * [A guided self-reflection for getting started with Alt-Ac jobs](https://hkotek.com/blog/altac-guided-self-reflection/): a post with lots of questions you can ask yourself to start figuring out what jobs are right for you.
 
@@ -58,7 +58,7 @@ Please visit the [about page](/about) for more details concerning my research in
 
 ### Academia ##
 
-* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my job application materials, one from an early cycle and one from a late one. I also share the resume that got me my first alt-ac job. 
+* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my academic job application materials, one from my first post-PhD cycle and one from the last cycle. I also share the resume that got me my alt-ac job at the end of that last cycle. 
 
 * [On the emotional toll of the academic job market](/blog/on-the-emotional-toll-of-the-academic-job-market/): a reflection on how emotionally difficult it was to be on the academic job market. 
 
