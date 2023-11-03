@@ -42,3 +42,5 @@ Here's the version of [the resume that got me my first alt-ac job](https://hkote
 &nbsp;
 
 [^1]: I realize that these statements are very long. That was always something I worried about. I also have a 2-page version and a 3-page "research and teaching statement" version. Nonetheless, these documents are what I submitted when there was no page limit. 
+
+&nbsp;
