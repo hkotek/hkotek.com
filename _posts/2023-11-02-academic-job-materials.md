@@ -23,7 +23,7 @@ Without further ado:
 
 * **Cover letters**: [2014 version](https://hkotek.com/job_materials/Kotek-cover-letter-2014.pdf), [2018 version](https://hkotek.com/job_materials/Kotek-cover-letter-2018.pdf)
 
-* **Research statements**: [2014 version](https://hkotek.com/job_materials/Kotek-research-statement-2014.pdf), [2018 version](https://hkotek.com/job_materials/Kotek-research-statement-2018.pdf)
+* **Research statements**:[^1] [2014 version](https://hkotek.com/job_materials/Kotek-research-statement-2014.pdf), [2018 version](https://hkotek.com/job_materials/Kotek-research-statement-2018.pdf)
 
 * **Teaching statements**: [2014 version](https://hkotek.com/job_materials/Kotek-teaching-statement-2014.pdf), [2018 version](https://hkotek.com/job_materials/Kotek-teaching-statement-2018.pdf)
 
@@ -41,3 +41,4 @@ Here's the version of [the resume that got me my first alt-ac job](https://hkote
 
 &nbsp;
 
+[^1]: I realize that these statements are very long. That was always something I worried about. I also have a 2-page version and a 3-page "research and teaching statement" version. Nonetheless, these documents are what I submitted when there was no page limit. 

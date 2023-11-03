@@ -37,6 +37,8 @@ Please visit the [about page](/about) for more details concerning my research in
 
 ### Informational posts on the non-academic job market ##
 
+* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my job application materials, one from an early cycle and one from a late one. I also share the resume that got me my first alt-ac job. 
+
 * [A guided self-reflection for getting started with Alt-Ac jobs](https://hkotek.com/blog/altac-guided-self-reflection/): a post with lots of questions you can ask yourself to start figuring out what jobs are right for you.
 
 * [Job titles and job descriptions for linguists (and other social scientists)](/blog/altac-jobs-for-social-scientists/): a compilation of (a) job titles, (b) informal job descriptions, (c) sample job ads, and (d) interviews with job holders for a diverse set of non-technical roles for linguists. This post is over 5k words long and divided into 10 categories, since there's a lot to cover.  
@@ -55,6 +57,8 @@ Please visit the [about page](/about) for more details concerning my research in
 
 
 ### Academia ##
+
+* [Job application materials](/blog/job-application-materials/): in this post I share two versions of my job application materials, one from an early cycle and one from a late one. I also share the resume that got me my first alt-ac job. 
 
 * [On the emotional toll of the academic job market](/blog/on-the-emotional-toll-of-the-academic-job-market/): a reflection on how emotionally difficult it was to be on the academic job market. 
 
@@ -89,35 +93,6 @@ Science and other outreach
 Newest work
 -----------
 
-### Recent presentations: ###
-
-* Meet the Authors: [Gender Bias & Stereotypes in Linguistics Research and Teaching](https://www.linguisticsociety.org/news/2022/01/11/january-webinar-meet-authors-gender-bias-stereotypes-linguistics-research-and). LSA Webinar, January 2022.
-
-* Panelist: [Challenges and Opportunities for Mentoring in Linguistics](https://www.youtube.com/watch?v=ojgXCEkbyFs). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
-
-* Robert Frank and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](frank_kotek-top_down.pdf). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
-
-* Itamar Kastner, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin M. Green, Todd Snider. [The Open Letter: Responses and Recommendations](https://www.linguisticsociety.org/abstract/open-letter-responses-and-recommendations). 2022 Linguistic Society of America Annual Meeting (virtual), January 2022.
-
-
-### Books: ###
-
-* Kotek, Hadas. 2019. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistics Inquiry Monograph series. Cambridge, MA: MIT Press.
-
-* Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
-
-
-### Journal papers: ###
-
-* Paola Cepeda, Hadas Kotek, Katharina Pabst, and Kristen Syrett. 2021. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
-
-* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. 2021. [**Gender bias and stereotypes in linguistic example sentences**](https://muse.jhu.edu/article/840952). *Language* 97(4): 653--677.
-
-* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
-
-* Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
-
-
 ### Peer reviewed conference papers: ###
 
 * Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
@@ -131,6 +106,24 @@ Newest work
 * Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). 
     - West Coast NLP (WeCNLP), October 2020.
     - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2021.
+
+
+### Journal papers: ###
+
+* Paola Cepeda, Hadas Kotek, Katharina Pabst, and Kristen Syrett. 2021. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
+
+* Kotek, Hadas, Rikker Dockum, Sarah Babinski, and Christopher Geissler. 2021. [**Gender bias and stereotypes in linguistic example sentences**](https://muse.jhu.edu/article/840952). *Language* 97(4): 653--677.
+
+* Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. 2021. [**Gender stereotypes and inclusion in language teaching**](https://babylonia.online/index.php/babylonia/article/view/46). *Babylonia* 1: 66--70.
+
+* Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**. Manuscript.
+
+### Books: ###
+
+* Kotek, Hadas. 2019. [**Composing Questions**](https://mitpress.mit.edu/books/composing-questions). Linguistics Inquiry Monograph series. Cambridge, MA: MIT Press.
+
+* Halpert, Claire, Hadas Kotek, and Coppe van Urk (eds.). 2017. [**A Pesky Set: Papers for David Pesetsky**](https://lingconf.com/dp60/book/). MIT Working Paper in Linguistics 80. Cambridge, MA: MITWPL.
+
 
 
 Recorded talks
