@@ -9,6 +9,8 @@ tags:
   - gender, bias
 ---
 
+**this isn't ready yet, just a stub so I can check image rendering**
+
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language or linguistics. So far the answer seems to be 'not too much', though I've been hoping to find effects that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on.  
 
 We recently explored multi-modal text-to-image models in class, specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^1] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
@@ -17,29 +19,33 @@ We recently explored multi-modal text-to-image models in class, specifically [DA
  
 I was thinking it'd be interesting to think about how the models would deal with things like lexical ambiguity, structural ambiguity, vagueness, gibberish. The short version: it seems to me that the model isn't doing much beyond picking out the nouns and using their most common interpretation. 
 
-For example, here is a side-by-side of "red apples and oranges" and "red oranges and apples": 
+For example, here is a side-by-side of "red apples and oranges" vs "red oranges and apples": 
 
 <img src="https://hkotek.com/text-to-image/red-apples-oranges.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-oranges-apples.png" width="35%" />
 
-And here's "red apples and peppers" and "red peppers and apples": 
+And here's "red apples and peppers" vs "red peppers and apples": 
 
 <img src="https://hkotek.com/text-to-image/red-apples-peppers.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-peppers-apples.png" width="35%" />
 
 I bet you wouldn't be able to guess which one is which if didn't tell you. 
 
-These are simple examples of syntactic "bracketing" ambiguities: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone: 
+These are simple examples of syntactic "bracketing" ambiguities: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone. For example:  
 - red [oranges and apples]  //  red [apples and oranges]
 - [red oranges] and apples // [red apples] and oranges
 
 In the case of "red oranges and apples", on either bracketing, the oranges have got to be red, no way around it. For "red apples and oranges", there is a more sensible parse (only the apples are red) and a less sensible one (both fruit are red), so you'd expect to see the more sensible one given the likely training data. Nonetheless, we don't really see a difference. That led me to try "apples and peppers", since both can be red (or green), so I wondered if there'd be a difference there, but not really. 
 
 
- 
+## Bias and stereotypes in Large Language Models
 
 I've written before about [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921), and I have some other related work on intersectional bias and on sensitive questions.   
 
+
+## Concluding thoughts 
+
+This is just me prepping for class, not careful controlled full study. I took the first image generated unless it didn't contain a person at all, which happened a couple of times, with 'florist' and 'executive'. Also for 'interior decorator', but I simply couldn't get the model to produce an image with a person even when I tried 'interior decorator person'. 
 
 &nbsp;
 
