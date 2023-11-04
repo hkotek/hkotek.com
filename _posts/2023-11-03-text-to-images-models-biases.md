@@ -1,8 +1,8 @@
 ---
-title: TEMP
+title: Placeholder title
 layout: default
 comments: true
-permalink: /blog/text-to-image-biases/
+permalink: /blog/temp/
 categories:
   - gender, bias
 tags:
