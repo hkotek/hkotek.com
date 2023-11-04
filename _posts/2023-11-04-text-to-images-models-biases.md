@@ -18,12 +18,16 @@ We recently explored multi-modal text-to-image models in class, specifically [DA
 I was thinking it'd be interesting to think about how the models would deal with things like lexical ambiguity, structural ambiguity, vagueness, gibberish. The short version: it seems to me that the model isn't doing much beyond picking out the nouns and using their most common interpretation. 
 
 For example, here is a side-by-side of "red apples and oranges" and "red oranges and apples": 
-<img src="https://hkotek.com/text-to-image/red-apples-oranges.png" width="35%" />
+
+<img src="https://hkotek.com/text-to-image/red-apples-oranges.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-oranges-apples.png" width="35%" />
 
-And here's "red apples and peppers" and "red peppers and apples"
-<img src="https://hkotek.com/text-to-image/red-apples-peppers.png" width="35%" />
+And here's "red apples and peppers" and "red peppers and apples": 
+
+<img src="https://hkotek.com/text-to-image/red-apples-peppers.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-peppers-apples.png" width="35%" />
+
+I bet you wouldn't be able to guess which one is which if didn't tell you. 
 
 These are simple examples of syntactic "bracketing" ambiguities: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone: 
 - red [oranges and apples]  //  red [apples and oranges]
