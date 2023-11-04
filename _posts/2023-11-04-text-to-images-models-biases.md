@@ -2,7 +2,7 @@
 title: Placeholder title
 layout: default
 comments: true
-permalink: /blog/temp/
+permalink: 
 categories:
   - gender, bias
 tags:
@@ -10,6 +10,7 @@ tags:
 ---
 
 **this isn't ready yet, just a stub so I can check image rendering**
+/blog/temp/
 
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language or linguistics. So far the answer seems to be 'not too much', though I've been hoping to find effects that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on.  
 
@@ -32,8 +33,8 @@ And here's "red apples and peppers" vs "red peppers and apples":
 I bet you wouldn't be able to guess which one is which if didn't tell you. 
 
 These are simple examples of syntactic "bracketing" ambiguities: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone. For example:  
-- red [oranges and apples]  //  red [apples and oranges]
-- [red oranges] and apples // [red apples] and oranges
+- red [oranges and apples]  &ensp;\|\|&ensp; red [apples and oranges]
+- [red oranges] and apples &ensp;\|\|&ensp; [red apples] and oranges
 
 In the case of "red oranges and apples", on either bracketing, the oranges have got to be red, no way around it. For "red apples and oranges", there is a more sensible parse (only the apples are red) and a less sensible one (both fruit are red), so you'd expect to see the more sensible one given the likely training data. Nonetheless, we don't really see a difference. That led me to try "apples and peppers", since both can be red (or green), so I wondered if there'd be a difference there, but not really. 
 
