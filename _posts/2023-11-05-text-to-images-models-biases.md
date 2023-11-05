@@ -1,5 +1,5 @@
 ---
-title: Text-to-image models\: all the bias, none of the depth (part 1)
+title: Text-to-image models --- all the bias, none of the depth (part 1)
 layout: default
 comments: true
 permalink: /blog/text-to-image-models-shallow-parsing/
