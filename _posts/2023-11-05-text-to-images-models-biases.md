@@ -80,14 +80,14 @@ I also tried two complete gibberish phrases -- random keyboard smashes lead to p
 
 Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are famous in that readers are initially tempted to assign one parse to the sentence, but at some point they realize this parse can't be right, and they are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a clear sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
 
-First, here is a classic garden path sentence: ***the horse raced past the barn fell***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: "raced past the barn" is a relative clause modifying "horse", so that the phrase "the horse raced past the barn" is the (complex) subject, and "fell" is the verb phrase. 
+First, here is a classic garden path sentence: ***"the horse raced past the barn fell""***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: "raced past the barn" is a relative clause modifying "horse", so that the phrase "the horse raced past the barn" is the (complex) subject, and "fell" is the verb phrase. 
 
 The model, it seems, isn't really concerned with all this minutia. It gives us a galloping horse with a barn in the background, but doesn't illustrate the crucial "falling" part of the sentence. 
 
 <img src="https://hkotek.com/text-to-image/horse1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/horse2.png" width="35%" />
 
-Here is another famous garden path sentence: ***the old man the boats***. In this sentence, although we are initially tempted to parse "the old man" as the subject of the sentence, in fact "man" is the verb and its subject is "the old". The model just gives us an an old man and some boats, parsing both as nouns and not minding the syntax at all. 
+Here is another famous garden path sentence: ***"the old man the boats""***. In this sentence, although we are initially tempted to parse "the old man" as the subject of the sentence, in fact "man" is the verb and its subject is "the old". The model just gives us an an old man and some boats, parsing both as nouns and not minding the syntax at all. 
 
 <img src="https://hkotek.com/text-to-image/boats.png" width="35%" />
 
@@ -95,7 +95,7 @@ Here is another famous garden path sentence: ***the old man the boats***. In thi
 
 I tried two other garden path sentences, which will begin to illustrate just how shallow the model's parsing abilities are. Discussing bias will be the focus of part 2 of this post, so here I'll just show a few examples and not comment on them too extensively. 
 
-First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. Predictably, the kids are doing school-related things. If I replace "teacher" with "doctor", suddenly the kids are little doctors, too. 
+First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. Predictably, the kids are doing school-related things, and the teacher is female. If I replace "teacher" with "doctor", suddenly the kids are little doctors, too, and the doctor is male. 
 
 <img src="https://hkotek.com/text-to-image/noisy-teacher.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="35%" />
@@ -104,32 +104,42 @@ More along these lines, and much more egregiously, is the following series of im
 
 <img src="https://hkotek.com/text-to-image/bandaid-mary.png" width="35%" />
 
-So clearly, the name I used as the subject was the single most important thing the model picked out --- unsurprising if it's doing extremely shallow parsing. I'd expect the training data to contain lots of images of the virgin Mary. That led me to try several more variants. Here are "Sam" and "Samantha": 
+So clearly, the name I used as the subject was the single most important thing the model picked out --- unsurprising if it's doing extremely shallow parsing. I'd expect the training data to contain lots of images of the virgin Mary. There's also a child and a dog here (even though technically the dog is not necessary--the biting happens before the giving of the bandaid), but there is no bandaid that I can see. 
+
+That led me to try several more variants. Here are ***Sam*** and ***Samantha***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-sam.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-samantha.png" width="35%" />
 
-DeShaun and Ebony: 
+***DeShaun*** and ***Ebony***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-deshaun.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-ebony.png" width="35%" />
 
-Ahmad and Salma: 
+***Ahmad*** and ***Salma***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-ahmad.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-salma.png" width="35%" />
 
-Taro and Hanako: 
+***Taro*** and ***Hanako***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-taro.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-hanako.png" width="35%" />
 
-and finally, inexplicably, Fatima: 
-<img src="https://hkotek.com/text-to-image/bandaid-fatima.png" width="35%" />
+***Moshe*** and ***Hadassah***: 
+
+<img src="https://hkotek.com/text-to-image/bandaid-moshe.png" width="35%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/bandaid-hadassah.png" width="35%" />
+
+... and finally --- ***Hadas*** (how rude!): 
+
+<img src="https://hkotek.com/text-to-image/bandaid-hadas.png" width="35%" />
 
 
 There's a lot to unpack here, but for now I'll just point out that we get stereotypical rendering of individuals associated with the names, and we also get stereotypical image styles, even though all the images were generated with the "None" style selected. More on these and related issues in part 2 of this post. 
 
+
+## Summary
 
 &nbsp;
 
