@@ -1,5 +1,5 @@
 ---
-title: Text-to-image models --- all the bias, none of the depth (part 1)
+title: Text-to-image models are shallow in more ways than one (part 1)
 layout: default
 comments: true
 permalink: /blog/text-to-image-models-shallow-parsing/
@@ -11,7 +11,7 @@ tags:
 
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language or linguistics. So far the answer seems to be 'not too much', though I've been hoping to find effects that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on.  
 
-We recently explored multi-modal text-to-image models in class, specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^1] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
+We recently explored multi-modal text-to-image models in class,[^1] specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^2] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
 
 This will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see they also come up here. Meanwhile, buckle up, we're going to talk about some Ling 101 stuff. 
 
@@ -116,15 +116,15 @@ That led me to try several more variants. Here are ***Sam*** and ***Samantha***:
 <img src="https://hkotek.com/text-to-image/bandaid-deshaun.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-ebony.png" width="35%" />
 
-***Ahmad*** and ***Salma***: 
-
-<img src="https://hkotek.com/text-to-image/bandaid-ahmad.png" width="35%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/bandaid-salma.png" width="35%" />
-
 ***Taro*** and ***Hanako***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-taro.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-hanako.png" width="35%" />
+
+***Ahmad*** and ***Salma***: 
+
+<img src="https://hkotek.com/text-to-image/bandaid-ahmad.png" width="35%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/bandaid-salma.png" width="35%" />
 
 ***Moshe*** and ***Hadassah***: 
 
@@ -136,11 +136,18 @@ That led me to try several more variants. Here are ***Sam*** and ***Samantha***:
 <img src="https://hkotek.com/text-to-image/bandaid-hadas.png" width="35%" />
 
 
-There's a lot to unpack here, but for now I'll just point out that we get stereotypical rendering of individuals associated with the names, and we also get stereotypical image styles, even though all the images were generated with the "None" style selected. More on these and related issues in part 2 of this post. 
+There's a lot to unpack here: 
+- stereotypical rendering of individuals associated with the names by race, ethnicity, and gender, 
+- stereotypical image styles, even though all the images were generated with the "None" style selected,
+- non-random distribution of the ages of the human protagonist
+- we always get a single human protagonist, along with a dog, and occasionally the human gives the dog a bandaid. That is obviously not the correct parse of the sentence.
+More on these and related issues in part 2 of this post. 
 
 
 ## Summary
 
+
 &nbsp;
 
-[^1]: Most the images included in this post were generated on October 30-31, 2023 on the free web version of Stable Diffusion XL. I tried some of the same prompts with Dall-E but ran out of free tokens. The observations I make here seemed to apply to Dall-E too, but I had much less data to work with so there may be other things I missed because of the limited prompts I could try. 
+[^1]: The images included in this post were generated between October 30 and November 5, 2023. 
+[^2]: Most of the images here come from Stable Diffusion XL, since there is no limit on the number of images it will let one generate. I tried some of the same prompts with Dall-E but soon ran out of free tokens. The observations I make here seem to apply to both models equally, but caveats apply. 
