@@ -48,9 +48,9 @@ In fact, even just asking for something as simple as ***"blue oranges"*** alread
 
 ### Bracketing ambiguities (part 2)
 
-The next batch of prompts consisted of attachment ambiguities at the phrasal level. At this point, I no longer suspect that the model will have training data that would directly bear on the desired image, at least not directly. 
+The next batch of prompts consists of attachment ambiguities at the phrasal level. At this point, I no longer expect that the model will have training data that could directly bear on the desired image, at least not directly, so we might be able to more directly learn about its language processing abilities.
 
-I used one of the most commonly examples from intro to linguistics books and courses: ***"the woman saw the man with the binoculars"***. As with the example above, there are two parses here that arise from two different possible attachment sites for the phrase "with the binoculars": 
+I tried one of the most commonly examples from intro to linguistics books and courses: ***"the woman saw the man with the binoculars"***. As with the example above, there are two parses here that arise from two different possible attachment sites for the phrase "with the binoculars": 
 1. The woman [saw \[the man\] \[with the binoculars\]]
 2. The woman [saw [the man with the binoculars]]
 
@@ -59,13 +59,14 @@ On reading (1), *"with the binoculars"* modifies the verb *"saw"*, leading to th
 <img src="https://hkotek.com/text-to-image/woman-saw-man-with-binoculars1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/woman-saw-man-with-binoculars2.png" width="35%" />
 
-In both images, the woman is holding the binoculars, which might lead you to think it's assigned the sentence structure (1). One of the images also has a man, though he's behind the woman so it's not clear how the woman would see him, binoculars or not. The other image features a woman with two right hands and no man. 
+In both images, the woman is holding the binoculars, which might lead you to think it's assigned the sentence structure (1). One of the images also has a man, though he's behind the woman so it's not clear how the woman would see him, binoculars or not. The other image features a woman with two right hands and no man, so you should be rightly suspicious of how much real parsing has happened here at all. 
 
-Just for fun I also tried ***"the man saw the woman with the binoculars"***, and here's what I got. Now we get a three-handed woman holding binoculars and no man, so I think we can reasonably conclude that there's really no deep parsing going on, and for some reason in these sentences the women always get to hold the binoculars. 
+Just for fun I also tried ***"the man saw the woman with the binoculars"***, and here's what I got:
 
 <img src="https://hkotek.com/text-to-image/man-saw-woman-with-binoculars.png" width="35%" />
 
-
+Now we get a three-handed woman holding binoculars and no man, so I think we can reasonably conclude that there's really no deep parsing going on, and for some reason in these sentences the women always get to hold the binoculars. We never get two protagonists -- a man and a woman -- together in a setting such that the subject can see the object (with or without binoculars). 
+ 
 ### Nonsensical sentences 
 
 I'd be remiss if I didn't try out Chomsky's famous ***"colorless green ideas sleep furiously"*** --- an example originally presented in order to demonstrate that the role of syntax is separate from that of semantics: we are able to assign a structure to this sentence and we know that it is well-formed, just as we also know that it is meaningless because of the particular lexical items that have been combined here. The model has no trouble producing an image -- but it only grabs onto the most basic concepts: *"green"* and *"sleep"*. 
@@ -80,16 +81,16 @@ I also tried two complete gibberish phrases -- random keyboard smashes lead to p
 
 ### Garden path sentences
 
-Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are famous in that readers are initially tempted to assign one parse to the sentence, but at some point they realize this parse can't be right, and they are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a clear sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
+Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are famous in that readers are initially tempted to assign one parse to the sentence, but at some point they realize that this parse can't be right, and they are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a strong sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
 
 First, here is a classic garden path sentence: ***"the horse raced past the barn fell""***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: "raced past the barn" is a relative clause modifying "horse", so that the phrase "the horse raced past the barn" is the (complex) subject, and "fell" is the verb phrase. 
 
-The model, it seems, isn't really concerned with all this minutia. It gives us a galloping horse with a barn in the background, but doesn't illustrate the crucial "falling" part of the sentence. 
+The model, it seems, isn't really concerned with all this minutiae. It gives us a galloping horse with a barn in the background, and simply doesn't illustrate the crucial "falling" part of the sentence. 
 
 <img src="https://hkotek.com/text-to-image/horse1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/horse2.png" width="35%" />
 
-Here is another famous garden path sentence: ***"the old man the boats""***. In this sentence, although we are initially tempted to parse "the old man" as the subject of the sentence, in fact "man" is the verb and its subject is "the old". The model just gives us an an old man and some boats, parsing both as nouns and not minding the syntax at all. 
+Here is another famous garden path sentence: ***"the old man the boats""***. In this sentence, although we are initially tempted to parse "the old man" as the subject of the sentence, in fact *"man"* is the verb and its subject is *"the old"*. The model just gives us an an old man and some boats, parsing both as nouns and not minding the syntax at all. 
 
 <img src="https://hkotek.com/text-to-image/boats.png" width="35%" />
 
@@ -97,7 +98,7 @@ Here is another famous garden path sentence: ***"the old man the boats""***. In 
 
 I tried two other garden path sentences, which will begin to illustrate just how shallow the model's parsing abilities are. Discussing bias will be the focus of part 2 of this post, so here I'll just show a few examples and not comment on them too extensively. 
 
-First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. Predictably, the kids are doing school-related things, and the teacher is female. If I replace "teacher" with "doctor", suddenly the kids are little doctors, too, and the doctor is male. 
+First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. *"Noisy"* is illustrated by *everyone*, not just the kids, doing an odd imitation of silent-yelling. Predictably, the kids are doing school-related things. If I replace "teacher" with "doctor", suddenly the kids are little doctors. Notice also that the teacher is a younger woman and the doctor is an older man. 
 
 <img src="https://hkotek.com/text-to-image/noisy-teacher.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="35%" />
@@ -139,14 +140,17 @@ That led me to try several more variants. Here are ***Sam*** and ***Samantha***:
 
 
 There's a lot to unpack here: 
-- stereotypical rendering of individuals associated with the names by race, ethnicity, and gender, 
-- stereotypical image styles, even though all the images were generated with the "None" style selected,
-- non-random distribution of the ages of the human protagonist
+- stereotypical rendering of individuals associated with the names by race, ethnicity, and gender.
+- stereotypical image styles, even though all the images were generated with the "None" style selected.
+- non-random distribution of the ages of the human protagonist.
 - we always get a single human protagonist, along with a dog, and occasionally the human gives the dog a bandaid. That is obviously not the correct parse of the sentence.
+- I can't decide if there is anything interesting to say about whether the single human protagonist is a child or an adult. 
 More on these and related issues in part 2 of this post. 
 
 
 ## Summary
+
+In short, text-to-image models are predictably shallow and unimaginative. They are more inflexible and banal than one might be led to assume given how frequently they are described as useful for being creative etc. in the popular press. In fact, they seem to regurgitate the training data is blunt and uncreative ways and can't overcome it even for the simplest prompts ('blue apples'). There is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up!
 
 
 &nbsp;
