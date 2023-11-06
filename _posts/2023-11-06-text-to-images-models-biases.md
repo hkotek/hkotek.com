@@ -9,8 +9,6 @@ tags:
   - gender, bias
 ---
 
-**[DRAFT!!]**
-
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language and linguistics. So far the answer seems to be 'not too much', though I will hold onto my hope that there are interesting  effects out there that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to ethics: hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on, which I think is still very interesting to linguists, but for different reasons.  
 
 We recently explored multi-modal text-to-image models in class,[^1] specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^2] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
@@ -153,7 +151,7 @@ There's a lot to unpack here:
 More on these and related issues in part 2 of this post. 
 
 
-## Summary
+## Wrapping up part 1
 
 Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
 
