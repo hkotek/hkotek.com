@@ -52,7 +52,7 @@ In fact, even just asking for something as simple as ***"blue oranges"*** alread
 
 The next batch of prompts consists of attachment ambiguities at the phrasal level. At this point, I no longer expect that the model will have training data that could directly bear on the desired image, at least not directly, so we might be able to more directly learn about its language processing abilities. *Spoiler: there's little evidence that any real syntactic parsing is taking place!*
 
-I tried one of the most commonly used examples in intro to linguistics textbooks and courses: ***"the woman saw the man with the binoculars"***. As with the examples above, there are two parses here that arise from two different possible attachment sites for the phrase "with the binoculars": 
+I tried one of the most commonly used examples in intro to linguistics textbooks and courses: ***"the woman saw the man with the binoculars"***. As with the examples above, there are two parses here that arise from two different possible attachment sites for the phrase *"with the binoculars"*: 
 1. The woman [saw \[the man\] \[with the binoculars\]]
 2. The woman [saw [the man with the binoculars]]
 
@@ -100,7 +100,7 @@ Here is another famous garden path sentence: ***"the old man the boats""***. In 
 
 I tried two other garden path sentences, which will begin to illustrate just how shallow the model's parsing abilities are. Discussing bias will be the focus of part 2 of this post, so here I'll just show a few examples and not comment on them too extensively. 
 
-First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. *"Noisy"* is illustrated by *everyone*, not just the kids, doing an odd imitation of silent-yelling. Predictably, the kids are doing school-related things. If I replace "teacher" with "doctor", suddenly the kids are little doctors. Notice also that the teacher is a younger white woman and the doctor is an older white man. 
+First, here is ***"The teacher told her children are noisy"***. Similarly to the example above, here we're initially tempted to parse *"her children"* as the first object of *"told"*, but we are quickly forced to reanalyze the sentence so that *"her"* is the first object of *"told"* and *"children are noisy"* is the second object of the verb. The model only seems to pick up *"teacher"*, *"children"*, and *"noisy"*. *"Noisy"* is illustrated by *everyone*, not just the kids, doing an odd imitation of silent-yelling. Predictably, the kids are doing school-related things. If I replace ***"teacher"*** with ***"doctor"***, suddenly the kids are little doctors. Notice also that the teacher is a younger white woman and the doctor is an older white man. 
 
 <img src="https://hkotek.com/text-to-image/noisy-teacher.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="35%" />
@@ -111,7 +111,7 @@ More along these lines, and much more egregiously, is the following series of im
 
 So clearly, the name I used as the subject was the single most important thing the model picked out --- unsurprising if it's doing extremely shallow parsing. I'd expect the training data to contain lots of images of the virgin Mary. There's also a child and a dog here (even though technically the dog is not necessary--the biting happens before the giving of the bandaid), but there is no bandaid that I can see. 
 
-That led me to try several more variants (all of the examples below have the shape *"[NAME] gave the child the dog bit a bandaid"*). Here are: 
+That led me to try several more variants (all of the examples below have the shape ***"[NAME] gave the child the dog bit a bandaid"***). Here are: 
 
 ***Sam*** and ***Samantha***: 
 
@@ -149,16 +149,17 @@ There's a lot to unpack here:
 - non-random distribution of the ages of the human protagonist.
 - we always get a single human protagonist, along with a dog, and occasionally the human gives the dog a bandaid. That is obviously not the correct parse of the sentence.
 - I can't decide if there is anything interesting to say about whether the single human protagonist is a child or an adult. 
+
 More on these and related issues in part 2 of this post. 
 
 
 ## Summary
 
-Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply nave-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
+Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
 
 
 &nbsp;
 
 [^1]: The images included in this post were generated between October 30 and November 5, 2023. 
 [^2]: Most of the images here come from Stable Diffusion XL, since there is no limit on the number of images it will let one generate. I tried some of the same prompts with Dall-E but soon ran out of free tokens. The observations I make here seem to apply to both models equally, but caveats apply. 
-[^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking --- I generated far too images and it took far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 
+[^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking --- I generated far too many images and it took far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 
