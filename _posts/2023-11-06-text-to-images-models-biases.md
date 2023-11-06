@@ -69,7 +69,7 @@ Now we get a three-handed woman holding binoculars and no man, so I think we can
  
 ### Lexical ambiguity 
 
-One common word linguists like to use to illustrate lexical ambiguities is "bank", which can be used to mean either the side of a river or a financial institution. I tried ***Jane went to the bank*** and the model was like "haha! I shall not even try": 
+One common word linguists like to use to illustrate lexical ambiguities is *"bank"*, which can be used to mean either *the edge of a river or lake* or a *financial institution*. I tried ***Jane went to the bank*** and the model was like "Haha! I shall not even try": 
 
 <img src="https://hkotek.com/text-to-image/bank.png" width="35%" />
  
@@ -88,7 +88,7 @@ I also tried two complete gibberish phrases -- random keyboard smashes lead to p
 
 ### Non-English
 
-There is no particular reason to think the models are trained on (significant amounts of) non-English data. Here are the results for the Hebrew phrases: "black cat", "kosher sausage", "love", and "snowman", respectively. 
+There is no particular reason to think the models are trained on (significant amounts of) non-English data. Here are the results for the Hebrew phrases: ***"black cat"***, ***"kosher sausage"***, ***"love"***, and ***"snowman"***, respectively, which strongly suggest that our suspicion is correct. 
 
 <img src="https://hkotek.com/text-to-image/hebrew-cat.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/hebrew-sausage.png" width="35%" />
@@ -96,12 +96,12 @@ There is no particular reason to think the models are trained on (significant am
 <img src="https://hkotek.com/text-to-image/hebrew-love.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/hebrew-snowman.png" width="35%" />
 
-And here, on a different day and model seeding, is "pepper": 
+And here, on a different day and model seeding, is ***"pepper"***: 
 
 <img src="https://hkotek.com/text-to-image/hebrew-pepper.png" width="35%" />
 
 
-In class, students tried some examples in Thai, Mandarin Chinese, and French. The model did reasonably well on French (I guess there's more training data for it), but was seemingly random for the other languages we tried. This is perhaps not surprising, but there you have it. 
+(Just to state the obvious, there is no interpretation of *"pepper"* in Hebrew that means 'pretty woman'.) In class, students tried some examples in Thai, Mandarin Chinese, and French. The model did reasonably well on French (I guess there's more training data for it), but was seemingly random otherwise. This is perhaps not a surprising finding, but there you have it. 
 
 
 ### Garden path sentences
