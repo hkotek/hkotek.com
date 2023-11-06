@@ -9,6 +9,8 @@ tags:
   - gender, bias
 ---
 
+**[DRAFT!!]**
+
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language and linguistics. So far the answer seems to be 'not too much', though I will hold onto my hope that there are interesting  effects out there that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to ethics: hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on, which I think is still very interesting to linguists, but for different reasons.  
 
 We recently explored multi-modal text-to-image models in class,[^1] specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^2] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
@@ -159,4 +161,4 @@ In short, text-to-image models are predictably shallow and unimaginative. They a
 
 [^1]: The images included in this post were generated between October 30 and November 5, 2023. 
 [^2]: Most of the images here come from Stable Diffusion XL, since there is no limit on the number of images it will let one generate. I tried some of the same prompts with Dall-E but soon ran out of free tokens. The observations I make here seem to apply to both models equally, but caveats apply. 
-[^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking -- I generated far too images and it too far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 
+[^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking --- I generated far too images and it took far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 
