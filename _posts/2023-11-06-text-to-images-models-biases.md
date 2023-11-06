@@ -109,7 +109,7 @@ More along these lines, and much more egregiously, is the following series of im
 
 So clearly, the name I used as the subject was the single most important thing the model picked out --- unsurprising if it's doing extremely shallow parsing. I'd expect the training data to contain lots of images of the virgin Mary. There's also a child and a dog here (even though technically the dog is not necessary--the biting happens before the giving of the bandaid), but there is no bandaid that I can see. 
 
-That led me to try several more variants. Here are ***Sam*** and ***Samantha***: 
+That led me to try several more variants (all of the examples below have the shape *"[NAME] gave the child the dog bit a bandaid"*). Here are ***Sam*** and ***Samantha***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-sam.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-samantha.png" width="35%" />
