@@ -9,16 +9,16 @@ tags:
   - gender, bias
 ---
 
-For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language or linguistics. So far the answer seems to be 'not too much', though I've been hoping to find effects that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on.  
+For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language and linguistics. So far the answer seems to be 'not too much', though I will hold onto my hope that there are interesting  effects out there that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to ethics: hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on, which I think is still very interesting to linguists, but for different reasons.  
 
 We recently explored multi-modal text-to-image models in class,[^1] specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^2] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
 
-This will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see they also come up here. Meanwhile, buckle up, we're going to talk about some Ling 101 stuff. 
+This post will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see that they come up here, too. Meanwhile, buckle up, we're going to talk about some Ling 101 stuff. 
 
 
 ## Language understanding in text-to-image models
  
-I was thinking it'd be interesting to think about how the models would deal with things like lexical ambiguity, structural ambiguity, vagueness, gibberish. The short version: it seems to me that the model isn't doing much beyond picking out the nouns and using their most common interpretation. I didn't see any suggestion of actual syntactic parsing at any level. 
+I was thinking it'd be interesting to think about how the models would deal with things like lexical ambiguity, structural ambiguity, vagueness, gibberish. The short version: it seems to me that the model isn't doing much beyond picking out the nouns and using their most common (stereotypical) interpretation. I didn't see any suggestion of actual syntactic parsing at any level. 
 
 ### Attachment ambiguities (part 1)
 
@@ -27,18 +27,20 @@ Let's start with some very simple ambiguous noun phrases. First here's, a side-b
 <img src="https://hkotek.com/text-to-image/red-apples-oranges.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-oranges-apples.png" width="35%" />
 
-And here's ***"red apples and peppers"*** vs ***"red peppers and apples"***: 
+I bet you wouldn't be able to guess which one is which if didn't tell you. 
+
+These are simple examples of *syntactic "bracketing" ambiguities*: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone. For example:  
+1. red [oranges and apples]
+2. [red oranges] and apples
+
+In the case of *"red oranges and apples"*, on either bracketing, the oranges have got to be red, no way around it. For *"red apples and oranges"*, there is a more sensible parse (only the apples are red) and a less sensible one (both the apples and the oranges are red), and you'd expect to see the models generate the more sensible reading given the likely training data. Nonetheless, we don't really see a difference. 
+
+That led me to try ***"red apples and peppers"*** vs ***"red peppers and apples"***, since both can be red (or green), so I wondered if there'd be a difference there, but not really. 
 
 <img src="https://hkotek.com/text-to-image/red-apples-peppers.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-peppers-apples.png" width="35%" />
 
-I bet you wouldn't be able to guess which one is which if didn't tell you. 
-
-These are simple examples of *syntactic "bracketing" ambiguities*: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone. For example:  
-1. red [oranges and apples]  &ensp;\|\|&ensp; red [apples and oranges]
-2. [red oranges] and apples &ensp;\|\|&ensp; [red apples] and oranges
-
-In the case of *"red oranges and apples"*, on either bracketing, the oranges have got to be red, no way around it. For *"red apples and oranges"*, there is a more sensible parse (only the apples are red) and a less sensible one (both the apples and the oranges are red), so you'd expect to see the more sensible one given the likely training data. Nonetheless, we don't really see a difference. That led me to try *"apples and peppers"*, since both can be red (or green), so I wondered if there'd be a difference there, but not really. In fact, even just asking for something as simple as ***"blue oranges"*** already demonstrates that the model can't overcome the biases in its training data: 
+In fact, even just asking for something as simple as ***"blue oranges"*** already demonstrates that the model can't overcome the biases in its training data: 
 
 <img src="https://hkotek.com/text-to-image/blueOranges1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/blueOranges2.png" width="35%" />
