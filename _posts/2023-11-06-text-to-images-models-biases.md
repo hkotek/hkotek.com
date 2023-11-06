@@ -73,6 +73,8 @@ One common word linguists like to use to illustrate lexical ambiguities is *"ban
 
 <img src="https://hkotek.com/text-to-image/bank.png" width="35%" />
  
+Anyway, if we *were* to successfully get the model to do something interesting, I imagine the most we'd be able to do is learn what is the most common sense of an ambiguous word in the training corpus. I didn't spend any more time exploring this direction. 
+ 
  
 ### Nonsensical sentences 
 
@@ -101,7 +103,9 @@ And here, on a different day and model seeding, is ***"pepper"***:
 <img src="https://hkotek.com/text-to-image/hebrew-pepper.png" width="35%" />
 
 
-(Just to state the obvious, there is no interpretation of *"pepper"* in Hebrew that means 'pretty woman'.) In class, students tried some examples in Thai, Mandarin Chinese, and French. The model did reasonably well on French (I guess there's more training data for it), but was seemingly random otherwise. This is perhaps not a surprising finding, but there you have it. 
+(Just to state the obvious, there is no interpretation of *"pepper"* in Hebrew that means 'pretty woman'.) 
+
+In class, students tried some examples in Thai, Mandarin Chinese, and French. The model did reasonably well on French (I guess there's more training data for it), but was seemingly random otherwise. This is perhaps not a surprising finding, but there you have it. 
 
 
 ### Garden path sentences
