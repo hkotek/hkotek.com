@@ -13,7 +13,7 @@ For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special
 
 We recently explored multi-modal text-to-image models in class,[^1] specifically [DALL·E 2](https://openai.com/dall-e-2) and [Stable Diffusion XL](https://stablediffusionweb.com/).[^2] I was initially interested in whether there would be anything interesting to learn about how these models process language (spoiler: not much, but I'll say more below). It quickly became clear that it's much more interesting to think about ethics considerations with respect to these models. 
 
-This post will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see that they come up here, too. Meanwhile, buckle up, we're going to talk about some Ling 101 stuff. 
+This post will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see that they come up here, too. Meanwhile, ***buckle up, we're going to talk about some Ling 101 stuff***. 
 
 
 ## Language understanding in text-to-image models
@@ -22,7 +22,7 @@ I was thinking it'd be interesting to think about how the models would deal with
 
 ### Attachment ambiguities (part 1)
 
-Let's start with some very simple ambiguous noun phrases. First here's, a side-by-side of ***"red apples and oranges"*** vs ***"red oranges and apples"***: 
+Let's start with some very simple ambiguous noun phrases. First here's, a side-by-side of ***"red apples and oranges"*** vs ***"red oranges and apples"***:[^3] 
 
 <img src="https://hkotek.com/text-to-image/red-apples-oranges.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-oranges-apples.png" width="35%" />
@@ -30,12 +30,12 @@ Let's start with some very simple ambiguous noun phrases. First here's, a side-b
 I bet you wouldn't be able to guess which one is which if didn't tell you. 
 
 These are simple examples of *syntactic "bracketing" ambiguities*: on one interpretation, "red" modifies the complex noun phrase while on the other "red" modifies the first noun alone. For example:  
-1. red [oranges and apples]
-2. [red oranges] and apples
+1. red [apples and oranges]
+2. [red apples] and organes
 
-In the case of *"red oranges and apples"*, on either bracketing, the oranges have got to be red, no way around it. For *"red apples and oranges"*, there is a more sensible parse (only the apples are red) and a less sensible one (both the apples and the oranges are red), and you'd expect to see the models generate the more sensible reading given the likely training data. Nonetheless, we don't really see a difference. 
+In the case of *"red oranges and apples"*, on either bracketing, the oranges have got to be red, no way around it. For *"red apples and oranges"*, on the other hand, there is a more sensible parse (only the apples are red) and a less sensible one (both the apples and the oranges are red), and you'd expect to see the models generate the more sensible reading given the likely training data. Nonetheless, we don't really see a difference. 
 
-That led me to try ***"red apples and peppers"*** vs ***"red peppers and apples"***, since both can be red (or green), so I wondered if there'd be a difference there, but not really. 
+That led me to try ***"red apples and peppers"*** vs ***"red peppers and apples"***, since both can be red (or green), so I wondered if there'd be a difference there, but not really. Again, I don't think you'd independently be able to guess which image corresponds to which prompt: 
 
 <img src="https://hkotek.com/text-to-image/red-apples-peppers.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/red-peppers-apples.png" width="35%" />
@@ -46,7 +46,7 @@ In fact, even just asking for something as simple as ***"blue oranges"*** alread
 <img src="https://hkotek.com/text-to-image/blueOranges2.png" width="35%" />
 
 
-### Bracketing ambiguities (part 2)
+### Attachment ambiguities (part 2)
 
 The next batch of prompts consists of attachment ambiguities at the phrasal level. At this point, I no longer expect that the model will have training data that could directly bear on the desired image, at least not directly, so we might be able to more directly learn about its language processing abilities.
 
@@ -159,3 +159,4 @@ In short, text-to-image models are predictably shallow and unimaginative. They a
 
 [^1]: The images included in this post were generated between October 30 and November 5, 2023. 
 [^2]: Most of the images here come from Stable Diffusion XL, since there is no limit on the number of images it will let one generate. I tried some of the same prompts with Dall-E but soon ran out of free tokens. The observations I make here seem to apply to both models equally, but caveats apply. 
+[^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking -- I generated far too images and it too far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 
