@@ -69,7 +69,7 @@ Now we get a three-handed woman holding binoculars and no man, so I think we can
  
 ### Nonsensical sentences 
 
-I'd be remiss if I didn't try out Chomsky's famous ***"colorless green ideas sleep furiously"*** --- an example originally presented in order to demonstrate that the role of syntax is separate from that of semantics: we are able to assign a structure to this sentence and we know that it is well-formed, just as we also know that it is meaningless because of the particular lexical items that have been combined here. The model has no trouble producing an image -- but it only grabs onto the most basic concepts: *"green"* and *"sleep"*. 
+I'd be remiss if I didn't try out Chomsky's famous ***"colorless green ideas sleep furiously"*** --- an example originally presented in order to demonstrate that the role of syntax is separate from that of semantics: we are able to assign a structure to this sentence and we know that it is well-formed, just as we also know that it is meaningless because of the particular lexical items that have been combined here. The model has no trouble producing an image -- but it only grabs onto the most basic concepts: *"green"* and *"sleep"*. (Bonus: a pretty white woman no one asked for!)
 
 <img src="https://hkotek.com/text-to-image/colorless1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/colorless2.png" width="35%" />
@@ -109,7 +109,9 @@ More along these lines, and much more egregiously, is the following series of im
 
 So clearly, the name I used as the subject was the single most important thing the model picked out --- unsurprising if it's doing extremely shallow parsing. I'd expect the training data to contain lots of images of the virgin Mary. There's also a child and a dog here (even though technically the dog is not necessary--the biting happens before the giving of the bandaid), but there is no bandaid that I can see. 
 
-That led me to try several more variants (all of the examples below have the shape *"[NAME] gave the child the dog bit a bandaid"*). Here are ***Sam*** and ***Samantha***: 
+That led me to try several more variants (all of the examples below have the shape *"[NAME] gave the child the dog bit a bandaid"*). Here are: 
+
+***Sam*** and ***Samantha***: 
 
 <img src="https://hkotek.com/text-to-image/bandaid-sam.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bandaid-samantha.png" width="35%" />
@@ -150,7 +152,7 @@ More on these and related issues in part 2 of this post.
 
 ## Summary
 
-In short, text-to-image models are predictably shallow and unimaginative. They are more inflexible and banal than one might be led to assume given how frequently they are described as useful for being creative etc. in the popular press. In fact, they seem to regurgitate the training data is blunt and uncreative ways and can't overcome it even for the simplest prompts ('blue apples'). There is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up!
+In short, text-to-image models are predictably shallow and unimaginative. They are more inflexible and banal than one might be led to imagine given how frequently they are described as useful for being creative etc. in the popular press. In fact, they seem to regurgitate the training data in blunt and uncreative ways, and can't overcome it even for the simplest prompts ('blue apples'). There is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
 
 
 &nbsp;
