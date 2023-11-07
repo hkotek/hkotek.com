@@ -48,7 +48,7 @@ In fact, even just asking for something as simple as ***"blue oranges"*** alread
 
 ### Attachment ambiguities (part 2)
 
-The next batch of prompts consists of attachment ambiguities at the phrasal level. At this point, I no longer expect that the model will have training data that could directly bear on the desired image, at least not directly, so we might be able to more directly learn about its language processing abilities. *Spoiler: there's little evidence that any real syntactic parsing is taking place!*
+The next batch of prompts consists of attachment ambiguities at the phrasal level. At this point, I no longer expect that the model will have training data that could bear on the desired image, at least not directly, so we might be able to learn more about its language processing abilities. *Spoiler: there's little evidence that any real syntactic parsing is taking place!*
 
 I tried one of the most commonly used examples in intro to linguistics textbooks and courses: ***"the woman saw the man with the binoculars"***. As with the examples above, there are two parses here that arise from two different possible attachment sites for the phrase *"with the binoculars"*: 
 1. The woman [saw \[the man\] \[with the binoculars\]]
@@ -72,7 +72,7 @@ Now we get a three-handed woman holding binoculars and no man, so I think we can
 One common word linguists like to use to illustrate lexical ambiguities is *"bank"*, which can be used to mean either *the edge of a river or lake* or a *financial institution*. I tried ***Jane went to the bank*** and the model was like "Haha! I shall not even try": 
 
 <img src="https://hkotek.com/text-to-image/bank.png" width="35%" />
- 
+  
 Anyway, if we *were* to successfully get the model to do something interesting, I imagine the most we'd be able to do is learn what is the most common sense of an ambiguous word in the training corpus. I didn't spend any more time exploring this direction. 
  
  
@@ -112,14 +112,14 @@ In class, students tried some examples in Thai, Mandarin Chinese, and French. Th
 
 Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are famous in that readers are initially tempted to assign one parse to the sentence, but at some point they realize that this parse can't be right, and they are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a strong sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
 
-First, here is a classic garden path sentence: ***"the horse raced past the barn fell""***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: *"raced past the barn"* is a relative clause modifying "horse", so that the phrase *"the horse raced past the barn"* is the (complex) subject, and "fell" is the verb phrase. 
+First, here is a classic garden path sentence: ***"the horse raced past the barn fell"***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: *"raced past the barn"* is a relative clause modifying "horse", so that the phrase *"the horse raced past the barn"* is the (complex) subject, and "fell" is the verb phrase. 
 
 The model, it seems, isn't really concerned with all this minutiae. It gives us a galloping horse with a barn in the background, and simply doesn't illustrate the crucial "falling" part of the sentence. 
 
 <img src="https://hkotek.com/text-to-image/horse1.png" width="35%" /> &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/horse2.png" width="35%" />
 
-Here is another famous garden path sentence: ***"the old man the boats""***. In this sentence, although we are initially tempted to parse *"the old man"* as the subject of the sentence, in fact *"man"* is the verb and its subject is *"the old"*. The model just gives us an an old man and some boats, parsing both as nouns and not minding the syntax at all. 
+Here is another famous garden path sentence: ***"the old man the boats"***. In this sentence, although we are initially tempted to parse *"the old man"* as the subject of the sentence, in fact *"man"* is the verb and its subject is *"the old"*. The model just gives us an old man and some boats, parsing both as nouns and not minding the syntax at all. 
 
 <img src="https://hkotek.com/text-to-image/boats.png" width="35%" />
 
