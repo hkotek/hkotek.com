@@ -110,7 +110,7 @@ In class, students tried some examples in Thai, Mandarin Chinese, and French. Th
 
 ### Garden path sentences
 
-Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are famous in that readers are initially tempted to assign one parse to the sentence, but at some point they realize that this parse can't be right, and they are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a strong sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
+Another famous grammatical phenomenon is that of *garden path sentences*. These sentences are interesting because readers are initially tempted to assign one parse to the sentence, but at some point they realize that this parse can't be right, and are forced to go back and readjust their assumptions. This *reanalysis* is usually accompanied by a strong sense of confusion and having to go back to re-read the sentence, which can be quite striking. 
 
 First, here is a classic garden path sentence: ***"the horse raced past the barn fell"***. It is tempting to initially assume *"the horse"* is the subject of this sentence and *"raced past the barn"* is the verb phrase, but upon encountering *"fell"* we are forced to reanalyze the sentence: *"raced past the barn"* is a relative clause modifying "horse", so that the phrase *"the horse raced past the barn"* is the (complex) subject, and "fell" is the verb phrase. 
 
