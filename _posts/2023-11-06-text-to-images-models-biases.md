@@ -182,7 +182,7 @@ More on these and related issues in part 2 of this post.
 
 ## Wrapping up part 1
 
-Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
+Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place, no compositionality to speak of. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
 
 
 &nbsp;
