@@ -148,7 +148,28 @@ So, almost without exception, we got the traditional gender stereotypes replicat
 
 ### Other stereotypes and biases 
 
+There are already all kinds of interesting things of note in the images above, beyond the gender distribution. In no particular order: 
 
+* Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
+* The women are all pretty (well, with one exception).
+* Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
+* The (younger) men as generally dorks.
+* The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people.
+
+In fact, we get hit the race point more closely over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
+
+<img src="https://hkotek.com/text-to-image/domesticWorker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/help.png" width="45%" />
+
+Along the same lines, here are ***banker*** and ***bank teller***:
+
+<img src="https://hkotek.com/text-to-image/banker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/teller.png" width="45%" />
+
+Here is another ***farmer***, compared to a ***farm worker***
+
+<img src="https://hkotek.com/text-to-image/farmer2.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/farmWorker.png" width="45%" />
 
 
 &nbsp;
