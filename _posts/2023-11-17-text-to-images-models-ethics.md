@@ -17,12 +17,12 @@ As I alluded to in part 1, many ethical considerations came up during the explor
 
 ### Lexical / name bias
 
-As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) but here are just a few examples to illustrate the effect again: (all images in today's post come from Stable Diffusion) 
+As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of **names**. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) but here are just a few examples to illustrate the effect again: (all images in today's post come from Stable Diffusion) 
 
 ***Mario went to the store*** and ***Thomas went to the store***:[^2]  
 
-<img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" /> &emsp;
-<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> 
 
 
 ### Gender bias and stereotypes
