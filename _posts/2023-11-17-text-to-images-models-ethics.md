@@ -171,7 +171,34 @@ Here is another ***farmer***, compared to a ***farm worker***
 <img src="https://hkotek.com/text-to-image/farmer2.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/farmWorker.png" width="45%" />
 
+So again to state some obvious facts: 
+* the *domestic worker* and *the help* are portrayed by Black women. The latter portrays well-dressed women who might as well be going to church, even! 
+* The banker is a white man, but the bank teller is a Black man
+* The farmer is a white man, but the farm worker reads to me as Latino.
 
+&nbsp;
+Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana dealer***
+
+<img src="https://hkotek.com/text-to-image/dealer-drugs.png" width="30%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/dealer-dope.png" width="30%" /> &emsp;
+<img src="https://hkotek.com/text-to-image/dealer-marijuana.png" width="30%" />
+
+
+&nbsp;
+and also ***diamond dealer***, ***wine dealer***, and ***arts dealer***.
+
+<img src="https://hkotek.com/text-to-image/dealer-diamond.png" width="30%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
+<img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
+
+**Lots of Men Doing Jobs**. 
+
+I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what *pot* it was depicting. 
+
+<img src="https://hkotek.com/text-to-image/dealer-pot.png" width="45%" />
+
+
+&nbsp;
 &nbsp;
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
