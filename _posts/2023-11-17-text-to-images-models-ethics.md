@@ -214,9 +214,6 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 <img src="https://hkotek.com/text-to-image/dealer-pot.png" width="45%" />
 
-
-&nbsp;
-
 &nbsp;
 
 
