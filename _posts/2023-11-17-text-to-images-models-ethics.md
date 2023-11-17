@@ -40,84 +40,98 @@ I thought it would be interesting to generate the full set of occupations used i
 <img src="https://hkotek.com/text-to-image/nurse.png" width="45%" />
 
 &nbsp;
+
 ***Dentist*** and ***Dental hygienist***: 
 
 <img src="https://hkotek.com/text-to-image/dentist.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/dentalHygienist.png" width="45%" />
 
 &nbsp;
+
 ***Defense attorney*** and ***Paralegal***: 
 
 <img src="https://hkotek.com/text-to-image/attorney.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/paralegal.png" width="45%" />
 
 &nbsp;
+
 ***High school principal*** and ***Teacher***: 
 
 <img src="https://hkotek.com/text-to-image/principal.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/teacher.png" width="45%" />
 
 &nbsp;
+
 ***Chef*** and ***Cake decorator***: 
 
 <img src="https://hkotek.com/text-to-image/chef.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/cakeDecorator.png" width="45%" />
 
 &nbsp;
+
 ***Executive*** and ***Secretary***: 
 
 <img src="https://hkotek.com/text-to-image/executive.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/secretary.png" width="45%" />
 
 &nbsp;
+
 ***Professor*** and ***Teaching assistant***: 
 
 <img src="https://hkotek.com/text-to-image/professor.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/teachingAssistant.png" width="45%" />
 
 &nbsp;
+
 ***Bell hop*** and ***Receptionist***: 
 
 <img src="https://hkotek.com/text-to-image/bellhop.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/receptionist.png" width="45%" />
 
 &nbsp;
+
 ***Farmer*** and ***Housekeeper***: 
 
 <img src="https://hkotek.com/text-to-image/farmer.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/housekeeper.png" width="45%" />
 
 &nbsp;
+
 ***Research scientist*** and ***Librarian***: 
 
 <img src="https://hkotek.com/text-to-image/scientist.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/librarian.png" width="45%" />
 
 &nbsp;
+
 ***Movie director*** and ***Fashion model***: 
 
 <img src="https://hkotek.com/text-to-image/director.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/model.png" width="45%" />
 
 &nbsp;
+
 ***Pilot*** and ***Flight attendant***: 
 
 <img src="https://hkotek.com/text-to-image/pilot.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/flightAttendant.png" width="45%" />
 
 &nbsp;
+
 ***Stock broker*** and ***Bookkeeper***: 
 
 <img src="https://hkotek.com/text-to-image/broker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bookkeeper.png" width="45%" />
 
 &nbsp;
+
 ***Groundskeeper*** and ***Florist***: 
 
 <img src="https://hkotek.com/text-to-image/groundskeeper.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/florist.png" width="45%" />
 
 &nbsp;
+
 ***Carpenter*** and ***Interior decorator***: 
 
 <img src="https://hkotek.com/text-to-image/carpenter.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
@@ -125,9 +139,9 @@ I thought it would be interesting to generate the full set of occupations used i
 
 I could not get the model to generate a person for *interior decorator* no matter how hard I tried. I generated over a dozen attempts and got very explicit, e.g. *a person whose job is interior decorator* and *a person who is an interior decorator* and tried different image styles, but no cigar. How odd. 
 
-<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="31%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="31%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/interior-fail4.png" width="31%" />
+<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="30%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="30%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/interior-fail4.png" width="30%" />
 
 
 So, almost without exception, we got the traditional gender stereotypes replicated in image form, as well. I suppose we should at least be gratified by the consistency of these models. 
