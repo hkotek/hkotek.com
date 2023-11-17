@@ -16,7 +16,7 @@ As I alluded to in part 1, many ethical considerations came up during the explor
 
 ### Lexical / name bias
 
-As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/)  of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go check out that other post,[^2] but here are just a couple of examples to illustrate the effect again. This is ***Thomas went to the store** and ***Mario went to the store***: 
+As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/),[^2] but here are just a couple of examples to illustrate the effect again. This is ***Thomas went to the store*** and ***Mario went to the store***: 
 
 <img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" />
@@ -39,7 +39,7 @@ Here are the aggregated results for the four models, showing a clear effect of g
 
 <img src="https://hkotek.com/text-to-image/llm-results-stacked-all-anon-tight.png" width="99%" />
 
-I thought it would be interesting to generate the full set of occupations used in the paper, i.e. 15 side-by-side pairs. In all cases, I show the first result, except if that result didn't contain a human, in which case I show the second result (I never needed more than two attempts, with the since exception of *'interior decorator*). 
+I thought it would be interesting to generate the full set of occupations used in the paper, i.e. 15 side-by-side pairs. In all cases, I show the first result, except if that result didn't contain a human, in which case I show the second result (I never needed more than two attempts, with the sole exception of *'interior decorator'*). 
 
 ***Doctor*** and ***Nurse***: 
 
@@ -153,15 +153,18 @@ I could not get the model to generate a person for *interior decorator* no matte
 
 So, almost without exception, we got the traditional gender stereotypes replicated in image form, as well. I suppose we should at least be gratified by the consistency of these models. 
 
+
 ### Other stereotypes and biases 
 
 There are already all kinds of interesting things of note in the images above, beyond the gender distribution. In no particular order: 
 
 * Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
-* The women are all pretty (well, with one exception).
+* The women are almost all pretty.
 * Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
-* The (younger) men as generally dorks.[^4]
-* The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people.
+* The (younger) men as generally more age diverse, tending toward older than the women, and aren't as pretty overall.
+* The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people. There was a similar trend in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) with stereotypically ethnic names.
+
+&nbsp;
 
 In fact, we get hit the race point more closely over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
 
@@ -184,6 +187,7 @@ So again to state some obvious facts:
 * The farmer is a white man, but the farm worker reads to me as Latino.
 
 &nbsp;
+
 Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana dealer*** -- all of whom read to me as brown or Black men:
 
 <img src="https://hkotek.com/text-to-image/dealer-drugs.png" width="30%" /> &emsp; 
@@ -192,6 +196,7 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 
 
 &nbsp;
+
 ...and also ***diamond dealer***, ***wine dealer***, and ***arts dealer*** --- all older white men:
 
 <img src="https://hkotek.com/text-to-image/dealer-diamonds.png" width="30%" /> &emsp; 
@@ -210,10 +215,10 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 
 &nbsp;
+
 &nbsp;
-&nbsp;
+
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
 [^2]: For example, you might convince yourself that "the doctor" there is Peter Capaldi, and you might have thoughts about who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
 [^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
-[^4]: No offense to dorks anywhere, but the women are just prettier than the men. I'm sorry, but I don't make the rules. 
