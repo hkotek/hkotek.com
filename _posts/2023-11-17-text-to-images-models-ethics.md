@@ -164,7 +164,7 @@ There are already all kinds of interesting things of note in the images above, b
 * Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
 * The women are almost all pretty.
 * Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
-* The men are generally more age-diverse, tending toward older than the women, and they aren't as pretty overall.
+* The men are generally more age-diverse, tending toward older than the women, and they aren't as pretty overall.[^4]
 * The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people. There was a similar trend in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) with stereotypically ethnic names.
 
 ### More on race biases and stereotypes
@@ -220,3 +220,4 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
 [^2]: This image seemingly featuring Peter Capaldi as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)". Go read [**part 1**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) if the sentence didn't make sense to you, or if you want to take a guess at who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
 [^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
+[^4]: Actually, and please don't get mad, but the young men basically look like dorks. (No offense to dorks everywhere, dorks are great! just not the obvious counterpart to 'pretty woman' if you ask me.) 
