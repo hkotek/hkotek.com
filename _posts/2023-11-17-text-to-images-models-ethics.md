@@ -187,7 +187,7 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 &nbsp;
 and also ***diamond dealer***, ***wine dealer***, and ***arts dealer***.
 
-<img src="https://hkotek.com/text-to-image/dealer-diamond.png" width="30%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/dealer-diamonds.png" width="30%" /> &emsp; 
 <img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
 
