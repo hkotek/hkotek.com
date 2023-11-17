@@ -9,17 +9,20 @@ tags:
   - gender, bias
 ---
 
-This is part 2 of a two-part series of posts on text-to-image models. In [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) I examined how the language processing abilities of these models, concluding that there is very little of it happening, if any. The models seem to engage in a shallow parsing strategy, picking out prominent lexical items and defaulting to their most common interpretation in the training data.[^1] 
+This is part 2 of a two-part series of posts on text-to-image models. In [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/), I examined the language processing abilities of these models, concluding that there is very little of it happening, if any. The models seem to engage in a shallow parsing strategy, picking out prominent lexical items and defaulting to their most common interpretation in the training data.[^1] 
 
 As I alluded to in part 1, many ethical considerations came up during the exploration process. I don't mean the question of how the training data was obtained --- an important current debate on the ethics and legality of using unpaid work by artists without their consent (I think it's obviously not ethical). I mean that the generated images themselves raise all kinds of questions. 
 
 
 ### Lexical / name bias
 
-As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/),[^2] but here are just a couple of examples to illustrate the effect again. This is ***Thomas went to the store*** and ***Mario went to the store***: 
+As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) but here are just a few examples to illustrate the effect again (images, as in part 1, from DallE-2 and Stable Diffusion): 
 
-<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> &emsp; &emsp; &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" />
+***The doctor told her children are noisy***,[^2] ***Thomas went to the store*** and ***Mario went to the store***: 
+
+<img src="https://hkotek.com/text-to-image/noisy-doctor.jpg" width="30%" />  
+<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="30%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/Mario.jpg" width="30%" /> &emsp;
 
 
 ### Gender bias and stereotypes
@@ -154,19 +157,19 @@ I could not get the model to generate a person for *interior decorator* no matte
 So, almost without exception, we got the traditional gender stereotypes replicated in image form, as well. I suppose we should at least be gratified by the consistency of these models. 
 
 
-### Other stereotypes and biases 
+### Other biases and stereotypes  
 
 There are already all kinds of interesting things of note in the images above, beyond the gender distribution. In no particular order: 
 
 * Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
 * The women are almost all pretty.
 * Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
-* The (younger) men as generally more age diverse, tending toward older than the women, and aren't as pretty overall.
+* The men are generally more age-diverse, tending toward older than the women, and they aren't as pretty overall.
 * The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people. There was a similar trend in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) with stereotypically ethnic names.
 
-&nbsp;
+### More on race biases and stereotypes
 
-In fact, we get hit the race point more closely over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
+In fact, we can hit the race point more strongly over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
 
 <img src="https://hkotek.com/text-to-image/domesticWorker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/help.png" width="45%" />
@@ -220,5 +223,5 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
-[^2]: For example, you might convince yourself that "the doctor" there is Peter Capaldi, and you might have thoughts about who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
+[^2]: Seemingly featuring Peter Capaldi as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)". Go read [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) if that sentence didn't make sense to you. As a bonus, it contains other examples of the effects of names. For example, you might have thoughts about who "Jane" is. And I'm sure you'll have thoughts about who "Mary" is!
 [^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
