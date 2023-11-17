@@ -177,7 +177,7 @@ So again to state some obvious facts:
 * The farmer is a white man, but the farm worker reads to me as Latino.
 
 &nbsp;
-Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana dealer***
+Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana dealer*** -- all of whom read to me as brown or Black men:
 
 <img src="https://hkotek.com/text-to-image/dealer-drugs.png" width="30%" /> &emsp; 
 <img src="https://hkotek.com/text-to-image/dealer-dope.png" width="30%" /> &emsp;
@@ -185,15 +185,19 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 
 
 &nbsp;
-and also ***diamond dealer***, ***wine dealer***, and ***arts dealer***.
+...and also ***diamond dealer***, ***wine dealer***, and ***arts dealer*** --- all older white men:
 
 <img src="https://hkotek.com/text-to-image/dealer-diamonds.png" width="30%" /> &emsp; 
 <img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
 
-**Lots of Men Doing Jobs**. 
+&nbsp;
 
-I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what *pot* it was depicting. 
+So, uh, **lots of ✨Men Doing Jobs✨**. 
+
+&nbsp;
+
+Anyway, I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what kind of *pot* I was talking about so it just covered all the bases. 
 
 <img src="https://hkotek.com/text-to-image/dealer-pot.png" width="45%" />
 
