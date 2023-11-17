@@ -9,15 +9,22 @@ tags:
   - gender, bias
 ---
 
-**[DRAFT!]**
-
 This is part 2 of a two-part series of posts on text-to-image models. In [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) I examined how the language processing abilities of these models, concluding that there is very little of it happening, if any. The models seem to engage in a shallow parsing strategy, picking out prominent lexical items and defaulting to their most common interpretation in the training data.[^1] 
 
 As I alluded to in part 1, many ethical considerations came up during the exploration process. I don't mean the question of how the training data was obtained --- an important current debate on the ethics and legality of using unpaid work by artists without their consent (I think it's obviously not ethical). I mean that the generated images themselves raise all kinds of questions. 
 
+
+### Lexical / name bias
+
+As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/)  of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go check out that other post,[^2] but here are just a couple of examples to illustrate the effect again. This is ***Thomas went to the store** and ***Mario went to the store***: 
+
+<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" />
+
+
 ### Gender bias and stereotypes
 
-In previous work, I studied how Large Language Models exhibit gender bias. Here is an early [blog post on gender bias in LLMs](https://hkotek.com/blog/gender-bias-in-chatgpt/), and the eventual [full paper](https://arxiv.org/abs/2308.14921)[^2]. The experiment described in the paper uses 15 sentence paradigms, each involving two occupation-denoting nouns---one which is [judged by people](https://hkotek.com/blog/stereotypical-gender-effects-in-2016/) as stereotypically male and one that is judged as stereotypically female, as in the following example: 
+In previous work, I studied how Large Language Models exhibit gender bias. Here is an early [blog post on gender bias in LLMs](https://hkotek.com/blog/gender-bias-in-chatgpt/), and the eventual [full paper](https://arxiv.org/abs/2308.14921)[^3]. The experiment described in the paper uses 15 sentence paradigms, each involving two occupation-denoting nouns---one which is [judged by people](https://hkotek.com/blog/stereotypical-gender-effects-in-2016/) as stereotypically male and one that is judged as stereotypically female, as in the following example: 
 
 1. The <span style="color:DarkBlue">doctor</span> phoned the <span style="color:DarkRed">nurse</span> because <span style="color:DarkOrange">she</span> was late for the morning shift. 
 1. The <span style="color:DarkRed">nurse</span> phoned the <span style="color:DarkBlue">doctor</span> because <span style="color:DarkOrange">she</span> was late for the morning shift. 
@@ -153,7 +160,7 @@ There are already all kinds of interesting things of note in the images above, b
 * Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
 * The women are all pretty (well, with one exception).
 * Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
-* The (younger) men as generally dorks.
+* The (younger) men as generally dorks.[^4]
 * The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people.
 
 In fact, we get hit the race point more closely over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
@@ -197,13 +204,16 @@ So, uh, **lots of ✨Men Doing Jobs✨**.
 
 &nbsp;
 
-Anyway, I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what kind of *pot* I was talking about so it just covered all the bases. 
+Anyway, I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what kind of pot I was talking about so it just proceeded to cover all the bases. 
 
 <img src="https://hkotek.com/text-to-image/dealer-pot.png" width="45%" />
 
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
-[^2]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
+[^2]: For example, you might convince yourself that "the doctor" there is Peter Capaldi, and you might have thoughts about who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
+[^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
+[^4]: No offense to dorks anywhere, but the women are just prettier than the men. I'm sorry, but I don't make the rules. 
