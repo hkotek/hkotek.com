@@ -15,6 +15,8 @@ We recently explored multi-modal text-to-image models in class,[^1] specifically
 
 This post will be a two-parter: even though I was very disappointed with these models' language parsing abilities, there is still a lot to say. The next post will focus more specifically on ethics considerations, though as we'll see that they come up here, too. Meanwhile, ***buckle up, we're going to talk about some Ling 101 stuff***. 
 
+\[UPDATE (Nov 17, 2023): here's [**part 2**](https://hkotek.com/blog/text-to-image-models-ethics/)!\]
+
 
 ## Language understanding in text-to-image models
  
@@ -177,12 +179,12 @@ There's a lot to unpack here:
 - we always get a single human protagonist, along with a dog, and occasionally the human gives the dog a bandaid. That is obviously not the correct parse of the sentence.
 - I can't decide if there is anything interesting to say about whether the single human protagonist is a child or an adult. 
 
-More on these and related issues in part 2 of this post. 
+More on these and related issues in [**part 2**](https://hkotek.com/blog/text-to-image-models-ethics/) of this post. 
 
 
 ## Wrapping up part 1
 
-Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place, no compositionality to speak of. And there are lots of ethical considerations that come up --- I'll devote part 2 of the post to more of that. 
+Text-to-image models seem to be shallow and unimaginative. They are, in fact, more inflexible and banal than one might be led to believe given how frequently they are described as useful for being creative etc. in the popular press. They seem to simply regurgitate their training data in deeply navel-gazing ways, and can't overcome it even for the simplest prompts ('blue apples'). In addition, there is no indication that any meaningful language processing is taking place, no compositionality to speak of. And there are lots of ethical considerations that come up --- I'll devote [**part 2**](https://hkotek.com/blog/text-to-image-models-ethics/) of the post to more of that. 
 
 
 &nbsp;
