@@ -20,9 +20,9 @@ As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-sha
 
 ***The doctor told her children are noisy***,[^2] ***Thomas went to the store*** and ***Mario went to the store***: 
 
-<img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="30%" />  
-<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="30%" /> &emsp; 
-<img src="https://hkotek.com/text-to-image/Mario.jpg" width="30%" /> &emsp;
+<img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="29%" /> &emsp;
+<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="29%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/Mario.jpg" width="29%" /> &emsp;
 
 
 ### Gender bias and stereotypes
@@ -210,8 +210,6 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 
 So, uh, **lots of ✨Men Doing Jobs✨**. 
 
-&nbsp;
-
 Anyway, I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what kind of pot I was talking about so it just proceeded to cover all the bases. 
 
 <img src="https://hkotek.com/text-to-image/dealer-pot.png" width="45%" />
@@ -223,5 +221,5 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
-[^2]: This image seemingly featuring Peter Capaldi as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)". Go read [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) if the sentence didn't make sense to you, or if you want to take a guess at who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
-[^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [Gender bias and stereotypes in Large Language Models](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
+[^2]: This image seemingly featuring Peter Capaldi as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)". Go read [**part 1**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) if the sentence didn't make sense to you, or if you want to take a guess at who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
+[^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
