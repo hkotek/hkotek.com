@@ -139,8 +139,8 @@ I thought it would be interesting to generate the full set of occupations used i
 
 I could not get the model to generate a person for *interior decorator* no matter how hard I tried. I generated over a dozen attempts and got very explicit, e.g. *a person whose job is interior decorator* and *a person who is an interior decorator* and tried different image styles, but no cigar. How odd. 
 
-<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="30%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="30%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="30%" /> &emsp; 
+<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/interior-fail4.png" width="30%" />
 
 
