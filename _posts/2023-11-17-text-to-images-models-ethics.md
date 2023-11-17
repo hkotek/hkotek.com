@@ -207,9 +207,13 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 <img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
 
-&nbsp;
+## Summary
 
-So, uh, **lots of ✨Men Doing Jobs✨**. 
+So, uh, that's **a lot of ✨(White) Men Doing Jobs✨**. 
+
+In the interest of stating the obvious, the models seem to be doing very shallow parsing, and relying on frequencies in the most basic of ways. They are reproducing deep societal biases and various stereotypes. This is not good news for a world that relies on AI more and more: the models paints a stark picture of what different individuals are and what they can be, and it's not an encouraging one (well, unless you're a white man, in which case, congrats!). We have a lot of thinking (and fixing!) to do. 
+
+&nbsp;
 
 Anyway, I'll leave you with this fun example of a ***pot dealer***, where I guess the model couldn't decide what kind of pot I was talking about so it just proceeded to cover all the bases. 
 
