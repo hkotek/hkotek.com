@@ -29,7 +29,7 @@ Please visit the [about page](/about) for more details concerning my research in
 ✨ ️***NEW***✨  Blog 
 -------------------
 
-### Ethics ##
+### AI ethics ##
 
 * [Text-to-image models are shallow in more ways than one (part 2)](/blog/text-to-image-models-ethics/): a discussion of interesting aspects of the images generated in [part 1](/blog/text-to-image-models-shallow-parsing/) with respect to gender, race and ethnicity, age, attractiveness, lexical choices, and image style. In short: the models exhibit biases along all these dimensions, in fairly predictable and yet concerning ways.
 
