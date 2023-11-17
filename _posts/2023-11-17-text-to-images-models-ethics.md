@@ -12,7 +12,7 @@ tags:
 This is part 2 of a two-part series of posts on text-to-image models. In [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/), I examined the language processing abilities of these models, concluding that there is very little of it happening, if any. The models seem to engage in a shallow parsing strategy, picking out prominent lexical items and defaulting to their most common interpretation in the training data.[^1] 
 
 As I alluded to in part 1, many ethical considerations came up during the exploration process. I don't mean the question of how the training data was obtained --- an important current debate on the ethics and legality of using unpaid work by artists without their consent (I think it's obviously not ethical). I mean that the generated images themselves raise all kinds of questions. 
-<img src="https://hkotek.com/text-to-image/nurse.png" width="0%" />
+<img src="https://hkotek.com/text-to-image/nurse-thumbnail.png" width="0%" />
 
 
 ### Lexical / name bias
