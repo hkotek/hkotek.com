@@ -30,90 +30,104 @@ We asked four publicly available models in mid-2023 to perform a pronoun resolut
 
 Here are the aggregated results for the four models, showing a clear effect of gender. I encourage you to [read the paper](https://arxiv.org/abs/2308.14921), which shows additional effects such as a lack of a subject bias and of *justifications* --- i.e. explanations of model choices that align with stereotypes but rely on other factors such as grammar or context, including some funny-but-not-haha-funny minimal pairs --- which I find particularly illuminating. 
 
-<img src="https://hkotek.com/text-to-image/llm-results-stacked-all-anon-tight.png" width="85%" />
+<img src="https://hkotek.com/text-to-image/llm-results-stacked-all-anon-tight.png" width="99%" />
 
 I thought it would be interesting to generate the full set of occupations used in the paper, i.e. 15 side-by-side pairs. In all cases, I show the first result, except if that result didn't contain a human, in which case I show the second result (I never needed more than two attempts, with the since exception of *'interior decorator*). 
 
 ***Doctor*** and ***Nurse***: 
 
-<img src="https://hkotek.com/text-to-image/doctor.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/doctor.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/nurse.png" width="45%" />
 
+&nbsp;
 ***Dentist*** and ***Dental hygienist***: 
 
-<img src="https://hkotek.com/text-to-image/dentist.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/dentist.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/dentalHygienist.png" width="45%" />
 
+&nbsp;
 ***Defense attorney*** and ***Paralegal***: 
 
-<img src="https://hkotek.com/text-to-image/attorney.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/attorney.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/paralegal.png" width="45%" />
 
+&nbsp;
 ***High school principal*** and ***Teacher***: 
 
-<img src="https://hkotek.com/text-to-image/principal.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/principal.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/teacher.png" width="45%" />
 
+&nbsp;
 ***Chef*** and ***Cake decorator***: 
 
-<img src="https://hkotek.com/text-to-image/chef.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/chef.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/cakeDecorator.png" width="45%" />
 
+&nbsp;
 ***Executive*** and ***Secretary***: 
 
-<img src="https://hkotek.com/text-to-image/horse1.png" width="45%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/horse2.png" width="45%" />
+<img src="https://hkotek.com/text-to-image/executive.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/secretary.png" width="45%" />
 
+&nbsp;
 ***Professor*** and ***Teaching assistant***: 
 
-<img src="https://hkotek.com/text-to-image/professor.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/professor.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/teachingAssistant.png" width="45%" />
 
+&nbsp;
 ***Bell hop*** and ***Receptionist***: 
 
-<img src="https://hkotek.com/text-to-image/bellhop.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/bellhop.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/receptionist.png" width="45%" />
 
+&nbsp;
 ***Farmer*** and ***Housekeeper***: 
 
-<img src="https://hkotek.com/text-to-image/farmer.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/farmer.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/housekeeper.png" width="45%" />
 
+&nbsp;
 ***Research scientist*** and ***Librarian***: 
 
-<img src="https://hkotek.com/text-to-image/scientist.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/scientist.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/librarian.png" width="45%" />
 
+&nbsp;
 ***Movie director*** and ***Fashion model***: 
 
-<img src="https://hkotek.com/text-to-image/director.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/director.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/model.png" width="45%" />
 
+&nbsp;
 ***Pilot*** and ***Flight attendant***: 
 
-<img src="https://hkotek.com/text-to-image/pilot.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/pilot.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/flightAttendant.png" width="45%" />
 
+&nbsp;
 ***Stock broker*** and ***Bookkeeper***: 
 
-<img src="https://hkotek.com/text-to-image/broker.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/broker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/bookkeeper.png" width="45%" />
 
+&nbsp;
 ***Groundskeeper*** and ***Florist***: 
 
-<img src="https://hkotek.com/text-to-image/groundskeeper.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/groundskeeper.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/florist.png" width="45%" />
 
+&nbsp;
 ***Carpenter*** and ***Interior decorator***: 
 
-<img src="https://hkotek.com/text-to-image/carpenter.png" width="45%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/carpenter.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/decorator.png" width="45%" />
 
 I could not get the model to generate a person for *interior decorator* no matter how hard I tried. I generated over a dozen attempts and got very explicit, e.g. *a person whose job is interior decorator* and *a person who is an interior decorator* and tried different image styles, but no cigar. How odd. 
 
-<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="32%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="32%" /> &emsp; &emsp;
-<img src="https://hkotek.com/text-to-image/interior-fail4.png" width="32%" />
+<img src="https://hkotek.com/text-to-image/interior-fail2.png" width="31%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/interior-fail3.png" width="31%" /> &emsp; &emsp;
+<img src="https://hkotek.com/text-to-image/interior-fail4.png" width="31%" />
 
 
 So, almost without exception, we got the traditional gender stereotypes replicated in image form, as well. I suppose we should at least be gratified by the consistency of these models. 
