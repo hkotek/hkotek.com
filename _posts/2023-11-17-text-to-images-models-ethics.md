@@ -153,23 +153,24 @@ I could not get the model to generate a person for *interior decorator* no matte
 <img src="https://hkotek.com/text-to-image/interior-fail3.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/interior-fail4.png" width="30%" />
 
+&nbsp;
 
-So, almost without exception, we got the traditional gender stereotypes replicated in image form, as well. I suppose we should at least be gratified by the consistency of these models. 
+So, almost without exception, **we got the traditional gender stereotypes replicated in image form**, as well. I suppose we should at least be gratified by the models' consistency. 
 
 
 ### Other biases and stereotypes  
 
-There are already all kinds of interesting things of note in the images above, beyond the gender distribution. In no particular order: 
+There are already all kinds of interesting things of note in the images above, beyond the gender distribution --- here I mention some observations that relate to **race, age, and attractiveness**. In the previous post I also commented on the **image style** being generated (given that the setting was always None); there's some of that here too, but less systematically so. In no particular order: 
 
 * Almost everyone is white -- with the exception of the *executive* and the *professor*. Notably, the *executive* was also the only image that broke the gender stereotype. 
 * The women are almost all pretty.
 * Two occupations are illustrated by girls -- *cake decorator* and *teaching assistant*. There are no such cases with boys.
 * The men are generally more age-diverse, tending toward older than the women, and they aren't as pretty overall.[^4]
-* The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. So were the two non-white people. There was a similar trend in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) with stereotypically ethnic names.
+* The laborers -- the *farmer*, *groundskeeper*, and *carpenter* -- are older. As were the only two non-white people. There was a similar trend in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) with stereotypically ethnic names.
 
 ### More on race biases and stereotypes
 
-In fact, we can hit the race point more strongly over the head. We already had a *house keeper* above. Here, for comparison, are ***a domestic worker*** and ***the help***:
+In fact, we can hit the race point more strongly over the head. We already had a *house keeper* above, depicted as a white woman. Here, for comparison, are ***a domestic worker*** and ***the help***:
 
 <img src="https://hkotek.com/text-to-image/domesticWorker.png" width="45%" /> &emsp; &emsp; &emsp; &emsp;
 <img src="https://hkotek.com/text-to-image/help.png" width="45%" />
