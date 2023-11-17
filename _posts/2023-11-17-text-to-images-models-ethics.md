@@ -12,17 +12,17 @@ tags:
 This is part 2 of a two-part series of posts on text-to-image models. In [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/), I examined the language processing abilities of these models, concluding that there is very little of it happening, if any. The models seem to engage in a shallow parsing strategy, picking out prominent lexical items and defaulting to their most common interpretation in the training data.[^1] 
 
 As I alluded to in part 1, many ethical considerations came up during the exploration process. I don't mean the question of how the training data was obtained --- an important current debate on the ethics and legality of using unpaid work by artists without their consent (I think it's obviously not ethical). I mean that the generated images themselves raise all kinds of questions. 
+<img src="https://hkotek.com/text-to-image/nurse.png" width="0%" />
 
 
 ### Lexical / name bias
 
 As was clear to see in [part 1](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) of this post, the model was very strongly influenced by lexical items, most clearly in the domain of names. You should really go [**check out that other post**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) but here are just a few examples to illustrate the effect again: (all images in today's post come from Stable Diffusion) 
 
-***Mario went to the store***, ***Thomas went to the store*** and ***The doctor told her children are noisy***:[^2]  
+***Mario went to the store*** and ***Thomas went to the store***:[^2]  
 
-<img src="https://hkotek.com/text-to-image/Mario.jpg" width="29%" /> &emsp;
-<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="29%" /> &emsp; 
-<img src="https://hkotek.com/text-to-image/noisy-doctor.png" width="29%" /> 
+<img src="https://hkotek.com/text-to-image/Mario.jpg" width="45%" /> &emsp;
+<img src="https://hkotek.com/text-to-image/Thomas.jpg" width="45%" /> &emsp; 
 
 
 ### Gender bias and stereotypes
@@ -219,6 +219,6 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
-[^2]: This image seemingly featuring Peter Capaldi as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)". Go read [**part 1**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) if the sentence didn't make sense to you, or if you want to take a guess at who "Jane" is. I'm sure you'll have thoughts about who "Mary" is!
+[^2]: Go read [**part 1**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) to see Peter Capaldi cast as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)", as well as a suspiciously familiar "Jane". I'm sure you'll also have thoughts about who "Mary" is. 
 [^3]: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). In ACM Collective Intelligence.
 [^4]: Actually, and please don't get mad, but the young men basically look like dorks. (No offense to dorks everywhere, dorks are great! just not the obvious counterpart to 'pretty woman' if you ask me.) 
