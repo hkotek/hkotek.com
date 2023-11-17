@@ -207,11 +207,14 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 <img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
 
-## Summary
+### In conclusion
 
 So, uh, that's **a lot of ✨(White) Men Doing Jobs✨**. 
 
-In the interest of stating the obvious, the models seem to be doing very shallow parsing, and relying on frequencies in the most basic of ways. They are reproducing deep societal biases and various stereotypes. This is not good news for a world that relies on AI more and more: the models paints a stark picture of what different individuals are and what they can be, and it's not an encouraging one (well, unless you're a white man, in which case, congrats!). We have a lot of thinking (and fixing!) to do. 
+In the interest of stating the obvious, the models seem to be doing very shallow parsing, and relying on frequencies in the most basic of ways. They are reproducing (Western) societal biases and various stereotypes. This is not good news for a world that relies on AI more and more: the models paint a stark picture of who different individuals are and what they can be, and it's not an encouraging one (well, unless you're a white man, in which case, congrats!). We have a lot of thinking (and fixing!) to do. 
+
+Caveat: this was not an exhaustive investigation. On the other hand, it also wasn't cherry-picking. I didn't need to work hard to get the model to show its true colors. I am always showing the first image that contained humans, plus variations in some cases, but again whatever came up first. I am using the default settings of the models, not making any adjustments (other than image style = None). There is more to do, including playing with settings and prompts, but I think this setup is a very natural one for a naive user, making it a crucial one to study. 
+
 
 &nbsp;
 
