@@ -40,7 +40,7 @@ We asked four publicly available models in mid-2023 to perform a pronoun resolut
 
 Here are the aggregated results for the four models, showing a clear effect of gender. I encourage you to [read the paper](https://arxiv.org/abs/2308.14921), which shows additional effects such as a lack of a subject bias and of *justifications* --- i.e. explanations of model choices that align with stereotypes but rely on other factors such as grammar or context, including some funny-but-not-haha-funny minimal pairs --- which I find particularly illuminating. 
 
-<img src="https://hkotek.com/text-to-image/llm-results-stacked-all-anon-tight.png" width="99%" />
+<img src="https://hkotek.com/text-to-image/llm-results-stacked-all-anon-tight.png" width="85%" />
 
 I thought it would be interesting to generate the full set of occupations used in the paper, i.e. 15 side-by-side pairs. In all cases, I show the first result, except if that result didn't contain a human, in which case I show the second result (I never needed more than two attempts, with the sole exception of *'interior decorator'*). 
 
