@@ -29,7 +29,11 @@ Please visit the [about page](/about) for more details concerning my research in
 ✨ ️***NEW***✨  Blog 
 -------------------
 
-### Gender bias ##
+### Ethics ##
+
+* [Text-to-image models are shallow in more ways than one (part 2)](/blog/text-to-image-models-ethics/): a discussion of interesting aspects of the images generated in [part 1](/blog/text-to-image-models-shallow-parsing/) with respect to gender, race and ethnicity, age, attractiveness, lexical choices, and image style. In short: the models exhibit biases along all these dimensions, in fairly predictable and yet concerning ways.
+
+* [Text-to-image models are shallow in more ways than one (part 1)](/blog/text-to-image-models-shallow-parsing/): a summary of some basic experiments I carried out for my seminar on LLMs, focusing on syntactic and semantic ambiguity. We find that text-to-image models engage in very shallow parsing, likely not much more than a bag-of-words approach. Many sometimes-surprising frequency effects follow.
 
 * [Stereotypical Gender Effects in 2016](/blog/stereotypical-gender-effects-in-2016/): a summary of a co-authored study I conducted in 2016 exploring stereotypes associated with occupation-denoting nouns. [Full dataset here (csv)](2016-gender-norming-results.csv)
 
