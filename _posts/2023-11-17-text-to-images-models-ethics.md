@@ -207,6 +207,9 @@ Finally, for fun, I tried ***drug dealer***, ***dope dealer***, and ***marijuana
 <img src="https://hkotek.com/text-to-image/dealer-wine.png" width="30%" /> &emsp;
 <img src="https://hkotek.com/text-to-image/dealer-art.png" width="30%" />
 
+&nbsp;
+
+
 ### In conclusion
 
 So, uh, that's **a lot of ✨(White) Men Doing Jobs✨**. 
