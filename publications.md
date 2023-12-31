@@ -7,6 +7,7 @@ title: Publications
 
 
 Proceedings papers (NLP, papers reviewed)
+-----------------------------------------
 
 2023
 : David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
@@ -17,14 +18,12 @@ Proceedings papers (NLP, papers reviewed)
 2023
 : Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. 2023. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/abs/2303.10255). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 
-------------------------------------
 
 2021 
 : Patel, Alkesh, Akanksha Bindal, Hadas Kotek, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
 
 2020: 
 : Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). *The 28th International Conference on Computational Linguistics (COLING)*. 
-
 
 
 Books
@@ -94,7 +93,7 @@ Journal articles and book chapters
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. Bingley, UK: Emerald Publications.
 
 
-Proceedings papers (abstracts reviewed)
+Proceedings papers (Linguistics, abstracts reviewed)
 ---------------------------------------
 2022
 : Frank, Rober, and Hadas Kotek. 2022. [Top-down derivations: Flipping syntax on its head](frank_kotek-top_down.pdf). *Proceedings of the Linguistic Society of America (LSA)*, Volume 7, Number 1 (2022), 5264. https://doi.org/10.3765/plsa.v7i1.5264.
@@ -102,7 +101,7 @@ Proceedings papers (abstracts reviewed)
 2020
 : Kotek, Hadas, Sarah Babinski, Rikker Dockum, and Christopher Geissler. [**Gender representation in linguistic example sentences**](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4723). *Proceedings of the Linguistic Society of America (LSA)*, Volume 5, Number 1 (2020), 514--528. ISSN (online): 2473-8689.
 
-2020: 
+2020
 : Phillips, Josh and Hadas Kotek. [Updates discourse anaphora: a dynamic approach to otherwise](http://hkotek.com/NELS49-PhillipsKotek.pdf). *Proceedings of the North East Linguistic Society (NELS) 49}*, eds. Maggie Baird and Jonathan Pesetsky. GLSA: Amherst, MA. Volume 3, 29--38.
 
 2018
@@ -179,29 +178,26 @@ Dissertation
 : Kotek, Hadas. [**Composing Questions**](http://ling.auf.net/lingbuzz/002231/). Massachusetts Institute of Technology.
 
 
-Submitted manuscripts
----------------------
+Manuscripts (pre-prints available upon request)
+-----------
 
-submitted
-: Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. **Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**.
-
-submitted
+manuscript
 : Kastner, Itamar, Hadas Kotek, Rikker Dockum, Michael Dow, Maria Esipova, Caitlin Green, Todd Snider. **Who speaks for us? Lessons from the Pinker letter**.
 
-in revision
+manuscript (pending revision)
 : Phillips, Joshua and Hadas Kotek. **Discourse anaphoric *otherwise*: Information structure & modal subordination**
 
-in revision 
-: Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
-
-in revisions
-: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
-
-manuscript 
+manuscript (pending revision)
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Indefinite free relatives in Mayan:
 Lessons for the typology of free relatives and the nature of relative clause islands.**
 
-manuscript
+manuscript (pending revision)
+: Erlewine, Michael Y. and Hadas Kotek. **Intervention tracks scope-rigidity in Japanese**.
+
+manuscript (pending revision)
+: Kotek, Hadas and Michael Yoshitaka Erlewine. [**Relative pronoun pied-piping in English non-restrictive relatives**](http://ling.auf.net/lingbuzz/002700/). 
+
+manuscript (pending revision)
 : Kotek, Hadas and Michael Yoshitaka Erlewine. **Blocking effects in English causatives**.
 
 
