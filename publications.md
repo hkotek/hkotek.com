@@ -5,6 +5,28 @@ title: Publications
 
 (For project descriptions and ongoing work, see the [research](http://hkotek.com/research.html) page.)
 
+
+Proceedings papers (NLP, papers reviewed)
+
+2023
+: David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+2023
+: Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
+
+2023
+: Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. 2023. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/abs/2303.10255). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
+
+------------------------------------
+
+2021 
+: Patel, Alkesh, Akanksha Bindal, Hadas Kotek, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
+
+2020: 
+: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). *The 28th International Conference on Computational Linguistics (COLING)*. 
+
+
+
 Books
 -----
 2019
@@ -70,15 +92,6 @@ Journal articles and book chapters
 
 2011
 : Kotek, Hadas, Yasutada Sudo, Edwin Howard, and Martin Hackl. [***Most* Meanings are Superlative**](Most%20meanings%20are%20superlative.pdf). *Syntax and Semantics* 37: Experiments at the Interfaces, ed. Jeff Runner, 101-145. Bingley, UK: Emerald Publications.
-
-Proceedings papers (papers reviewed)
-------------------------------------
-
-2021 
-: Patel, Alkesh, Akanksha Bindal, Hadas Kotak, Christopher Klein, and Jason D. Williams. [**Generating Natural Questions from Images for Multimodal Assistant**](https://arxiv.org/abs/2012.03678). *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*.
-
-2020: 
-: Sun, David Q., Hadas Kotek, Christopher Klein, Mayank Gupta, William Li and Jason D. Williams.  [**Improving Human-Labeled Data through Dynamic Automatic Conflict Resolution**](https://arxiv.org/abs/2012.04169). *The 28th International Conference on Computational Linguistics (COLING)*. 
 
 
 Proceedings papers (abstracts reviewed)

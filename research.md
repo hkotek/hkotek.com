@@ -35,10 +35,13 @@ NLP
 This is joint work with members of the Siri and Language Technologies Data Science team and other collaborators. 
 
 2023
+: David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+2023
 : Kotek, Hadas, Rikker Dockum, and David Q. Sun. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
 
 2023
-: Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/pdf/2303.10255.pdf). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
+: Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/abs/2303.10255). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 
 2021
 : Patel, Alkesh, Joel Moniz, Roman Nguyen, Hadas Kotek, Nick Tzou, Vincent Renkens. 2021. MMIU: Dataset for Intent Understanding in Multimodal Assistant". West Coast NLP (WeCNLP). 

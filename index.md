@@ -99,9 +99,11 @@ Newest work
 
 ### Peer reviewed conference papers: ###
 
-* Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
+* David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
-* Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. 2023. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/pdf/2303.10255.pdf). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
+* Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference (CI). 
+
+* Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. 2023. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/abs/2303.10255). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
 
 * Patel, Alkesh, Joel Moniz, Roman Nguyen, Hadas Kotek, Nick Tzou, Vincent Renkens. 2021. MMIU: Dataset for Intent Understanding in Multimodal Assistant". West Coast NLP (WeCNLP). 
 
