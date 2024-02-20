@@ -13,7 +13,7 @@ tags:
 
 Did I mention that rejection sucks? 
 
-It's a fact of life that we're not going to always get what we want. Rejection is a part of life. But it seems to be a part of the academic life *even more*. Whether it be not getting into grad school, not getting a grant or a fellowship, having an abstract or paper rejected, or not getting a job. Getting rejected is a part of the academic life not only at transition points such as applying for grad school or for a job, but at all other times, too.[^4] I think that's what makes it different from other career paths.[^1] 
+It's a fact of life that we're not going to always get what we want. Rejection is a part of life. But it seems to be a part of the academic life *even more*. Whether it be not getting into grad school, not getting a grant or a fellowship, having an abstract or paper rejected, or not getting a job. Getting rejected is a part of the academic life not only at transition points such as applying for grad school or for a job,[^4] but at all other times, too. I think that's what makes it different from other career paths.[^1] 
 
 It doesn't help that there are not that many good programs that fit one's interests, so few jobs, so little money to go around. It doesn't help that papers are usually *years* in the making, from beginning to end, and that the path to publication is rarely smooth. How many of us have carefully crafted grant applications detailing 3--5 years of our lives, describing the people we'd hire and the research questions we'd ask and answer --- a future that is then declined with some negative comments about our work and even our person after many months of anticipation? 
 
