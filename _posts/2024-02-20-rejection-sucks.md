@@ -24,7 +24,7 @@ I've written [elsewhere](https://hkotek.com/blog/on-the-emotional-toll-of-the-ac
 
 ## A dream, deferred
 
-**Another thing that sucks**, a consequence of all that rejection, is **having to rethink your dreams.**
+**Another thing that sucks**, a consequence of all that rejection, **is having to rethink your dreams.**
 
 For the longest time, getting that TT Assistant Professor job was my one and only goal. I was willing to give up *so much* for it.[^2] I worked for over a decade with this one singular goal in mind. Even after some [*extremely* unpleasant experiences](https://hkotek.com/blog/on-leaving-academia/) on the job market, I wasn't ready to walk away from it. I ignored some good advice about setting limits on how many times I'd apply.[^3] Eventually it came down not to some clear predetermined condition such as number of years on the market or outcomes from prior cycles, but to how much longer I felt that I could stick around and still maintain some semblance of mental health. 
 
