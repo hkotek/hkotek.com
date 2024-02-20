@@ -42,6 +42,6 @@ It's ok to feel all the feels. It's ok to take as long as you need to be confuse
 #### Notes
 
 [^1]: In this context, I really appreciate the concept of a [shadow CV](https://contemplativemammoth.com/2012/06/08/building-a-shadow-cv/), and [those who talk openly about the failures](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/) in their academic career. Maybe I should make one.
-[^2]: But not everything: from the get-go, I was selective about the locations I applied in.  
+[^2]: But not everything: from the get-go, I was selective about the locations I applied in. I was criticized for that by some advisors, but I'm glad I stood my ground on that one.  
 [^3]: It would have been good to set limits of various kinds at the very beginning --- the number of years I'd apply, locations, types of departments, outcomes from prior years, compensation --- but if I'm honest, I simply didn't have all the information I would have needed to make a decision. For one, I had literally no idea what a reasonable salary might be. For another, I was naive about what I'd really have control over vs what would be left up to pure luck. But regardless, I should have had better boundaries. 
 [^4]: To state the obvious, getting rejected from non-academic jobs sucks just as much. The tech job market has been particularly difficult in the past 6-12 months, with many layoffs and the number of types of jobs changing unexpectedly. Taking that long to look for a job and living with the uncertainty that follows is not in the least bit fun, either. 
