@@ -36,7 +36,7 @@ No one really talked to me about other career options; the consensus seemed to b
 
 Being sad and mad and confused and depressed is an unavoidable part of dealing with rejection that leads to broken dreams. I don't think there's any way around it. So I want to end this post not with advice for what to do next (I've written several more practical posts about [things](https://hkotek.com/blog/altac-get-started-exploring-options/)  [to](https://hkotek.com/blog/altac-get-started-doing-prep/) [do](https://hkotek.com/blog/altac-transferable_skills/) [and](https://hkotek.com/blog/altac-jobs-for-social-scientists/) [learn](https://hkotek.com/blog/altac-guided-self-reflection/)), but with this simple statement: **we don't talk about failure and rejection enough, but it happens to all of us, even if we seem (and are!) happy and successful**. It really, really sucks. 
 
-So: it's ok to feel all the feels. It's ok to take as long as you need to be confused and unsure and not to have a plan. I can't promise you that things will work out like you hope or expect, but I can safely tell you that new and unexpected things can be just as satisfying as the things you dreamed about, if not more. 
+So: it's ok to feel all the feels. It's ok to take as long as you need to be confused and unsure and not to have a plan. It's ok not to know how long you'll need to figure it out and despair because of it. I can't promise you that things will work out like you hope or expect, but I can safely tell you that new and unexpected things can be just as satisfying as the things you dreamed about, if not more. 
 
 
 &nbsp;
