@@ -1,0 +1,44 @@
+---
+title: Rejection sucks
+layout: default
+comments: true
+permalink: /blog/rejection-sucks/
+categories:
+  - academia, interviews
+tags:
+  - academia, interviews, jobs, linguistics
+---
+
+**Rejection sucks.** I could end the post here. (But I won't.) 
+
+## Rejection sucks
+
+It's a fact of life that we're not going to always get what we want. Rejection is a part of life. But it seems to be a part of the academic life *even more*. Whether it be not getting into grad school, not getting a grant or a fellowship, having an abstract or paper rejected, or not getting a job. *Getting rejected is a part of the academic life not only at transition points such as applying for grad school or for a job, but at all other times, too*. I think that's what makes it different from other career paths.[^1] 
+
+It doesn't help that there are not that many good departments that fit one's interests, so few jobs, so little money to go around. It doesn't help that papers are usually *years* in the making, from beginning to end, and that the path to publication is rarely smooth. How many of us have carefully crafted grant applications detailing 3--5 years of our lives, describing the people we'd hire and the research questions we'd ask and answer --- a future that is then declined with some negative comments about our work and even our person after many months of anticipation? 
+
+I've written [elsewhere](https://hkotek.com/blog/on-the-emotional-toll-of-the-academic-job-market/) about the process of getting excited about the prospects of a job, learning about the location and potential colleagues, the cost of living and neighborhoods, the students and department, potential external collaborators, labs and libraries, and more---then getting unceremoniously (or worse, cruelly and pointedly) [rejected](https://hkotek.com/blog/my-academic-journey/). The higher the hopes, the greater the fall. 
+ 
+*It's easy to get emotionally invested in every single part of the academic life*. Maybe it's even expected. It's also extremely unhealthy. 
+
+
+## Dreams, deferred
+
+As a consequence of continued rejection, **another thing that sucks immensely is having to *rethink your dreams*.**
+
+For the longest time, getting that TT Assistant Professor job was my one and only goal. I was willing to give up *so much* for it.[^2] I worked for over a decade with this one singular goal in mind. Even after some [*extremely* unpleasant experiences](https://hkotek.com/blog/on-leaving-academia/) on the job market, I wasn't ready to walk away from it. I ignored some good advice about setting limits on how many times I'd apply.[^3] Eventually it came down not to some clear predetermined condition such as number of years on the market or outcomes from prior cycles, but to how much longer I felt that I could stick around and still maintain some semblance of mental health. 
+
+Coming to terms with the prospect that I might never achieve my singular goal --- *my dream* --- was very difficult. **It was a grieving process**. It took years. To an extent, I'm still not fully over it. It still hurts. 
+
+There was also a very long time --- years, maybe? --- where I was slowly changing my internal monologue to start thinking about other options, but I didn't have the knowledge or the resolve to do anything about it yet. I'll devote a separate post to that change in internal monologue. In the meantime, though, I spent probably close to 6 months out of every year being sad and anxious, then angry, then tired, then reenergized, then disappointed, rinse, and repeat. 
+
+Being sad and mad and confused and depressed is an unavoidable part of dealing with rejection that leads to broken dreams. I don't think there's any way around it. So I want to end this post not with advice for what to do next (I've written [lots](https://hkotek.com/blog/altac-get-started-exploring-options/) of [more](https://hkotek.com/blog/altac-get-started-doing-prep/) practical [posts](https://hkotek.com/blog/altac-transferable_skills/) about [things](https://hkotek.com/blog/altac-jobs-for-social-scientists/) to [do](https://hkotek.com/blog/altac-guided-self-reflection/) and learn), but with this simple statement: we don't talk about failure and rejection enough, but it happens to all of us, even if we seem (and are!) happy and successful. It really, really sucks. It's ok to feel all the feels. It's ok to take as long as you need to be confused and unsure and not to have a plan. I can't promise you that things will work out like you hope or expect, but I can safely tell you that new and unexpected things can be just as satisfying as the things you dreamed about, if not more. 
+
+
+&nbsp;
+
+#### Notes
+
+[^1]: In this context, I really appreciate the concept of a [shadow CV](https://contemplativemammoth.com/2012/06/08/building-a-shadow-cv/), and [those who talk openly about the failures](https://dynamicecology.wordpress.com/2012/07/10/my-shadow-cv/) in their academic career. Maybe I should make one.
+[^2]: But not everything: from the get-go, I was selective about the locations I applied in.  
+[^3]: It would have been good to set limits of various kinds at the very beginning --- the number of years I'd apply, locations, types of departments, outcomes from prior years, compensation --- but if I'm honest, I simply didn't have all the information I would have needed to make a decision. For one, I had literally no idea what a reasonable salary might be. For another, I was naive about what I'd really have control over vs what would be left up to pure luck. But regardless, I should have had better boundaries. 
