@@ -17,7 +17,7 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     office location: Cambridge, MA
     email: hkotek at alum.mit.edu
 	
-I am a Linguist working at Apple. I am a member of the Natural Language data science team for Siri Understanding. I have expertise in managing all aspects of data collection and analysis efforts for various NLP tasks at scale, including onboarding and training annotators; designing annotation tasks and tools; data sampling; analyzing data for accuracy, consistency, and efficiency; error analysis; implementing improvements to ontology, task design, and annotator training; and reporting to stakeholders. Most recently, my focus has been on data generation, robustness, and safety of Large Language Models. In Fall 2023, I am teaching a [seminar on LLMs at MIT](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/). 
+I am a Linguist working at Apple. I am a member of the Natural Language data science team for Siri Understanding. I have expertise in managing all aspects of data collection and analysis efforts for various NLP tasks at scale, including onboarding and training annotators; designing annotation tasks and tools; data sampling; analyzing data for accuracy, consistency, and efficiency; error analysis; implementing improvements to ontology, task design, and annotator training; and reporting to stakeholders. Most recently, my focus has been on data generation, robustness, and safety of Large Language Models. In Fall 2023, I taught a [seminar on LLMs at MIT](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/). 
 
 I continue to engage in research as a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/), with a focus on LLM safety and efficient data collection. My academic research focused on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly worked on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equity in the field.
 
@@ -29,7 +29,7 @@ Please visit the [about page](/about) for more details concerning my research in
 ✨ ️***NEW***✨  Blog 
 -------------------
 
-### AI ethics ##
+### Responsible AI ###
 
 * [Text-to-image models are shallow in more ways than one (part 2)](/blog/text-to-image-models-ethics/): a discussion of interesting aspects of the images generated in [part 1](/blog/text-to-image-models-shallow-parsing/) with respect to gender, race and ethnicity, age, attractiveness, lexical choices, and image style. In short: the models exhibit biases along all these dimensions, in fairly predictable and yet concerning ways.
 
@@ -39,7 +39,10 @@ Please visit the [about page](/about) for more details concerning my research in
 
 * [Doctors can't get pregnant and other gender biases in ChatGPT](/blog/gender-bias-in-chatgpt/): a writeup of my [Twitter post](https://twitter.com/HadasKotek/status/1648453764117041152) that went viral, illustrating gender biases in ChatGPT.
 
-### Informational posts on the non-academic job market ##
+
+### Informational posts about non-academic jobs ###
+
+* [My non-academic job market journey](/blog/my-altac-journey/): An FAQ-style post answering the most commonly asked questions about my process of leaving academia and finding my first non-academic job. 
 
 * [Job application materials](/blog/job-application-materials/): in this post I share two versions of my academic job application materials, one from my first post-PhD cycle and one from the last cycle. I also share the resume that got me my alt-ac job at the end of that last cycle. 
 
@@ -60,7 +63,9 @@ Please visit the [about page](/about) for more details concerning my research in
 * [Let's talk about terminology](/blog/altac-terminology/): an ongoing master list of industry terminology. 
 
 
-### Academia ##
+### Posts about academia ###
+
+* [Rejection sucks](blog/rejection-sucks/): a post that reflects on just how much rejection sucks, and how it's more a part of the academic life than the life outside it. 
 
 * [Job application materials](/blog/job-application-materials/): in this post I share two versions of my academic job application materials, one from my first post-PhD cycle and one from the last cycle. I also share the resume that got me my alt-ac job at the end of that last cycle. 
 
