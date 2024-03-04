@@ -99,7 +99,7 @@ I never got to this point; but if that narrow set of applications I had started 
 
 I shared my experiences with my colleagues at Yale in real time. They were nothing but supportive. Close friends and family and some of my non-local colleagues knew, too. I wasn't keeping it a secret or asking people I talked to not to repeat the information, but I wasn't posting it on social media or anything, either. I'm pretty sure I didn't used the "open to work" label on LinkedIn, but not for secrecy reasons. As I mentioned, it just all happened very quickly and I didn't end up needing to do some things that would have made sense if it had taken longer. 
 
-I had the opportunity to visit MIT and see my grad advisors in person shortly after accepting the offer, so I just basically announced it to them and to the world (on social media) as a done deal at that point. I think I took many people by surprise; that said, it wasn't a secret to my broader community that I had had multiple bad experiences in previous years, so it shouldn't have come as too much of a shock. 
+I had the opportunity to visit MIT and see my grad advisors in person shortly after accepting the offer, so I just basically announced it to them and to the world (on social media) as a done deal at that point. I think I took many people by surprise; that said, it wasn't a secret to my broader community that I had had multiple bad experiences in previous years, so it shouldn't have come as too much of a shock.[^12] 
 
 Something about your interactions with people changes once they know you're leaving. I think that's a fair concern to keep in mind. Sometimes you have good reasons to suspect people will react poorly and sometimes you just don't know. You can absolutely pick and choose who to share important life decisions with, and when. 
 
@@ -132,3 +132,4 @@ By now, I've come to learn that large companies tend to have their own in-house 
 [^9]: He/him/his, she/her/hers, it/its, they/them/their, the student(s), Mary, etc.
 [^10]: E.g. syntactic position, semantic role, pronouns and proper names, lexical choices -- occupations, violence, romance, kinship term, etc.
 [^11]: In fairness, with an N as small as I had, I probably would have just needed to apply more broadly. It'd have made more sense to rethink the materials only later, with a larger N that would have been more informative. 
+[^12]: In general everyone has been supportive -- my grad advisors, colleagues, friends, family. I'm sure some people were disappointed or have some negative opinions about leaving academia = failure, but at least they haven't shared those thoughts with me. 
