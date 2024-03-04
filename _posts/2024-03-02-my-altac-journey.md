@@ -86,7 +86,6 @@ Also: presentation and writing skills; being able to identify interesting proble
 From my time as faculty (mostly): leading and directing teams (of RAs and TAs); being able to teach both basic and advanced materials, knowing what level the audience needs to be addressed at, being able to give examples and point people to resources; mentoring; ability to design and conduct semi-structured interviews (fieldwork); grant writing and budget administration.
 
 
-
 ### How long would you recommend looking for a job? 
 
 The advice I was given was to start looking 6-8 months before you want to start the new job, and although my process was much faster, that still seems generally reasonable to me. The details will really depend. If you're constrained in location or type of job or compensation you'd entertain, or if the market is saturated in your area because of layoffs, or if there are widespread hiring freezes, or if you need immigration support, then you might need longer. The more criteria you are willing or able to compromise on, the more options will be open to you. But there will always be factors outside your control, so it's hard to know ahead of time. 
@@ -94,6 +93,15 @@ The advice I was given was to start looking 6-8 months before you want to start 
 If you're looking for your first job, it's also harder because you need to justify a career transition and you need to find someone who's willing to take a chance on someone without direct experience in the field. That again might take longer. In this context, it's worth remembering that your first job doesn't have to be your dream job. It's *much* easier to get another job once you are already employed in the field. It's totally fine and normal to leave a job after 12-18 months for a better opportunity, so you're not stuck just because your first job isn't the perfect fit. In general, your career path is much more flexible outside academia and there will always be multiple options for your next career move at any point. 
 
 I never got to this point; but if that narrow set of applications I had started with hadn't yielded the right results, the two next steps would have been (a) re-inspecting my materials to try to figure out whether there's something about them that wasn't landing right with hiring managers or recruiters (in case I wasn't getting interviews) or if I needed more interview prep (if I was getting interviews but no offers), and also (b) expanding the scope of what I was looking for in terms of type of job and location.[^11] 
+
+
+### Did you share with your advisors that you were actively looking to leave academia? 
+
+I shared my experiences with my colleagues at Yale in real time. They were nothing but supportive. Close friends and family and some of my non-local colleagues knew, too. I wasn't keeping it a secret or asking people I talked to not to repeat the information, but I wasn't posting it on social media or anything, either. I'm pretty sure I didn't used the "open to work" label on LinkedIn, but not for secrecy reasons. As I mentioned, it just all happened very quickly and I didn't end up needing to do some things that would have made sense if it had taken longer. 
+
+I had the opportunity to visit MIT and see my grad advisors in person shortly after accepting the offer, so I just basically announced it to them and to the world (on social media) as a done deal at that point. I think I took many people by surprise; that said, it wasn't a secret to my broader community that I had had multiple bad experiences in previous years, so it shouldn't have come as too much of a shock. 
+
+Something about your interactions with people changes once they know you're leaving. I think that's a fair concern to keep in mind. Sometimes you have good reasons to suspect people will react poorly and sometimes you just don't know. You can absolutely pick and choose who to share important life decisions with, and when. 
 
 
 ### So, what do you know about immigration and non-academic jobs? 
