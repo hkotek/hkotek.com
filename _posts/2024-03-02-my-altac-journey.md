@@ -69,7 +69,7 @@ Aside from that, job interviews generally tended to be divided into:
 - **knowledge representation** interviews, which were about ontology/taxonomy/knowledge engineering and occasionally also annotation project design and approach to guidelines, 
 - **project management** interviews, which were about, well, project management experience, 
 - **product sense** interviews, which were about how to approach products from a business-minded perspective,
-- **technical interviews**, which tended to consist of one or two python problems and perhaps a writing simple SQL query, or data analysis questions, done in real time on the board, and 
+- **technical interviews**, which tended to consist of one or two python problems and perhaps writing a simple SQL query, or data analysis questions, done in real time on the board, and 
 - **behavioral interviews**, which are those "tell me about a time when..." story-based questions, which you should definitely prep for because most of us can't just pull STAR-based stories for major events in our lives off the top of our heads. 
 
 The question of why I was leaving academia almost never came up, and when it did a simple answer was enough. Something like "there are things I really enjoy about academia but there are things I want to prioritize now that I haven't found there, such as the ability to choose where I live, better compensation, fast-paced team-based work, and a high impact product". 
