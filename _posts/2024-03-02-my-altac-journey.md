@@ -1,5 +1,5 @@
 ---
-title: [FAQ] My non-academic job market journey
+title: \[FAQ\:\] My non-academic job market journey
 layout: default
 comments: true
 permalink: /blog/my-altac-journey/
