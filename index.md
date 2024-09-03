@@ -17,13 +17,16 @@ Hadas Kotek <span id="playbutton" onclick="document.getElementById('audio').play
     office location: Cambridge, MA
     email: hkotek at alum.mit.edu
 	
-I am a Linguist working at Apple. I am a member of the Natural Language data science team for Siri Understanding. I have expertise in managing all aspects of data collection and analysis efforts for various NLP tasks at scale, including onboarding and training annotators; designing annotation tasks and tools; data sampling; analyzing data for accuracy, consistency, and efficiency; error analysis; implementing improvements to ontology, task design, and annotator training; and reporting to stakeholders. Most recently, my focus has been on data generation, robustness, and safety of Large Language Models. In Fall 2023, I taught a [seminar on LLMs at MIT](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/). 
+I am a machine learning researcher and linguist working at Apple. I am a member of Responsible AI team, currently leading the data and evaluation efforts for the Apple Intelligence. In this role, I focus on identifying, evaluating, and developing mitigation strategies for harms and biases in customer-facing products that use Apple's Large Language Models. I have expertise in managing all aspects of data generation, annotation, red-teaming, model evaluation, and data analysis for ML models at scale--- including onboarding and training annotators; designing annotation tasks and tooling; data sampling; data analysis for annotation accuracy, consistency, and efficiency; error analysis; model evaluation; insight distillation; and reporting to stakeholders. 
 
-I continue to engage in research as a Research Affiliate at [MIT linguistics](https://linguistics.mit.edu/user/hkotek/), with a focus on LLM safety and efficient data collection. My academic research focused on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly worked on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives. I additionally have an ongoing interest in studying and contributing to equity in the field.
+I additionally maintain an affiliation with the [MIT Department of Linguistics](https://linguistics.mit.edu/user/hkotek/), and continue to engage in research and publication as part of my role at Apple and as my role at MIT. My publications have focused on NLP, human-in-the-loop annotation, efficient data collection, question answering, visual understanding, and Responsible AI. In Fall 2024, I am teaching a [seminar on LLMs at MIT](https://linguistics.mit.edu/s90_f24/), open to undergraduate and graduate students in the Boston area. Check out the syllabus and blurb on my [teaching](/teaching) page.
 
-I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale and a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. 
+I am currently a member of the Executive Committee of the \href{https://www.lsadc.org/}{Linguistic Society of America (LSA)}, Chair of the \href{https://genderinlinguistics.org/}{LSA Committee on Gender Equity in Linguistics}, and a member of the \href{https://www.lsadc.org/AF_MemberCommittee.asp?committeeid=16}{LSA Committee on Linguistic Institutes and Fellowships}. Most recently, I am a co-organizer of \href{https://www.lsadc.org/content.asp?contentid=407}{LEXING: Linguists in Industry, Non-profits, and Government}, a symposium co-located with the LSA Annual Meeting in January 2025, bringing together linguists working outside academia in all sectors and careers. 
 
-Please visit the [about page](/about) for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
+I received my PhD in Linguistics from MIT in 2014, with a dissertation on the syntax, semantics, and processing of questions. Prior to joining Apple, I was a Lecturer in Semantics at Yale and a Visiting Assistant Professor in Syntax at NYU, and I have held a Mellon Postdoctoral Fellowship at McGill University. My academic research focused on different aspects of the syntax-semantics interface, using both traditional and experimental methods. I mainly worked on A-bar phenomena, including wh-questions, focus constructions, relative clauses and free relatives, ellipsis, wh-indefinites, (focus) intervention effects, and comparatives and superlatives.
+
+
+Please visit my [About](/about) page for more details concerning my research interests and my academic history. See my [resume](KotekResume-2col.pdf), my [academic CV](KotekCV.pdf), my [MIT linguistics user page](https://linguistics.mit.edu/user/hkotek/), or my [LinkedIn page](https://www.linkedin.com/in/hadas-kotek-phd/) for additional details.
 
 
 ✨ ️***NEW***✨  Blog 
@@ -81,6 +84,7 @@ Please visit the [about page](/about) for more details concerning my research in
 
 Science and other outreach 
 --------------------------
+* The Intersection of AI and Gender: Safety issues in LLMs. Panel at [Grace Hopper](https://ghc.anitab.org/session-catalog/?search=safety#/), October 2024.
 
 * LSA Summer Institute at UMass: [Careers in Language Technologies](https://blogs.umass.edu/lingstitute2023/courses/careers-in-language-technology/), a 4-lecture series, summer 2023. 
 
@@ -101,6 +105,10 @@ Science and other outreach
 
 Newest work
 -----------
+### Technical Report ###
+
+* Apple Authors (including Hadas Kotek). 2024. [**Apple Intelligence Foundation Language Models**](https://arxiv.org/pdf/2407.21075)
+
 
 ### Peer reviewed conference papers: ###
 
