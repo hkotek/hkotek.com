@@ -42,11 +42,11 @@ And when you *do* learn something new, likewise there's usually no reason to sta
 ## Lots of other things
 
 There are lots of other things I could add here. Briefly: 
-- **The general length of a project** (in industry, you won't really have a project that's multi-year or even multi-quarter that's not well-defined and periodically re-assessed and re-scoped. Your academic projects can easily stretch into years with no one checking in on you; I don't know that that's such a good thing, though.)
-- **Feedback loops** (in industry, you'll mostly get feedback from internal people who want your project to succeed. They will often also help you fix whatever issue they are pointing out. In academia, feedback is often slower and is mostly external, from reviewers who aren't at all invested in your success and who are often just trying to find what's wrong with your work. I really *really* hated the nature of feedback in academia.)
-- **Product orientation** (in industry, if you're not on a pure research team, it may be harder to do something just because it's interesting)
-- **Being tied to the product release schedule** (a corollary of the above, though even for me that's not always been a constant. I've had roles that are more removed from the release cycle and ones that are very strongly tied to it)
-- **Independence** (I have lots of it in industry, I had lots of it in academia. Not everyone will, and it's a big trope of why academia is better, but let's be honest here. There are money and other practical considerations on both sides.)
+- **The general length of a project**. In industry, you won't really have a project that's multi-year or even multi-quarter that's not well-defined and periodically re-assessed and re-scoped. Your academic projects can easily stretch into years with no one checking in on you; I don't know that that's such a good thing, though.
+- **Feedback loops**. In industry, you'll mostly get feedback from internal people who want your project to succeed. They will often also help you fix whatever issue they are pointing out. In academia, feedback is often slower and is mostly external, from reviewers who aren't at all invested in your success and who are often just trying to find what's wrong with your work. I really *really* hated the nature of feedback in academia.
+- **Product orientation**. In industry, if you're not on a pure research team, it may be harder to do something just because it's interesting.
+- **Being tied to the product release schedule**. A corollary of the above, though even for me that's not always been a constant. I've had roles that are more removed from the release cycle and ones that are very strongly tied to it.
+- **Independence**. I have lots of it in industry, I had lots of it in academia. Not everyone will, and it's a big trope of why academia is better, but let's be honest here. There are money and other practical considerations on both sides.
 
 I can immediately think of 5 other things to add, but I think I'll stop here. 
 
