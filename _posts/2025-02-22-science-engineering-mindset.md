@@ -1,5 +1,5 @@
 ---
-title: Science vs engineering mindset (Academia vs Industry)
+title: A science vs Engineering mindset (aka Academia vs Industry)
 layout: default
 comments: true
 permalink: /blog/science-engineering-mindset/
@@ -9,21 +9,22 @@ tags:
   - academia, altac, 
 ---
 
-I occasionally get asked varions on the common theme of "what are the biggest differences between academia and industry" or "what were some things you weren't expecting when you started your first industry job". While the latter is hard for me to remember clearly by now, the former is easier to answer. 
+I occasionally get asked variations on the common theme of "what are the biggest differences between academia and industry" or "what were some things you weren't expecting when you started your first industry job". While the latter is hard for me to remember clearly by now, the former is easier to answer. 
 
 ## An engineering mindset
 
 The best way I am able to explain the main difference between industry and academia is as follows: 
 
-> If you have a theory that explains 98%[^1] of your data, but which fails to explain the remaining 2%, you unequivocally have the *wrong* theory. On the other hand, if you have an engineering solution that covers 98% of use cases, but which fails to cover the remaining 2%, you probably have a *really great* solution. 
+> **If you have a theory that explains 98% of your data, but which fails to explain the remaining 2%, you unequivocally have the *wrong* theory. 
+> On the other hand, if you have an engineering solution that covers 98% of use cases, but which fails to cover the remaining 2%, you probably have a *really great* solution.** 
 
-Science and research often live in those small margins that differentiate one theory from the other. All of them will cover the "core" data pertaining to the relevant phenomenon of interest, and it's really not too interesting to spend time on them other than to show a baseline. The work is in those details. 
+Science and research often live in those small margins that differentiate one theory from the other. All of them will cover the "core" data pertaining to the relevant phenomenon of interest, and it's really not too interesting to spend time on them other than to show a baseline. The work is in those details, or in expanding the coverage to new cases and new details we didn't originally think about. 
 
-In fact, my entire research program as a linguist focused on constructions that are incredibly rare in everyday usage, but where theories nonetheless make clear predictions. Those predictions can allow us to distinguish one theory from the other--and perhaps also learn something deep about the underlying nature of Grammar.[^2] 
+My entire research program as a linguist focused on constructions that are incredibly rare in everyday usage, but where theories nonetheless make clear (and disparate) predictions. Those predictions allow us to distinguish one theory from another, and argue in favor or against prevailing theories---and perhaps also learn something deep about the underlying nature of Grammar in the process.[^1] 
 
-Engineering work, on the other hand, often focuses on the major use cases the system is built for. We want a solution that works for most users most of the time. There's always going to be a long tail of issues we may not cover with our general solution. But, (a) if it's not something anyone actually needs the system for, then who cares if it does something odd or just doesn't work? We may never "fix" those issues. And (b) if we do need to address those peripheral use cases, we might just write some override, or special rule, to hard-code what we want the system to do, and call it a day. It's not ideal, but it works, and it doesn't make the general solution "bad" or "wrong".[^3] 
+Engineering work, on the other hand, often focuses on the major use cases the system is built for. There's always going to be a long tail of issues we may not cover with our general solution. But, (a) if it's not something anyone actually needs the system for, then who cares if it does something odd or just doesn't work? We may never "fix" those issues. And (b) if we do need to address these issues, we might just write some override, or special rule, to hard-code what we want the system to do, and call it a day. It's not ideal, but it works, and it doesn't make the general solution "bad" or "wrong".[^2] 
 
-You may think that writing a list of exceptions means the system is obviously wrong. On occasion, you can clearly point to how the solution doesn't align with scientific research. But imperfect doesn't necessarily mean wrong or bad. And pointing out that the solution doesn't align with Theory or (in the case of Language Models) *isn't how people do it* isn't usually helpful. It might get you marked as someone who doesn't care about the right things.
+You may think that writing a list of exceptions means the system is obviously imperfect.[^3] On occasion, you can clearly point to how the solution doesn't align with scientific research. But imperfect doesn't necessarily mean wrong or bad. And pointing out that the solution doesn't align with Theory or (in the case of Language Models) *isn't how people do it* isn't usually helpful. It might get you marked as someone who doesn't prioritize about the right things.
 
 This is absolutely not to say that there is no room for insights from scientific research in industry. But you have to learn how to pick your battles, and you have to demonstrate how the research insights will practically support the engineering work that you are doing.[^4] If you can do this, I promise you'll be a rockstar! 
 
@@ -42,19 +43,24 @@ When you do learn something new, likewise there's usually no reason to start fro
 
 There are lots of other things I could add here. Briefly: 
 - The general length of a project (in industry, you won't really have a project that's multi-year or even multi-quarter that's not well-defined and periodically re-assessed and re-scoped. Your academic projects can easily stretch into years with no one checking in on you; I don't know that that's such a good thing, though.)
+- Feedback loops (in industry, you'll mostly get feedback from internal people who want your project to succeed. They will often also help you fix whatever issue they are pointing out. In academia, feedback is often slower and is mostly external, from reviewers who aren't at all invested in your success and who are often just trying to find what's wrong with your work. I really *really* hated the nature of feedback in academia.)
 - Product orientation (in industry, if you're not on a pure research team, it may be harder to do something just because it's interesting)
 - Being tied to the product release schedule (a corollary of the above, though even for me that's not always been a constant. I've had roles that are more removed from the release cycle and ones that are very strongly tied to it)
-- Independence (I have lots of it in industry, I had lots of it in academia. Not everyone will, and it's a big trope of why academia is better, but let's be honest here. There are money considerations on both sides.)
+- Independence (I have lots of it in industry, I had lots of it in academia. Not everyone will, and it's a big trope of why academia is better, but let's be honest here. There are money and other practical considerations on both sides.)
 
 I can immediately think of 5 other things to add, but I think I'll stop here. 
 
 
 &nbsp;
+*As always on this blog, this is a very tech-centric perspective. Your Mileage May Vary.*
+
+&nbsp;
+
 
 #### Notes
 
-[^1]: I usually use "95%"" when I give this example to people in conversation. I could probably also use "90%." It really depends on the system and how concentrated or distributed its coverage is. If you can write a small set of rules to capture, say, 10% of cases that your main system doesn't handle directly, you're probably still golden.  
-[^2]: For example, multiple *wh*-questions that may be superiority-obeying or violating, and may or may not also contain an intervener ("which book didn't which student read?"). Or dispreferred readings of quantified statements ("most of the circles are blue" meaning something like "there are more blue circles than any other color, but perhaps less than 50% in total"). Given that they are generally super uncommon sentences, but people still have surprisingly consistent intuitions that you can bring out in a variety of experiments or in careful elicitation, you can learn quite a lot about Grammar by closely studying these judgment patterns.   
-[^3]: Though at some point if there are too many of these exceptions, especially if they become contradictory or unmanageable, that may be a strong argument for redoing the system. (The very legit counter-argument always being "why mess with something that's already working?")
+[^1]: For example, multiple *wh*-questions that may be superiority-obeying or violating, and may or may not also contain an intervener ("which book didn't which student read?"). Or dispreferred readings of quantified statements ("most of the circles are blue" meaning something like "there are more blue circles than any other color, but perhaps less than 50% in total"). Given that they are generally super uncommon sentences, but people still have surprisingly consistent intuitions that you can bring out in a variety of experiments or in careful elicitation, you can learn quite a lot about Grammar by closely studying these judgment patterns.   
+[^2]: One way in which it *may* be bad is if those exceptions disproportionately affect a particular group of users, or use cases that are commonly used by some group but not others. For example, if your system inherently works for white men better than it does for Black women, you should fix that in a comprehensive way, not using some patchwork. (If you got as far as identifying that's a problem and are using some manual fix in the meantime, you're probably already thinking ahead and are aware of potential obstacles to redoing the system as a whole, so I do acknowledge that those patches are not all bad, either.)
+[^3]: In fact, at some point if there are too many of these exceptions, especially if they become contradictory or unmanageable, or if you are using them to patch over systemic biases, that may be a strong argument for redoing the system. (The very legit counter-argument always being "why mess with something that's already working?") All the same, the mere existence of some overrides doesn't make a system bad. 
 [^4]: I'd be willing to bet my lunch money that the famous Fred Jelinek quote "Every time I fire a linguist, the performance of the speech recognizer goes up" is the result of him working with a small set of linguists who weren't picking the right battles. 
 
