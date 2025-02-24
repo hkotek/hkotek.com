@@ -53,7 +53,7 @@ I can immediately think of 5 other things to add, but I think I'll stop here.
 
 &nbsp;
 
-*As always on this blog, this is a very tech-centric perspective. Your Mileage May Vary.*
+*As always on this blog, this is a very tech-centric perspective. It's also a very theoretical linguistics/social science perspective. Your Mileage May Vary.*
 
 &nbsp;
 
