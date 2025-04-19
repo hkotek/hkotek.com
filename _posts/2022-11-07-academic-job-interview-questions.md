@@ -1,5 +1,5 @@
 ---
-title: Academic job interview questions
+title: The bit list of academic job interview questions
 layout: default
 comments: true
 permalink: /blog/academic-job-interview-questions/
