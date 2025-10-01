@@ -9,7 +9,9 @@ tags:
   - academia, altac, 
 ---
 
-For the last many months, I've been hiring data scientists to join my team. We're on a bit of an expansion spree, hoping to go from 4 to 7 by the end of the year. My job posting just got re-upped and I made a new LinkedIn post advertising my role, which means I am getting dozens and dozens of messages on linkedin, slack, my personal email, and my work email. Here is my list of "don'ts" based on my experience from last time I did this. It's advice post #17,944 on this topic on the internet from the last month alone, no doubt, and YMMV---but at least this is my take on it. Advice in no particular order. 
+Over the past few months, I've been hiring data scientists to join my Responsible AI Human Evaluation team. We're on a bit of an expansion spree. My job posting just got re-upped and I made a new LinkedIn post advertising my role again, which means I am getting dozens and dozens of messages on linkedin, slack, text, my personal email, my work email, and carrier pigeon. 
+
+Below is my list of "don'ts" based on my experience from last time my posting was republished. It's advice post #17,944 on this topic from the last month alone, no doubt, and YMMV---but at least this is my take on it. Advice in no particular order. 
 
 ## LinkedIn and messaging
 
@@ -29,13 +31,14 @@ For the last many months, I've been hiring data scientists to join my team. We'r
 
 * don't include emojis in your name. 💸📈 may alphabetize you first but it just means I'll be moving you to the reject pile sooner. 
 * for the love of $DEITY include your name in your resume file name. You would not believe how many "cv (1).pdf" files I have saved in my Downloads folder. "<my job title>-resume.pdf" also isn't helpful.
-* if you are Kyle, maybe reconsider your fit for the role.
-
-<img src="https://hkotek.com/apply-like-kyle.png" width="80%" />
-
 * I don't know if all systems do this, but I am able to see how many roles you applied for at my company. I have strong reservations about considering someone who's applied to hundreds of roles, it very likely means you are not the specialist I am looking for
 * don't imply you have 4 years experience doing X when you've held a job for 6 months and also had a summer internship for 2 months 3 years prior. That's not how this works.
 * don't write a cover letter or message with ChatGPT, that's a red flag to me 
+* oh, and if you are Kyle, maybe reconsider your fit for the role.
+
+<img src="https://hkotek.com/apply-like-kyle.png" width="70%" />
+
+## Final words
 
 I understand you get lots of conflicting advice, and there is more than one correct way of doing things. All I want is a brief message directly touching on the points in my post (I say very explicitly what I am looking for and what I am not), with a resume attached. It's ok to follow up if I didn't respond, but (a) give it time, and (b) understand that I get literally hundreds of messages and I can only respond to so many. Have patience and grace, I will try to do the same. And if you're on the market -- good luck, it's tough out there. 
     
