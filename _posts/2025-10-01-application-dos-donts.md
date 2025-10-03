@@ -23,7 +23,7 @@ Below is my list of "don'ts" based on my experience from last time my posting wa
 * don't send a message requesting a meeting so you can tell me more about yourself or learn about the position[^2]
 * I know you read the advice of repeating words from the ad in your application, and I understand that makes sense in the context of automated tooling. It borders on creepy when you are writing a supposedly personalized message. It doesn't have the desired effect
 * ideally, don't misspell my name (this is not immediately disqualifying, but I'll notice)
-* if someone includes their title (Dr, PhD, etc) in their profile name, maybe don't call them Mrs
+* if someone includes their title (Dr, PhD, etc) in their profile name, maybe don't call them Mrs[^3]
 * if you don't know someone's gender or pronouns, it is extremely easy to not make assumptions. English doesn't force you to mark gender pretty much anywhere
 * don't send me three "reminders" three days in a row if I have not responded to your message
 
@@ -53,4 +53,5 @@ I understand you get lots of conflicting advice, and there is more than one corr
 #### Notes
 
 [^1]: I've learned this is a Smart Reply suggested by LinkedIn. It's not very smart. 
-[^2]: In the past ~24 hours I have received roughly 500 messages about my re-upped job ad and LinkedIn post. I absolutely can't take meetings with every person who "wants to learn more", there are simply not enough hours in the day. 
+[^2]: In the past ~24 hours, I have received roughly 500 messages about my re-upped job ad and LinkedIn post. I absolutely can't take meetings with every person who "wants to learn more", there are simply not enough hours in the day. 
+[^3]: Feel free to call me Hadas! I just don't enjoy [untitling](https://www.linkedin.com/pulse/untitling-form-microaggression-pam-jackson-phd-cphq/) 
