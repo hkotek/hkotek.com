@@ -20,6 +20,7 @@ Below is my list of "don'ts" based on my experience from last time my posting wa
 * don't send a message saying "I'm interested, can you check if I am qualified?" No, I do not have that kind of time, that's your job
 * don't send a message with questions like "I'm interested, could you tell me more about the position"; that's too broad. The ad tells you a lot already, what specifically do you want to know?
 * don't send a message that asks a question that's clearly answered in the ad already
+* don't send a message requesting a meeting so you can tell me more about yourself or learn about the position[^2]
 * I know you read the advice of repeating words from the ad in your application, and I understand that makes sense in the context of automated tooling. It borders on creepy when you are writing a supposedly personalized message. It doesn't have the desired effect
 * ideally, don't misspell my name (this is not immediately disqualifying, but I'll notice)
 * if someone includes their title (Dr, PhD, etc) in their profile name, maybe don't call them Mrs
@@ -52,3 +53,4 @@ I understand you get lots of conflicting advice, and there is more than one corr
 #### Notes
 
 [^1]: I've learned this is a Smart Reply suggested by LinkedIn. It's not very smart. 
+[^2]: In the past ~24 hours I have received roughly 500 messages about my re-upped job ad and LinkedIn post. I absolutely can't take meetings with every person who "wants to learn more", there are simply not enough hours in the day. 
