@@ -17,11 +17,11 @@ Technical report
 Proceedings papers (NLP, papers reviewed)
 -----------------------------------------
 
-2025 
-: Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov. 2025. [**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**](https://arxiv.org/abs/2410.02707). The Thirteenth International Conference on Learning Representations (ICLR). 
+2024 
+: Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov. 2024. [**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**](https://arxiv.org/abs/2410.02707). The Thirteenth International Conference on Learning Representations (ICLR). 
 
-2025
-: Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2025. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
+2024
+: Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2024. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
 
 2023
 : Hadas Kotek, Rikker Dockum, and David Q. Sun. 2023. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 

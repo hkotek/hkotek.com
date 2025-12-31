@@ -12,7 +12,7 @@ This work explores the representation of gender in linguistics through the lens 
 
 In earlier co-authored work, we replicated and extended an influential norming study of occupation-denoting nouns, showing that biases and stereotypes associated with men and women have hardly changed between 2003 and 2016.
 
-2025
+2024
 : Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2025. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
 
 2023
@@ -40,11 +40,11 @@ NLP
 ---
 This is joint work with members of the Siri and Language Technologies Data Science team and other collaborators. 
 
-2025 
-: Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov. 2025. [**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**](https://arxiv.org/abs/2410.02707). The Thirteenth International Conference on Learning Representations (ICLR). 
+2024 
+: Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov. 2024. [**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**](https://arxiv.org/abs/2410.02707). The Thirteenth International Conference on Learning Representations (ICLR). 
 
-2025
-: Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2025. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
+2024
+: Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2024. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
 
 2023
 : David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
