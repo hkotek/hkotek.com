@@ -54,4 +54,4 @@ I understand you get lots of conflicting advice, and there is more than one corr
 
 [^1]: I've learned this is a Smart Reply suggested by LinkedIn. It's not very smart. 
 [^2]: In the past ~24 hours, I have received roughly 500 messages about my re-upped job ad and LinkedIn post. I absolutely can't take meetings with every person who "wants to learn more", there are simply not enough hours in the day. 
-[^3]: Feel free to call me Hadas! I just don't enjoy [untitling](https://www.linkedin.com/pulse/untitling-form-microaggression-pam-jackson-phd-cphq/) 
+[^3]: Feel free to call me Hadas! I just don't enjoy [untitling](https://www.linkedin.com/pulse/untitling-form-microaggression-pam-jackson-phd-cphq/). 

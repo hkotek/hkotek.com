@@ -108,6 +108,8 @@ Newest work
 -----------
 ### Technical Report ###
 
+* Apple Authors (including Hadas Kotek). 2025. [**Apple Intelligence Foundation Language Models: Tech Report 2025**](https://arxiv.org/abs/2507.13575)
+
 * Apple Authors (including Hadas Kotek). 2024. [**Apple Intelligence Foundation Language Models**](https://arxiv.org/pdf/2407.21075)
 
 

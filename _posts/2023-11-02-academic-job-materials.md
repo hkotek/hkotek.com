@@ -1,5 +1,5 @@
 ---
-title: Job application materials
+title: My job application materials (with links)
 layout: default
 comments: true
 permalink: /blog/job-application-materials/

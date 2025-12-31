@@ -12,6 +12,12 @@ This work explores the representation of gender in linguistics through the lens 
 
 In earlier co-authored work, we replicated and extended an influential norming study of occupation-denoting nouns, showing that biases and stereotypes associated with men and women have hardly changed between 2003 and 2016.
 
+2025
+: Hadas Kotek, David Q. Sun, Zidi Xiu, Margit Bowler, Christopher Klein. 2025. [**Protected group bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2403.14727). The 101st Annual Meeting of the Linguistic Society of America (LSA).
+
+2023
+: Kotek, Hadas, Rikker Dockum, and David Q. Sun. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
+
 2021
 : Cepeda, Paola, Hadas Kotek, Katharina Pabst, and Kristen Syrett. [**Gender bias in linguistics textbooks: Has anything changed since Macaulay & Brice (1997)?**](https://muse.jhu.edu/article/840953). *Language* 97(4): 678--702.
 
@@ -42,9 +48,6 @@ This is joint work with members of the Siri and Language Technologies Data Scien
 
 2023
 : David Q. Sun, Artem Abzaliev, Hadas Kotek, Zidi Xiu, Christopher Klein, Jason D. Williams. 2023. [**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**](https://arxiv.org/abs/2310.18130). The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-
-2023
-: Kotek, Hadas, Rikker Dockum, and David Q. Sun. [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921). ACM Collective Intelligence conference. 
 
 2023
 : Xiu, Zidi, Kai-Chen Cheng, David Q. Sun, Jiannan Lu, Hadas Kotek, Yuhan Zhang, Paul McCarthy, Christopher Klein, Stephen Pulman, Jason D. Williams. [**Feedback Effect in User Interaction with Intelligent Assistants: Delayed Engagement, Adaption and Drop-out**](https://arxiv.org/abs/2303.10255). The 27th meeting of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD).
