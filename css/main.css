@@ -412,7 +412,8 @@ img.headshot {
 
 /* Post tags */
 .post-tags {
-  margin-top: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em; 
   font-size: 0.9em;
 }
 
@@ -420,9 +421,10 @@ img.headshot {
   text-decoration: none;
   color: #444;
   background: #f2f2f2;
-  padding: 3px 6px;
+  padding: 3px 7px;
   border-radius: 4px;
-  margin-right: 4px;
+  margin-right: 6px;
+  font-size: 0.9em;
   display: inline-block;
 }
 
@@ -515,3 +517,9 @@ img.headshot {
   }
 }
 
+/* =========================
+   Comments section spacing
+   ========================= */
+.post-comments {
+  margin-top: 2em; /* space between tags and comments */
+}
