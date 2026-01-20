@@ -4,6 +4,7 @@ layout: default
 permalink: /blog/
 ---
 
+
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
