@@ -4,7 +4,7 @@ layout: default
 comments: true
 permalink: /blog/on-leaving-academia/
 categories:
-  - academia,
+  - academia
 tags:
   - academia
   - reflections

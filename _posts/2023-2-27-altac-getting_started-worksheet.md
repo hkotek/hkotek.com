@@ -4,7 +4,7 @@ layout: default
 comments: true
 permalink: /blog/altac-guided-self-reflection/
 categories:
-  - 
+  - altac
 tags:
   - jobs
   - altac
