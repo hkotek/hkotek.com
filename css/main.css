@@ -446,6 +446,7 @@ img.headshot {
 .post-list .post-link {
   color: green;
   font-weight: bold; /* bold links */
+  font-size: 1.2em; 
   text-decoration: none;
 }
 
@@ -455,7 +456,7 @@ img.headshot {
 
 .post-list .post-meta {
   display: block; /* date on new line */
-  font-size: 0.9em;
+  font-size: 1em;
   color: #666;
   margin-top: 2px;
 }
