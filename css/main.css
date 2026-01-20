@@ -459,3 +459,58 @@ img.headshot {
   color: #666;
   margin-top: 2px;
 }
+
+/* =========================
+   Blog tags section (cloud/pills)
+   ========================= */
+.blog-tags-section {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 2px solid #ccc; /* separates from posts */
+}
+
+.blog-tags-section h2 {
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  color: #333;
+}
+
+/* List container */
+.blog-tags-section .tag-list {
+  list-style: none;       /* remove bullets */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;        /* wrap long lists to next line */
+  gap: 8px;               /* spacing between tags */
+}
+
+/* Each tag as a pill */
+.blog-tags-section .tag-list li {
+  display: inline-block;  /* inline for pills */
+  margin-bottom: 6px;
+}
+
+.blog-tags-section .tag-list a {
+  text-decoration: none;
+  color: #444;
+  background: #f2f2f2;
+  padding: 5px 10px;
+  border-radius: 20px;   /* pill shape */
+  font-size: 0.9em;
+  display: inline-block;
+  transition: background 0.2s ease;
+}
+
+.blog-tags-section .tag-list a:hover {
+  background: #e0e0e0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .blog-tags-section .tag-list a {
+    padding: 4px 8px;
+    font-size: 0.85em;
+  }
+}
+
