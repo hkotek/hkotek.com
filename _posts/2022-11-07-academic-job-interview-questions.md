@@ -9,8 +9,6 @@ tags:
   - academia 
   - interviews
   - jobs
-  - long-list
-  - short-list
   - linguistics
   - reflections
 ---
