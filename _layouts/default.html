@@ -21,7 +21,6 @@
             {% if item.path != 'index.md'
                and item.path != 'personal.md'
                and item.path != 'blog/index.md'
-               and item.path != 'blog/index.html'
                and item.path != 'tags/index.html'
                and item.path != 'archive/info-interview-questions.md'
                and item.path != 'archive/altac-jobs-for-social-scientists.md'
@@ -50,6 +49,9 @@
 
       <!-- Main content -->
       <div id="content">
+        {% if page.title %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
         {{ content }}
       </div>
 
