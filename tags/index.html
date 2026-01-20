@@ -1,0 +1,16 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+
+<ul class="tag-menu">
+{% for tag in site.tags %}
+  <li>
+    <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
+      {{ tag[0] }}
+    </a>
+    <span class="tag-count">({{ tag[1].size }})</span>
+  </li>
+{% endfor %}
+</ul>
