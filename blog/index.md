@@ -12,7 +12,7 @@ show_tag_menu_link: true
 {% endif %}
 
 <ul class="post-list">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 	<li>
 	
 		<h3 style="margin-bottom: 5px">
