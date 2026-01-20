@@ -3,9 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>
-      Hadas Kotek{% if page.path != 'index.md' %}: {{ page.title }}{% endif %}
-    </title>
+    <title>Hadas Kotek{% if page.title %}: {{ page.title }}{% endif %}</title>
     <meta name="description" content="">
     <meta name="viewport" content="initial-scale=1.0">
 
@@ -16,43 +14,70 @@
   <body>
     <div id="container">
 
+      <!-- Navigation -->
       <div id="menu">
         <ul>
           <li><a href="/">Home</a></li>
-          
+
           {% for item in site.pages %}
             {% if item.path != 'index.md'
-              and item.path != 'personal.md'
-              and item.path != 'blog/index.md'
-              and item.path != 'tags/index.html'
-              and item.path != 'archive/info-interview-questions.md'
-              and item.path != 'archive/altac-jobs-for-social-scientists.md' 
-              and item.nav_exclude != true
-              %}
+               and item.path != 'personal.md'
+               and item.path != 'blog/index.md'
+               and item.path != 'tags/index.html'
+               and item.path != 'archive/info-interview-questions.md'
+               and item.path != 'archive/altac-jobs-for-social-scientists.md'
+               and item.nav_exclude != true %}
               <li {% if item.url == page.url %}class="active"{% endif %}>
                 <a href="{{ item.url }}">{{ item.title }}</a>
               </li>
             {% endif %}
           {% endfor %}
 
-          {% comment %} ugly special-casing for personal.md {% endcomment %}
+          <!-- Special case for personal.md -->
           <li {% if page.path == 'personal.md' %}class="active"{% endif %}>
             <a href="/personal.html">Personal</a>
           </li>
+
           <li><a href="/KotekCV.pdf">Academic CV</a></li>
           <li><a href="/KotekResume-2col.pdf">Resume</a></li>
           <li><a href="/blog/">Blog</a></li>
         </ul>
       </div>
 
+      <!-- Main Content -->
       <div id="content">
-        {% if page.path != 'index.md' %}
-          {{ content }}
+
+        <!-- Blog page header and "Browse by tag" -->
+        {% if page.permalink == '/blog/' %}
+          <div class="blog-header">
+            <h1 class="blog-title">Posts</h1>
+            {% if page.show_tag_menu_link %}
+              <a class="blog-tag-link" href="{{ site.baseurl }}/tags/">Browse by tag</a>
+            {% endif %}
+          </div>
         {% endif %}
+
+        <!-- Render page content -->
+        {{ content }}
+
       </div>
 
     </div>
 
     <!-- Analytics scripts unchanged -->
+    <script>
+      var _gaq=[['_setAccount','UA-29612003-2'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q592WT3G49"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Q592WT3G49');
+    </script>
   </body>
 </html>
