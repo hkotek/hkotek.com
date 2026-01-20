@@ -388,7 +388,6 @@ img.headshot {
         page-break-after: avoid;
     }
 }
-
 /* =========================
    Blog page main title
    ========================= */
@@ -408,7 +407,6 @@ img.headshot {
 
 .post-list li {
   margin-bottom: 1.5em;
-  border-bottom: 1px solid #ddd; /* subtle separator between posts */
   padding-bottom: 0.8em;
 }
 
@@ -432,7 +430,7 @@ img.headshot {
 .blog-tags-section {
   margin-top: 3em;
   padding-top: 1.5em;
-  border-top: 2px solid #ccc; /* separates from posts */
+  border-top: 2px solid #ccc;
 }
 
 .blog-tags-section h2 {
@@ -441,17 +439,16 @@ img.headshot {
   color: #333;
 }
 
-/* Tag list container */
+/* Tag list styling */
 .blog-tags-section .tag-list {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
-  flex-wrap: wrap;       /* wrap long lists to next line */
-  gap: 8px;              /* spacing between tags */
+  flex-wrap: wrap;  /* allows tags to wrap onto multiple lines */
+  gap: 8px;         /* spacing between tags */
 }
 
-/* Each tag as a pill */
 .blog-tags-section .tag-list li {
   display: inline-block;
 }
@@ -472,7 +469,7 @@ img.headshot {
 }
 
 /* =========================
-   Optional: blog-header top-right link (if ever used)
+   Blog header optional top-right link
    ========================= */
 .blog-header {
   display: flex;
@@ -504,3 +501,4 @@ img.headshot {
     font-size: 0.85em;
   }
 }
+

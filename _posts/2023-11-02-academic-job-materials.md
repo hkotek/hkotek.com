@@ -4,7 +4,8 @@ layout: default
 comments: true
 permalink: /blog/job-application-materials/
 categories:
-  - academia, altac
+  - academia 
+  - altac
 tags:
   - academia
   - altac
