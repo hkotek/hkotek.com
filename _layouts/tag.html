@@ -2,17 +2,16 @@
 layout: default
 ---
 
-<h1>Posts tagged “{{ page.tag }}”</h1>
+<h1>Posts tagged "{{ page.tag }}"</h1>
 
 <ul class="post-list">
-{% for post in site.tags[page.tag] %}
+{% assign posts_for_tag = site.tags[page.tag] | sort: 'date' %}
+{% for post in posts_for_tag %}
   <li>
-    <a href="{{ post.url | prepend: site.baseurl }}">
-      {{ post.title }}
-    </a>
-    <span class="post-meta">
-      {{ post.date | date: "%b %-d, %Y" }}
-    </span>
+    <h3>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h3>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
   </li>
 {% endfor %}
 </ul>
