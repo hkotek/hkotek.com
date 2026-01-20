@@ -5,15 +5,7 @@ permalink: /blog/
 show_tag_menu_link: true
 ---
 
-<div class="blog-header">
-  <h1 class="blog-title">Posts</h1>
-
-  {% if page.show_tag_menu_link %}
-    <a class="blog-tag-link" href="{{ site.baseurl }}/tags/">
-      Browse by tag
-    </a>
-  {% endif %}
-</div>
+<h1 class="blog-title">Posts</h1>
 
 <ul class="post-list">
 {% for post in site.posts reversed %}
@@ -27,19 +19,24 @@ show_tag_menu_link: true
     <span class="post-meta">
       {{ post.date | date: "%b %-d, %Y" }}
     </span>
-
-    {% if post.tags %}
-      <div class="post-tags">
-        {% for tag in post.tags %}
-          <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="tag">
-            {{ tag }}
-          </a>
-        {% endfor %}
-      </div>
-    {% endif %}
+    
+    <!-- tags are intentionally omitted under posts -->
+    
   </li>
 {% endfor %}
 </ul>
 
-<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
-
+{% if page.show_tag_menu_link %}
+  <div class="blog-tags-section">
+    <h2>Browse by tag</h2>
+    <ul class="tag-list">
+      {% for tag in site.tags %}
+        <li>
+          <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
+            {{ tag[0] }} ({{ tag[1].size }})
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
