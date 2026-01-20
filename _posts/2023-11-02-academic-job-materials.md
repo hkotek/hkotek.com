@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/job-application-materials/
 categories:
-  - academia, alt-ac, jobs
+  - academia, altac
 tags:
-  - academia, alt-ac, jobs
+  - academia, altac, jobs, prep
 ---
 
 It's been a while since I posted last but I've been a bit preoccupied with \|*gestures desperately all around*\|.

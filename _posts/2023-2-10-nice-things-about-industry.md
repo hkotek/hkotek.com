@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-benefits-of-working-in-tech/
 categories:
-  - industry, alt-ac
+  - altac
 tags:
-  - industry, alt-ac
+  - altac, tech, reflections
 ---
 
 **This is the last installment of a three-part series of my musings on leaving academia. Previous posts include a detailed description of [my path to leaving academia](https://hkotek.com/blog/on-leaving-academia/) and [what I miss about it the most](https://hkotek.com/blog/more-musings-on-leaving-academia/)**. 

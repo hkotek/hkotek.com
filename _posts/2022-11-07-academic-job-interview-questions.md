@@ -4,7 +4,7 @@ layout: default
 comments: true
 permalink: /blog/academic-job-interview-questions/
 categories:
-  - academia, interviews
+  - academia
 tags:
   - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
 ---

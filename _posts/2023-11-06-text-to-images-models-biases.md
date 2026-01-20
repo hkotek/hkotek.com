@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/text-to-image-models-shallow-parsing/
 categories:
-  - gender, bias
+  - research
 tags:
-  - gender, bias
+  - research, ai, gender
 ---
 
 For my [seminar on Demystifying LLMs](https://linguistics.mit.edu/24-s90-special-topics_exploring_language_technologies/) we've been thinking about what we can learn from Large Langauge Models (LLMs) about language and linguistics. So far the answer seems to be 'not too much', though I will hold onto my hope that there are interesting  effects out there that could meaningfully inform our theories. On the other hand, it's really not hard to find interesting effects with regard to ethics: hallucinations, bias, toxicity, misinformation, disinformation, etc., which teach us something deep and fundamental about the datasets the models are trained on, which I think is still very interesting to linguists, but for different reasons.  

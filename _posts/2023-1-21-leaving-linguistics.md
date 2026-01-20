@@ -6,7 +6,7 @@ permalink: /blog/on-leaving-academia/
 categories:
   - academia,
 tags:
-  - academia,
+  - academia, reflections
 ---
 
 *[Omer Preminger's recent blog post about leaving academia](https://preminger.xyz/posts/some-random-reflections-on-leaving-academia) and the resulting fascinating discussion on his Facebook post have left me thinking. I want to write about choosing to leave academia, what I miss about it, and how I choose to engage with it now. This post is the story of my leaving academia. To keep the length manageable, and I'll circle back to musings about what I do and don't miss about it in another post.*

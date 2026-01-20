@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-informational-interview-questions/
 categories:
-  - academia, interviews
+  - altac
 tags:
-  - altac, interviews, jobs, tech, prepping
+  - altac, interviews, jobs, tech, prep
 ---
 
 <script src="/js/zepto.min.js"></script>

@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/on-the-emotional-toll-of-the-academic-job-market/
 categories:
-  - academia, interviews
+  - academia
 tags:
-  - academia, jobs, long-list, short-list, linguistics
+  - academia, jobs, reflections
 ---
 
 **As months in the academic job market calendar go, for me, March was always the worst**. 

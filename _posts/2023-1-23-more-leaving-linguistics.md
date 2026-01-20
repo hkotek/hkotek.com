@@ -6,7 +6,7 @@ permalink: /blog/more-musings-on-leaving-academia/
 categories:
   - academia,
 tags:
-  - academia, 
+  - academia, reflections
 ---
 
 In a recent post, I spelled out in great detail [my process of deciding to leave academia](https://hkotek.com/blog/on-leaving-academia/). It's a longer tale of woe than I think anyone deserves, and in many ways it's emblematic of everything that's wrong with academia --- the personality cult that allows "geniuses" to behave in ways that wouldn't be acceptable anywhere else,[^1] the scarcity of jobs and the many difficulties that entails, the overall insanity that is a one-shot-per-year job market -- especially given the scarcity -- and the anxiety and sheer luck that is needed for [all the pieces to fall into place](https://www.youtube.com/watch?v=cUbIkNUFs-4) (and how easy it is for something to go sideways).  

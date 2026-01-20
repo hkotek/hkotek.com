@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/application-advice/
 categories:
-  - academia, altac, science, engineering, teamwork
+  - altac
 tags:
-  - academia, altac, 
+  - academia, altac, prep
 ---
 
 Over the past few months, I've been hiring data scientists to join my Responsible AI Human Evaluation team. We're on a bit of an expansion spree. My job posting just got re-upped and I made a new LinkedIn post advertising my role again, which means I am getting dozens and dozens of messages on linkedin, slack, text, my personal email, my work email, and by carrier pigeon. 

@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/rejection-sucks/
 categories:
-  - academia, interviews
+  - academia
 tags:
-  - academia, interviews, jobs, linguistics
+  - academia, reflections
 ---
 
 ## Rejection sucks

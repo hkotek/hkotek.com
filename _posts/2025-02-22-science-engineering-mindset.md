@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/science-engineering-mindset/
 categories:
-  - academia, altac, science, engineering, teamwork
+  - academia, altac,
 tags:
-  - academia, altac, 
+  - academia, altac, reflections
 ---
 
 I occasionally get asked variations on the common theme of "what are the biggest differences between Academia and Industry" or "what were some things you weren't expecting when you started your first industry job". While the latter is harder for me to remember clearly by now, the former is easier to answer. 

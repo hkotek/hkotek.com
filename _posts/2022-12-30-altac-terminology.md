@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-terminology/
 categories:
-  - 
+  - altac
 tags:
-  - 
+  - altac, terminology, tech
 ---
 
 In the process of writing several other posts I hope to have out in the next few days, I've been collecting a long list of terminology that comes up and we should just list out somewhere. I'll keep adding to the list as new terms come up. 

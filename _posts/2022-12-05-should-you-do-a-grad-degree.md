@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/do-you-need-a-phd/
 categories:
-  - academia, interviews
+  - academia, altac
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
+  - academia, altac, jobs
 ---
 
 ## On getting a PhD

@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-jobs-for-social-scientists/
 categories:
-  - altac, jobs, job titles, job search
+  - altac
 tags:
-  - altac, jobs, job titles, job search
+  - altac, jobs, terminology, resume, tech
 ---
 
 If you studied engineering or computer science or another STEM field, several career-related first steps would be easy for you. For one, it's clear what the [**transferable skills**](https://hkotek.com/blog/altac-transferable_skills/) from your education might be. Job ads will explicitly list your degree in their 'education' field. Job titles are relatively streamlined and straightforward. And it's assumed and expected that many in your cohort will get industry jobs upon graduation. There are resources and existing knowledge in your institution to help students find those jobs; it's certainly not considered a failure or exception of some kind. 

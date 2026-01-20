@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-get-started-doing-prep/
 categories:
-  - academia, interviews
+  - altac
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
+  - altac, jobs, prep
 ---
 
 So you've decided you want to explore non-academic jobs. You've also started to take some of the steps in [**Learning about Alt-Ac opportunities (aka how to get started)**](https://hkotek.com/blog/altac-get-started-exploring-options/) and have identified at least the beginnings of types of skills and jobs that might be of interest to you. This post discusses a few concrete steps you can take to get yourself started on the road toward a non-academic job.[^1] As in other posts, I take a tech-focused approach since that's where I am most knowledgeable, so YMMV.

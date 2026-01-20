@@ -4,9 +4,9 @@ layout: default
 comments: true
 permalink: /blog/altac-get-started-exploring-options/
 categories:
-  - academia, interviews
+  - altac
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
+  - altac, jobs, prep
 ---
 
 Ok, so you've decided you want to explore non-academic jobs, but you don't know what options are out there and you don't know how to begin prepping. This post is an attempt to spell out some of the steps you'll need to go through. This is part 1 in a two-part series. I'll cover learning steps first, and the next post [Prepping for Alt-Ac jobs (aka taking action)](https://hkotek.com/blog/altac-get-started-doing-prep/) will discuss actions you can take.
