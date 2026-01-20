@@ -6,7 +6,8 @@ permalink: /blog/my-altac-journey/
 categories:
   - altac
 tags:
-  - altac, reflections
+  - altac
+  - reflections
 ---
 
 The very first post I wrote on my blog was about [my academic job market journey](https://hkotek.com/blog/my-academic-journey/). I've written about various difficulties --- [funny ones](https://hkotek.com/blog/academic-campus-visit-fails/) and [not-so-funny ones](https://hkotek.com/blog/on-leaving-academia/) --- on the academic job market. I've described my process of leaving academia in several posts in the past, but it's still one of the things I get asked about most frequently in [informational interviews](https://hkotek.com/blog/altac-informational-interview-questions/). This post is structured as an FAQ and tries to address the most common questions I tend to get about my job search and prep process. 

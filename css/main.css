@@ -389,7 +389,6 @@ img.headshot {
     }
 }
 
-
 /* =========================
    Blog page main title
    ========================= */
@@ -433,37 +432,39 @@ img.headshot {
 .blog-tags-section {
   margin-top: 3em;
   padding-top: 1.5em;
-  border-top: 2px solid #ccc; /* clear separation from posts */
+  border-top: 2px solid #ccc; /* separates from posts */
 }
 
 .blog-tags-section h2 {
-  margin-bottom: 0.8em;
+  margin-bottom: 1em;
   font-size: 1.5em;
   color: #333;
 }
 
-/* Tag list items */
+/* Tag list container */
 .blog-tags-section .tag-list {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
-  flex-wrap: wrap; /* wrap long tag lists */
+  flex-wrap: wrap;       /* wrap long lists to next line */
+  gap: 8px;              /* spacing between tags */
 }
 
+/* Each tag as a pill */
 .blog-tags-section .tag-list li {
-  margin-right: 12px;
-  margin-bottom: 6px;
+  display: inline-block;
 }
 
 .blog-tags-section .tag-list a {
   text-decoration: none;
   color: #444;
   background: #f2f2f2;
-  padding: 3px 7px;
+  padding: 5px 10px;
   border-radius: 4px;
   font-size: 0.9em;
   display: inline-block;
+  transition: background 0.2s ease;
 }
 
 .blog-tags-section .tag-list a:hover {
@@ -488,4 +489,18 @@ img.headshot {
 
 .blog-tag-link:hover {
   text-decoration: underline;
+}
+
+/* =========================
+   Responsive adjustments
+   ========================= */
+@media (max-width: 600px) {
+  .blog-tags-section .tag-list {
+    gap: 6px;
+  }
+
+  .blog-tags-section .tag-list a {
+    padding: 4px 8px;
+    font-size: 0.85em;
+  }
 }
