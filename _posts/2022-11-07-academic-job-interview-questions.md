@@ -13,8 +13,6 @@ tags:
   - short-list
   - linguistics
   - reflections
-  - syntax
-  - semantics
 ---
 
 <!---
