@@ -49,9 +49,11 @@
 
       <!-- Main content -->
       <div id="content">
-        {% if page.title %}
-          <h1>{{ page.title }}</h1>
-        {% endif %}
+        {% unless page.path == 'index.md' or page.permalink == '/blog/' %}
+          {% if page.title %}
+            <h1>{{ page.title }}</h1>
+          {% endif %}
+        {% endunless %}
         {{ content }}
       </div>
 
