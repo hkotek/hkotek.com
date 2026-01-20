@@ -398,20 +398,20 @@ img.headshot {
 }
 
 /* =========================
-   Post list styling with bullets and green links
+   Post list styling
    ========================= */
 .post-list {
-  list-style: disc; /* show bullets */
-  padding-left: 1.5em; /* indent for bullets */
+  list-style: disc;
+  padding-left: 1.5em;
   margin: 0;
 }
 
 .post-list li {
-  margin-bottom: 1.2em; /* space between posts */
+  margin-bottom: 1.2em;
 }
 
 .post-list .post-link {
-  color: green; /* links are green */
+  color: green;
   text-decoration: none;
 }
 
@@ -425,12 +425,33 @@ img.headshot {
 }
 
 /* =========================
+   Individual post tags
+   ========================= */
+.post-tags {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+
+.post-tags a {
+  text-decoration: none;
+  color: #444;
+  background: #f2f2f2;
+  padding: 3px 6px;
+  border-radius: 4px;
+  margin-right: 4px;
+}
+
+.post-tags a:hover {
+  background: #e0e0e0;
+}
+
+/* =========================
    Blog tags section (tag cloud)
    ========================= */
 .blog-tags-section {
   margin-top: 3em;
   padding-top: 1.5em;
-  border-top: 2px solid #ccc; /* separates from posts */
+  border-top: 2px solid #ccc;
 }
 
 .blog-tags-section h2 {
@@ -468,34 +489,11 @@ img.headshot {
 }
 
 /* =========================
-   Blog header optional top-right link
-   ========================= */
-.blog-header {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  margin-bottom: 1.5em;
-}
-
-.blog-tag-link {
-  font-size: 0.9em;
-  text-decoration: none;
-  color: #444;
-}
-
-.blog-tag-link:hover {
-  text-decoration: underline;
-}
-
-/* =========================
    Responsive adjustments
    ========================= */
 @media (max-width: 600px) {
-  .blog-tags-section .tag-list {
-    gap: 6px;
-  }
-
-  .blog-tags-section .tag-list a {
+  .blog-tags-section .tag-list a,
+  .post-tags a {
     padding: 4px 8px;
     font-size: 0.85em;
   }

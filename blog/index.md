@@ -8,17 +8,10 @@ show_tag_menu_link: true
 <h1 class="blog-title">Posts</h1>
 
 <ul class="post-list">
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
   <li>
-    <h3 style="margin-bottom: 5px">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title }}
-      </a>
-    </h3>
-
-    <span class="post-meta">
-      {{ post.date | date: "%b %-d, %Y" }}
-    </span>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
   </li>
 {% endfor %}
 </ul>
@@ -27,7 +20,8 @@ show_tag_menu_link: true
   <div class="blog-tags-section">
     <h2>Browse by tag</h2>
     <ul class="tag-list">
-      {% for tag in site.tags %}
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
         <li>
           <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
             {{ tag[0] }} ({{ tag[1].size }})
@@ -37,3 +31,4 @@ show_tag_menu_link: true
     </ul>
   </div>
 {% endif %}
+

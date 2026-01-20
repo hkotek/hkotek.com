@@ -4,13 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Hadas Kotek{% if page.title %}: {{ page.title }}{% endif %}</title>
-    <meta name="description" content="">
     <meta name="viewport" content="initial-scale=1.0">
-
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/main.css">
   </head>
-
   <body>
     <div id="container">
 
@@ -37,36 +34,19 @@
           <li {% if page.path == 'personal.md' %}class="active"{% endif %}>
             <a href="/personal.html">Personal</a>
           </li>
-
           <li><a href="/KotekCV.pdf">Academic CV</a></li>
           <li><a href="/KotekResume-2col.pdf">Resume</a></li>
           <li><a href="/blog/">Blog</a></li>
         </ul>
       </div>
 
-      <!-- Main Content -->
+      <!-- Main content -->
       <div id="content">
-
-
-        {% unless page.permalink == '/blog/' or page.path == 'index.md' % %}
-          <!-- Show the page title for all normal pages -->
-          {% if page.title %}
-            <h1>{{ page.title }}</h1>
-          {% endif %}
-        {% endunless %}
-
         {{ content }}
-
       </div>
 
     </div>
 
     <!-- Analytics scripts unchanged -->
-    <script>
-      var _gaq=[['_setAccount','UA-29612003-2'],['_trackPageview']];
-      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-      s.parentNode.insertBefore(g,s)}(document,'script'));
-    </script>
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q592WT3G49"></script>
+  </body>
+</html>
