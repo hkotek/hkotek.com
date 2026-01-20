@@ -388,3 +388,24 @@ img.headshot {
         page-break-after: avoid;
     }
 }
+
+.blog-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1.5em;
+}
+
+.blog-title {
+  margin: 0;
+}
+
+.blog-tag-link {
+  font-size: 0.9em;
+  text-decoration: none;
+  color: #444;
+}
+
+.blog-tag-link:hover {
+  text-decoration: underline;
+}
