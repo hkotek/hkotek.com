@@ -20,7 +20,7 @@ show_tag_menu_link: true
   <div class="blog-tags-section">
     <h2>Browse by tag</h2>
     <ul class="tag-list">
-      {% for tag in site.tags %}
+      {% for tag in site.tags | sort%}
         <li>
           <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
             {{ tag[0] }} ({{ tag[1].size }})
