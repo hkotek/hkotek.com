@@ -389,6 +389,7 @@ img.headshot {
     }
 }
 
+
 .blog-header {
   display: flex;
   align-items: baseline;
@@ -407,5 +408,33 @@ img.headshot {
 }
 
 .blog-tag-link:hover {
+  text-decoration: underline;
+}
+
+.blog-tags-section {
+  margin-top: 2em;
+}
+
+.blog-tags-section h2 {
+  margin-bottom: 0.5em;
+}
+
+.blog-tags-section .tag-list {
+  list-style: none;
+  padding: 0;
+}
+
+.blog-tags-section .tag-list li {
+  display: inline-block;
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
+
+.blog-tags-section .tag-list a {
+  text-decoration: none;
+  color: #444;
+}
+
+.blog-tags-section .tag-list a:hover {
   text-decoration: underline;
 }

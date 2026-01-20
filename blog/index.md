@@ -19,9 +19,6 @@ show_tag_menu_link: true
     <span class="post-meta">
       {{ post.date | date: "%b %-d, %Y" }}
     </span>
-    
-    <!-- tags are intentionally omitted under posts -->
-    
   </li>
 {% endfor %}
 </ul>
