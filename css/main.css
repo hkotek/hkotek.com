@@ -521,5 +521,5 @@ img.headshot {
    Comments section spacing
    ========================= */
 .post-comments {
-  margin-top: 2em; /* space between tags and comments */
+  margin-top: 4em; /* space between tags and comments */
 }
