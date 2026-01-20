@@ -502,22 +502,3 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
-/* ==========================================================================
-   Tags
-   ========================================================================== */
-
-.post-tags {
-  margin-top: 5px;
-}
-
-.post-tags .tag {
-  font-size: 0.85em;
-  margin-right: 6px;
-  text-decoration: none;
-  color: #555;
-}
-
-.post-tags .tag:hover {
-  text-decoration: underline;
-}

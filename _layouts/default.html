@@ -51,17 +51,6 @@
 {% include comments.html %}
 {% endif %}
 
-{% if page.tags %}
-  <p class="post-tags">
-    Tags:
-    {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/">
-        {{ tag }}
-      </a>
-    {% endfor %}
-  </p>
-{% endif %}
-
 </div>
 </div>
 
