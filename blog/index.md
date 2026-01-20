@@ -2,7 +2,14 @@
 title: Blog
 layout: default
 permalink: /blog/
+show_tag_menu_link: true
 ---
+
+{% if page.show_tag_menu_link %}
+  <p class="blog-tag-link">
+    <a href="{{ site.baseurl }}/tags/">Browse by tag</a>
+  </p>
+{% endif %}
 
 <ul class="post-list">
 {% for post in site.posts %}
