@@ -40,18 +40,6 @@
 </div>
 </div>
 
-<nav class="tag-nav">
-  <ul>
-  {% for tag in site.tags %}
-    <li>
-      <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}/">
-        {{ tag[0] }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</nav>
-
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             var _gaq=[['_setAccount','UA-29612003-2'],['_trackPageview']];
