@@ -6,7 +6,11 @@ permalink: /blog/altac-informational-interview-questions/
 categories:
   - altac
 tags:
-  - altac, interviews, jobs, tech, prep
+  - altac
+  - interviews
+  - jobs 
+  - tech
+  - prep
 ---
 
 <script src="/js/zepto.min.js"></script>

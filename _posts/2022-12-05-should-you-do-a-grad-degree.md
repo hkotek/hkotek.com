@@ -4,9 +4,12 @@ layout: default
 comments: true
 permalink: /blog/do-you-need-a-phd/
 categories:
-  - academia, altac
+  - academia
+  - altac
 tags:
-  - academia, altac, jobs
+  - academia
+  - altac
+  - jobs
 ---
 
 ## On getting a PhD

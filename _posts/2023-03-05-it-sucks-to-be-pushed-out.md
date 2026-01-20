@@ -6,7 +6,9 @@ permalink: /blog/on-the-emotional-toll-of-the-academic-job-market/
 categories:
   - academia
 tags:
-  - academia, jobs, reflections
+  - academia
+  - jobs
+  - reflections
 ---
 
 **As months in the academic job market calendar go, for me, March was always the worst**. 

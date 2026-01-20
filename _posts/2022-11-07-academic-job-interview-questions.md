@@ -6,7 +6,15 @@ permalink: /blog/academic-job-interview-questions/
 categories:
   - academia
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, syntax, semantics
+  - academia 
+  - interviews
+  - jobs
+  - long-list
+  - short-list
+  - linguistics
+  - reflections
+  - syntax
+  - semantics
 ---
 
 <!---

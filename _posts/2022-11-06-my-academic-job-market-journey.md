@@ -6,7 +6,13 @@ permalink: /blog/my-academic-journey/
 categories:
   - academia
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, reflections
+  - academia 
+  - interviews
+  - jobs
+  - long-list
+  - short-list
+  - linguistics
+  - reflections
 ---
 
 As I've been collecting the various [**lists of interview questions**](https://hkotek.com/blog/academic-job-interview-questions/) from jobs I was long- or short-listed at, I can't help but also add a few words about the process itself. There is more to say than could fit in one post, but I find the numbers to be instructive.

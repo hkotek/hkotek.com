@@ -6,7 +6,13 @@ permalink: /blog/academic-campus-visit-fails/
 categories:
   - academia
 tags:
-  - academia, interviews, jobs, long-list, short-list, linguistics, reflections
+  - academia 
+  - interviews
+  - jobs
+  - long-list
+  - short-list
+  - linguistics
+  - reflections
 ---
 
 The good(?) thing about [**being on the job market for 6 cycles**](https://hkotek.com/blog/my-academic-journey/) is that I have lots of funny-not-funny stories to share. This is not the OMFG I NEED TO SIT DOWN HOW ARE YOU OK post, for that you'll still need to find me in person and buy me a drink or two; this is the hahaomgwow post, which I put together in just under an hour on a Tuesday evening, and which I'm not even going to try to rank. So, here are 25 anecdotes off the top of my head. I'd be curious to read about your stories in the comments! 

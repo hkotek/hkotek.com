@@ -6,7 +6,10 @@ permalink: /blog/job-application-materials/
 categories:
   - academia, altac
 tags:
-  - academia, altac, jobs, prep
+  - academia
+  - altac
+  - jobs
+  - prep
 ---
 
 It's been a while since I posted last but I've been a bit preoccupied with \|*gestures desperately all around*\|.

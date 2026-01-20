@@ -6,7 +6,8 @@ permalink: /blog/recovered-academic/
 categories:
   - academia
 tags:
-  - academia, reflections
+  - academia
+  - reflections
 ---
 
 In a recent one-on-one meeting with a person I didn't know, the person mentioned reading and enjoying my blog (love the feedback!) and that she, too, was a recovering academic. I've written about my misadventures in academia a lot in the past, and have referred to myself as a recovering academic often. 

@@ -6,7 +6,8 @@ permalink: /blog/gender-bias-in-chatgpt/
 categories:
   - research
 tags:
-  - research, ai, gender
+  - research 
+  - gender
 ---
 
 **Update: August 29, 2023** -- a paper based on this initial idea has been accepted for presentation at ACM Collective Intelligence: [**Gender bias and stereotypes in Large Language Models**](https://arxiv.org/abs/2308.14921).

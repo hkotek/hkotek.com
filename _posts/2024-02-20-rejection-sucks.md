@@ -6,7 +6,8 @@ permalink: /blog/rejection-sucks/
 categories:
   - academia
 tags:
-  - academia, reflections
+  - academia
+  - reflections
 ---
 
 ## Rejection sucks

@@ -6,7 +6,10 @@ permalink: /blog/altac-guided-self-reflection/
 categories:
   - 
 tags:
-  - jobs, altac, terminology, prep
+  - jobs
+  - altac
+  - terminology
+  - prep
 ---
 
 This post operationalizes the questions and discussion topics I introduced in my previous post on [**getting started with alt-ac jobs**](https://hkotek.com/blog/altac-get-started-exploring-options/). As I laid out in my post [**on job titles and job descriptions for social scientists**](https://hkotek.com/blog/altac-jobs-for-social-scientists/), there are lots of types of careers open to former academics, which make use of [**the many varied skills we develop through our degree programs**](https://hkotek.com/blog/altac-transferable_skills/). However, it can still be difficult to identify the types of jobs and skills that we want to engage with in a non-academic career. 
