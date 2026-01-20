@@ -1,6 +1,6 @@
 ---
 title: Rejection sucks
-layout: default
+layout: post
 comments: true
 permalink: /blog/rejection-sucks/
 categories:

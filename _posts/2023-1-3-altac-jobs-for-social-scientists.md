@@ -1,6 +1,6 @@
 ---
 title: Job titles and job descriptions for linguists (and other social scientists)
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-jobs-for-social-scientists/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Learning about Alt-Ac opportunities (aka how to get started)
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-get-started-exploring-options/
 categories:

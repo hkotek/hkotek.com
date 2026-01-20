@@ -1,6 +1,6 @@
 ---
 title: Text-to-image models are shallow in more ways than one (part 1)
-layout: default
+layout: post
 comments: true
 permalink: /blog/text-to-image-models-shallow-parsing/
 categories:

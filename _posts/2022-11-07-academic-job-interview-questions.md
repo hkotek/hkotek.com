@@ -1,6 +1,6 @@
 ---
 title: The big list of academic job interview questions
-layout: default
+layout: post
 comments: true
 permalink: /blog/academic-job-interview-questions/
 categories:

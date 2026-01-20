@@ -1,6 +1,6 @@
 ---
 title: On the emotional toll of the academic job market
-layout: default
+layout: post
 comments: true
 permalink: /blog/on-the-emotional-toll-of-the-academic-job-market/
 categories:

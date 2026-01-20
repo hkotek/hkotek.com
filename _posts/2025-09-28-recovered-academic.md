@@ -1,6 +1,6 @@
 ---
 title: I am a recovered academic
-layout: default
+layout: post
 comments: true
 permalink: /blog/recovered-academic/
 categories:

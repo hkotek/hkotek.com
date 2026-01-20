@@ -1,6 +1,6 @@
 ---
 title: My job application materials (with links)
-layout: default
+layout: post
 comments: true
 permalink: /blog/job-application-materials/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Alt-Ac informational interviews
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-informational-interview-questions/
 categories:

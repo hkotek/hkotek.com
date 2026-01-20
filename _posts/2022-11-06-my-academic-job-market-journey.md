@@ -1,6 +1,6 @@
 ---
 title: My academic job market journey
-layout: default
+layout: post
 comments: true
 permalink: /blog/my-academic-journey/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: There's a lot to like about working in tech
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-benefits-of-working-in-tech/
 categories:

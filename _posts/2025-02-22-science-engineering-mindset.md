@@ -1,6 +1,6 @@
 ---
 title: A Science vs Engineering mindset
-layout: default
+layout: post
 comments: true
 permalink: /blog/science-engineering-mindset/
 categories:

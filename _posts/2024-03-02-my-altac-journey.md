@@ -1,6 +1,6 @@
 ---
 title: "FAQ: My non-academic job market journey"
-layout: default
+layout: post
 comments: true
 permalink: /blog/my-altac-journey/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: On leaving academia
-layout: default
+layout: post
 comments: true
 permalink: /blog/on-leaving-academia/
 categories:

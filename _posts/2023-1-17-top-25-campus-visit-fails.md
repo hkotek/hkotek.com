@@ -1,6 +1,6 @@
 ---
 title: My top 25 campus visit lolsob stories
-layout: default
+layout: post
 comments: true
 permalink: /blog/academic-campus-visit-fails/
 categories:

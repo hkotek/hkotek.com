@@ -1,6 +1,6 @@
 ---
 title: "Job application do's and don'ts: a hiring manager's take "
-layout: default
+layout: post
 comments: true
 permalink: /blog/application-advice/
 categories:

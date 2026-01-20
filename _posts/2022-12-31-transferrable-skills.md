@@ -1,6 +1,6 @@
 ---
 title: Transferable skills and your resume
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-transferable_skills/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Let's talk about terminology
-layout: default
+layout: post
 comments: true
 permalink: /blog/altac-terminology/
 categories:
