@@ -388,6 +388,8 @@ img.headshot {
         page-break-after: avoid;
     }
 }
+
+
 /* =========================
    Blog page main title
    ========================= */
@@ -397,17 +399,16 @@ img.headshot {
 }
 
 /* =========================
-   Post list styling
+   Post list styling (simple list, no borders)
    ========================= */
 .post-list {
-  list-style: none;
+  list-style: none;  /* remove bullets */
   padding: 0;
   margin: 0;
 }
 
 .post-list li {
-  margin-bottom: 1.5em;
-  padding-bottom: 0.8em;
+  margin-bottom: 1.2em; /* small spacing between posts */
 }
 
 .post-list .post-link {
@@ -425,12 +426,12 @@ img.headshot {
 }
 
 /* =========================
-   Blog tags section
+   Blog tags section (tag cloud)
    ========================= */
 .blog-tags-section {
   margin-top: 3em;
   padding-top: 1.5em;
-  border-top: 2px solid #ccc;
+  border-top: 2px solid #ccc; /* separation from posts */
 }
 
 .blog-tags-section h2 {
@@ -439,14 +440,13 @@ img.headshot {
   color: #333;
 }
 
-/* Tag list styling */
 .blog-tags-section .tag-list {
   list-style: none;
   padding: 0;
   margin: 0;
   display: flex;
-  flex-wrap: wrap;  /* allows tags to wrap onto multiple lines */
-  gap: 8px;         /* spacing between tags */
+  flex-wrap: wrap;  /* wrap long lists */
+  gap: 8px;
 }
 
 .blog-tags-section .tag-list li {
@@ -469,7 +469,7 @@ img.headshot {
 }
 
 /* =========================
-   Blog header optional top-right link
+   Optional: blog-header top-right link
    ========================= */
 .blog-header {
   display: flex;
@@ -501,4 +501,5 @@ img.headshot {
     font-size: 0.85em;
   }
 }
+
 
