@@ -127,6 +127,7 @@ There's good and bad in every job and profession. It's not perfect, but there's 
 &nbsp;
 
 #### Notes
+
 [^1]: Indirectly! and I hope it stays that way. 
 [^2]: COVID is not over, people! 
 [^3]: To be more precise, "vacation/time off" was never even a concept for me as an academic. You worked during the semester, though if you didn't come into the office occasionally on days when you didn't teach I don't think that would have been an issue. And you could do whatever you wanted during semester breaks. At least in principle, you could take 3 months off work, especially seeing as you weren't paid during that time. In reality, though, I think most of us just took our work with us wherever we went and kept on going. I personally did almost all of my research and writing during breaks. Teaching and service took up most of my time during the semester itself. So without working during "off" times, I would never have gotten any real work that contributes to my career growth done. 

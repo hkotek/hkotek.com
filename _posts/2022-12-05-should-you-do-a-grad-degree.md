@@ -43,7 +43,7 @@ If at all possible, I would strongly encourage you to get an *internship* while 
 
 &nbsp;
 
-&nbsp;
+#### Notes
 
 [^1]: Again, this is distinct from (but related to) listing an advanced degree requirement in job ads. Job ads are frequently wish lists, and not everything they list is equally important. Do people in these jobs actually have an advanced degree?
 [^2]: Again, you should **never** do an unfunded PhD!

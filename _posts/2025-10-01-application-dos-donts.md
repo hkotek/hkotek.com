@@ -1,5 +1,5 @@
 ---
-title: "Job application do's and don'ts: a hiring manager's take "
+title: "Job application do's and don'ts: a hiring manager's take"
 layout: post
 comments: true
 permalink: /blog/application-advice/

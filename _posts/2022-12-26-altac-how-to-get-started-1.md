@@ -106,4 +106,6 @@ There is a bit of a learning curve here, mostly in adjusting how you think about
 
 &nbsp;
 
+#### Notes
+
 [^1]: Replace this with *lecturer* and *senior lecturer* in the UK or similar titles in other locations: there is always a clear job title and expected path of career progression, ignoring for a moment the possibility of taking on administrative roles. 

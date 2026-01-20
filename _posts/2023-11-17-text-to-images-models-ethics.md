@@ -228,6 +228,7 @@ Anyway, I'll leave you with this fun example of a ***pot dealer***, where I gues
 
 &nbsp;
 
+#### Notes
 
 [^1]: Caveat! it seems that DallE-3, which was published after I wrote my post, and which is supported by GPT-4 under the hood to do some language processing, does better than the diffusion models I focused on. That's an interesting avenue for further exploration, but I'll leave that for a future post. 
 [^2]: Go read [**part 1**](https://hkotek.com/blog/text-to-image-models-shallow-parsing/) to see Peter Capaldi cast as "[The Doctor](https://en.wikipedia.org/wiki/Twelfth_Doctor)", as well as a suspiciously familiar "Jane". I'm sure you'll also have thoughts about who "Mary" is. 

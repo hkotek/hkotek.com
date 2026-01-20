@@ -60,7 +60,6 @@ I can immediately think of 5 other things to add, but I think I'll stop here.
 
 &nbsp;
 
-
 #### Notes
 
 [^1]: For example, multiple *wh*-questions that may be superiority-obeying or violating, and may or may not also contain an intervener ("which book didn't which student read?"). Or dispreferred readings of quantified statements ("most of the circles are blue" meaning something like "there are more blue circles than any other color, but perhaps less than 50% in total"). Given that they are generally super uncommon sentences, but people still have surprisingly consistent intuitions that you can bring out in a variety of experiments or in careful elicitation, you can learn quite a lot about Grammar by closely studying these judgment patterns.   

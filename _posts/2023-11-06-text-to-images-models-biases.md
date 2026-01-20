@@ -190,6 +190,8 @@ Text-to-image models seem to be shallow and unimaginative. They are, in fact, mo
 
 &nbsp;
 
+#### Notes
+
 [^1]: The images included in this post were generated between October 30 and November 5, 2023. 
 [^2]: Most of the images here come from Stable Diffusion XL, since there is no limit on the number of images it will let one generate. I tried some of the same prompts with Dall-E but soon ran out of free tokens. The observations I make here seem to apply to both models equally, but caveats apply. 
 [^3]: Throughout, I am showing you the first (or sometimes, first and second) images I generated for each prompt. I am not cherry-picking --- I generated far too many images and it took far too long to try to generate more than just the one per prompt (two, sometimes, if I was extra curious for some reason). 

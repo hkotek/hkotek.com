@@ -137,7 +137,7 @@ Also keep in mind that a lot of things can be learned on the job; if you don't h
 
 &nbsp;
 
-&nbsp;
+#### Notes
 
 [^1]: It's important to note that you don't have to do these things in order to be attractive or to start actively applying for jobs. Take these as suggestions for things to explore and try. 
 [^2]: This is a bit of technical jargon that's good to know. Being blocked/unblocked by someone or something refers to (not) being able to accomplish something you're supposed to do for some reason.

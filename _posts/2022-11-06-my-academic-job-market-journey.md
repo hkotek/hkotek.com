@@ -48,7 +48,7 @@ I should also say that I am immensely grateful to the broad community who I disc
 
 &nbsp;
 
-&nbsp;
+#### Notes
 
 [^1]: Also likely illegal, certainly immoral, and entirely indefensible. This one event caused me so much damage --- career damage, mental health damage, relationship damage --- it's hard to put into words. I am as enraged writing this now as I was broken when it happened. 
 [^2]: This offer came after I had announced that I was leaving academia, so I never actually interviewed for it. But I appreciated having it, so that I had the peace of mind of knowing that I chose to walk away from options --- which helped me to feel less forcefully pushed out. 
