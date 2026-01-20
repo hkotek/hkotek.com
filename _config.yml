@@ -1,6 +1,6 @@
 theme: false
 markdown: kramdown
-disqus_shortname: hkotek
+disqus_shortname: https-hkotek-com
 
 # Permalinks
 permalink: /blog/:title:output_ext
