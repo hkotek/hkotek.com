@@ -11,6 +11,7 @@ tags:
   - altac
   - jobs
   - prep
+  - resumes
 ---
 
 It's been a while since I posted last but I've been a bit preoccupied with \|*gestures desperately all around*\|.

@@ -10,6 +10,7 @@ tags:
   - terminology
   - prep
   - tech
+  - resumes
 ---
 
 One of the hardest things about starting out on the Alt-Ac journey is understanding what skills you have that are desirable in other industries. A second, related concern is how to translate your experience from academia into the language used by professionals in those jobs. Though it may seem like you know nothing relevant for any jobs, you actually do! In this post I'll try to list out as many such skills as I can think of, using my own experience both from grad school and as a precariously employed academic afterwards to formulate resume bullet points as examples.[^1]
