@@ -25,24 +25,24 @@ The skills associated with this kind of work are similar to the skills used in *
 
 1. Understand the **goals** of the project, e.g. what will the data be used for, how, and by whom
 2. **Operationalize** the problem into a data collection project: 
-    - determine the right **label space** to be used to classify the data into categories (more on *taxonomy* work below)
-    - decide how many datapoints are needed per label
-    - determine your data sources
-    - sample / compile your data
-3. **Design a project** that... 
-    - is simple to teach to a possibly large, possibly untrained set of annotators 
-    - allows for consistent and accurate data collection 
-    - can be conducted quickly to fit budget and timing needs
+- determine the right **label space** to be used to classify the data into categories (more on *taxonomy* work below)
+- decide how many datapoints are needed per label
+- determine your data sources
+- sample / compile your data
+3. **Design** a project that... 
+- is simple to teach to a possibly large, possibly untrained set of annotators 
+- allows for consistent and accurate data collection 
+- can be conducted quickly to fit budget and timing needs
 4. Create the actual project in your **tool** of choice, taking into account...  
-    - visual design elements
-    - spacial considerations that minimize effort
-    - ordering of items
-    - should annotators be able to go back and change previous answers, ...
+- visual design elements
+- spacial considerations that minimize effort
+- ordering of items
+- should annotators be able to go back and change previous answers, ...
 5. Identify necessary **annotator skills** or knowledge 
-    - write guidelines to be used by the annotators who will work on your task (more on this below)
-    - create practice items
-    - set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
-    - set appropriate compensation for your task
+- write guidelines to be used by the annotators who will work on your task (more on this below)
+- create practice items
+- set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
+- set appropriate compensation for your task
 
 Other linguists, such as those who engage in **elicitation work**, **ethnographic work**, **corpus work**, or **formal theoretical work** also engage in at least part of this process. Really, any scientifically driven exploration will require operationalizing a problem and determining an appropriate label space, perhaps also recruitment of speakers and setting of a task and payment. They differ in that these tasks often happen with the experimenter in the room or in a small group setting (or with the experimenter being the only person in the room), whereas larger studies such as annotation studies most often involve naive workers who experimenters have a limited ability to train or provide feedback to. 
 
@@ -148,4 +148,5 @@ Likewise if you're building models, using neural nets, experimenting with LLMs, 
     - Training and Annotation IS LIKE Developing Elicitation Plans
     - Evaluation IS LIKE Writing Problem Sets
     - Error Analysis IS LIKE Doing Morphophonological Analysis
+
 I've made quite a lot of changes to the first part. To me, designing annotation tasks is more like engaging in behavioral experimentation, where the goal is to teach a large set of naive participants to do the same thing, than elicitation, which is often 1:1 and involves an experimenter present in the room, unlike most annotation projects I work on.
