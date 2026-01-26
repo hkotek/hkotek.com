@@ -120,9 +120,9 @@ Linguists are often hired as taxonomists, and though they may initially be confu
 
 <div class="compact-list">
   <ol>
-    <li> <strong>Understand how annotated data will be used</strong> in training and evaluation.</li>
-    <li> <strong>Break complex data into clear categories</strong>, hierarchies, and relationships.</li>
-    <li> <strong>Write clear, unambiguous definitions</strong> that annotators (and models) can interpret consistently.
+    <li> Understand how annotated data will be used< in training and evaluation.</li>
+    <li> Break complex data into clear <strong>categories, hierarchies, and relationships</strong>.</li>
+    <li> Write clear, unambiguous <strong>definitions</strong> that annotators (and models) can interpret consistently.
       <ul>
         <li>understand how annotators actually apply labels (and how models learn them); balance theoretical neatness with practical usability</li>
         <li>handle edge cases, overlaps, and exceptions</li>
@@ -130,8 +130,8 @@ Linguists are often hired as taxonomists, and though they may initially be confu
         <li>iterate, test, and evolve taxonomies based on feedback, data drift, or model performance</li>
       </ul>
     </li>
-    <li> <strong>Collaborate across stakeholders</strong>—annotators, engineers, researchers, product teams—incorporating feedback without losing coherence.</li>
-    <li> <strong>Maintain documentation</strong>, change logs, and versioning to keep the taxonomy stable and auditable.</li>
+    <li> Collaborate across <strong>stakeholders</strong>—annotators, engineers, researchers, product teams—incorporating feedback without losing coherence.</li>
+    <li> Maintain <strong>documentation</strong>, change logs, and versioning to keep the taxonomy stable and auditable.</li>
   </ol>
 </div>
 
@@ -154,20 +154,20 @@ There are various parts of this work that are similar to the work of a linguist,
 
 <div class="compact-list">
   <ol>
-    <li>Translate high-level goals into clear tasks, success criteria, and measurable outcomes
+    <li>Translate high-level goals into clear tasks, success criteria, and <strong>measurable outcomes</strong>
       <ul>
         <li>determine which metrics are appropriate, what they capture, and trade-offs</li>
         <li>understand what “good” performance looks like for the task</li>
       </ul>
     </li>
-    <li>Select or construct representative evaluation datasets
+    <li>Select or construct representative <strong>evaluation datasets</strong>
       <ul>
         <li>include core cases, edge cases, and known failure modes</li>
         <li>ensure consistency, reproducibility, and correctness in datasets and metrics</li>
       </ul>
     </li>
-    <li>Interpret results, identify patterns in errors, and distinguish signal from noise (see <a href="#doing-error-analysis-is-like-doing-linguistic-analysis">error analysis</a> below)</li>
-    <li>Clearly communicate evaluation design, results, limitations, and implications to stakeholders</li>
+    <li><strong>Interpret results</strong>, identify patterns in errors, and distinguish signal from noise (see <a href="#doing-error-analysis-is-like-doing-linguistic-analysis">error analysis</a> below)</li>
+    <li>Clearly <strong>communicate</strong> evaluation design, results, limitations, and implications to stakeholders</li>
   </ol>
 </div>
 
@@ -221,9 +221,9 @@ Likewise if you're building **computational models**, using neural nets, experim
 There are some parts of my job that I can sort of liken to stuff as I used to do as a linguist, maybe stretching it a little. 
 
 1. **Abstract writing** is like the little project proposals I've written to get intern headcount.[^3]
-3. **White papers** are like policy docs. I've had the chance to write some policy documentation in my job, mainly asking questions in the safety space ("what *should* an LLM do in Context A?"). Maybe you've written similar documents for your department, e.g. around how data from Native American or other communities should be preserved and used; or how students in your department should be taught, etc.
-2. **Budget management** is like budget management. If you do things like review and approve hours for RAs or a lab manager or plan a budget to pay for your data collection needs or similar such things, that's something you may do in your tech job, too.
-4. **Making a weekly lesson plan in your syllabus** is kinda like planning your project for the quarter, even including replans that happen during the quarter. We tend to work in 2-week sprints that are much better defined, and we are constrained by external, sometimes not known and sometimes changing, deadlines. But the general gist kinda works, maybe. 
+3. **White papers** are like policy docs. I've had the chance to write some policy documentation in my job, mainly asking questions in the safety space ("what *should* an LLM do in Context A?"). Maybe you've written similar documents for your department, e.g. around how data from Native American or other speaker communities should be preserved and used; or how students in your department should be taught, etc.
+2. **Budget management** is like budget management. If you do things like review and approve hours for a lab manager or plan a budget to pay for your data collection needs, that's something you may do in your tech job, too.
+4. **Making a weekly lesson plan in your syllabus** is kinda like planning your project for the quarter. We tend to work in 2-week sprints that are much better defined, and we are constrained by external, sometimes not known and sometimes changing, deadlines. We may go through replans in the middle of the quarter to account for changing needs. But the general gist kinda works, maybe. 
 
 
 &nbsp;
