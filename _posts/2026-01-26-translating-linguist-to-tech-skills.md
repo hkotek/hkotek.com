@@ -33,25 +33,25 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
 <style>
+/* Top-level list: reduce space between number and text */
 div.compact-list ol {
-  padding-left: 1.2em !important;   /* reduce indent of numbers */
-  margin-top: 0 !important;         /* remove extra space above list */
-  margin-bottom: 0 !important;      /* remove extra space below list */
+  counter-reset: item;
+  padding-left: 1.2em !important; /* small indent for numbers */
+  margin: 0 !important;
+  list-style-position: inside !important; /* key to reduce number-to-bullet gap */
 }
 
-/* Compact each list item */
-div.compact-list ol li {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+/* Each top-level list item: remove extra indent */
+div.compact-list ol > li {
+  margin: 0 !important;
   padding: 0 !important;
 }
 
-/* Compact nested bullets */
+/* Nested bullets: reduce indent and spacing */
 div.compact-list ol li ul,
 div.compact-list ol li ol {
-  padding-left: 1em !important;     /* reduce nested indent */
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  padding-left: 1em !important; /* bring bullets closer */
+  margin: 0 !important;
 }
 </style>
 
@@ -183,7 +183,9 @@ Likewise if you're building models, using neural nets, experimenting with LLMs, 
 There are some non-core parts of my job that I can try to liken to stuff as I used to do as a linguist, maybe stretching it a little. 
 
 1. **Abstract writing** is like the little project proposals I've written to get intern headcount.[^3]
-2. **Budget management** is like budget management. If you do things like review and approve hours for hourly workers
+2. **Budget management** is like budget management. If you do things like review and approve hours for RAs or a lab manager or plan a budget to pay for your data collection needs or similar such things, that's something you may do in your tech job, too.
+3. **White papers** are like policy docs. I've had the chance to write some policy documentation in my job, mainly asking questions in the safety space ("what *should* an LLM do in Context A?"). Maybe you've written similar documents for your department, e.g. around how data from Native American or other communities should be preserved and used; or how students in your department should be taught, etc.
+
 
 &nbsp;
 
