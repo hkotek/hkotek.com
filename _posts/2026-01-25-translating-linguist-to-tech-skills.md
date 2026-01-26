@@ -17,7 +17,7 @@ tags:
 
 There were several excellent presentations at this year's [**LEXING**](https://www.lsadc.org/lexing). In a talk titled *Linguists are Exceptional Inductive Reasoners – A Case Study on Skill Relevance in Enterprise Software*, [**Maggie Baird**](https://www.linkedin.com/in/maggie-baird-167129102/) laid out a mapping between her everyday work as a linguist on an engineering team developing a generative AI product and three tasks commonly carried out by academic linguists. It resonated with me --- it's also very true of my job and skills. In this post, I spell out my version of Maggie's ideas.[^1] 
 
-## *Designing annotation projects* is like *designing human subjects studies*
+## Designing annotation projects *is like* designing human subjects studies
 
 Linguists in tech companies often work on **data annotation projects**, whose results serve as either training or evaluation data for machine learning models. The projects themselves may vary depending on the company's needs. Some examples of projects include (a) identify entities in a text and classify them into types such as person, group, business, or event; (b) read a question+response pair and decide how helpful the response is; (c) ask a question about an image that can't be answered from the text alone without access to the image; (d) listen to a synthetic voice, decide how natural it sounds, and tag problematic parts with relevant flags.   
 
@@ -49,7 +49,7 @@ Other linguists, such as those who engage in **elicitation work**, **ethnographi
 I believe this is the most direct skillset I took with me from my academic work into my industry job. I want to stress in particular the earlier ideation parts: *understand the goals of the project* -- projects in my industry job are frequently initiated by external needs of other engineering groups. The work of clearly defining what the goal of the project is and how the data will be used is key, and is something that in my experience a lot of engineers struggle with, both in explaining in words what they need and in being able to generalize beyond 1-2 examples they have in their heads. Finding generalizations, edge cases, the right examples, and the right categories to use, are all things linguists excel at.  
 
 
-## *Training annotators* is like *writing experiment guidelines*
+## Training annotators *is like* writing experiment guidelines
 
 The data annotation projects described above are often staffed by 3rd party workers of some kind. These workers may be full-time employees hired and trained specifically for the annotation work, they may be contractors hired through a vendor company, or they may work on a project on a situational basis without any additional training or opportunity for feedback (such as Amazon Mechanical Turk or Prolific workers). In all cases, these workers will require some training before participating in an annotation project. 
 
@@ -66,7 +66,7 @@ We write these annotation guidelines with the understanding that they may be the
 
 The creation of annotation project guidelines is similar the creation of guidelines for experimental work. To an extent, they are also similar to the prep work needed for **elicitation studies**, to ensure the right content and form of communication with consultants, as well as careful task design to ensure maximal likelihood of yielding usable results, as discussed in the previous section above. 
 
-## *Creating a taxonomy* is like *developing a theory* 
+## Creating a taxonomy *is like* developing a theory
 
 A **taxonomy**, or **ontology**, is a structured framework that defines the categories, labels, and relationships used to annotate data. The resulting label space should comprehensively cover all relevant data, often with minimal or no overlap between labels. Definitions and relationships should be consistent, unambiguous, and aligned with the goals of the dataset, ensuring that different annotators---and consequently models---interpret the data in the same way.
 
@@ -89,7 +89,7 @@ The ability of linguists to take a messy, unstructured dataset, and impose struc
 
 The three sections above --- designing annotation projects, creating annotation guidelines, creating taxonomies --- are interrelated. We might often engage in all three at once as part of our job. But sometimes you do just one but not the others: you're given an existing taxonomy and the best you can do is add some examples but you can't really change the labels or definitions because they've been used for a long time and there are existing dependencies. Or you're given a project design and you're asked to write the guidelines. Or you design the project and work with a team of trainers/writers whose job is to work with the crowds. Linguists are frequently employed in all these types of jobs. 
 
-## *Designing an evaluation* is like *writing problem sets*
+## Designing an evaluation *is like* writing problem sets
 
 **Model evaluation** is the process of systematically assessing how well a model performs on defined tasks using representative test data and appropriate metrics, in order to measure accuracy, robustness, and whether the model meets its intended objectives and real-world requirements. An evaluation is designed by first clearly defining the task and success criteria, including what behaviors or outcomes the model should exhibit. Appropriate metrics and benchmarks are then selected to measure those goals, along with a representative and well-controlled dataset that reflects real-world use cases and edge cases. Finally, evaluation protocols are specified---such as data splits, baselines, and error analysis methods---to ensure results are reliable, interpretable, and actionable.
 
@@ -112,7 +112,7 @@ The design of a golden dataset is similar to the design of a problem set for an 
 Finally, we may report outcomes, provide feedback, and generate **insights** from the solutions we have received. A TA might want to report back to an instructor about unclear concepts, or make suggestions about how to teach something differently, add examples, add more exercises, change the order of presentation of materials, etc. Students might be presented with feedback that highlights their errors and makes suggestions for what to focus on to improve. And through the course of doing this work, we may also discover errors in our own work: maybe we weren't as clear in our task definitions as we thought; maybe actually some of our golden labels are wrong; maybe our study materials (guidelines, existing training data) don't cover some cases that came up in the task. We'll communicate our findings differently depending on what how we diagnose the problems.
 
 
-## *Error analysis* is like *doing linguistic analysis*
+## Doing error analysis *is like* doing linguistic analysis
 
 One important aspect of doing an evaluation is **error analysis**: the systematic process of examining a model's mistakes to understand why errors occur, identify patterns or edge cases, and uncover weaknesses in the model, data, or annotation. The results of error analysis inform improvements in data quality, model design, annotation guidelines, or evaluation metrics to guide more effective iterations. 
 
@@ -130,7 +130,7 @@ This work is quite similar to how I approach solving a problem set or doing ling
 
 In the context of model evaluation, when I do error analysis, I consider several sources for errors in model performance. Some errors may be traced back to annotator error, which I may then trace back to gaps in the guidelines, conflicting examples, confusing definitions, poor task design, inadequate training, or laziness of annotators. We might then fix our golden labels and also iterate on our design and definitions, as needed. Some errors may be due to ambiguity in our taxonomy definitions. Other errors might be due to model performance, which we may then trace back to gaps or skews in training data, ambiguity or confusion in how the model prompt was written, limitations in the model architecture, insufficient fine-tuning, or unexpected edge cases in the input data. If this is the issue, we might engage in some prompt optimization (aka prompt engineering), or we might audit our training data to decide if any changes are needed. We take both the frequency and severity of issues into account. Very mild and unlikely errors will garner less attention than major, frequent ones. 
 
-## *Data analysis* is like *data analysis*
+## Data analysis *is like* data analysis
 
 To state the obvious, if you perform data analysis on your experimental/computational results, you're doing the kind of analysis you might also do in a tech job. The most common language for data analysis in tech is *python*, whereas you might be more used to working in R in academia, but the concepts are the same. It's advisable to take the time to learn the basics of python syntax, so you can translate your skills into a more employable language. 
 
@@ -138,7 +138,7 @@ Likewise if you're building models, using neural nets, experimenting with LLMs, 
 
 &nbsp;
 
-**Now it's your turn: What other skills should I add?*
+**Now it's your turn: What other skills should I add?**
 
 &nbsp;
 
