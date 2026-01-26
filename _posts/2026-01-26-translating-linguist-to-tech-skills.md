@@ -33,8 +33,17 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
 <style>
-div.compact-list ol li ul {
-  padding-left: 1em !important;
+/* Compact each list item */
+div.compact-list ol li {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+/* Compact nested bullets */
+div.compact-list ol li ul,
+div.compact-list ol li ol {
+  padding-left: 1em !important;     /* reduce nested indent */
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
@@ -162,6 +171,12 @@ In the context of model evaluation, when I do error analysis, I consider several
 To state the obvious, if you perform data analysis on your experimental/computational results, you're doing the kind of analysis you might also do in a tech job. The most common language for data analysis in tech is *python*, whereas you might be more used to working in R in academia, but the concepts are the same. It's advisable to take the time to learn the basics of python syntax, so you can translate your skills into a more employable language. 
 
 Likewise if you're building models, using neural nets, experimenting with LLMs, using other computational tools, those are skills that will be directly relevant to a tech job. 
+
+## More X *is like* Y
+
+There are some non-core parts of my job that I can try to liken to stuff as I used to do as a linguist, maybe stretching it a little. 
+
+1. **Grant writing** is kinda like 
 
 &nbsp;
 
