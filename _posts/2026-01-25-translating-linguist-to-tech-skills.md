@@ -32,6 +32,14 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
+<style>
+.compact-list ol li ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1em; /* reduce nested bullet indent */
+}
+</style>
+
 <div class="compact-list">
   <ol>
     <li>Understand the <strong>goals</strong> of the project, e.g. what will the data be used for, how, and by whom</li>
@@ -72,14 +80,6 @@ The skills associated with this kind of work are similar to the skills used in *
     </li>
   </ol>
 </div>
-
-<style>
-.compact-list ol li ul {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 1em; /* reduce nested bullet indent */
-}
-</style>
 
 Other linguists, such as those who engage in **elicitation work**, **ethnographic work**, **corpus work**, or **formal theoretical work** also engage in at least part of this process. Really, any scientifically driven exploration will require operationalizing a problem and determining an appropriate label space, perhaps also recruitment of speakers and setting of a task and payment. They differ in that these tasks often happen with the experimenter in the room or in a small group setting (or with the experimenter being the only person in the room), whereas larger studies such as annotation studies most often involve naive workers who experimenters have a limited ability to train or provide feedback to. 
 
@@ -136,13 +136,27 @@ The three sections above --- designing annotation projects, creating annotation 
 
 There are various parts of this work that are similar to the work of a linguist, in particular when designing a problem set or an exam to assess the training and knowledge of students. 
 
-1. Translate high-level goals into clear tasks, success criteria, and measurable outcomes
-6. Know what “good” performance looks like in the relevant application area
-3. Select or construct representative evaluation datasets, including edge cases and failure modes
-8. Ensure consistency, reproducibility, and correctness in datasets, metrics, and procedures
-2. Understand what metrics are appropriate, what they capture (and miss), and how they trade off against one another
-5. Interpret results, identify patterns in errors, and distinguish signal from noise (more on error analysis below)
-7. Clearly explain evaluation design, results, limitations, and implications to diverse stakeholders
+<div class="compact-list">
+  <ol>
+    <li>Translate high-level goals into clear tasks, success criteria, and measurable outcomes
+      <ul>
+        <li>understand what metrics are appropriate, what they capture (and miss), and how they trade off against one another</li>
+        <li>know what “good” performance looks like in the relevant application area</li>
+      </ul>
+    </li>
+
+    <li>Select or construct representative evaluation datasets
+      <ul>
+        <li>include core cases, edge cases, and known failure modes</li>
+        <li>ensure consistency, reproducibility, and correctness in datasets, metrics, and procedures</li>
+      </ul>
+    </li>
+
+    <li>Interpret results, identify patterns in errors, and distinguish signal from noise (more on <a href="#doing-error-analysis-is-like-doing-linguistic-analysis">error analysis</a> below)</li>
+
+    <li>Clearly explain evaluation design, results, limitations, and implications to diverse stakeholders</li>
+  </ol>
+</div>
 
 One important aspect of evaluating a model is the design of the evaluation dataset: to perform an evaluation, we must construct or select a dataset that would allow us to measure the right metrics for our model. This **golden dataset** will have highly confident labels, which can then be compared to model predictions and errors can be analyzed. We may select an existing, external *benchmark* dataset, which will allow us to compare ourselves to other models on a leaderboard; or we may design a dataset to specifically target our model and data needs, for example focusing on the most common user experiences expected for the model, perhaps even using customer data, if available. My own work often involves the design and construction (and localization) of targeted datasets.
 
@@ -159,13 +173,29 @@ One important aspect of doing an evaluation is **error analysis**: the systemati
 
 The skills involved in this task are, once again, very relevant to the linguist's life and work: 
 
-1. Define scope and goals: Decide what model, data, and types of errors to analyze
-2. Identify and organize instances where the model predictions are incorrect
-3. Group mistakes by type, feature, or context to reveal patterns
-5. Diagnose root causes: Determine whether errors arise from data, model, or ambiguity
-4. Measure pattern frequency and impact to prioritize attention
-6. Focus on the most frequent or high-impact errors for improvement
-7. Apply changes, re-evaluate, and track progress over time
+<div class="compact-list">
+  <ol>
+    <li>Define <strong>scope and goals</strong>
+      <ul>
+        <li>what model</li>
+        <li>what data</li>
+        <li>what types of errors to analyze</li>
+      </ul>
+    </li>
+
+    <li><strong>Identify and organize</strong> instances where the model predictions are incorrect
+      <ul>
+        <li>Group mistakes by type, feature, or context to reveal patterns</li>
+        <li>Diagnose <strong>root causes</strong>: Determine whether errors arise from data, model, or ambiguity</li>
+        <li>Measure pattern <strong>frequency and impact</strong> to prioritize attention</li>
+      </ul>
+    </li>
+
+    <li>Focus on the most frequent or high-impact errors for improvement</li>
+
+    <li>Apply changes, re-evaluate, and track progress over time</li>
+  </ol>
+</div>
 
 This work is quite similar to how I approach solving a problem set or doing linguistic analysis. I often adopt a bottom-up approach: (a) start from specific interesting datapoints, (b) form a hypothesis about why they are behaving a certain way, (c) test my hypothesis with more data, (d) iterate until I have a proposal. If I'm developing a theory, I'll want to refine my definitions and proposal to account for all the data, and test again to ensure that I'm now able to explain all my data. When I encounter outliers or edge cases, I consider different reasons why things look odd. Maybe my gloss is wrong. Maybe the sentence is actually ambiguous and my speaker got a different reading than I intended. Maybe I suspect a participant in my experiment found some way to cheat and I should exclude all data from them. Maybe my theory is wrong.
 
