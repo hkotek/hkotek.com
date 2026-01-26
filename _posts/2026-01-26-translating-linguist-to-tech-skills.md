@@ -38,7 +38,7 @@ div.compact-list ol li ul {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-<style>
+</style>
 
 <div class="compact-list">
 1. Understand project goals: what the data will be used for, how, and by whom
