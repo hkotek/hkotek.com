@@ -17,7 +17,7 @@ tags:
 
 There were several excellent presentations at this year's [**LEXING**](https://www.lsadc.org/lexing). In a talk titled *Linguists are Exceptional Inductive Reasoners – A Case Study on Skill Relevance in Enterprise Software*, [**Maggie Baird**](https://www.linkedin.com/in/maggie-baird-167129102/) laid out a mapping between her everyday work as a linguist on an engineering team developing a generative AI product and three tasks commonly carried out by academic linguists. It resonated with me --- it's also very true of my job and skills. In this post, I spell out my version of Maggie's ideas.[^1] 
 
-The gist: `<tech skill>` is like `<linguist skill>`
+The gist: \<tech skill\> is like \<linguist skill\>
 - [Designing annotation projects *is like* designing human subjects studies](#designing-annotation-projects-is-like-designing-human-subjects-studies)
 - [Training annotators *is like* writing experiment guidelines](#training-annotators-is-like-writing-experiment-guidelines)
 - [Creating a taxonomy *is like* developing a theory](#creating-a-taxonomy-is-like-developing-a-theory)
@@ -32,26 +32,54 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
-1. Understand the **goals** of the project, e.g. what will the data be used for, how, and by whom
-2. **Operationalize** the problem into a data collection project: 
-- determine the right **label space** to be used to classify the data into categories (more on *taxonomy* work below)
-- decide how many datapoints are needed per label
-- determine your data sources
-- sample / compile your data
-3. **Design** a project that... 
-- is simple to teach to a possibly large, possibly untrained set of annotators 
-- allows for consistent and accurate data collection 
-- can be conducted quickly to fit budget and timing needs
-4. Create the actual project in your **tool** of choice, taking into account...  
-- visual design elements
-- spacial considerations that minimize effort
-- ordering of items
-- should annotators be able to go back and change previous answers, ...
-5. Identify necessary **annotator skills** or knowledge 
-- write guidelines to be used by the annotators who will work on your task (more on this [below](#training-annotators-is-like-writing-experiment-guidelines))
-- create practice items
-- set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
-- set appropriate compensation for your task
+1<div class="compact-list">
+  <ol>
+    <li>Understand the <strong>goals</strong> of the project, e.g. what will the data be used for, how, and by whom</li>
+
+    <li><strong>Operationalize</strong> the problem into a data collection project:
+      <ul>
+        <li>determine the right <strong>label space</strong> to be used to classify the data into categories (more on <em>taxonomy</em> work below)</li>
+        <li>decide how many datapoints are needed per label</li>
+        <li>determine your data sources</li>
+        <li>sample / compile your data</li>
+      </ul>
+    </li>
+
+    <li><strong>Design</strong> a project that...
+      <ul>
+        <li>is simple to teach to a possibly large, possibly untrained set of annotators</li>
+        <li>allows for consistent and accurate data collection</li>
+        <li>can be conducted quickly to fit budget and timing needs</li>
+      </ul>
+    </li>
+
+    <li>Create the actual project in your <strong>tool</strong> of choice, taking into account...
+      <ul>
+        <li>visual design elements</li>
+        <li>spacial considerations that minimize effort</li>
+        <li>ordering of items</li>
+        <li>should annotators be able to go back and change previous answers, ...</li>
+      </ul>
+    </li>
+
+    <li>Identify necessary <strong>annotator skills</strong> or knowledge
+      <ul>
+        <li>write guidelines to be used by the annotators who will work on your task (more on this <a href="#training-annotators-is-like-writing-experiment-guidelines">below</a>)</li>
+        <li>create practice items</li>
+        <li>set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)</li>
+        <li>set appropriate compensation for your task</li>
+      </ul>
+    </li>
+  </ol>
+</div>
+
+<style>
+.compact-list ol li ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1em; /* reduce nested bullet indent */
+}
+</style>
 
 Other linguists, such as those who engage in **elicitation work**, **ethnographic work**, **corpus work**, or **formal theoretical work** also engage in at least part of this process. Really, any scientifically driven exploration will require operationalizing a problem and determining an appropriate label space, perhaps also recruitment of speakers and setting of a task and payment. They differ in that these tasks often happen with the experimenter in the room or in a small group setting (or with the experimenter being the only person in the room), whereas larger studies such as annotation studies most often involve naive workers who experimenters have a limited ability to train or provide feedback to. 
 
