@@ -17,6 +17,15 @@ tags:
 
 There were several excellent presentations at this year's [**LEXING**](https://www.lsadc.org/lexing). In a talk titled *Linguists are Exceptional Inductive Reasoners – A Case Study on Skill Relevance in Enterprise Software*, [**Maggie Baird**](https://www.linkedin.com/in/maggie-baird-167129102/) laid out a mapping between her everyday work as a linguist on an engineering team developing a generative AI product and three tasks commonly carried out by academic linguists. It resonated with me --- it's also very true of my job and skills. In this post, I spell out my version of Maggie's ideas.[^1] 
 
+The gist: `<tech skill>` is like `<linguist skill>`
+- [Designing annotation projects *is like* designing human subjects studies](#designing-annotation-projects-is-like-designing-human-subjects-studies)
+- [Training annotators *is like* writing experiment guidelines](#training-annotators-is-like-writing-experiment-guidelines)
+- [Creating a taxonomy *is like* developing a theory](#creating-a-taxonomy-is-like-developing-a-theory)
+- [Designing an evaluation *is like* writing problem sets](#designing-an-evaluation-is-like-writing-problem-sets)
+- [Doing error analysis *is like* doing linguistic analysis](#doing-error-analysis-is-like-doing-linguistic-analysis)
+- [Data analysis *is like* data analysis](#data-analysis-is-like-data-analysis)
+
+
 ## Designing annotation projects *is like* designing human subjects studies
 
 Linguists in tech companies often work on **data annotation projects**, whose results serve as either training or evaluation data for machine learning models. The projects themselves may vary depending on the company's needs. Some examples of projects include (a) identify entities in a text and classify them into types such as person, group, business, or event; (b) read a question+response pair and decide how helpful the response is; (c) ask a question about an image that can't be answered from the text alone without access to the image; (d) listen to a synthetic voice, decide how natural it sounds, and tag problematic parts with relevant flags.   
@@ -39,7 +48,7 @@ The skills associated with this kind of work are similar to the skills used in *
 - ordering of items
 - should annotators be able to go back and change previous answers, ...
 5. Identify necessary **annotator skills** or knowledge 
-- write guidelines to be used by the annotators who will work on your task (more on this below)
+- write guidelines to be used by the annotators who will work on your task (more on this [below](#training-annotators-is-like-writing-experiment-guidelines))
 - create practice items
 - set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
 - set appropriate compensation for your task
@@ -51,7 +60,7 @@ I believe this is the most direct skillset I took with me from my academic work 
 
 ## Training annotators *is like* writing experiment guidelines
 
-The data annotation projects described above are often staffed by 3rd party workers of some kind. These workers may be full-time employees hired and trained specifically for the annotation work, they may be contractors hired through a vendor company, or they may work on a project on a situational basis without any additional training or opportunity for feedback (such as Amazon Mechanical Turk or Prolific workers). In all cases, these workers will require some training before participating in an annotation project. 
+The data annotation projects described [above](#designing-annotation-projects-is-like-designing-human-subjects-studies) are often staffed by 3rd party workers of some kind. These workers may be full-time employees hired and trained specifically for the annotation work, they may be contractors hired through a vendor company, or they may work on a project on a situational basis without any additional training or opportunity for feedback (such as Amazon Mechanical Turk or Prolific workers). In all cases, these workers will require some training before participating in an annotation project. 
 
 In the case of long-term workers, such as FTEs or contractors who are dedicated to the work full time, there will likely be an initial training and certification stage to ensure a shared knowledge base. In the case of situational workers, this is not possible. In both cases, annotation project designers will include **guidelines** and perhaps **practice items** along with their task. The goal of the guidelines is to ensure a basic understanding of the project; good guidelines will describe the tool and steps involved in the task, define concepts and labels, answer frequently asked question, and provide some examples of how to use the labels in the context of the task. 
 
@@ -64,7 +73,8 @@ The skills associated with this kind of work are again similar to the skills use
 
 We write these annotation guidelines with the understanding that they may be the only way we can communicate with the crowd, but also knowing that the crowd is likely not to read the content as carefully as we wrote it (or at all, perhaps). Therefore, we also invest a lot in the study design itself to make it natural and to try to avoid pitfalls, misinterpretations, or alternative paths to solving the problem than we intend. We provide examples in the hopes that at least those are skimmed, and we consider carefully the right length, visual design, and content, that we include. 
 
-The creation of annotation project guidelines is similar the creation of guidelines for experimental work. To an extent, they are also similar to the prep work needed for **elicitation studies**, to ensure the right content and form of communication with consultants, as well as careful task design to ensure maximal likelihood of yielding usable results, as discussed in the previous section above. 
+The creation of annotation project guidelines is similar the creation of guidelines for experimental work. To an extent, they are also similar to the prep work needed for **elicitation studies**, to ensure the right content and form of communication with consultants, as well as careful task design to ensure maximal likelihood of yielding usable results, as discussed in the previous section [above](#designing-annotation-projects-is-like-designing-human-subjects-studies). 
+
 
 ## Creating a taxonomy *is like* developing a theory
 
@@ -81,9 +91,12 @@ Linguists are often hired as taxonomists, and though they may initially be confu
 7. Maintain clear guidelines, change logs, and versioning so the taxonomy remains stable and auditable over time
 8. Understand how annotated data will be used in model training and evaluation, including impacts on bias, performance, and generalization
 
+If we return to the examples in the [first section](#designing-annotation-projects-is-like-designing-human-subjects-studies) of this post, I mentioned several types of annotation projects, including (a) identify entities in a text and classify them into types such as person, group, business, or event; ... (d) listen to a synthetic voice, decide how natural it sounds, and tag problematic parts with relevant flags. These types of projects may come with predefined ontologies, or you may need to define or refine them. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) is a common task in NLP, which has well established categories such as person, organization, location, event, date/time expressions, measurements, and more. You may need to adapt this label space, expand, or constrain it, to fit the needs of the model you are working on. Likewise if you are working on tagging parts of synthetically generated speech for problems, you may develop a set of tags such as "pitch is too low", "duration is too long", "lacks aspiration", or "segments overlap", and you may consider how to define and adapt those tags for use by naive labelers.[^2]
+
 To me, this is very much like theory development. You step into a new dataset that someone has collected; you spend some time exploring it, identifying generalizations and edge cases; you start experimenting with a proposal to explain the data; you may collect some more data where you think something might be missing or multiple hypotheses could be correct. You might use labels like "grammatical/ungrammatical" or "natural/unnatural". You may use labels like {CP, TP, vP, VP} or {epistemic, deontic, root, circumstantial, possibility}. If there's an existing label space that works, you may use it and just refine the definitions, hierarchies, or relations. If there's a portion of the data that isn't explained, you may define a new label or redefine the entire (or a part of the) existing label space. You might argue that what you're seeing actually isn't a modal at all, but an evidential. That the language you're looking at motivates a new type of phase. That the pronoun in this Austronesian language is really a logophor, but we have to redefine what logophors are so they apply not only to more common ones found in African language but also to these new ones you just discovered. 
 
 The ability of linguists to take a messy, unstructured dataset, and impose structure on it, to identify what is relevant and what is not, to iterate and refine the definitions, to find the edge cases, generalizations, and exceptions, is a rare and very useful skill.
+
 
 ## Interlude 
 
@@ -150,3 +163,5 @@ Likewise if you're building models, using neural nets, experimenting with LLMs, 
     - Error Analysis IS LIKE Doing Morphophonological Analysis
 
 I've made quite a lot of changes to the first part. To me, designing annotation tasks is more like engaging in behavioral experimentation, where the goal is to teach a large set of naive participants to do the same thing, than elicitation, which is often 1:1 and involves an experimenter present in the room, unlike most annotation projects I work on.
+
+[^2]: I totally just made this faux-phonetic label set up, and I'm not a p-side person, so please don't yell at me. 
