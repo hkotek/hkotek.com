@@ -24,7 +24,7 @@ The gist: \<tech skill\> is like \<linguist skill\>
 - [Designing an evaluation *is like* writing problem sets](#designing-an-evaluation-is-like-writing-problem-sets)
 - [Doing error analysis *is like* doing linguistic analysis](#doing-error-analysis-is-like-doing-linguistic-analysis)
 - [Data analysis *is like* data analysis](#data-analysis-is-like-data-analysis)
-
+- [More X *is like* Y](#more-x-is-like-y)
 
 ## Designing annotation projects *is like* designing human subjects studies
 
