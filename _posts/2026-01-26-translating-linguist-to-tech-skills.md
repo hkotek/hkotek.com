@@ -32,11 +32,13 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
+<style>
 div.compact-list ol li ul {
   padding-left: 1em !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
+<style>
 
 <div class="compact-list">
 1. Understand project goals: what the data will be used for, how, and by whom
