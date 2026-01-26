@@ -41,28 +41,26 @@ The skills associated with this kind of work are similar to the skills used in *
 </style>
 
 <div class="compact-list">
-
-1. Understand the **goals** of the project, e.g., what will the data be used for, how, and by whom
-2. **Operationalize** the problem into a data collection project:
-   - determine the right **label space** to be used to classify the data into categories (more on *taxonomy* work below)
-   - decide how many datapoints are needed per label
-   - determine your data sources
-   - sample / compile your data
-3. **Design** a project that...
-   - is simple to teach to a possibly large, possibly untrained set of annotators
-   - allows for consistent and accurate data collection
-   - can be conducted quickly to fit budget and timing needs
-4. Create the actual project in your **tool** of choice, taking into account...
-   - visual design elements
-   - spacial considerations that minimize effort
-   - ordering of items
-   - should annotators be able to go back and change previous answers, ...
-5. Identify necessary **annotator skills** or knowledge
-   - write guidelines to be used by the annotators who will work on your task (more on [training annotators](#training-annotators-is-like-writing-experiment-guidelines) below)
-   - create practice items
-   - set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
-   - set appropriate compensation for your task
-
+- Understand project goals: what the data will be used for, how, and by whom
+- **Operationalize** the problem:
+    - define label space (see [taxonomy](#creating-a-taxonomy-is-like-developing-a-linguistic-theory) below)
+    - decide on the number of datapoints per label
+    - identify data sources
+    - sample/compile data
+- **Design** the project:
+    - simple to teach to large/untrained annotators
+    - ensures consistent, accurate data collection
+    - fits budget and timing constraints
+- Create the project in your **tool**:
+    - visual design elements
+    - minimize effort via spatial layout
+    - ordering of items
+    - allow annotators to change previous answers?
+- Identify **annotator skills**:
+    - write guidelines (see [training annotators](#training-annotators-is-like-writing-experiment-guidelines) below)
+    - create practice items
+    - set minimum participation requirements (language, age, region, accuracy, ...)
+    - define appropriate compensation
 </div>
 
 
@@ -80,9 +78,9 @@ In the case of long-term workers, such as FTEs or contractors who are dedicated 
 The skills associated with this kind of work are again similar to the skills used in **experimental study design** and to an extent in **elicitation study design**.
 
 1. Understand the **technical goals** of the project
-2. Communicate these goals to a **non-technical crowd**
-3. Identify concepts that need explanation, provide skill-appropriate **definitions**
-4. Provide a comprehensive set of **examples** to help annotators draw generalizations
+2. Communicate goals to a **non-technical audience**
+3. Identify key concepts and skill-appropriate **definitions**
+4. Provide a comprehensive set of **examples** to support generalization
 
 We write these annotation guidelines with the understanding that they may be the only way we can communicate with the crowd, but also knowing that the crowd is likely not to read the content as carefully as we wrote it (or at all, perhaps). Therefore, we also invest a lot in the study design itself to make it natural and to try to avoid pitfalls, misinterpretations, or alternative paths to solving the problem than we intend. We provide examples in the hopes that at least those are skimmed, and we consider carefully the right length, visual design, and content, that we include. 
 
@@ -95,14 +93,15 @@ A **taxonomy**, or **ontology**, is a structured framework that defines the cate
 
 Linguists are often hired as taxonomists, and though they may initially be confused about why we are considered so appropriate for this role, I think that our training and disposition gives us an excellent preparation for this kind of work. 
 
-1. Break complex, messy data into clear categories, hierarchies, and relationships
-2. Write clear, unambiguous definitions so that different annotators (and models) interpret categories consistently
-3. Understand how annotators will actually apply labels (and how models will learn them); balance theoretical neatness with practical usability in your design
-4. Work with edge cases, overlaps, and exceptions, and refine labels to reduce ambiguity and noise
-5. Iterate, test, revise, and evolve taxonomies based on annotation feedback, data drift, or model performance
-6. Work across stakeholders, including annotators, engineers, researchers, product teams, and incorporate feedback without losing coherence
-7. Maintain clear guidelines, change logs, and versioning so the taxonomy remains stable and auditable over time
-8. Understand how annotated data will be used in model training and evaluation, including impacts on bias, performance, and generalization
+8. Understand how annotated data will be used in training and evaluation, including impacts on bias, performance, and generalization
+1. Break complex data into clear categories, hierarchies, and relationships
+2. Write clear, unambiguous definitions that annotators (and models) can interpret consistently
+3. Understand how annotators actually apply labels (and how models learn them); balance theoretical neatness with practical usability
+4. Handle edge cases, overlaps, and exceptions; refine labels to reduce ambiguity and noise
+5. Iterate, test, and evolve taxonomies based on feedback, data drift, or model performance
+6. Collaborate across stakeholders---annotators, engineers, researchers, product teams---incorporating feedback without losing coherence
+7. Maintain guidelines, change logs, and versioning to keep the taxonomy stable and auditable
+
 
 If we return to the examples in the [first section](#designing-annotation-projects-is-like-designing-human-subjects-studies) of this post, I mentioned several types of annotation projects, including (a) identify entities in a text and classify them into types such as person, group, business, or event; ... (d) listen to a synthetic voice, decide how natural it sounds, and tag problematic parts with relevant flags. These types of projects may come with predefined ontologies, or you may need to define or refine them. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) is a common task in NLP, which has well established categories such as person, organization, location, event, date/time expressions, measurements, and more. You may need to adapt this label space, expand, or constrain it, to fit the needs of the model you are working on. Likewise if you are working on tagging parts of synthetically generated speech for problems, you may develop a set of tags such as "pitch is too low", "duration is too long", "lacks aspiration", or "segments overlap", and you may consider how to define and adapt those tags for use by naive labelers.[^2]
 
@@ -123,13 +122,13 @@ There are various parts of this work that are similar to the work of a linguist,
 
 <div class="compact-list">
 1. Translate high-level goals into clear tasks, success criteria, and measurable outcomes
-   - understand what metrics are appropriate, what they capture, and how they trade off
-   - know what “good” performance looks like in the relevant application area
+   - determine which metrics are appropriate, what they capture, and trade-offs
+   - understand what “good” performance looks like for the task
 2. Select or construct representative evaluation datasets
-   - including edge cases and failure modes
-   - ensure consistency, reproducibility, and correctness in datasets, metrics, and procedures
-3. Interpret results, identify patterns in errors, and distinguish signal from noise (more on [error analysis](#doing-error-analysis-is-like-doing-linguistic-analysis) below)
-4. Clearly explain evaluation design, results, limitations, and implications to diverse stakeholders
+   - include core cases, edge cases, and known failure modes
+   - ensure consistency, reproducibility, and correctness in datasets and metrics
+3. Interpret results, identify patterns in errors, and distinguish signal from noise (see [error analysis](#doing-error-analysis-is-like-doing-linguistic-analysis) below)
+4. Clearly communicate evaluation design, results, limitations, and implications to stakeholders
 </div>
 
 One important aspect of evaluating a model is the design of the evaluation dataset: to perform an evaluation, we must construct or select a dataset that would allow us to measure the right metrics for our model. This **golden dataset** will have highly confident labels, which can then be compared to model predictions and errors can be analyzed. We may select an existing, external *benchmark* dataset, which will allow us to compare ourselves to other models on a leaderboard; or we may design a dataset to specifically target our model and data needs, for example focusing on the most common user experiences expected for the model, perhaps even using customer data, if available. My own work often involves the design and construction (and localization) of targeted datasets.
@@ -150,14 +149,12 @@ The skills involved in this task are, once again, very relevant to the linguist'
 <div class="compact-list">
 
 1. Define **scope and goals**
-   - what model
-   - what data
-   - what types of errors to analyze
-2. **Identify and organize** instances where the model predictions are incorrect
-   - Group mistakes by type, feature, or context to reveal patterns
-   - Diagnose **root causes**: Determine whether errors arise from data, model, or ambiguity
-   - Measure pattern **frequency and impact** to prioritize attention
-3. Focus on the most frequent or high-impact errors for improvement
+   - specify the model, data, and types of errors to analyze
+2. **Identify and organize** incorrect predictions
+   - group mistakes by type, feature, or context
+   - diagnose **root causes**: determine if errors arise from data, model, or ambiguity
+   - measure pattern **frequency and impact** to prioritize improvements
+3. Focus on the most frequent or high-impact errors
 4. Apply changes, re-evaluate, and track progress over time
 
 </div>
