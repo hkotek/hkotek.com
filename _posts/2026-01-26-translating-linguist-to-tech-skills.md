@@ -33,6 +33,12 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
 <style>
+div.compact-list ol {
+  padding-left: 1.2em !important;   /* reduce indent of numbers */
+  margin-top: 0 !important;         /* remove extra space above list */
+  margin-bottom: 0 !important;      /* remove extra space below list */
+}
+
 /* Compact each list item */
 div.compact-list ol li {
   margin-top: 0 !important;
@@ -176,7 +182,8 @@ Likewise if you're building models, using neural nets, experimenting with LLMs, 
 
 There are some non-core parts of my job that I can try to liken to stuff as I used to do as a linguist, maybe stretching it a little. 
 
-1. **Grant writing** is kinda like 
+1. **Abstract writing** is like the little project proposals I've written to get intern headcount.[^3]
+2. **Budget management** is like budget management. If you do things like review and approve hours for hourly workers
 
 &nbsp;
 
@@ -194,3 +201,5 @@ There are some non-core parts of my job that I can try to liken to stuff as I us
 I've made quite a lot of changes to the first part. To me, designing annotation tasks is more like engaging in behavioral experimentation, where the goal is to teach a large set of naive participants to do the same thing, than elicitation, which is often 1:1 and involves an experimenter present in the room, unlike most annotation projects I work on.
 
 [^2]: I totally just made this faux-phonetic label set up, and I'm not a p-side person, so please don't yell at me. 
+
+[^3]: Initially I thought about grant writing here, but I don't think I ever write documents that are quite that long or scrutinized. 
