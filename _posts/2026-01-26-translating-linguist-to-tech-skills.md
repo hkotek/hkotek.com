@@ -23,7 +23,7 @@ The gist: \<tech skill\> is like \<linguist skill\>
 - [Creating a taxonomy *is like* developing a linguistic theory](#creating-a-taxonomy-is-like-developing-a-linguistic-theory)
 - [Designing an evaluation *is like* writing problem sets](#designing-an-evaluation-is-like-writing-problem-sets)
 - [Doing error analysis *is like* doing linguistic analysis](#doing-error-analysis-is-like-doing-linguistic-analysis)
-- [Data analysis *is like* data analysis](#data-analysis-is-like-data-analysis)
+- [Doing data analysis *is like* doing data analysis](#doing-data-analysis-is-like-doing-data-analysis)
 - [More X *is like* Y](#more-x-is-like-y)
 
 ## Designing annotation projects *is like* designing human subjects studies
@@ -209,7 +209,7 @@ This work is quite similar to how I approach solving a problem set or doing ling
 
 In the context of model evaluation, when I do error analysis, I consider several sources for errors in model performance. Some errors may be traced back to annotator error, which I may then trace back to gaps in the guidelines, conflicting examples, confusing definitions, poor task design, inadequate training, or laziness of annotators. We might then fix our golden labels and also iterate on our design and definitions, as needed. Some errors may be due to ambiguity in our taxonomy definitions. Other errors might be due to model performance, which we may then trace back to gaps or skews in training data, ambiguity or confusion in how the model prompt was written, limitations in the model architecture, insufficient fine-tuning, or unexpected edge cases in the input data. If this is the issue, we might engage in some prompt optimization (aka **prompt engineering**), or we might audit our training data to decide if any changes are needed. We take both the frequency and severity of issues into account. Very mild and unlikely errors will garner less attention than major, frequent ones. 
 
-## Data analysis *is like* data analysis
+## Doing data analysis *is like* doing data analysis
 
 To state the obvious, if you perform **data analysis** on your experimental/computational results, you're doing the kind of analysis you might also do in a tech job. The most common language for data analysis in tech is *python*, whereas you might be more used to working in R in academia, but the concepts are the same. It's advisable to take the time to learn the basics of python syntax, so you can translate your skills into a more employable language. 
 
