@@ -20,7 +20,7 @@ There were several excellent presentations at this year's [**LEXING**](https://w
 The gist: \<tech skill\> is like \<linguist skill\>
 - [Designing annotation projects *is like* designing human subjects studies](#designing-annotation-projects-is-like-designing-human-subjects-studies)
 - [Training annotators *is like* writing experiment guidelines](#training-annotators-is-like-writing-experiment-guidelines)
-- [Creating a taxonomy *is like* developing a theory](#creating-a-taxonomy-is-like-developing-a-theory)
+- [Creating a taxonomy *is like* developing a linguistic theory](#creating-a-taxonomy-is-like-developing-a-linguistic-theory)
 - [Designing an evaluation *is like* writing problem sets](#designing-an-evaluation-is-like-writing-problem-sets)
 - [Doing error analysis *is like* doing linguistic analysis](#doing-error-analysis-is-like-doing-linguistic-analysis)
 - [Data analysis *is like* data analysis](#data-analysis-is-like-data-analysis)
@@ -41,45 +41,30 @@ The skills associated with this kind of work are similar to the skills used in *
 </style>
 
 <div class="compact-list">
-  <ol>
-    <li>Understand the <strong>goals</strong> of the project, e.g. what will the data be used for, how, and by whom</li>
 
-    <li><strong>Operationalize</strong> the problem into a data collection project:
-      <ul>
-        <li>determine the right <strong>label space</strong> to be used to classify the data into categories (more on <em>taxonomy</em> work below)</li>
-        <li>decide how many datapoints are needed per label</li>
-        <li>determine your data sources</li>
-        <li>sample / compile your data</li>
-      </ul>
-    </li>
+1. Understand the **goals** of the project, e.g., what will the data be used for, how, and by whom
+2. **Operationalize** the problem into a data collection project:
+   - determine the right **label space** to be used to classify the data into categories (more on *taxonomy* work below)
+   - decide how many datapoints are needed per label
+   - determine your data sources
+   - sample / compile your data
+3. **Design** a project that...
+   - is simple to teach to a possibly large, possibly untrained set of annotators
+   - allows for consistent and accurate data collection
+   - can be conducted quickly to fit budget and timing needs
+4. Create the actual project in your **tool** of choice, taking into account...
+   - visual design elements
+   - spacial considerations that minimize effort
+   - ordering of items
+   - should annotators be able to go back and change previous answers, ...
+5. Identify necessary **annotator skills** or knowledge
+   - write guidelines to be used by the annotators who will work on your task (more on [training annotators](#training-annotators-is-like-writing-experiment-guidelines) below)
+   - create practice items
+   - set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)
+   - set appropriate compensation for your task
 
-    <li><strong>Design</strong> a project that...
-      <ul>
-        <li>is simple to teach to a possibly large, possibly untrained set of annotators</li>
-        <li>allows for consistent and accurate data collection</li>
-        <li>can be conducted quickly to fit budget and timing needs</li>
-      </ul>
-    </li>
-
-    <li>Create the actual project in your <strong>tool</strong> of choice, taking into account...
-      <ul>
-        <li>visual design elements</li>
-        <li>spacial considerations that minimize effort</li>
-        <li>ordering of items</li>
-        <li>should annotators be able to go back and change previous answers, ...</li>
-      </ul>
-    </li>
-
-    <li>Identify necessary <strong>annotator skills</strong> or knowledge
-      <ul>
-        <li>write guidelines to be used by the annotators who will work on your task (more on this <a href="#training-annotators-is-like-writing-experiment-guidelines">below</a>)</li>
-        <li>create practice items</li>
-        <li>set minimum requirements for participation in your study (native language? age? region? accuracy in practice?)</li>
-        <li>set appropriate compensation for your task</li>
-      </ul>
-    </li>
-  </ol>
 </div>
+
 
 Other linguists, such as those who engage in **elicitation work**, **ethnographic work**, **corpus work**, or **formal theoretical work** also engage in at least part of this process. Really, any scientifically driven exploration will require operationalizing a problem and determining an appropriate label space, perhaps also recruitment of speakers and setting of a task and payment. They differ in that these tasks often happen with the experimenter in the room or in a small group setting (or with the experimenter being the only person in the room), whereas larger studies such as annotation studies most often involve naive workers who experimenters have a limited ability to train or provide feedback to. 
 
@@ -104,7 +89,7 @@ We write these annotation guidelines with the understanding that they may be the
 The creation of annotation project guidelines is similar the creation of guidelines for experimental work. To an extent, they are also similar to the prep work needed for **elicitation studies**, to ensure the right content and form of communication with consultants, as well as careful task design to ensure maximal likelihood of yielding usable results, as discussed in the previous section [above](#designing-annotation-projects-is-like-designing-human-subjects-studies). 
 
 
-## Creating a taxonomy *is like* developing a theory
+## Creating a taxonomy *is like* developing a linguistic theory
 
 A **taxonomy**, or **ontology**, is a structured framework that defines the categories, labels, and relationships used to annotate data. The resulting label space should comprehensively cover all relevant data, often with minimal or no overlap between labels. Definitions and relationships should be consistent, unambiguous, and aligned with the goals of the dataset, ensuring that different annotators---and consequently models---interpret the data in the same way.
 
@@ -137,25 +122,14 @@ The three sections above --- designing annotation projects, creating annotation 
 There are various parts of this work that are similar to the work of a linguist, in particular when designing a problem set or an exam to assess the training and knowledge of students. 
 
 <div class="compact-list">
-  <ol>
-    <li>Translate high-level goals into clear tasks, success criteria, and measurable outcomes
-      <ul>
-        <li>understand what metrics are appropriate, what they capture (and miss), and how they trade off against one another</li>
-        <li>know what “good” performance looks like in the relevant application area</li>
-      </ul>
-    </li>
-
-    <li>Select or construct representative evaluation datasets
-      <ul>
-        <li>include core cases, edge cases, and known failure modes</li>
-        <li>ensure consistency, reproducibility, and correctness in datasets, metrics, and procedures</li>
-      </ul>
-    </li>
-
-    <li>Interpret results, identify patterns in errors, and distinguish signal from noise (more on <a href="#doing-error-analysis-is-like-doing-linguistic-analysis">error analysis</a> below)</li>
-
-    <li>Clearly explain evaluation design, results, limitations, and implications to diverse stakeholders</li>
-  </ol>
+1. Translate high-level goals into clear tasks, success criteria, and measurable outcomes
+   - understand what metrics are appropriate, what they capture, and how they trade off
+   - know what “good” performance looks like in the relevant application area
+2. Select or construct representative evaluation datasets
+   - including edge cases and failure modes
+   - ensure consistency, reproducibility, and correctness in datasets, metrics, and procedures
+3. Interpret results, identify patterns in errors, and distinguish signal from noise (more on [error analysis](#doing-error-analysis-is-like-doing-linguistic-analysis) below)
+4. Clearly explain evaluation design, results, limitations, and implications to diverse stakeholders
 </div>
 
 One important aspect of evaluating a model is the design of the evaluation dataset: to perform an evaluation, we must construct or select a dataset that would allow us to measure the right metrics for our model. This **golden dataset** will have highly confident labels, which can then be compared to model predictions and errors can be analyzed. We may select an existing, external *benchmark* dataset, which will allow us to compare ourselves to other models on a leaderboard; or we may design a dataset to specifically target our model and data needs, for example focusing on the most common user experiences expected for the model, perhaps even using customer data, if available. My own work often involves the design and construction (and localization) of targeted datasets.
@@ -174,28 +148,20 @@ One important aspect of doing an evaluation is **error analysis**: the systemati
 The skills involved in this task are, once again, very relevant to the linguist's life and work: 
 
 <div class="compact-list">
-  <ol>
-    <li>Define <strong>scope and goals</strong>
-      <ul>
-        <li>what model</li>
-        <li>what data</li>
-        <li>what types of errors to analyze</li>
-      </ul>
-    </li>
 
-    <li><strong>Identify and organize</strong> instances where the model predictions are incorrect
-      <ul>
-        <li>Group mistakes by type, feature, or context to reveal patterns</li>
-        <li>Diagnose <strong>root causes</strong>: Determine whether errors arise from data, model, or ambiguity</li>
-        <li>Measure pattern <strong>frequency and impact</strong> to prioritize attention</li>
-      </ul>
-    </li>
+1. Define **scope and goals**
+   - what model
+   - what data
+   - what types of errors to analyze
+2. **Identify and organize** instances where the model predictions are incorrect
+   - Group mistakes by type, feature, or context to reveal patterns
+   - Diagnose **root causes**: Determine whether errors arise from data, model, or ambiguity
+   - Measure pattern **frequency and impact** to prioritize attention
+3. Focus on the most frequent or high-impact errors for improvement
+4. Apply changes, re-evaluate, and track progress over time
 
-    <li>Focus on the most frequent or high-impact errors for improvement</li>
-
-    <li>Apply changes, re-evaluate, and track progress over time</li>
-  </ol>
 </div>
+
 
 This work is quite similar to how I approach solving a problem set or doing linguistic analysis. I often adopt a bottom-up approach: (a) start from specific interesting datapoints, (b) form a hypothesis about why they are behaving a certain way, (c) test my hypothesis with more data, (d) iterate until I have a proposal. If I'm developing a theory, I'll want to refine my definitions and proposal to account for all the data, and test again to ensure that I'm now able to explain all my data. When I encounter outliers or edge cases, I consider different reasons why things look odd. Maybe my gloss is wrong. Maybe the sentence is actually ambiguous and my speaker got a different reading than I intended. Maybe I suspect a participant in my experiment found some way to cheat and I should exclude all data from them. Maybe my theory is wrong.
 
