@@ -41,6 +41,7 @@ The skills associated with this kind of work are similar to the skills used in *
 </style>
 
 <div class="compact-list">
+
 - Understand project goals: what the data will be used for, how, and by whom
 - **Operationalize** the problem:
     - define label space (see [taxonomy](#creating-a-taxonomy-is-like-developing-a-linguistic-theory) below)
@@ -61,6 +62,7 @@ The skills associated with this kind of work are similar to the skills used in *
     - create practice items
     - set minimum participation requirements (language, age, region, accuracy, ...)
     - define appropriate compensation
+
 </div>
 
 
@@ -121,6 +123,7 @@ The three sections above --- designing annotation projects, creating annotation 
 There are various parts of this work that are similar to the work of a linguist, in particular when designing a problem set or an exam to assess the training and knowledge of students. 
 
 <div class="compact-list">
+
 1. Translate high-level goals into clear tasks, success criteria, and measurable outcomes
    - determine which metrics are appropriate, what they capture, and trade-offs
    - understand what “good” performance looks like for the task
@@ -129,6 +132,7 @@ There are various parts of this work that are similar to the work of a linguist,
    - ensure consistency, reproducibility, and correctness in datasets and metrics
 3. Interpret results, identify patterns in errors, and distinguish signal from noise (see [error analysis](#doing-error-analysis-is-like-doing-linguistic-analysis) below)
 4. Clearly communicate evaluation design, results, limitations, and implications to stakeholders
+
 </div>
 
 One important aspect of evaluating a model is the design of the evaluation dataset: to perform an evaluation, we must construct or select a dataset that would allow us to measure the right metrics for our model. This **golden dataset** will have highly confident labels, which can then be compared to model predictions and errors can be analyzed. We may select an existing, external *benchmark* dataset, which will allow us to compare ourselves to other models on a leaderboard; or we may design a dataset to specifically target our model and data needs, for example focusing on the most common user experiences expected for the model, perhaps even using customer data, if available. My own work often involves the design and construction (and localization) of targeted datasets.
