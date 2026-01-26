@@ -176,15 +176,16 @@ In the context of model evaluation, when I do error analysis, I consider several
 
 To state the obvious, if you perform data analysis on your experimental/computational results, you're doing the kind of analysis you might also do in a tech job. The most common language for data analysis in tech is *python*, whereas you might be more used to working in R in academia, but the concepts are the same. It's advisable to take the time to learn the basics of python syntax, so you can translate your skills into a more employable language. 
 
-Likewise if you're building models, using neural nets, experimenting with LLMs, using other computational tools, those are skills that will be directly relevant to a tech job. 
+Likewise if you're building **computational models**, using neural nets, experimenting with LLMs, using other computational tools, those are skills that will be directly relevant to a tech job. 
+
 
 ## More X *is like* Y
 
-There are some non-core parts of my job that I can try to liken to stuff as I used to do as a linguist, maybe stretching it a little. 
+There are some parts of my job that I can sort of liken to stuff as I used to do as a linguist, maybe stretching it a little. 
 
 1. **Abstract writing** is like the little project proposals I've written to get intern headcount.[^3]
-2. **Budget management** is like budget management. If you do things like review and approve hours for RAs or a lab manager or plan a budget to pay for your data collection needs or similar such things, that's something you may do in your tech job, too.
 3. **White papers** are like policy docs. I've had the chance to write some policy documentation in my job, mainly asking questions in the safety space ("what *should* an LLM do in Context A?"). Maybe you've written similar documents for your department, e.g. around how data from Native American or other communities should be preserved and used; or how students in your department should be taught, etc.
+2. **Budget management** is like budget management. If you do things like review and approve hours for RAs or a lab manager or plan a budget to pay for your data collection needs or similar such things, that's something you may do in your tech job, too.
 
 
 &nbsp;
