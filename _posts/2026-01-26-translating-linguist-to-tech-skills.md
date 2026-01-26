@@ -53,6 +53,16 @@ div.compact-list ol li ol {
   padding-left: 1em !important; /* bring bullets closer */
   margin: 0 !important;
 }
+
+ol.compact {
+  padding-left: 1em; /* control number indent */
+  list-style-position: inside; /* numbers flush with text */
+}
+
+ol.compact > li ul {
+  padding-left: 1em; /* nested bullets closer */
+  margin: 0;
+}
 </style>
 
 {:.compact-list}
@@ -200,7 +210,6 @@ There are some parts of my job that I can sort of liken to stuff as I used to do
     - Training and Annotation IS LIKE Developing Elicitation Plans
     - Evaluation IS LIKE Writing Problem Sets
     - Error Analysis IS LIKE Doing Morphophonological Analysis
-
 I've made quite a lot of changes to the first part. To me, designing annotation tasks is more like engaging in behavioral experimentation, where the goal is to teach a large set of naive participants to do the same thing, than elicitation, which is often 1:1 and involves an experimenter present in the room, unlike most annotation projects I work on.
 
 [^2]: I totally just made this faux-phonetic label set up, and I'm not a p-side person, so please don't yell at me. 
