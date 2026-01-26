@@ -32,7 +32,7 @@ Linguists in tech companies often work on **data annotation projects**, whose re
 
 The skills associated with this kind of work are similar to the skills used in **experimental study design**.
 
-1<div class="compact-list">
+<div class="compact-list">
   <ol>
     <li>Understand the <strong>goals</strong> of the project, e.g. what will the data be used for, how, and by whom</li>
 
