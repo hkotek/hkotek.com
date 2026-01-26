@@ -118,15 +118,22 @@ A **taxonomy**, or **ontology**, is a structured framework that defines the cate
 
 Linguists are often hired as taxonomists, and though they may initially be confused about why we are considered so appropriate for this role, I think that our training and disposition gives us an excellent preparation for this kind of work. 
 
-8. Understand how annotated data will be used in training and evaluation, including impacts on bias, performance, and generalization
-1. Break complex data into clear categories, hierarchies, and relationships
-2. Write clear, unambiguous definitions that annotators (and models) can interpret consistently
-3. Understand how annotators actually apply labels (and how models learn them); balance theoretical neatness with practical usability
-4. Handle edge cases, overlaps, and exceptions; refine labels to reduce ambiguity and noise
-5. Iterate, test, and evolve taxonomies based on feedback, data drift, or model performance
-6. Collaborate across stakeholders---annotators, engineers, researchers, product teams---incorporating feedback without losing coherence
-7. Maintain guidelines, change logs, and versioning to keep the taxonomy stable and auditable
-
+<div class="compact-list">
+  <ol>
+    <li> <strong>Understand how annotated data will be used</strong> in training and evaluation.</li>
+    <li> <strong>Break complex data into clear categories</strong>, hierarchies, and relationships.</li>
+    <li> <strong>Write clear, unambiguous definitions</strong> that annotators (and models) can interpret consistently.
+      <ul>
+        <li>understand how annotators actually apply labels (and how models learn them); balance theoretical neatness with practical usability</li>
+        <li>handle edge cases, overlaps, and exceptions</li>
+        <li>refine labels to reduce ambiguity and noise</li>
+        <li>iterate, test, and evolve taxonomies based on feedback, data drift, or model performance</li>
+      </ul>
+    </li>
+    <li> <strong>Collaborate across stakeholders</strong>—annotators, engineers, researchers, product teams—incorporating feedback without losing coherence.</li>
+    <li> <strong>Maintain documentation</strong>, change logs, and versioning to keep the taxonomy stable and auditable.</li>
+  </ol>
+</div>
 
 If we return to the examples in the [first section](#designing-annotation-projects-is-like-designing-human-subjects-studies) of this post, I mentioned several types of annotation projects, including (a) identify entities in a text and classify them into types such as person, group, business, or event; ... (d) listen to a synthetic voice, decide how natural it sounds, and tag problematic parts with relevant flags. These types of projects may come with predefined ontologies, or you may need to define or refine them. [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) is a common task in NLP, which has well established categories such as person, organization, location, event, date/time expressions, measurements, and more. You may need to adapt this label space, expand, or constrain it, to fit the needs of the model you are working on. Likewise if you are working on tagging parts of synthetically generated speech for problems, you may develop a set of tags such as "pitch is too low", "duration is too long", "lacks aspiration", or "segments overlap", and you may consider how to define and adapt those tags for use by naive labelers.[^2]
 
