@@ -40,30 +40,27 @@ The skills associated with this kind of work are similar to the skills used in *
 }
 </style>
 
-<div class="compact-list">
-
-- Understand project goals: what the data will be used for, how, and by whom
-- **Operationalize** the problem:
+{:.compact-list}
+1. Understand project goals: what the data will be used for, how, and by whom
+2. **Operationalize** the problem:
     - define label space (see [taxonomy](#creating-a-taxonomy-is-like-developing-a-linguistic-theory) below)
     - decide on the number of datapoints per label
     - identify data sources
     - sample/compile data
-- **Design** the project:
+3. **Design** the project:
     - simple to teach to large/untrained annotators
     - ensures consistent, accurate data collection
     - fits budget and timing constraints
-- Create the project in your **tool**:
+4. Create the project in your **tool**:
     - visual design elements
     - minimize effort via spatial layout
     - ordering of items
     - allow annotators to change previous answers?
-- Identify **annotator skills**:
+5. Identify **annotator skills**:
     - write guidelines (see [training annotators](#training-annotators-is-like-writing-experiment-guidelines) below)
     - create practice items
     - set minimum participation requirements (language, age, region, accuracy, ...)
     - define appropriate compensation
-
-</div>
 
 
 Other linguists, such as those who engage in **elicitation work**, **ethnographic work**, **corpus work**, or **formal theoretical work** also engage in at least part of this process. Really, any scientifically driven exploration will require operationalizing a problem and determining an appropriate label space, perhaps also recruitment of speakers and setting of a task and payment. They differ in that these tasks often happen with the experimenter in the room or in a small group setting (or with the experimenter being the only person in the room), whereas larger studies such as annotation studies most often involve naive workers who experimenters have a limited ability to train or provide feedback to. 
@@ -122,8 +119,7 @@ The three sections above --- designing annotation projects, creating annotation 
 
 There are various parts of this work that are similar to the work of a linguist, in particular when designing a problem set or an exam to assess the training and knowledge of students. 
 
-<div class="compact-list">
-
+{:.compact-list}
 1. Translate high-level goals into clear tasks, success criteria, and measurable outcomes
    - determine which metrics are appropriate, what they capture, and trade-offs
    - understand what “good” performance looks like for the task
@@ -133,7 +129,6 @@ There are various parts of this work that are similar to the work of a linguist,
 3. Interpret results, identify patterns in errors, and distinguish signal from noise (see [error analysis](#doing-error-analysis-is-like-doing-linguistic-analysis) below)
 4. Clearly communicate evaluation design, results, limitations, and implications to stakeholders
 
-</div>
 
 One important aspect of evaluating a model is the design of the evaluation dataset: to perform an evaluation, we must construct or select a dataset that would allow us to measure the right metrics for our model. This **golden dataset** will have highly confident labels, which can then be compared to model predictions and errors can be analyzed. We may select an existing, external *benchmark* dataset, which will allow us to compare ourselves to other models on a leaderboard; or we may design a dataset to specifically target our model and data needs, for example focusing on the most common user experiences expected for the model, perhaps even using customer data, if available. My own work often involves the design and construction (and localization) of targeted datasets.
 
@@ -150,8 +145,7 @@ One important aspect of doing an evaluation is **error analysis**: the systemati
 
 The skills involved in this task are, once again, very relevant to the linguist's life and work: 
 
-<div class="compact-list">
-
+{:.compact-list}
 1. Define **scope and goals**
    - specify the model, data, and types of errors to analyze
 2. **Identify and organize** incorrect predictions
@@ -160,8 +154,6 @@ The skills involved in this task are, once again, very relevant to the linguist'
    - measure pattern **frequency and impact** to prioritize improvements
 3. Focus on the most frequent or high-impact errors
 4. Apply changes, re-evaluate, and track progress over time
-
-</div>
 
 
 This work is quite similar to how I approach solving a problem set or doing linguistic analysis. I often adopt a bottom-up approach: (a) start from specific interesting datapoints, (b) form a hypothesis about why they are behaving a certain way, (c) test my hypothesis with more data, (d) iterate until I have a proposal. If I'm developing a theory, I'll want to refine my definitions and proposal to account for all the data, and test again to ensure that I'm now able to explain all my data. When I encounter outliers or edge cases, I consider different reasons why things look odd. Maybe my gloss is wrong. Maybe the sentence is actually ambiguous and my speaker got a different reading than I intended. Maybe I suspect a participant in my experiment found some way to cheat and I should exclude all data from them. Maybe my theory is wrong.
