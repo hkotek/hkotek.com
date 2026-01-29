@@ -28,7 +28,7 @@ The gist: \<tech skill\> is like \<linguist skill\>
 - [More X *is like* Y](#more-x-is-like-y)
 
 
-Also check out [**the companion piece**](https://hkotek.com/blog/what-is-annotation-taxonomy/), which describes on more detail what I mean by concepts like "annotation", "guidelines", "taxonomy", "evaluation", "error analysis". Each post can be read as a standalone. But I also link between the corresponding sections of both posts, for easier navigation. 
+Also check out [**this companion piece**](https://hkotek.com/blog/what-is-annotation-taxonomy/), which describes in more detail what I mean by concepts like "annotation", "guidelines", "taxonomy", "evaluation", "error analysis". Each post can be read as a standalone, but I also cross-link between the corresponding sections of both posts, for easier navigation. 
 
 ## Designing annotation projects *is like* designing human subjects studies
 
