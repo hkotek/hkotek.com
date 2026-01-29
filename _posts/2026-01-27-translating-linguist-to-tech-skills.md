@@ -143,7 +143,7 @@ The three sections above --- designing annotation projects, creating annotation 
 
 ## Designing an evaluation *is like* writing problem sets
 
-[**Model evaluation**](https://hkotek.com/blog/what-is-annotation-taxonomy#evaluation-design/) is the process of systematically assessing how well a model performs on defined tasks using representative test data and appropriate metrics, in order to measure accuracy, robustness, and whether the model meets its intended objectives and real-world requirements. An evaluation is designed by first clearly defining the task and success criteria, including what behaviors or outcomes the model should exhibit. Appropriate metrics are then selected to measure those goals, along with representative and well-controlled datasets that reflect real-world use cases and edge cases. Finally, evaluation protocols are specified---such as data splits, baselines, and error analysis methods---to ensure results are reliable, interpretable, and actionable.
+[**Model evaluation**](https://hkotek.com/blog/what-is-annotation-taxonomy#evaluation-design/) is the process of systematically assessing how well a model performs on defined tasks using representative test data and appropriate metrics, in order to measure accuracy, robustness, and whether the model, product, or system meets its intended objectives and real-world requirements. 
 
 There are various parts of this work that are similar to the work of a linguist, in particular when designing a problem set or an exam to assess the training and knowledge of students. 
 
