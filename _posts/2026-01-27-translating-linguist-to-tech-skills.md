@@ -117,7 +117,7 @@ A [**taxonomy**](https://hkotek.com/blog/what-is-annotation-taxonomy#taxonomy-de
 
 <div class="compact-list">
   <ol>
-    <li> Understand how annotated data will be used< in training and evaluation.</li>
+    <li> Understand how annotated data will be used in training and evaluation.</li>
     <li> Break complex data into clear <strong>categories, hierarchies, and relationships</strong>.</li>
     <li> Write clear, unambiguous <strong>definitions</strong> that annotators (and models) can interpret consistently.
       <ul>
