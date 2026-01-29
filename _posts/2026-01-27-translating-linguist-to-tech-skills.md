@@ -27,6 +27,9 @@ The gist: \<tech skill\> is like \<linguist skill\>
 - [Doing data analysis *is like* doing data analysis](#doing-data-analysis-is-like-doing-data-analysis)
 - [More X *is like* Y](#more-x-is-like-y)
 
+
+Also check out [**the companion piece**](https://hkotek.com/blog/what-is-annotation-taxonomy/), which describes on more detail what I mean by concepts like "annotation", "guidelines", "taxonomy", "evaluation", "error analysis". Each post can be read as a standalone. But I also link between the corresponding sections of both posts, for easier navigation. 
+
 ## Designing annotation projects *is like* designing human subjects studies
 
 Linguists in tech companies often work on [**data annotation projects**](https://hkotek.com/blog/what-is-annotation-taxonomy#data-annotation-projects/) in various capacities and at different part of the process. The skills associated with this kind of work are similar to the skills used in **experimental study design**.

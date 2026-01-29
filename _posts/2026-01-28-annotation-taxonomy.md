@@ -12,7 +12,7 @@ tags:
   - tech
 ---
 
-Some of the most common roles that routinely hire linguists in tech involve data annotation, evaluation, and taxonomy design. Roles can involve designing annotation projects, training annotators, creating and/or maintaining taxonomies, creating and/or maintaining guidelines, constructing, collecting, labeling, sampling, or otherwise analyzing properties of data. This post provides some quick definitions and examples of what these things mean in the context of a tech job. This post is a direct companion to my post about [**translating academic linguistic skills into tech skills**](https://hkotek.com/blog/translating-linguist-skills-to-tech-skills/), but can it be read as a standalone. 
+Some of the most common roles that routinely hire linguists in tech involve data annotation, evaluation, and taxonomy design. Roles can involve designing annotation projects, training annotators, creating and/or maintaining taxonomies, creating and/or maintaining guidelines, constructing, collecting, labeling, sampling, or otherwise analyzing properties of data. This post provides some quick definitions and examples of what these things mean in the context of a tech job. This post is a direct companion to my post about [**translating academic linguistic skills into tech skills**](https://hkotek.com/blog/translating-linguist-skills-to-tech-skills/), but can it be read as a standalone. Each section in this post lists to the corresponding section in the companion post and vice versa, for easier navigation.
 
 
 ## Data annotation projects
