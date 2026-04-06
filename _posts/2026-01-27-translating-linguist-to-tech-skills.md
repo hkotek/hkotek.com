@@ -141,6 +141,12 @@ The ability of linguists to take a messy, unstructured dataset, and impose struc
 The three sections above --- designing annotation projects, creating annotation guidelines, creating taxonomies --- are interrelated. We might often engage in all three at once as part of our job. But sometimes you do just one but not the others: you're given an existing taxonomy and the best you can do is add some examples but you can't really change the labels or definitions because they've been used for a long time and there are existing dependencies. Or you're given a project design and you're asked to write the guidelines. Or you design the project and work with a team of trainers/writers whose job is to work with the crowds. Linguists are frequently employed in all these types of jobs. I wrote a bit more about all three in [**this related post**](https://hkotek.com/blog/what-is-annotation-taxonomy/).
 
 
+## Doing human factors and UX research *is like* doing elicitation work
+
+**Human factors** research is the practice of studying how real people interact with systems in order to design products that are usable, safe, effective, and aligned with human capabilities and limitations. It is often carried out in 1:1 settings or in small groups. 
+
+
+
 ## Designing an evaluation *is like* writing problem sets
 
 [**Model evaluation**](https://hkotek.com/blog/what-is-annotation-taxonomy#evaluation-design/) is the process of systematically assessing how well a model performs on defined tasks using representative test data and appropriate metrics, in order to measure accuracy, robustness, and whether the model, product, or system meets its intended objectives and real-world requirements. 

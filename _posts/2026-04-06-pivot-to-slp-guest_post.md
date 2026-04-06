@@ -1,5 +1,5 @@
 ---
-title: Deciding to Pivot: From Linguistics PhD to Speech-Language Pathology [guest post]
+title: "Deciding to Pivot: From Linguistics PhD to Speech-Language Pathology [guest post]"
 layout: post
 comments: true
 permalink: /blog/deciding-to-pivot-linguistics-to-slp/
