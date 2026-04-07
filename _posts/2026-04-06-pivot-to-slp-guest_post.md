@@ -36,7 +36,7 @@ While browsing some career counseling websites with my career counselor, we came
 
 Since finishing my PhD, I have been burnt out from research and I am much more interested now in a job that helps people in concrete ways. One of my favourite things about teaching was developing relationships with and mentoring my students. I also, more than anything, wanted a stable career path. SLP is decently well-paid, in high demand, and involves helping people. Three more years of school suddenly seemed a worthwhile investment, and SLP was interesting enough that I finally wanted to get off the couch.
 
-### Exporing SLP
+### Exploring SLP
 
 Before expending the time, money, and upheaval that going back to school would require, I wanted to know if I would even like it. Since some SLP programs require volunteer experience anyhow, I decided to do some volunteer work as soon as possible to see if it was a good fit for me. Through my network of contacts, I arranged to job shadow an SLP in a local school division. So far, I have spent six days with her at two different schools. It has been interesting and I have learned a lot. I think I like it, but I’m not yet sure if I love it. It’s only been six days, and I’ve discovered that spending the whole time asking yourself if you love it is actually not a great way to figure it out. However, I have definitely become emotionally invested in these kids already.
 
