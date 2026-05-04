@@ -16,7 +16,8 @@ tags:
   - guest-post
 ---
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 2 of 3. Check out Part 1: [**Deciding to Pivot: From Linguistics PhD to Speech-Language Pathology**](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/)
+*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 2 of 3. <br>
+Check out Part 1: [**Deciding to Pivot: From Linguistics PhD to Speech-Language Pathology**](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/)
 
 
 In this post, I will be describing how I identified which Speech-Language Pathology programs to apply to and the process of determining their prerequisites. In my next post, I will describe the process of enrolling in an undergraduate program to complete the SLP prerequisites. I am writing because I expect this will be useful to others considering a similar path. My perspective is the Canadian context, but it can give you an idea of what to watch for in programs in other countries, too. 
@@ -85,5 +86,6 @@ Stay tuned for Part 3 of this series, where I will describe the process of enrol
 
 &nbsp;
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*. Check out Part 1 [here](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/), and stay tuned for Part 3!
+*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*. <br>
+Check out Part 1 [here](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/), and stay tuned for Part 3!
 
