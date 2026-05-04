@@ -18,7 +18,7 @@ tags:
 
 *This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 1 of 2.
 
-### Life After the PhD
+## Life After the PhD
 
 It took me six years and eleven months to finish my PhD, and come this June, it will have been six years and eleven months since I graduated. But those two periods of time do not feel like the same length, like that optical illusion of two parallel lines of equal length with opposite arrowheads on the ends. My years in grad school were such a significant part of my life and I grew a lot as a person through them. I suppose I’ve grown about the same amount in the years since, but it was not linear and there was no committee ticking off requirements, so it is not as obvious. I feel like I’ve been in a holding pattern of dead-end contracts, waiting for my real life and my proper career to start. There have been milestones, to be sure; I started my first full-time job! I moved to a new city! But I also lost my first full-time job, and now I’m looking to start over in a whole new direction.
 
@@ -30,13 +30,13 @@ My contract at UM was not renewed a third time because of a hiring freeze in the
 
 I had really settled in and loved teaching, so I was quite upset. I registered for EI and planned to take a short two-week break—which turned into a four-month break. My therapist told me I was grieving the loss of my job. I worried that I would never feel like getting off the couch. Finally, I signed up for career counseling at a local non-profit. My career counselor also identified that I was grieving and asked me if I was even ready to start looking for a job. I said that finding something else to be excited about would help.
 
-### A New Hope
+## A New Hope
 
 While browsing some career counseling websites with my career counselor, we came across [Maclean’s 2018 list of top twenty-five jobs in Canada](https://macleans.ca/economy/canadas-top-25-best-jobs-2018/). Speech-Language Pathology was number fifteen. I had known since my undergrad that SLP was a possible career path for linguists. In my undergrad, I was more interested in big picture theoretical questions, cross-linguistic typology, and abstract models. When I was first looking for a job after my PhD, I was dissuaded by the requirement to go back to school. Once I was settled in Winnipeg, I was even further dissuaded by the fact that there is no SLP program here. I would have to move. But when SLP popped up on that list of jobs, I considered it anew.
 
 Since finishing my PhD, I have been burnt out from research and I am much more interested now in a job that helps people in concrete ways. One of my favourite things about teaching was developing relationships with and mentoring my students. I also, more than anything, wanted a stable career path. SLP is decently well-paid, in high demand, and involves helping people. Three more years of school suddenly seemed a worthwhile investment, and SLP was interesting enough that I finally wanted to get off the couch.
 
-### Exploring SLP
+## Exploring SLP
 
 Before expending the time, money, and upheaval that going back to school would require, I wanted to know if I would even like it. Since some SLP programs require volunteer experience anyhow, I decided to do some volunteer work as soon as possible to see if it was a good fit for me. Through my network of contacts, I arranged to job shadow an SLP in a local school division. So far, I have spent six days with her at two different schools. It has been interesting and I have learned a lot. I think I like it, but I’m not yet sure if I love it. It’s only been six days, and I’ve discovered that spending the whole time asking yourself if you love it is actually not a great way to figure it out. However, I have definitely become emotionally invested in these kids already.
 
@@ -48,7 +48,7 @@ So far, it seems interesting and varied. I did an informational interview with a
 
 I also feel like it involves helping people and making a difference. Teachers are overworked, EAs may be undertrained, and the autistic children in the back of the class doing their own thing sometimes look like they have been forgotten. Spending time with them giving them one-on-one attention feels like it makes a difference.
 
-### What's next?
+## What's next?
 
 I’m still not 100% sure I want this. I am moving forward because it is more exciting to me than anything else I’ve considered, and moving forward feels better than doing nothing. By moving forward, I’m meeting new people and creating networks and learning about different kinds of opportunities, too.
 
