@@ -16,7 +16,7 @@ tags:
   - guest-post
 ---
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 2 of 3. <br>
+***This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 2 of 3.** <br>
 Check out Part 1: [**Deciding to Pivot: From Linguistics PhD to Speech-Language Pathology**](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/)
 &nbsp;
 
@@ -87,6 +87,6 @@ Stay tuned for Part 3 of this series, where I will describe the process of enrol
 
 &nbsp;
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*. <br>
+***This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)***. <br>
 Check out Part 1 [here](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp/), and stay tuned for Part 3!
 
