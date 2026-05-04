@@ -16,7 +16,7 @@ tags:
   - guest-post
 ---
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 1 of 2.
+*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*, Part 1 of ~~2~~3.
 
 ## Life After the PhD
 
@@ -57,5 +57,5 @@ Almost all of the downsides and real obstacles to doing SLP I have encountered s
 
 &nbsp;
 
-*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*. Stay tuned for Part 2!
+*This is a guest post written by [Julie Doner](https://www.linkedin.com/in/julianne-doner/)*. Part 2 is now available [here](https://hkotek.com/blog/deciding-to-pivot-linguistics-to-slp-part2/)!
 

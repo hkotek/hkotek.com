@@ -41,13 +41,16 @@ There is also often a minimum grade for all prerequisite courses, usually a B+ o
 
 Some programs have a restriction on how many prerequisite courses may be in progress at the time of application, which makes it a bit more difficult to get it all done in a year. 
 
-### Course age restrictions
+In addition, some programs require the Casper test, which assesses social intelligence and professionalism. 
+
+
+### Recency Requirement
 
 Most annoyingly, three of the English SLP programs in Canada require prerequisite courses to be less than ten years old. Of course, my undergraduate linguistics courses are more than ten years old. I thought this would be a simple matter of demonstrating that I exceed the prerequisites and that my knowledge is current and fresh because I have a PhD, have taught the prerequisite courses, and have even co-authored a linguistics textbook! But alas. The admissions admin person at UToronto says no “exceptions” can be made. I asked if I could challenge the course to meet the prerequisite requirements, and they said no, because all of my prerequisite courses need to have a grade, and challenging is pass/fail. The second university, Western, originally missed my email. I followed up later, and they said that I can apply but should include a form requesting special consideration. The third university, UAlberta, will accept my old linguistics courses, but emphasized that I still have to complete the courses that I am missing. 
 
 I could of course retake those linguistics courses. It would be easy, and maybe even a bit fun. I could probably easily get an A or A+ without attending or much studying, especially if I can convince the professor to waive any participation grades. But I really don’t want to, for two reasons. First, I want to apply to teach or TA some linguistics courses since the student loans and grants won’t be quite enough to cover living expenses and tuition, and I don’t think I can teach a course if I am enrolled in it. Second, I would have to pay tuition for those courses. It feels like a waste of time, but mostly of money. Plus, I’m opposed to retaking them on principle. I don’t think it’s quite ethical; you should not be able to get credit for an introductory course in a field you have a PhD in. It also feels like an insult to my background and expertise.
 
-### My course plan
+### My Plan
 
 After comparing the prerequisites for all of the programs across Canada and cross-listing them with the courses I took already in my undergrad and the course offerings at a local university, here is my plan for which courses I should take over the next year. 
 
@@ -73,8 +76,6 @@ Additional relevant courses I may take to fill up my schedule:
 * Speech and Language Disorders
 * Introduction to Disability Studies
 * Introduction to Cognitive Psychology
-
-In addition, some programs require the Casper test, which assesses social intelligence and professionalism. 
 
 
 ## Up next!
