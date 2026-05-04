@@ -8,7 +8,7 @@ categories:
   - academia
 tags:
   - altac
-  - academic
+  - academia
   - jobs
   - linguistics
   - prep
