@@ -26,7 +26,7 @@ Most existing benchmarks also only look at *he* and *she*. We wanted to explicit
 
 ## What we built
 
-ProText is a dataset of 640 English texts, all written by humans, designed to probe these questions. Each text was constructed along three dimensions: the **Theme** (how the main protagonist is referred to — by *name*, *occupation*, *title*, or *kinship term*), the **Theme Category** (whether that noun is *stereotypically male*, *female*, or *gender-neutral*), and the **Pronoun Category** (*he/him*, *she/her*, *they/them*, or *no pronouns* at all).
+ProText is a dataset of 640 English texts,[^7] all written by humans, designed to probe these questions. Each text was constructed along three dimensions: the **Theme** (how the main protagonist is referred to — by *name*, *occupation*, *title*, or *kinship term*), the **Theme Category** (whether that noun is *stereotypically male*, *female*, or *gender-neutral*), and the **Pronoun Category** (*he/him*, *she/her*, *they/them*, or *no pronouns* at all).
 
                                                                                                           
   <div style="margin: 1.5em 0; font-size: 0.9em;">
@@ -180,3 +180,4 @@ long-form texts.*
 [^4]: We agonized quite a bit over that last part: is it ok to use gender-neutral pronouns when explicit gender marking (in the form of gendered nouns or pronouns) was present in the input? There are some specific cases where that would be misgendering. Most notably, this can be a microaggression against transgender people. Since we didn't actually have texts in our dataset where this would be relevant, we decided to keep the policy we used as in the text, with the caveat that in some cases it would be worth revisiting. 
 [^5]: Authors were compensated for their time and could choose to opt out of the task if they preferred. 
 [^6]: The main reason that this paper is a preprint and not a published paper is that reviewers' first question is "why not more models/prompts". We should just run more of them, I know. But I am confident that the results are not going to be any different than what we report already, there will just be more of them.
+[^7]: We've actually done the internal work of localizing to quite a few additional languages, and I have thoughts about how to do this for various language families and types, but the external version is currently English only. 
